@@ -1,0 +1,21 @@
+{
+  "name": "nojima/tld-crawler",
+  "description": "fetch tld data from http://www.iana.org/domains/root/db",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "nojimage",
+      "email": "nojimage@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "fabpot/goutte": "*",
+    "symfony/yaml": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Nojimage\\TLDCrawler\\": "lib/"
+    }
+  }
+}
