@@ -1,2436 +1,2436 @@
 [
     {
-        "domain": ".ac",
+        "domain": "ac",
         "type": "country-code",
         "organisation": "Network Information Center (AC Domain Registry)\nc/o Cable and Wireless (Ascension Island)"
     },
     {
-        "domain": ".academy",
+        "domain": "academy",
         "type": "generic",
         "organisation": "Half Oaks, LLC"
     },
     {
-        "domain": ".actor",
+        "domain": "actor",
         "type": "generic",
         "organisation": "United TLD Holdco Ltd."
     },
     {
-        "domain": ".ad",
+        "domain": "ad",
         "type": "country-code",
         "organisation": "Andorra Telecom"
     },
     {
-        "domain": ".ae",
+        "domain": "ae",
         "type": "country-code",
         "organisation": "Telecommunication Regulatory Authority (TRA)"
     },
     {
-        "domain": ".aero",
+        "domain": "aero",
         "type": "sponsored",
         "organisation": "Societe Internationale de Telecommunications Aeronautique (SITA INC USA)"
     },
     {
-        "domain": ".af",
+        "domain": "af",
         "type": "country-code",
         "organisation": "Ministry of Communications and IT"
     },
     {
-        "domain": ".ag",
+        "domain": "ag",
         "type": "country-code",
         "organisation": "UHSA School of Medicine"
     },
     {
-        "domain": ".agency",
+        "domain": "agency",
         "type": "generic",
         "organisation": "Steel Falls, LLC"
     },
     {
-        "domain": ".ai",
+        "domain": "ai",
         "type": "country-code",
         "organisation": "Government of Anguilla"
     },
     {
-        "domain": ".al",
+        "domain": "al",
         "type": "country-code",
         "organisation": "Electronic and Postal Communications Authority - AKEP"
     },
     {
-        "domain": ".am",
+        "domain": "am",
         "type": "country-code",
         "organisation": "Internet Society"
     },
     {
-        "domain": ".an",
+        "domain": "an",
         "type": "country-code",
         "organisation": "University of Curacao"
     },
     {
-        "domain": ".ao",
+        "domain": "ao",
         "type": "country-code",
         "organisation": "Faculdade de Engenharia da Universidade Agostinho Neto"
     },
     {
-        "domain": ".aq",
+        "domain": "aq",
         "type": "country-code",
         "organisation": "Mott and Associates"
     },
     {
-        "domain": ".ar",
+        "domain": "ar",
         "type": "country-code",
         "organisation": "Presidencia de la Naci\u00f3n \u2013 Secretar\u00eda Legal y T\u00e9cnica"
     },
     {
-        "domain": ".arpa",
+        "domain": "arpa",
         "type": "infrastructure",
         "organisation": "Internet Assigned Numbers Authority"
     },
     {
-        "domain": ".as",
+        "domain": "as",
         "type": "country-code",
         "organisation": "AS Domain Registry"
     },
     {
-        "domain": ".asia",
+        "domain": "asia",
         "type": "sponsored",
         "organisation": "DotAsia Organisation Ltd."
     },
     {
-        "domain": ".at",
+        "domain": "at",
         "type": "country-code",
         "organisation": "nic.at GmbH"
     },
     {
-        "domain": ".au",
+        "domain": "au",
         "type": "country-code",
         "organisation": ".au Domain Administration (auDA)"
     },
     {
-        "domain": ".aw",
+        "domain": "aw",
         "type": "country-code",
         "organisation": "SETAR"
     },
     {
-        "domain": ".ax",
+        "domain": "ax",
         "type": "country-code",
         "organisation": "\u00c5lands landskapsregering"
     },
     {
-        "domain": ".az",
+        "domain": "az",
         "type": "country-code",
         "organisation": "IntraNS"
     },
     {
-        "domain": ".ba",
+        "domain": "ba",
         "type": "country-code",
         "organisation": "Universtiy Telinformatic Centre (UTIC)"
     },
     {
-        "domain": ".bargains",
+        "domain": "bargains",
         "type": "generic",
         "organisation": "Half Hallow, LLC"
     },
     {
-        "domain": ".bb",
+        "domain": "bb",
         "type": "country-code",
         "organisation": "Government of Barbados\nMinistry of Economic Affairs and Development\nTelecommunications Unit"
     },
     {
-        "domain": ".bd",
+        "domain": "bd",
         "type": "country-code",
         "organisation": "Ministry of Post \u0026 Telecommunications\nBangladesh Secretariat"
     },
     {
-        "domain": ".be",
+        "domain": "be",
         "type": "country-code",
         "organisation": "DNS BE vzw/asbl"
     },
     {
-        "domain": ".berlin",
+        "domain": "berlin",
         "type": "generic",
         "organisation": "dotBERLIN GmbH \u0026 Co. KG"
     },
     {
-        "domain": ".bf",
+        "domain": "bf",
         "type": "country-code",
         "organisation": "ARCE-Autorit\u00c8 de R\u00c8gulation des Communications Electroniques"
     },
     {
-        "domain": ".bg",
+        "domain": "bg",
         "type": "country-code",
         "organisation": "Register.BG"
     },
     {
-        "domain": ".bh",
+        "domain": "bh",
         "type": "country-code",
         "organisation": "Telecommunications Regulatory Authority (TRA)"
     },
     {
-        "domain": ".bi",
+        "domain": "bi",
         "type": "country-code",
         "organisation": "Centre National de l\u0027Informatique"
     },
     {
-        "domain": ".bike",
+        "domain": "bike",
         "type": "generic",
         "organisation": "Grand Hollow, LLC"
     },
     {
-        "domain": ".biz",
+        "domain": "biz",
         "type": "generic-restricted",
         "organisation": "NeuStar, Inc."
     },
     {
-        "domain": ".bj",
+        "domain": "bj",
         "type": "country-code",
         "organisation": "Benin Telecoms S.A."
     },
     {
-        "domain": ".bl",
+        "domain": "bl",
         "type": "country-code",
         "organisation": "Not assigned"
     },
     {
-        "domain": ".blue",
+        "domain": "blue",
         "type": "generic",
         "organisation": "Afilias Limited"
     },
     {
-        "domain": ".bm",
+        "domain": "bm",
         "type": "country-code",
         "organisation": "Registry General\nMinistry of Labour and Immigration"
     },
     {
-        "domain": ".bn",
+        "domain": "bn",
         "type": "country-code",
         "organisation": "Telekom Brunei Berhad"
     },
     {
-        "domain": ".bo",
+        "domain": "bo",
         "type": "country-code",
         "organisation": "Agencia para el Desarrollo de la Informaci\u00f3n de la Sociedad en Bolivia"
     },
     {
-        "domain": ".boutique",
+        "domain": "boutique",
         "type": "generic",
         "organisation": "Over Galley, LLC"
     },
     {
-        "domain": ".bq",
+        "domain": "bq",
         "type": "country-code",
         "organisation": "Not assigned"
     },
     {
-        "domain": ".br",
+        "domain": "br",
         "type": "country-code",
         "organisation": "Comite Gestor da Internet no Brasil"
     },
     {
-        "domain": ".bs",
+        "domain": "bs",
         "type": "country-code",
         "organisation": "The College of the Bahamas"
     },
     {
-        "domain": ".bt",
+        "domain": "bt",
         "type": "country-code",
         "organisation": "Ministry of Information and Communications"
     },
     {
-        "domain": ".build",
+        "domain": "build",
         "type": "generic",
         "organisation": "Plan Bee LLC"
     },
     {
-        "domain": ".builders",
+        "domain": "builders",
         "type": "generic",
         "organisation": "Atomic Madison, LLC"
     },
     {
-        "domain": ".buzz",
+        "domain": "buzz",
         "type": "generic",
         "organisation": "DOTSTRATEGY CO."
     },
     {
-        "domain": ".bv",
+        "domain": "bv",
         "type": "country-code",
         "organisation": "UNINETT Norid A/S"
     },
     {
-        "domain": ".bw",
+        "domain": "bw",
         "type": "country-code",
         "organisation": "Botswana Communications Regulatory Authority (BOCRA)"
     },
     {
-        "domain": ".by",
+        "domain": "by",
         "type": "country-code",
         "organisation": "Reliable Software Inc."
     },
     {
-        "domain": ".bz",
+        "domain": "bz",
         "type": "country-code",
         "organisation": "University of Belize"
     },
     {
-        "domain": ".ca",
+        "domain": "ca",
         "type": "country-code",
         "organisation": "Canadian Internet Registration Authority (CIRA)\nAutorite Canadienne pour les Enregistrements Internet (ACEI)"
     },
     {
-        "domain": ".cab",
+        "domain": "cab",
         "type": "generic",
         "organisation": "Half Sunset, LLC"
     },
     {
-        "domain": ".camera",
+        "domain": "camera",
         "type": "generic",
         "organisation": "Atomic Maple, LLC"
     },
     {
-        "domain": ".camp",
+        "domain": "camp",
         "type": "generic",
         "organisation": "Delta Dynamite, LLC"
     },
     {
-        "domain": ".cards",
+        "domain": "cards",
         "type": "generic",
         "organisation": "Foggy Hollow, LLC"
     },
     {
-        "domain": ".careers",
+        "domain": "careers",
         "type": "generic",
         "organisation": "Wild Corner, LLC"
     },
     {
-        "domain": ".cat",
+        "domain": "cat",
         "type": "sponsored",
         "organisation": "Fundacio puntCAT"
     },
     {
-        "domain": ".catering",
+        "domain": "catering",
         "type": "generic",
         "organisation": "New Falls. LLC"
     },
     {
-        "domain": ".cc",
+        "domain": "cc",
         "type": "country-code",
         "organisation": "eNIC Cocos (Keeling) Islands Pty.\nLtd. d/b/a Island Internet Services"
     },
     {
-        "domain": ".cd",
+        "domain": "cd",
         "type": "country-code",
         "organisation": "Office Congolais des Postes et T\u00e9l\u00e9communications - OCPT"
     },
     {
-        "domain": ".center",
+        "domain": "center",
         "type": "generic",
         "organisation": "Tin Mill, LLC"
     },
     {
-        "domain": ".ceo",
+        "domain": "ceo",
         "type": "generic",
         "organisation": "CEOTLD Pty Ltd"
     },
     {
-        "domain": ".cf",
+        "domain": "cf",
         "type": "country-code",
         "organisation": "Societe Centrafricaine de Telecommunications (SOCATEL)"
     },
     {
-        "domain": ".cg",
+        "domain": "cg",
         "type": "country-code",
         "organisation": "ONPT Congo and Interpoint Switzerland"
     },
     {
-        "domain": ".ch",
+        "domain": "ch",
         "type": "country-code",
         "organisation": "SWITCH The Swiss Education \u0026 Research Network"
     },
     {
-        "domain": ".cheap",
+        "domain": "cheap",
         "type": "generic",
         "organisation": "Sand Cover, LLC"
     },
     {
-        "domain": ".christmas",
+        "domain": "christmas",
         "type": "generic",
         "organisation": "Uniregistry, Corp."
     },
     {
-        "domain": ".ci",
+        "domain": "ci",
         "type": "country-code",
         "organisation": "INP-HB Institut National Polytechnique Felix Houphouet Boigny"
     },
     {
-        "domain": ".ck",
+        "domain": "ck",
         "type": "country-code",
         "organisation": "Telecom Cook Islands Ltd."
     },
     {
-        "domain": ".cl",
+        "domain": "cl",
         "type": "country-code",
         "organisation": "NIC Chile (University of Chile)"
     },
     {
-        "domain": ".cleaning",
+        "domain": "cleaning",
         "type": "generic",
         "organisation": "Fox Shadow, LLC"
     },
     {
-        "domain": ".clothing",
+        "domain": "clothing",
         "type": "generic",
         "organisation": "Steel Lake, LLC"
     },
     {
-        "domain": ".club",
+        "domain": "club",
         "type": "generic",
         "organisation": ".CLUB DOMAINS, LLC"
     },
     {
-        "domain": ".cm",
+        "domain": "cm",
         "type": "country-code",
         "organisation": "Cameroon Telecommunications (CAMTEL)"
     },
     {
-        "domain": ".cn",
+        "domain": "cn",
         "type": "country-code",
         "organisation": "Computer Network Information Center, Chinese Academy of Sciences"
     },
     {
-        "domain": ".co",
+        "domain": "co",
         "type": "country-code",
         "organisation": ".CO Internet S.A.S."
     },
     {
-        "domain": ".codes",
+        "domain": "codes",
         "type": "generic",
         "organisation": "Puff Willow, LLC"
     },
     {
-        "domain": ".coffee",
+        "domain": "coffee",
         "type": "generic",
         "organisation": "Trixy Cover, LLC"
     },
     {
-        "domain": ".com",
+        "domain": "com",
         "type": "generic",
         "organisation": "VeriSign Global Registry Services"
     },
     {
-        "domain": ".community",
+        "domain": "community",
         "type": "generic",
         "organisation": "Fox Orchard, LLC"
     },
     {
-        "domain": ".company",
+        "domain": "company",
         "type": "generic",
         "organisation": "Silver Avenue, LLC"
     },
     {
-        "domain": ".computer",
+        "domain": "computer",
         "type": "generic",
         "organisation": "Pine Mill, LLC"
     },
     {
-        "domain": ".construction",
+        "domain": "construction",
         "type": "generic",
         "organisation": "Fox Dynamite, LLC"
     },
     {
-        "domain": ".contractors",
+        "domain": "contractors",
         "type": "generic",
         "organisation": "Magic Woods, LLC"
     },
     {
-        "domain": ".cool",
+        "domain": "cool",
         "type": "generic",
         "organisation": "Koko Lake, LLC"
     },
     {
-        "domain": ".coop",
+        "domain": "coop",
         "type": "sponsored",
         "organisation": "DotCooperation LLC"
     },
     {
-        "domain": ".cr",
+        "domain": "cr",
         "type": "country-code",
         "organisation": "National Academy of Sciences\nAcademia Nacional de Ciencias"
     },
     {
-        "domain": ".cruises",
+        "domain": "cruises",
         "type": "generic",
         "organisation": "Spring Way, LLC"
     },
     {
-        "domain": ".cu",
+        "domain": "cu",
         "type": "country-code",
         "organisation": "CENIAInternet\nIndustria y San Jose\nCapitolio Nacional"
     },
     {
-        "domain": ".cv",
+        "domain": "cv",
         "type": "country-code",
         "organisation": "Ag\u00eancia Nacional das Comunica\u00e7\u00f5es (ANAC)"
     },
     {
-        "domain": ".cw",
+        "domain": "cw",
         "type": "country-code",
         "organisation": "University of Curacao"
     },
     {
-        "domain": ".cx",
+        "domain": "cx",
         "type": "country-code",
         "organisation": "Christmas Island Internet Administration Limited"
     },
     {
-        "domain": ".cy",
+        "domain": "cy",
         "type": "country-code",
         "organisation": "University of Cyprus"
     },
     {
-        "domain": ".cz",
+        "domain": "cz",
         "type": "country-code",
         "organisation": "CZ.NIC, z.s.p.o"
     },
     {
-        "domain": ".dance",
+        "domain": "dance",
         "type": "generic",
         "organisation": "United TLD Holdco Ltd."
     },
     {
-        "domain": ".dating",
+        "domain": "dating",
         "type": "generic",
         "organisation": "Pine Fest, LLC"
     },
     {
-        "domain": ".de",
+        "domain": "de",
         "type": "country-code",
         "organisation": "DENIC eG"
     },
     {
-        "domain": ".democrat",
+        "domain": "democrat",
         "type": "generic",
         "organisation": "United TLD Holdco Ltd."
     },
     {
-        "domain": ".diamonds",
+        "domain": "diamonds",
         "type": "generic",
         "organisation": "John Edge, LLC"
     },
     {
-        "domain": ".directory",
+        "domain": "directory",
         "type": "generic",
         "organisation": "Extra Madison, LLC"
     },
     {
-        "domain": ".dj",
+        "domain": "dj",
         "type": "country-code",
         "organisation": "Djibouti Telecom S.A"
     },
     {
-        "domain": ".dk",
+        "domain": "dk",
         "type": "country-code",
         "organisation": "Dansk Internet Forum"
     },
     {
-        "domain": ".dm",
+        "domain": "dm",
         "type": "country-code",
         "organisation": "DotDM Corporation"
     },
     {
-        "domain": ".do",
+        "domain": "do",
         "type": "country-code",
         "organisation": "Pontificia Universidad Catolica Madre y Maestra\nRecinto Santo Tomas de Aquino"
     },
     {
-        "domain": ".domains",
+        "domain": "domains",
         "type": "generic",
         "organisation": "Sugar Cross, LLC"
     },
     {
-        "domain": ".dz",
+        "domain": "dz",
         "type": "country-code",
         "organisation": "CERIST"
     },
     {
-        "domain": ".ec",
+        "domain": "ec",
         "type": "country-code",
         "organisation": "NIC.EC (NICEC) S.A."
     },
     {
-        "domain": ".edu",
+        "domain": "edu",
         "type": "sponsored",
         "organisation": "EDUCAUSE"
     },
     {
-        "domain": ".education",
+        "domain": "education",
         "type": "generic",
         "organisation": "Brice Way, LLC"
     },
     {
-        "domain": ".ee",
+        "domain": "ee",
         "type": "country-code",
         "organisation": "Eesti Interneti Sihtasutus (EIS)"
     },
     {
-        "domain": ".eg",
+        "domain": "eg",
         "type": "country-code",
         "organisation": "Egyptian Universities Network (EUN)\nSupreme Council of Universities"
     },
     {
-        "domain": ".eh",
+        "domain": "eh",
         "type": "country-code",
         "organisation": "Not assigned"
     },
     {
-        "domain": ".email",
+        "domain": "email",
         "type": "generic",
         "organisation": "Spring Madison, LLC"
     },
     {
-        "domain": ".enterprises",
+        "domain": "enterprises",
         "type": "generic",
         "organisation": "Snow Oaks, LLC"
     },
     {
-        "domain": ".equipment",
+        "domain": "equipment",
         "type": "generic",
         "organisation": "Corn Station, LLC"
     },
     {
-        "domain": ".er",
+        "domain": "er",
         "type": "country-code",
         "organisation": "Eritrea Telecommunication Services Corporation (EriTel)"
     },
     {
-        "domain": ".es",
+        "domain": "es",
         "type": "country-code",
         "organisation": "Red.es"
     },
     {
-        "domain": ".estate",
+        "domain": "estate",
         "type": "generic",
         "organisation": "Trixy Park, LLC"
     },
     {
-        "domain": ".et",
+        "domain": "et",
         "type": "country-code",
         "organisation": "Ethio telecom"
     },
     {
-        "domain": ".eu",
+        "domain": "eu",
         "type": "country-code",
         "organisation": "EURid vzw/asbl"
     },
     {
-        "domain": ".events",
+        "domain": "events",
         "type": "generic",
         "organisation": "Pioneer Maple, LLC"
     },
     {
-        "domain": ".expert",
+        "domain": "expert",
         "type": "generic",
         "organisation": "Magic Pass, LLC"
     },
     {
-        "domain": ".exposed",
+        "domain": "exposed",
         "type": "generic",
         "organisation": "Victor Beach, LLC"
     },
     {
-        "domain": ".farm",
+        "domain": "farm",
         "type": "generic",
         "organisation": "Just Maple, LLC"
     },
     {
-        "domain": ".fi",
+        "domain": "fi",
         "type": "country-code",
         "organisation": "Finnish Communications Regulatory Authority"
     },
     {
-        "domain": ".fish",
+        "domain": "fish",
         "type": "generic",
         "organisation": "Fox Woods, LLC"
     },
     {
-        "domain": ".fj",
+        "domain": "fj",
         "type": "country-code",
         "organisation": "The University of the South Pacific\nIT Services"
     },
     {
-        "domain": ".fk",
+        "domain": "fk",
         "type": "country-code",
         "organisation": "Falkland Islands Government"
     },
     {
-        "domain": ".flights",
+        "domain": "flights",
         "type": "generic",
         "organisation": "Fox Station, LLC"
     },
     {
-        "domain": ".florist",
+        "domain": "florist",
         "type": "generic",
         "organisation": "Half Cypress, LLC"
     },
     {
-        "domain": ".fm",
+        "domain": "fm",
         "type": "country-code",
         "organisation": "FSM Telecommunications Corporation"
     },
     {
-        "domain": ".fo",
+        "domain": "fo",
         "type": "country-code",
         "organisation": "FO Council"
     },
     {
-        "domain": ".foundation",
+        "domain": "foundation",
         "type": "generic",
         "organisation": "John Dale, LLC"
     },
     {
-        "domain": ".fr",
+        "domain": "fr",
         "type": "country-code",
         "organisation": "AFNIC (NIC France) - Immeuble International"
     },
     {
-        "domain": ".futbol",
+        "domain": "futbol",
         "type": "generic",
         "organisation": "United TLD Holdco, Ltd."
     },
     {
-        "domain": ".ga",
+        "domain": "ga",
         "type": "country-code",
         "organisation": "Agence Nationale des Infrastructures Num\u00e9riques et des Fr\u00e9quences (ANINF)"
     },
     {
-        "domain": ".gallery",
+        "domain": "gallery",
         "type": "generic",
         "organisation": "Sugar House, LLC"
     },
     {
-        "domain": ".gb",
+        "domain": "gb",
         "type": "country-code",
         "organisation": "Reserved Domain - IANA"
     },
     {
-        "domain": ".gd",
+        "domain": "gd",
         "type": "country-code",
         "organisation": "The National Telecommunications Regulatory Commission (NTRC)"
     },
     {
-        "domain": ".ge",
+        "domain": "ge",
         "type": "country-code",
         "organisation": "Caucasus Online"
     },
     {
-        "domain": ".gf",
+        "domain": "gf",
         "type": "country-code",
         "organisation": "Net Plus"
     },
     {
-        "domain": ".gg",
+        "domain": "gg",
         "type": "country-code",
         "organisation": "Island Networks Ltd."
     },
     {
-        "domain": ".gh",
+        "domain": "gh",
         "type": "country-code",
         "organisation": "Network Computer Systems Limited"
     },
     {
-        "domain": ".gi",
+        "domain": "gi",
         "type": "country-code",
         "organisation": "Sapphire Networks"
     },
     {
-        "domain": ".gift",
+        "domain": "gift",
         "type": "generic",
         "organisation": "Uniregistry, Corp."
     },
     {
-        "domain": ".gl",
+        "domain": "gl",
         "type": "country-code",
         "organisation": "TELE Greenland A/S"
     },
     {
-        "domain": ".glass",
+        "domain": "glass",
         "type": "generic",
         "organisation": "Black Cover, LLC"
     },
     {
-        "domain": ".gm",
+        "domain": "gm",
         "type": "country-code",
         "organisation": "GM-NIC"
     },
     {
-        "domain": ".gn",
+        "domain": "gn",
         "type": "country-code",
         "organisation": "Centre National des Sciences Halieutiques de Boussoura"
     },
     {
-        "domain": ".gov",
+        "domain": "gov",
         "type": "sponsored",
         "organisation": "General Services Administration\nAttn: QTDC, 2E08 (.gov Domain Registration)"
     },
     {
-        "domain": ".gp",
+        "domain": "gp",
         "type": "country-code",
         "organisation": "Networking Technologies Group"
     },
     {
-        "domain": ".gq",
+        "domain": "gq",
         "type": "country-code",
         "organisation": "GETESA"
     },
     {
-        "domain": ".gr",
+        "domain": "gr",
         "type": "country-code",
         "organisation": "ICS-FORTH GR"
     },
     {
-        "domain": ".graphics",
+        "domain": "graphics",
         "type": "generic",
         "organisation": "Over Madison, LLC"
     },
     {
-        "domain": ".gs",
+        "domain": "gs",
         "type": "country-code",
         "organisation": "Government of South Georgia and South Sandwich Islands (GSGSSI)"
     },
     {
-        "domain": ".gt",
+        "domain": "gt",
         "type": "country-code",
         "organisation": "Universidad del Valle de Guatemala"
     },
     {
-        "domain": ".gu",
+        "domain": "gu",
         "type": "country-code",
         "organisation": "University of Guam\nComputer Center"
     },
     {
-        "domain": ".guitars",
+        "domain": "guitars",
         "type": "generic",
         "organisation": "Uniregistry, Corp."
     },
     {
-        "domain": ".guru",
+        "domain": "guru",
         "type": "generic",
         "organisation": "Pioneer Cypress, LLC"
     },
     {
-        "domain": ".gw",
+        "domain": "gw",
         "type": "country-code",
         "organisation": "Funda\u00e7\u00e3o IT \u0026 MEDIA Universidade de Bissao"
     },
     {
-        "domain": ".gy",
+        "domain": "gy",
         "type": "country-code",
         "organisation": "University of Guyana"
     },
     {
-        "domain": ".hk",
+        "domain": "hk",
         "type": "country-code",
         "organisation": "Hong Kong Internet Registration Corporation Ltd."
     },
     {
-        "domain": ".hm",
+        "domain": "hm",
         "type": "country-code",
         "organisation": "HM Domain Registry"
     },
     {
-        "domain": ".hn",
+        "domain": "hn",
         "type": "country-code",
         "organisation": "Red de Desarrollo Sostenible Honduras"
     },
     {
-        "domain": ".holdings",
+        "domain": "holdings",
         "type": "generic",
         "organisation": "John Madison, LLC"
     },
     {
-        "domain": ".holiday",
+        "domain": "holiday",
         "type": "generic",
         "organisation": "Goose Woods, LLC"
     },
     {
-        "domain": ".house",
+        "domain": "house",
         "type": "generic",
         "organisation": "Sugar Park, LLC"
     },
     {
-        "domain": ".hr",
+        "domain": "hr",
         "type": "country-code",
         "organisation": "CARNet - Croatian Academic and Research Network"
     },
     {
-        "domain": ".ht",
+        "domain": "ht",
         "type": "country-code",
         "organisation": "Consortium FDS/RDDH"
     },
     {
-        "domain": ".hu",
+        "domain": "hu",
         "type": "country-code",
         "organisation": "Council of Hungarian Internet Providers (CHIP)"
     },
     {
-        "domain": ".id",
+        "domain": "id",
         "type": "country-code",
         "organisation": "Perkumpulan Pengelola Nama Domain Internet Indonesia (PANDI)"
     },
     {
-        "domain": ".ie",
+        "domain": "ie",
         "type": "country-code",
         "organisation": "University College Dublin\nComputing Services\nComputer Centre"
     },
     {
-        "domain": ".il",
+        "domain": "il",
         "type": "country-code",
         "organisation": "Internet Society of Israel"
     },
     {
-        "domain": ".im",
+        "domain": "im",
         "type": "country-code",
         "organisation": "Isle of Man Government"
     },
     {
-        "domain": ".immobilien",
+        "domain": "immobilien",
         "type": "generic",
         "organisation": "United TLD Holdco Ltd."
     },
     {
-        "domain": ".in",
+        "domain": "in",
         "type": "country-code",
         "organisation": "National Internet Exchange of India"
     },
     {
-        "domain": ".industries",
+        "domain": "industries",
         "type": "generic",
         "organisation": "Outer House, LLC"
     },
     {
-        "domain": ".info",
+        "domain": "info",
         "type": "generic",
         "organisation": "Afilias Limited"
     },
     {
-        "domain": ".institute",
+        "domain": "institute",
         "type": "generic",
         "organisation": "Outer Maple, LLC"
     },
     {
-        "domain": ".int",
+        "domain": "int",
         "type": "sponsored",
         "organisation": "Internet Assigned Numbers Authority"
     },
     {
-        "domain": ".international",
+        "domain": "international",
         "type": "generic",
         "organisation": "Wild Way, LLC"
     },
     {
-        "domain": ".io",
+        "domain": "io",
         "type": "country-code",
         "organisation": "IO Top Level Domain Registry\nCable and Wireless"
     },
     {
-        "domain": ".iq",
+        "domain": "iq",
         "type": "country-code",
         "organisation": "Communications and Media Commission (CMC)"
     },
     {
-        "domain": ".ir",
+        "domain": "ir",
         "type": "country-code",
         "organisation": "Institute for Research in Fundamental Sciences"
     },
     {
-        "domain": ".is",
+        "domain": "is",
         "type": "country-code",
         "organisation": "ISNIC - Internet Iceland ltd."
     },
     {
-        "domain": ".it",
+        "domain": "it",
         "type": "country-code",
         "organisation": "IIT - CNR"
     },
     {
-        "domain": ".je",
+        "domain": "je",
         "type": "country-code",
         "organisation": "Island Networks (Jersey) Ltd."
     },
     {
-        "domain": ".jm",
+        "domain": "jm",
         "type": "country-code",
         "organisation": "University of West Indies"
     },
     {
-        "domain": ".jo",
+        "domain": "jo",
         "type": "country-code",
         "organisation": "National Information Technology Center (NITC)"
     },
     {
-        "domain": ".jobs",
+        "domain": "jobs",
         "type": "sponsored",
         "organisation": "Employ Media LLC"
     },
     {
-        "domain": ".jp",
+        "domain": "jp",
         "type": "country-code",
         "organisation": "Japan Registry Services Co., Ltd."
     },
     {
-        "domain": ".kaufen",
+        "domain": "kaufen",
         "type": "generic",
         "organisation": "United TLD Holdco Ltd."
     },
     {
-        "domain": ".ke",
+        "domain": "ke",
         "type": "country-code",
         "organisation": "Kenya Network Information Center (KeNIC)"
     },
     {
-        "domain": ".kg",
+        "domain": "kg",
         "type": "country-code",
         "organisation": "AsiaInfo Telecommunication Enterprise"
     },
     {
-        "domain": ".kh",
+        "domain": "kh",
         "type": "country-code",
         "organisation": "Ministry of Post and Telecommunications"
     },
     {
-        "domain": ".ki",
+        "domain": "ki",
         "type": "country-code",
         "organisation": "Ministry of Communications, Transport, and Tourism Development"
     },
     {
-        "domain": ".kim",
+        "domain": "kim",
         "type": "generic",
         "organisation": "Afilias Limited"
     },
     {
-        "domain": ".kitchen",
+        "domain": "kitchen",
         "type": "generic",
         "organisation": "Just Goodbye, LLC"
     },
     {
-        "domain": ".kiwi",
+        "domain": "kiwi",
         "type": "generic",
         "organisation": "DOT KIWI LIMITED"
     },
     {
-        "domain": ".km",
+        "domain": "km",
         "type": "country-code",
         "organisation": "Comores Telecom"
     },
     {
-        "domain": ".kn",
+        "domain": "kn",
         "type": "country-code",
         "organisation": "Ministry of Finance, Sustainable Development Information \u0026 Technology"
     },
     {
-        "domain": ".kp",
+        "domain": "kp",
         "type": "country-code",
         "organisation": "Star Joint Venture Company"
     },
     {
-        "domain": ".kr",
+        "domain": "kr",
         "type": "country-code",
         "organisation": "Korea Internet \u0026 Security Agency (KISA)"
     },
     {
-        "domain": ".kw",
+        "domain": "kw",
         "type": "country-code",
         "organisation": "Ministry of Communications"
     },
     {
-        "domain": ".ky",
+        "domain": "ky",
         "type": "country-code",
         "organisation": "The Information and Communications Technology Authority"
     },
     {
-        "domain": ".kz",
+        "domain": "kz",
         "type": "country-code",
         "organisation": "Association of IT Companies of Kazakhstan"
     },
     {
-        "domain": ".la",
+        "domain": "la",
         "type": "country-code",
         "organisation": "Lao National Internet Committee (LANIC), Ministry of Posts and Telecommunications"
     },
     {
-        "domain": ".land",
+        "domain": "land",
         "type": "generic",
         "organisation": "Pine Moon, LLC"
     },
     {
-        "domain": ".lb",
+        "domain": "lb",
         "type": "country-code",
         "organisation": "American University of Beirut\nComputing and Networking Services"
     },
     {
-        "domain": ".lc",
+        "domain": "lc",
         "type": "country-code",
         "organisation": "University of Puerto Rico"
     },
     {
-        "domain": ".li",
+        "domain": "li",
         "type": "country-code",
         "organisation": "Universitaet Liechtenstein"
     },
     {
-        "domain": ".lighting",
+        "domain": "lighting",
         "type": "generic",
         "organisation": "John McCook, LLC"
     },
     {
-        "domain": ".limo",
+        "domain": "limo",
         "type": "generic",
         "organisation": "Hidden Frostbite, LLC"
     },
     {
-        "domain": ".link",
+        "domain": "link",
         "type": "generic",
         "organisation": "Uniregistry, Corp."
     },
     {
-        "domain": ".lk",
+        "domain": "lk",
         "type": "country-code",
         "organisation": "Council for Information Technology\nLK Domain Registrar"
     },
     {
-        "domain": ".lr",
+        "domain": "lr",
         "type": "country-code",
         "organisation": "Data Technology Solutions, Inc."
     },
     {
-        "domain": ".ls",
+        "domain": "ls",
         "type": "country-code",
         "organisation": "National University of Lesotho"
     },
     {
-        "domain": ".lt",
+        "domain": "lt",
         "type": "country-code",
         "organisation": "Kaunas University of Technology"
     },
     {
-        "domain": ".lu",
+        "domain": "lu",
         "type": "country-code",
         "organisation": "RESTENA"
     },
     {
-        "domain": ".luxury",
+        "domain": "luxury",
         "type": "generic",
         "organisation": "Luxury Partners LLC"
     },
     {
-        "domain": ".lv",
+        "domain": "lv",
         "type": "country-code",
         "organisation": "University of Latvia\nInstitute of Mathematics and Computer Science\nDepartment of Network Solutions (DNS)"
     },
     {
-        "domain": ".ly",
+        "domain": "ly",
         "type": "country-code",
         "organisation": "General Post and Telecommunication Company"
     },
     {
-        "domain": ".ma",
+        "domain": "ma",
         "type": "country-code",
         "organisation": "Agence Nationale de R\u00e9glementation des T\u00e9l\u00e9communications (ANRT)"
     },
     {
-        "domain": ".management",
+        "domain": "management",
         "type": "generic",
         "organisation": "John Goodbye, LLC"
     },
     {
-        "domain": ".mango",
+        "domain": "mango",
         "type": "generic",
         "organisation": "PUNTO FA S.L."
     },
     {
-        "domain": ".marketing",
+        "domain": "marketing",
         "type": "generic",
         "organisation": "Fern Pass, LLC"
     },
     {
-        "domain": ".mc",
+        "domain": "mc",
         "type": "country-code",
         "organisation": "Gouvernement de Monaco\nDirection des Communications Electroniques"
     },
     {
-        "domain": ".md",
+        "domain": "md",
         "type": "country-code",
         "organisation": "MoldData S.E."
     },
     {
-        "domain": ".me",
+        "domain": "me",
         "type": "country-code",
         "organisation": "Government of Montenegro"
     },
     {
-        "domain": ".menu",
+        "domain": "menu",
         "type": "generic",
         "organisation": "Wedding TLD2, LLC"
     },
     {
-        "domain": ".mf",
+        "domain": "mf",
         "type": "country-code",
         "organisation": "Not assigned"
     },
     {
-        "domain": ".mg",
+        "domain": "mg",
         "type": "country-code",
         "organisation": "NIC-MG (Network Information Center Madagascar)"
     },
     {
-        "domain": ".mh",
+        "domain": "mh",
         "type": "country-code",
         "organisation": "Office of the Cabinet"
     },
     {
-        "domain": ".mil",
+        "domain": "mil",
         "type": "sponsored",
         "organisation": "DoD Network Information Center"
     },
     {
-        "domain": ".mk",
+        "domain": "mk",
         "type": "country-code",
         "organisation": "Ministry of Foreign Affairs"
     },
     {
-        "domain": ".ml",
+        "domain": "ml",
         "type": "country-code",
         "organisation": "Agence des Technologies de l\u2019Information et de la Communication"
     },
     {
-        "domain": ".mm",
+        "domain": "mm",
         "type": "country-code",
         "organisation": "Ministry of Communications, Posts \u0026 Telegraphs"
     },
     {
-        "domain": ".mn",
+        "domain": "mn",
         "type": "country-code",
         "organisation": "Datacom Co., Ltd."
     },
     {
-        "domain": ".mo",
+        "domain": "mo",
         "type": "country-code",
         "organisation": "Bureau of Telecommunications Regulation (DSRT)"
     },
     {
-        "domain": ".mobi",
+        "domain": "mobi",
         "type": "sponsored",
         "organisation": "Afilias Technologies Limited dba dotMobi"
     },
     {
-        "domain": ".moda",
+        "domain": "moda",
         "type": "generic",
         "organisation": "United TLD Holdco Ltd."
     },
     {
-        "domain": ".monash",
+        "domain": "monash",
         "type": "generic",
         "organisation": "Monash University"
     },
     {
-        "domain": ".mp",
+        "domain": "mp",
         "type": "country-code",
         "organisation": "Saipan Datacom, Inc."
     },
     {
-        "domain": ".mq",
+        "domain": "mq",
         "type": "country-code",
         "organisation": "MEDIASERV"
     },
     {
-        "domain": ".mr",
+        "domain": "mr",
         "type": "country-code",
         "organisation": "University of Nouakchott"
     },
     {
-        "domain": ".ms",
+        "domain": "ms",
         "type": "country-code",
         "organisation": "MNI Networks Ltd."
     },
     {
-        "domain": ".mt",
+        "domain": "mt",
         "type": "country-code",
         "organisation": "NIC (Malta)"
     },
     {
-        "domain": ".mu",
+        "domain": "mu",
         "type": "country-code",
         "organisation": "Internet Direct Ltd"
     },
     {
-        "domain": ".museum",
+        "domain": "museum",
         "type": "sponsored",
         "organisation": "Museum Domain Management Association"
     },
     {
-        "domain": ".mv",
+        "domain": "mv",
         "type": "country-code",
         "organisation": "Dhiraagu Pvt. Ltd. (DHIVEHINET)"
     },
     {
-        "domain": ".mw",
+        "domain": "mw",
         "type": "country-code",
         "organisation": "Malawi Sustainable Development Network Programme\n(Malawi SDNP)"
     },
     {
-        "domain": ".mx",
+        "domain": "mx",
         "type": "country-code",
         "organisation": "NIC-Mexico\nITESM - Campus Monterrey"
     },
     {
-        "domain": ".my",
+        "domain": "my",
         "type": "country-code",
         "organisation": "MYNIC Berhad"
     },
     {
-        "domain": ".mz",
+        "domain": "mz",
         "type": "country-code",
         "organisation": "Centro de Informatica de Universidade Eduardo Mondlane"
     },
     {
-        "domain": ".na",
+        "domain": "na",
         "type": "country-code",
         "organisation": "Namibian Network Information Center"
     },
     {
-        "domain": ".nagoya",
+        "domain": "nagoya",
         "type": "generic",
         "organisation": "GMO Registry, Inc."
     },
     {
-        "domain": ".name",
+        "domain": "name",
         "type": "generic-restricted",
         "organisation": "VeriSign Information Services, Inc."
     },
     {
-        "domain": ".nc",
+        "domain": "nc",
         "type": "country-code",
         "organisation": "Office des Postes et Telecommunications"
     },
     {
-        "domain": ".ne",
+        "domain": "ne",
         "type": "country-code",
         "organisation": "SONITEL"
     },
     {
-        "domain": ".net",
+        "domain": "net",
         "type": "generic",
         "organisation": "VeriSign Global Registry Services"
     },
     {
-        "domain": ".neustar",
+        "domain": "neustar",
         "type": "generic",
         "organisation": "NeuStar, Inc."
     },
     {
-        "domain": ".nf",
+        "domain": "nf",
         "type": "country-code",
         "organisation": "Norfolk Island Data Services"
     },
     {
-        "domain": ".ng",
+        "domain": "ng",
         "type": "country-code",
         "organisation": "Nigeria Internet Registration Association"
     },
     {
-        "domain": ".ni",
+        "domain": "ni",
         "type": "country-code",
         "organisation": "Universidad Nacional del Ingernieria\nCentro de Computo"
     },
     {
-        "domain": ".ninja",
+        "domain": "ninja",
         "type": "generic",
         "organisation": "United TLD Holdco Ltd."
     },
     {
-        "domain": ".nl",
+        "domain": "nl",
         "type": "country-code",
         "organisation": "SIDN (Stichting Internet  Domeinregistratie Nederland)"
     },
     {
-        "domain": ".no",
+        "domain": "no",
         "type": "country-code",
         "organisation": "UNINETT Norid A/S"
     },
     {
-        "domain": ".np",
+        "domain": "np",
         "type": "country-code",
         "organisation": "Mercantile Communications Pvt. Ltd."
     },
     {
-        "domain": ".nr",
+        "domain": "nr",
         "type": "country-code",
         "organisation": "CENPAC NET"
     },
     {
-        "domain": ".nu",
+        "domain": "nu",
         "type": "country-code",
         "organisation": "The IUSN Foundation"
     },
     {
-        "domain": ".nz",
+        "domain": "nz",
         "type": "country-code",
         "organisation": "InternetNZ"
     },
     {
-        "domain": ".om",
+        "domain": "om",
         "type": "country-code",
         "organisation": "Telecommunications Regulatory Authority (TRA)"
     },
     {
-        "domain": ".onl",
+        "domain": "onl",
         "type": "generic",
         "organisation": "I-REGISTRY Ltd., Niederlassung Deutschland"
     },
     {
-        "domain": ".org",
+        "domain": "org",
         "type": "generic",
         "organisation": "Public Interest Registry (PIR)"
     },
     {
-        "domain": ".pa",
+        "domain": "pa",
         "type": "country-code",
         "organisation": "Universidad Tecnologica de Panama"
     },
     {
-        "domain": ".partners",
+        "domain": "partners",
         "type": "generic",
         "organisation": "Magic Glen, LLC"
     },
     {
-        "domain": ".parts",
+        "domain": "parts",
         "type": "generic",
         "organisation": "Sea Goodbye, LLC"
     },
     {
-        "domain": ".pe",
+        "domain": "pe",
         "type": "country-code",
         "organisation": "Red Cientifica Peruana"
     },
     {
-        "domain": ".pf",
+        "domain": "pf",
         "type": "country-code",
         "organisation": "Gouvernement de la Polyn\u00e9sie fran\u00e7aise"
     },
     {
-        "domain": ".pg",
+        "domain": "pg",
         "type": "country-code",
         "organisation": "PNG DNS Administration\nVice Chancellors Office\nThe Papua New Guinea University of Technology"
     },
     {
-        "domain": ".ph",
+        "domain": "ph",
         "type": "country-code",
         "organisation": "PH Domain Foundation"
     },
     {
-        "domain": ".photo",
+        "domain": "photo",
         "type": "generic",
         "organisation": "Uniregistry, Corp."
     },
     {
-        "domain": ".photography",
+        "domain": "photography",
         "type": "generic",
         "organisation": "Sugar Glen, LLC"
     },
     {
-        "domain": ".photos",
+        "domain": "photos",
         "type": "generic",
         "organisation": "Sea Corner, LLC"
     },
     {
-        "domain": ".pics",
+        "domain": "pics",
         "type": "generic",
         "organisation": "Uniregistry, Corp."
     },
     {
-        "domain": ".pink",
+        "domain": "pink",
         "type": "generic",
         "organisation": "Afilias Limited"
     },
     {
-        "domain": ".pk",
+        "domain": "pk",
         "type": "country-code",
         "organisation": "PKNIC"
     },
     {
-        "domain": ".pl",
+        "domain": "pl",
         "type": "country-code",
         "organisation": "Research and Academic Computer Network"
     },
     {
-        "domain": ".plumbing",
+        "domain": "plumbing",
         "type": "generic",
         "organisation": "Spring Tigers, LLC"
     },
     {
-        "domain": ".pm",
+        "domain": "pm",
         "type": "country-code",
         "organisation": "AFNIC (NIC France) - Immeuble International"
     },
     {
-        "domain": ".pn",
+        "domain": "pn",
         "type": "country-code",
         "organisation": "Pitcairn Island Administration"
     },
     {
-        "domain": ".post",
+        "domain": "post",
         "type": "sponsored",
         "organisation": "Universal Postal Union"
     },
     {
-        "domain": ".pr",
+        "domain": "pr",
         "type": "country-code",
         "organisation": "Gauss Research Laboratory Inc."
     },
     {
-        "domain": ".pro",
+        "domain": "pro",
         "type": "generic-restricted",
         "organisation": "Registry Services Corporation\ndba RegistryPro"
     },
     {
-        "domain": ".productions",
+        "domain": "productions",
         "type": "generic",
         "organisation": "Magic Birch, LLC"
     },
     {
-        "domain": ".properties",
+        "domain": "properties",
         "type": "generic",
         "organisation": "Big Pass, LLC"
     },
     {
-        "domain": ".ps",
+        "domain": "ps",
         "type": "country-code",
         "organisation": "Ministry Of Telecommunications \u0026\nInformation Technology,\nGovernment Computer Center."
     },
     {
-        "domain": ".pt",
+        "domain": "pt",
         "type": "country-code",
         "organisation": "Associa\u00e7\u00e3o DNS.PT"
     },
     {
-        "domain": ".pub",
+        "domain": "pub",
         "type": "generic",
         "organisation": "United TLD Holdco Ltd."
     },
     {
-        "domain": ".pw",
+        "domain": "pw",
         "type": "country-code",
         "organisation": "Micronesia Investment and Development Corporation"
     },
     {
-        "domain": ".py",
+        "domain": "py",
         "type": "country-code",
         "organisation": "NIC-PY"
     },
     {
-        "domain": ".qa",
+        "domain": "qa",
         "type": "country-code",
         "organisation": "The Supreme Council of Information and Communication Technology (ictQATAR)"
     },
     {
-        "domain": ".qpon",
+        "domain": "qpon",
         "type": "generic",
         "organisation": "dotCOOL, Inc."
     },
     {
-        "domain": ".re",
+        "domain": "re",
         "type": "country-code",
         "organisation": "AFNIC (NIC France) - Immeuble International"
     },
     {
-        "domain": ".recipes",
+        "domain": "recipes",
         "type": "generic",
         "organisation": "Grand Island, LLC"
     },
     {
-        "domain": ".red",
+        "domain": "red",
         "type": "generic",
         "organisation": "Afilias Limited"
     },
     {
-        "domain": ".rentals",
+        "domain": "rentals",
         "type": "generic",
         "organisation": "Big Hollow,LLC"
     },
     {
-        "domain": ".repair",
+        "domain": "repair",
         "type": "generic",
         "organisation": "Lone Sunset, LLC"
     },
     {
-        "domain": ".report",
+        "domain": "report",
         "type": "generic",
         "organisation": "Binky Glen, LLC"
     },
     {
-        "domain": ".reviews",
+        "domain": "reviews",
         "type": "generic",
         "organisation": "United TLD Holdco, Ltd."
     },
     {
-        "domain": ".rich",
+        "domain": "rich",
         "type": "generic",
         "organisation": "I-REGISTRY Ltd., Niederlassung Deutschland"
     },
     {
-        "domain": ".ro",
+        "domain": "ro",
         "type": "country-code",
         "organisation": "National Institute for R\u0026D in Informatics"
     },
     {
-        "domain": ".rs",
+        "domain": "rs",
         "type": "country-code",
         "organisation": "Serbian National Register of\nInternet Domain Names (RNIDS)"
     },
     {
-        "domain": ".ru",
+        "domain": "ru",
         "type": "country-code",
         "organisation": "Coordination Center for TLD RU"
     },
     {
-        "domain": ".ruhr",
+        "domain": "ruhr",
         "type": "generic",
         "organisation": "regiodot GmbH \u0026 Co. KG"
     },
     {
-        "domain": ".rw",
+        "domain": "rw",
         "type": "country-code",
         "organisation": "Rwanda Information Communication and Technology Association (RICTA)"
     },
     {
-        "domain": ".sa",
+        "domain": "sa",
         "type": "country-code",
         "organisation": "Communications and Information Technology Commission"
     },
     {
-        "domain": ".sb",
+        "domain": "sb",
         "type": "country-code",
         "organisation": "Solomon Telekom Company Limited"
     },
     {
-        "domain": ".sc",
+        "domain": "sc",
         "type": "country-code",
         "organisation": "VCS Pty Ltd"
     },
     {
-        "domain": ".sd",
+        "domain": "sd",
         "type": "country-code",
         "organisation": "Sudan Internet Society"
     },
     {
-        "domain": ".se",
+        "domain": "se",
         "type": "country-code",
         "organisation": "The Internet Infrastructure Foundation"
     },
     {
-        "domain": ".sexy",
+        "domain": "sexy",
         "type": "generic",
         "organisation": "Uniregistry, Corp."
     },
     {
-        "domain": ".sg",
+        "domain": "sg",
         "type": "country-code",
         "organisation": "Singapore Network Information Centre (SGNIC) Pte Ltd"
     },
     {
-        "domain": ".sh",
+        "domain": "sh",
         "type": "country-code",
         "organisation": "Government of St. Helena"
     },
     {
-        "domain": ".shiksha",
+        "domain": "shiksha",
         "type": "generic",
         "organisation": "Afilias Limited"
     },
     {
-        "domain": ".shoes",
+        "domain": "shoes",
         "type": "generic",
         "organisation": "Binky Galley, LLC"
     },
     {
-        "domain": ".si",
+        "domain": "si",
         "type": "country-code",
         "organisation": "Academic and Research Network of Slovenia (ARNES)"
     },
     {
-        "domain": ".singles",
+        "domain": "singles",
         "type": "generic",
         "organisation": "Fern Madison, LLC"
     },
     {
-        "domain": ".sj",
+        "domain": "sj",
         "type": "country-code",
         "organisation": "UNINETT Norid A/S"
     },
     {
-        "domain": ".sk",
+        "domain": "sk",
         "type": "country-code",
         "organisation": "SK-NIC, a.s."
     },
     {
-        "domain": ".sl",
+        "domain": "sl",
         "type": "country-code",
         "organisation": "Sierratel"
     },
     {
-        "domain": ".sm",
+        "domain": "sm",
         "type": "country-code",
         "organisation": "Telecom Italia San Marino S.p.A."
     },
     {
-        "domain": ".sn",
+        "domain": "sn",
         "type": "country-code",
         "organisation": "Universite Cheikh Anta Diop\nNIC Senegal"
     },
     {
-        "domain": ".so",
+        "domain": "so",
         "type": "country-code",
         "organisation": "Ministry of Post and Telecommunications"
     },
     {
-        "domain": ".social",
+        "domain": "social",
         "type": "generic",
         "organisation": "United TLD Holdco Ltd."
     },
     {
-        "domain": ".solar",
+        "domain": "solar",
         "type": "generic",
         "organisation": "Ruby Town, LLC"
     },
     {
-        "domain": ".solutions",
+        "domain": "solutions",
         "type": "generic",
         "organisation": "Silver Cover, LLC"
     },
     {
-        "domain": ".sr",
+        "domain": "sr",
         "type": "country-code",
         "organisation": "Telesur"
     },
     {
-        "domain": ".ss",
+        "domain": "ss",
         "type": "country-code",
         "organisation": "Not assigned"
     },
     {
-        "domain": ".st",
+        "domain": "st",
         "type": "country-code",
         "organisation": "Tecnisys"
     },
     {
-        "domain": ".su",
+        "domain": "su",
         "type": "country-code",
         "organisation": "Russian Institute for Development of Public Networks\n(ROSNIIROS)"
     },
     {
-        "domain": ".supplies",
+        "domain": "supplies",
         "type": "generic",
         "organisation": "Atomic Fields, LLC"
     },
     {
-        "domain": ".supply",
+        "domain": "supply",
         "type": "generic",
         "organisation": "Half Falls, LLC"
     },
     {
-        "domain": ".support",
+        "domain": "support",
         "type": "generic",
         "organisation": "Grand Orchard, LLC"
     },
     {
-        "domain": ".sv",
+        "domain": "sv",
         "type": "country-code",
         "organisation": "SVNet"
     },
     {
-        "domain": ".sx",
+        "domain": "sx",
         "type": "country-code",
         "organisation": "SX Registry SA B.V."
     },
     {
-        "domain": ".sy",
+        "domain": "sy",
         "type": "country-code",
         "organisation": "National Agency for Network Services (NANS)"
     },
     {
-        "domain": ".systems",
+        "domain": "systems",
         "type": "generic",
         "organisation": "Dash Cypress, LLC"
     },
     {
-        "domain": ".sz",
+        "domain": "sz",
         "type": "country-code",
         "organisation": "University of Swaziland\nDepartment of Computer Science"
     },
     {
-        "domain": ".tattoo",
+        "domain": "tattoo",
         "type": "generic",
         "organisation": "Uniregistry, Corp."
     },
     {
-        "domain": ".tc",
+        "domain": "tc",
         "type": "country-code",
         "organisation": "Melrex TC"
     },
     {
-        "domain": ".td",
+        "domain": "td",
         "type": "country-code",
         "organisation": "Soci\u00e9t\u00e9 des t\u00e9l\u00e9communications du Tchad (SOTEL TCHAD)"
     },
     {
-        "domain": ".technology",
+        "domain": "technology",
         "type": "generic",
         "organisation": "Auburn Falls, LLC"
     },
     {
-        "domain": ".tel",
+        "domain": "tel",
         "type": "sponsored",
         "organisation": "Telnic Ltd."
     },
     {
-        "domain": ".tf",
+        "domain": "tf",
         "type": "country-code",
         "organisation": "AFNIC (NIC France) - Immeuble International"
     },
     {
-        "domain": ".tg",
+        "domain": "tg",
         "type": "country-code",
         "organisation": "Cafe Informatique et Telecommunications"
     },
     {
-        "domain": ".th",
+        "domain": "th",
         "type": "country-code",
         "organisation": "Thai Network Information Center Foundation"
     },
     {
-        "domain": ".tienda",
+        "domain": "tienda",
         "type": "generic",
         "organisation": "Victor Manor, LLC"
     },
     {
-        "domain": ".tips",
+        "domain": "tips",
         "type": "generic",
         "organisation": "Corn Willow, LLC"
     },
     {
-        "domain": ".tj",
+        "domain": "tj",
         "type": "country-code",
         "organisation": "Information Technology Center"
     },
     {
-        "domain": ".tk",
+        "domain": "tk",
         "type": "country-code",
         "organisation": "Telecommunication Tokelau Corporation (Teletok)"
     },
     {
-        "domain": ".tl",
+        "domain": "tl",
         "type": "country-code",
         "organisation": "Ministry of Infrastructure\nInformation and Technology Division"
     },
     {
-        "domain": ".tm",
+        "domain": "tm",
         "type": "country-code",
         "organisation": "TM Domain Registry Ltd"
     },
     {
-        "domain": ".tn",
+        "domain": "tn",
         "type": "country-code",
         "organisation": "Agence Tunisienne d\u0027Internet"
     },
     {
-        "domain": ".to",
+        "domain": "to",
         "type": "country-code",
         "organisation": "Government of the Kingdom of Tonga\nH.R.H. Crown Prince Tupouto\u0027a\nc/o Consulate of Tonga"
     },
     {
-        "domain": ".today",
+        "domain": "today",
         "type": "generic",
         "organisation": "Pearl Woods, LLC"
     },
     {
-        "domain": ".tokyo",
+        "domain": "tokyo",
         "type": "generic",
         "organisation": "GMO Registry, Inc."
     },
     {
-        "domain": ".tools",
+        "domain": "tools",
         "type": "generic",
         "organisation": "Pioneer North, LLC"
     },
     {
-        "domain": ".tp",
+        "domain": "tp",
         "type": "country-code",
         "organisation": "-"
     },
     {
-        "domain": ".tr",
+        "domain": "tr",
         "type": "country-code",
         "organisation": "Middle East Technical University\nDepartment of Computer Engineering"
     },
     {
-        "domain": ".training",
+        "domain": "training",
         "type": "generic",
         "organisation": "Wild Willow, LLC"
     },
     {
-        "domain": ".travel",
+        "domain": "travel",
         "type": "sponsored",
         "organisation": "Tralliance Registry Management Company, LLC."
     },
     {
-        "domain": ".tt",
+        "domain": "tt",
         "type": "country-code",
         "organisation": "University of the West Indies\nFaculty of Engineering"
     },
     {
-        "domain": ".tv",
+        "domain": "tv",
         "type": "country-code",
         "organisation": "Ministry of Finance and Tourism"
     },
     {
-        "domain": ".tw",
+        "domain": "tw",
         "type": "country-code",
         "organisation": "Taiwan Network Information Center (TWNIC)"
     },
     {
-        "domain": ".tz",
+        "domain": "tz",
         "type": "country-code",
         "organisation": "Tanzania Network Information Centre (tzNIC)"
     },
     {
-        "domain": ".ua",
+        "domain": "ua",
         "type": "country-code",
         "organisation": "Communication Systems Ltd"
     },
     {
-        "domain": ".ug",
+        "domain": "ug",
         "type": "country-code",
         "organisation": "Uganda Online Ltd."
     },
     {
-        "domain": ".uk",
+        "domain": "uk",
         "type": "country-code",
         "organisation": "Nominet UK"
     },
     {
-        "domain": ".um",
+        "domain": "um",
         "type": "country-code",
         "organisation": "Not assigned"
     },
     {
-        "domain": ".uno",
+        "domain": "uno",
         "type": "generic",
         "organisation": "Dot Latin LLC"
     },
     {
-        "domain": ".us",
+        "domain": "us",
         "type": "country-code",
         "organisation": "NeuStar, Inc."
     },
     {
-        "domain": ".uy",
+        "domain": "uy",
         "type": "country-code",
         "organisation": "SeCIU - Universidad de la Republica"
     },
     {
-        "domain": ".uz",
+        "domain": "uz",
         "type": "country-code",
         "organisation": "Computerization and Information Technologies Developing Center\nUZINFOCOM"
     },
     {
-        "domain": ".va",
+        "domain": "va",
         "type": "country-code",
         "organisation": "Holy See Secretariat of State Department of Telecommunications"
     },
     {
-        "domain": ".vacations",
+        "domain": "vacations",
         "type": "generic",
         "organisation": "Atomic Tigers, LLC"
     },
     {
-        "domain": ".vc",
+        "domain": "vc",
         "type": "country-code",
         "organisation": "Ministry of Telecommunications, Science, Technology and Industry"
     },
     {
-        "domain": ".ve",
+        "domain": "ve",
         "type": "country-code",
         "organisation": "Comisi\u00f3n Nacional de Telecomunicaciones (CONATEL)"
     },
     {
-        "domain": ".ventures",
+        "domain": "ventures",
         "type": "generic",
         "organisation": "Binky Lake, LLC"
     },
     {
-        "domain": ".vg",
+        "domain": "vg",
         "type": "country-code",
         "organisation": "Pinebrook Developments Ltd"
     },
     {
-        "domain": ".vi",
+        "domain": "vi",
         "type": "country-code",
         "organisation": "Virgin Islands Public Telcommunications System\nc/o COBEX Internet Services"
     },
     {
-        "domain": ".viajes",
+        "domain": "viajes",
         "type": "generic",
         "organisation": "Black Madison, LLC"
     },
     {
-        "domain": ".villas",
+        "domain": "villas",
         "type": "generic",
         "organisation": "New Sky, LLC"
     },
     {
-        "domain": ".vision",
+        "domain": "vision",
         "type": "generic",
         "organisation": "Koko Station, LLC"
     },
     {
-        "domain": ".vn",
+        "domain": "vn",
         "type": "country-code",
         "organisation": "Ministry of Information and Communications of Socialist Republic of Viet Nam"
     },
     {
-        "domain": ".voting",
+        "domain": "voting",
         "type": "generic",
         "organisation": "Valuetainment Corp."
     },
     {
-        "domain": ".voyage",
+        "domain": "voyage",
         "type": "generic",
         "organisation": "Ruby House, LLC"
     },
     {
-        "domain": ".vu",
+        "domain": "vu",
         "type": "country-code",
         "organisation": "Telecom Vanuatu Limited"
     },
     {
-        "domain": ".wang",
+        "domain": "wang",
         "type": "generic",
         "organisation": "Zodiac Leo Limited"
     },
     {
-        "domain": ".watch",
+        "domain": "watch",
         "type": "generic",
         "organisation": "Sand Shadow, LLC"
     },
     {
-        "domain": ".wed",
+        "domain": "wed",
         "type": "generic",
         "organisation": "Atgron, Inc."
     },
     {
-        "domain": ".wf",
+        "domain": "wf",
         "type": "country-code",
         "organisation": "AFNIC (NIC France) - Immeuble International"
     },
     {
-        "domain": ".wien",
+        "domain": "wien",
         "type": "generic",
         "organisation": "punkt.wien GmbH"
     },
     {
-        "domain": ".wiki",
+        "domain": "wiki",
         "type": "generic",
         "organisation": "Top Level Design, LLC"
     },
     {
-        "domain": ".works",
+        "domain": "works",
         "type": "generic",
         "organisation": "Little Dynamite, LLC"
     },
     {
-        "domain": ".ws",
+        "domain": "ws",
         "type": "country-code",
         "organisation": "Government of Samoa Ministry of Foreign Affairs \u0026 Trade"
     },
     {
-        "domain": ".\u6d4b\u8bd5",
+        "domain": "\u6d4b\u8bd5",
         "type": "test",
         "organisation": "Internet Assigned Numbers Authority"
     },
     {
-        "domain": ".\u092a\u0930\u0940\u0915\u094d\u0937\u093e",
+        "domain": "\u092a\u0930\u0940\u0915\u094d\u0937\u093e",
         "type": "test",
         "organisation": "Internet Assigned Numbers Authority"
     },
     {
-        "domain": ".\u96c6\u56e2",
+        "domain": "\u96c6\u56e2",
         "type": "generic",
         "organisation": "Eagle Horizon Limited"
     },
     {
-        "domain": ".\u5728\u7ebf",
+        "domain": "\u5728\u7ebf",
         "type": "generic",
         "organisation": "TLD REGISTRY LIMITED"
     },
     {
-        "domain": ".\ud55c\uad6d",
+        "domain": "\ud55c\uad6d",
         "type": "country-code",
         "organisation": "KISA (Korea Internet \u0026 Security Agency)"
     },
     {
-        "domain": ".\u09ad\u09be\u09b0\u09a4",
+        "domain": "\u09ad\u09be\u09b0\u09a4",
         "type": "country-code",
         "organisation": "National Internet Exchange of India"
     },
     {
-        "domain": ".\u09ac\u09be\u0982\u09b2\u09be",
+        "domain": "\u09ac\u09be\u0982\u09b2\u09be",
         "type": "country-code",
         "organisation": "Not assigned"
     },
     {
-        "domain": ".\u516c\u76ca",
+        "domain": "\u516c\u76ca",
         "type": "generic",
         "organisation": "China Organizational Name Administration Center"
     },
     {
-        "domain": ".\u516c\u53f8",
+        "domain": "\u516c\u53f8",
         "type": "generic",
         "organisation": "Computer Network Information Center of Chinese Academy of Sciences \uff08China Internet Network Information Center\uff09"
     },
     {
-        "domain": ".\u79fb\u52a8",
+        "domain": "\u79fb\u52a8",
         "type": "generic",
         "organisation": "Afilias Limited"
     },
     {
-        "domain": ".\u6211\u7231\u4f60",
+        "domain": "\u6211\u7231\u4f60",
         "type": "generic",
         "organisation": "Tycoon Treasure Limited"
     },
     {
-        "domain": ".\u0438\u0441\u043f\u044b\u0442\u0430\u043d\u0438\u0435",
+        "domain": "\u0438\u0441\u043f\u044b\u0442\u0430\u043d\u0438\u0435",
         "type": "test",
         "organisation": "Internet Assigned Numbers Authority"
     },
     {
-        "domain": ".\u049b\u0430\u0437",
+        "domain": "\u049b\u0430\u0437",
         "type": "country-code",
         "organisation": "Association of IT Companies of Kazakhstan"
     },
     {
-        "domain": ".\u043e\u043d\u043b\u0430\u0439\u043d",
+        "domain": "\u043e\u043d\u043b\u0430\u0439\u043d",
         "type": "generic",
         "organisation": "CORE Association"
     },
     {
-        "domain": ".\u0441\u0430\u0439\u0442",
+        "domain": "\u0441\u0430\u0439\u0442",
         "type": "generic",
         "organisation": "CORE Association"
     },
     {
-        "domain": ".\u0441\u0440\u0431",
+        "domain": "\u0441\u0440\u0431",
         "type": "country-code",
         "organisation": "Serbian National Register of Internet Domain Names (RNIDS)"
     },
     {
-        "domain": ".\ud14c\uc2a4\ud2b8",
+        "domain": "\ud14c\uc2a4\ud2b8",
         "type": "test",
         "organisation": "Internet Assigned Numbers Authority"
     },
     {
-        "domain": ".\uc0bc\uc131",
+        "domain": "\uc0bc\uc131",
         "type": "generic",
         "organisation": "SAMSUNG SDS CO., LTD"
     },
     {
-        "domain": ".\u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0bc2\u0bb0\u0bcd",
+        "domain": "\u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0bc2\u0bb0\u0bcd",
         "type": "country-code",
         "organisation": "Singapore Network Information Centre (SGNIC) Pte Ltd"
     },
     {
-        "domain": ".\u0434\u0435\u0442\u0438",
+        "domain": "\u0434\u0435\u0442\u0438",
         "type": "generic",
         "organisation": "The Foundation for Network Initiatives \u201cThe Smart Internet\u201d"
     },
     {
-        "domain": ".\u05d8\u05e2\u05e1\u05d8",
+        "domain": "\u05d8\u05e2\u05e1\u05d8",
         "type": "test",
         "organisation": "Internet Assigned Numbers Authority"
     },
     {
-        "domain": ".\u4e2d\u6587\u7f51",
+        "domain": "\u4e2d\u6587\u7f51",
         "type": "generic",
         "organisation": "TLD REGISTRY LIMITED"
     },
     {
-        "domain": ".\u4e2d\u4fe1",
+        "domain": "\u4e2d\u4fe1",
         "type": "generic",
         "organisation": "CITIC Group Corporation"
     },
     {
-        "domain": ".\u4e2d\u56fd",
+        "domain": "\u4e2d\u56fd",
         "type": "country-code",
         "organisation": "China Internet Network Information Center"
     },
     {
-        "domain": ".\u4e2d\u570b",
+        "domain": "\u4e2d\u570b",
         "type": "country-code",
         "organisation": "China Internet Network Information Center"
     },
     {
-        "domain": ".\u0c2d\u0c3e\u0c30\u0c24\u0c4d",
+        "domain": "\u0c2d\u0c3e\u0c30\u0c24\u0c4d",
         "type": "country-code",
         "organisation": "National Internet Exchange of India"
     },
     {
-        "domain": ".\u0dbd\u0d82\u0d9a\u0dcf",
+        "domain": "\u0dbd\u0d82\u0d9a\u0dcf",
         "type": "country-code",
         "organisation": "LK Domain Registry"
     },
     {
-        "domain": ".\u6e2c\u8a66",
+        "domain": "\u6e2c\u8a66",
         "type": "test",
         "organisation": "Internet Assigned Numbers Authority"
     },
     {
-        "domain": ".\u0aad\u0abe\u0ab0\u0aa4",
+        "domain": "\u0aad\u0abe\u0ab0\u0aa4",
         "type": "country-code",
         "organisation": "National Internet Exchange of India"
     },
     {
-        "domain": ".\u092d\u093e\u0930\u0924",
+        "domain": "\u092d\u093e\u0930\u0924",
         "type": "country-code",
         "organisation": "National Internet Exchange of India"
     },
     {
-        "domain": ".\u0622\u0632\u0645\u0627\u06cc\u0634\u06cc",
+        "domain": "\u0622\u0632\u0645\u0627\u06cc\u0634\u06cc",
         "type": "test",
         "organisation": "Internet Assigned Numbers Authority"
     },
     {
-        "domain": ".\u0baa\u0bb0\u0bbf\u0b9f\u0bcd\u0b9a\u0bc8",
+        "domain": "\u0baa\u0bb0\u0bbf\u0b9f\u0bcd\u0b9a\u0bc8",
         "type": "test",
         "organisation": "Internet Assigned Numbers Authority"
     },
     {
-        "domain": ".\u7f51\u7edc",
+        "domain": "\u7f51\u7edc",
         "type": "generic",
         "organisation": "Computer Network Information Center of Chinese Academy of Sciences \uff08China Internet Network Information Center\uff09"
     },
     {
-        "domain": ".\u0443\u043a\u0440",
+        "domain": "\u0443\u043a\u0440",
         "type": "country-code",
         "organisation": "Ukrainian Network Information Centre (UANIC), Inc."
     },
     {
-        "domain": ".\u9999\u6e2f",
+        "domain": "\u9999\u6e2f",
         "type": "country-code",
         "organisation": "Hong Kong Internet Registration Corporation Ltd."
     },
     {
-        "domain": ".\u03b4\u03bf\u03ba\u03b9\u03bc\u03ae",
+        "domain": "\u03b4\u03bf\u03ba\u03b9\u03bc\u03ae",
         "type": "test",
         "organisation": "Internet Assigned Numbers Authority"
     },
     {
-        "domain": ".\u0625\u062e\u062a\u0628\u0627\u0631",
+        "domain": "\u0625\u062e\u062a\u0628\u0627\u0631",
         "type": "test",
         "organisation": "Internet Assigned Numbers Authority"
     },
     {
-        "domain": ".\u53f0\u6e7e",
+        "domain": "\u53f0\u6e7e",
         "type": "country-code",
         "organisation": "Taiwan Network Information Center (TWNIC)"
     },
     {
-        "domain": ".\u53f0\u7063",
+        "domain": "\u53f0\u7063",
         "type": "country-code",
         "organisation": "Taiwan Network Information Center (TWNIC)"
     },
     {
-        "domain": ".\u043c\u043e\u043d",
+        "domain": "\u043c\u043e\u043d",
         "type": "country-code",
         "organisation": "Datacom Co.,Ltd"
     },
     {
-        "domain": ".\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+        "domain": "\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
         "type": "country-code",
         "organisation": "CERIST"
     },
     {
-        "domain": ".\u0639\u0645\u0627\u0646",
+        "domain": "\u0639\u0645\u0627\u0646",
         "type": "country-code",
         "organisation": "Telecommunications Regulatory Authority (TRA)"
     },
     {
-        "domain": ".\u0627\u06cc\u0631\u0627\u0646",
+        "domain": "\u0627\u06cc\u0631\u0627\u0646",
         "type": "country-code",
         "organisation": "Institute for Research in Fundamental Sciences (IPM)"
     },
     {
-        "domain": ".\u0627\u0645\u0627\u0631\u0627\u062a",
+        "domain": "\u0627\u0645\u0627\u0631\u0627\u062a",
         "type": "country-code",
         "organisation": "Telecommunications Regulatory Authority (TRA)"
     },
     {
-        "domain": ".\u0628\u0627\u0632\u0627\u0631",
+        "domain": "\u0628\u0627\u0632\u0627\u0631",
         "type": "generic",
         "organisation": "CORE Association"
     },
     {
-        "domain": ".\u067e\u0627\u06a9\u0633\u062a\u0627\u0646",
+        "domain": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646",
         "type": "country-code",
         "organisation": "Not assigned"
     },
     {
-        "domain": ".\u0627\u0644\u0627\u0631\u062f\u0646",
+        "domain": "\u0627\u0644\u0627\u0631\u062f\u0646",
         "type": "country-code",
         "organisation": "National Information Technology Center (NITC)"
     },
     {
-        "domain": ".\u0628\u06be\u0627\u0631\u062a",
+        "domain": "\u0628\u06be\u0627\u0631\u062a",
         "type": "country-code",
         "organisation": "National Internet Exchange of India"
     },
     {
-        "domain": ".\u0627\u0644\u0645\u063a\u0631\u0628",
+        "domain": "\u0627\u0644\u0645\u063a\u0631\u0628",
         "type": "country-code",
         "organisation": "Agence Nationale de R\u00e9glementation des T\u00e9l\u00e9communications (ANRT)"
     },
     {
-        "domain": ".\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+        "domain": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
         "type": "country-code",
         "organisation": "Communications and Information Technology Commission"
     },
     {
-        "domain": ".\u0633\u0648\u062f\u0627\u0646",
+        "domain": "\u0633\u0648\u062f\u0627\u0646",
         "type": "country-code",
         "organisation": "Not assigned"
     },
     {
-        "domain": ".\u0645\u0644\u064a\u0633\u064a\u0627",
+        "domain": "\u0645\u0644\u064a\u0633\u064a\u0627",
         "type": "country-code",
         "organisation": "MYNIC Berhad"
     },
     {
-        "domain": ".\u0634\u0628\u0643\u0629",
+        "domain": "\u0634\u0628\u0643\u0629",
         "type": "generic",
         "organisation": "International Domain Registry Pty. Ltd."
     },
     {
-        "domain": ".\u10d2\u10d4",
+        "domain": "\u10d2\u10d4",
         "type": "country-code",
         "organisation": "Not assigned"
     },
     {
-        "domain": ".\u0e44\u0e17\u0e22",
+        "domain": "\u0e44\u0e17\u0e22",
         "type": "country-code",
         "organisation": "Thai Network Information Center Foundation"
     },
     {
-        "domain": ".\u0633\u0648\u0631\u064a\u0629",
+        "domain": "\u0633\u0648\u0631\u064a\u0629",
         "type": "country-code",
         "organisation": "National Agency for Network Services (NANS)"
     },
     {
-        "domain": ".\u0440\u0444",
+        "domain": "\u0440\u0444",
         "type": "country-code",
         "organisation": "Coordination Center for TLD RU"
     },
     {
-        "domain": ".\u062a\u0648\u0646\u0633",
+        "domain": "\u062a\u0648\u0646\u0633",
         "type": "country-code",
         "organisation": "Agence Tunisienne d\u0027Internet"
     },
     {
-        "domain": ".\u307f\u3093\u306a",
+        "domain": "\u307f\u3093\u306a",
         "type": "generic",
         "organisation": "Charleston Road Registry Inc."
     },
     {
-        "domain": ".\u0a2d\u0a3e\u0a30\u0a24",
+        "domain": "\u0a2d\u0a3e\u0a30\u0a24",
         "type": "country-code",
         "organisation": "National Internet Exchange of India"
     },
     {
-        "domain": ".\u6e38\u620f",
+        "domain": "\u6e38\u620f",
         "type": "generic",
         "organisation": "Spring Fields, LLC"
     },
     {
-        "domain": ".\u0645\u0635\u0631",
+        "domain": "\u0645\u0635\u0631",
         "type": "country-code",
         "organisation": "National Telecommunication Regulatory Authority - NTRA"
     },
     {
-        "domain": ".\u0642\u0637\u0631",
+        "domain": "\u0642\u0637\u0631",
         "type": "country-code",
         "organisation": "Supreme Council for Communications and Information Technology (ictQATAR)"
     },
     {
-        "domain": ".\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+        "domain": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
         "type": "country-code",
         "organisation": "LK Domain Registry"
     },
     {
-        "domain": ".\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+        "domain": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
         "type": "country-code",
         "organisation": "National Internet Exchange of India"
     },
     {
-        "domain": ".\u65b0\u52a0\u5761",
+        "domain": "\u65b0\u52a0\u5761",
         "type": "country-code",
         "organisation": "Singapore Network Information Centre (SGNIC) Pte Ltd"
     },
     {
-        "domain": ".\u0641\u0644\u0633\u0637\u064a\u0646",
+        "domain": "\u0641\u0644\u0633\u0637\u064a\u0646",
         "type": "country-code",
         "organisation": "Ministry of Telecom \u0026 Information Technology (MTIT)"
     },
     {
-        "domain": ".\u30c6\u30b9\u30c8",
+        "domain": "\u30c6\u30b9\u30c8",
         "type": "test",
         "organisation": "Internet Assigned Numbers Authority"
     },
     {
-        "domain": ".\u653f\u52a1",
+        "domain": "\u653f\u52a1",
         "type": "generic",
         "organisation": "China Organizational Name Administration Center"
     },
     {
-        "domain": ".xxx",
+        "domain": "xxx",
         "type": "sponsored",
         "organisation": "ICM Registry LLC"
     },
     {
-        "domain": ".xyz",
+        "domain": "xyz",
         "type": "generic",
         "organisation": "XYZ.COM LLC"
     },
     {
-        "domain": ".ye",
+        "domain": "ye",
         "type": "country-code",
         "organisation": "TeleYemen"
     },
     {
-        "domain": ".yt",
+        "domain": "yt",
         "type": "country-code",
         "organisation": "AFNIC (NIC France) - Immeuble International"
     },
     {
-        "domain": ".za",
+        "domain": "za",
         "type": "country-code",
         "organisation": "ZA Domain Name Authority"
     },
     {
-        "domain": ".zm",
+        "domain": "zm",
         "type": "country-code",
         "organisation": "ZAMNET Communication Systems Ltd."
     },
     {
-        "domain": ".zone",
+        "domain": "zone",
         "type": "generic",
         "organisation": "Outer Falls, LLC"
     },
     {
-        "domain": ".zw",
+        "domain": "zw",
         "type": "country-code",
         "organisation": "Postal and Telecommunications Regulatory Authority of Zimbabwe (POTRAZ)"
     }

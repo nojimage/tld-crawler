@@ -29,7 +29,7 @@ $yaml = new YamlWriter($yamlFile);
 // fetch data
 $crawler->filter('#tld-table tbody > tr')->each(function (Crawler $node) use ($collection) {
 	$tld = new TLD();
-	$tld->domain = $node->children()->eq(0)->text();
+	$tld->domain = ltrim($node->children()->eq(0)->text(), '.');
 	$tld->type = $node->children()->eq(1)->text();
 	$tld->organisation = $node->children()->eq(2)->text();
 
