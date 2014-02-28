@@ -1,0 +1,1948 @@
+-
+  domain: .ac
+  type: country-code
+  organisation: "Network Information Center (AC Domain Registry)\nc/o Cable and Wireless (Ascension Island)"
+-
+  domain: .academy
+  type: generic
+  organisation: 'Half Oaks, LLC'
+-
+  domain: .actor
+  type: generic
+  organisation: 'United TLD Holdco Ltd.'
+-
+  domain: .ad
+  type: country-code
+  organisation: 'Andorra Telecom'
+-
+  domain: .ae
+  type: country-code
+  organisation: 'Telecommunication Regulatory Authority (TRA)'
+-
+  domain: .aero
+  type: sponsored
+  organisation: 'Societe Internationale de Telecommunications Aeronautique (SITA INC USA)'
+-
+  domain: .af
+  type: country-code
+  organisation: 'Ministry of Communications and IT'
+-
+  domain: .ag
+  type: country-code
+  organisation: 'UHSA School of Medicine'
+-
+  domain: .agency
+  type: generic
+  organisation: 'Steel Falls, LLC'
+-
+  domain: .ai
+  type: country-code
+  organisation: 'Government of Anguilla'
+-
+  domain: .al
+  type: country-code
+  organisation: 'Electronic and Postal Communications Authority - AKEP'
+-
+  domain: .am
+  type: country-code
+  organisation: 'Internet Society'
+-
+  domain: .an
+  type: country-code
+  organisation: 'University of Curacao'
+-
+  domain: .ao
+  type: country-code
+  organisation: 'Faculdade de Engenharia da Universidade Agostinho Neto'
+-
+  domain: .aq
+  type: country-code
+  organisation: 'Mott and Associates'
+-
+  domain: .ar
+  type: country-code
+  organisation: 'Presidencia de la Nación – Secretaría Legal y Técnica'
+-
+  domain: .arpa
+  type: infrastructure
+  organisation: 'Internet Assigned Numbers Authority'
+-
+  domain: .as
+  type: country-code
+  organisation: 'AS Domain Registry'
+-
+  domain: .asia
+  type: sponsored
+  organisation: 'DotAsia Organisation Ltd.'
+-
+  domain: .at
+  type: country-code
+  organisation: 'nic.at GmbH'
+-
+  domain: .au
+  type: country-code
+  organisation: '.au Domain Administration (auDA)'
+-
+  domain: .aw
+  type: country-code
+  organisation: SETAR
+-
+  domain: .ax
+  type: country-code
+  organisation: 'Ålands landskapsregering'
+-
+  domain: .az
+  type: country-code
+  organisation: IntraNS
+-
+  domain: .ba
+  type: country-code
+  organisation: 'Universtiy Telinformatic Centre (UTIC)'
+-
+  domain: .bargains
+  type: generic
+  organisation: 'Half Hallow, LLC'
+-
+  domain: .bb
+  type: country-code
+  organisation: "Government of Barbados\nMinistry of Economic Affairs and Development\nTelecommunications Unit"
+-
+  domain: .bd
+  type: country-code
+  organisation: "Ministry of Post & Telecommunications\nBangladesh Secretariat"
+-
+  domain: .be
+  type: country-code
+  organisation: 'DNS BE vzw/asbl'
+-
+  domain: .berlin
+  type: generic
+  organisation: 'dotBERLIN GmbH & Co. KG'
+-
+  domain: .bf
+  type: country-code
+  organisation: 'ARCE-AutoritÈ de RÈgulation des Communications Electroniques'
+-
+  domain: .bg
+  type: country-code
+  organisation: Register.BG
+-
+  domain: .bh
+  type: country-code
+  organisation: 'Telecommunications Regulatory Authority (TRA)'
+-
+  domain: .bi
+  type: country-code
+  organisation: 'Centre National de l''Informatique'
+-
+  domain: .bike
+  type: generic
+  organisation: 'Grand Hollow, LLC'
+-
+  domain: .biz
+  type: generic-restricted
+  organisation: 'NeuStar, Inc.'
+-
+  domain: .bj
+  type: country-code
+  organisation: 'Benin Telecoms S.A.'
+-
+  domain: .bl
+  type: country-code
+  organisation: 'Not assigned'
+-
+  domain: .blue
+  type: generic
+  organisation: 'Afilias Limited'
+-
+  domain: .bm
+  type: country-code
+  organisation: "Registry General\nMinistry of Labour and Immigration"
+-
+  domain: .bn
+  type: country-code
+  organisation: 'Telekom Brunei Berhad'
+-
+  domain: .bo
+  type: country-code
+  organisation: 'Agencia para el Desarrollo de la Información de la Sociedad en Bolivia'
+-
+  domain: .boutique
+  type: generic
+  organisation: 'Over Galley, LLC'
+-
+  domain: .bq
+  type: country-code
+  organisation: 'Not assigned'
+-
+  domain: .br
+  type: country-code
+  organisation: 'Comite Gestor da Internet no Brasil'
+-
+  domain: .bs
+  type: country-code
+  organisation: 'The College of the Bahamas'
+-
+  domain: .bt
+  type: country-code
+  organisation: 'Ministry of Information and Communications'
+-
+  domain: .build
+  type: generic
+  organisation: 'Plan Bee LLC'
+-
+  domain: .builders
+  type: generic
+  organisation: 'Atomic Madison, LLC'
+-
+  domain: .buzz
+  type: generic
+  organisation: 'DOTSTRATEGY CO.'
+-
+  domain: .bv
+  type: country-code
+  organisation: 'UNINETT Norid A/S'
+-
+  domain: .bw
+  type: country-code
+  organisation: 'Botswana Communications Regulatory Authority (BOCRA)'
+-
+  domain: .by
+  type: country-code
+  organisation: 'Reliable Software Inc.'
+-
+  domain: .bz
+  type: country-code
+  organisation: 'University of Belize'
+-
+  domain: .ca
+  type: country-code
+  organisation: "Canadian Internet Registration Authority (CIRA)\nAutorite Canadienne pour les Enregistrements Internet (ACEI)"
+-
+  domain: .cab
+  type: generic
+  organisation: 'Half Sunset, LLC'
+-
+  domain: .camera
+  type: generic
+  organisation: 'Atomic Maple, LLC'
+-
+  domain: .camp
+  type: generic
+  organisation: 'Delta Dynamite, LLC'
+-
+  domain: .cards
+  type: generic
+  organisation: 'Foggy Hollow, LLC'
+-
+  domain: .careers
+  type: generic
+  organisation: 'Wild Corner, LLC'
+-
+  domain: .cat
+  type: sponsored
+  organisation: 'Fundacio puntCAT'
+-
+  domain: .catering
+  type: generic
+  organisation: 'New Falls. LLC'
+-
+  domain: .cc
+  type: country-code
+  organisation: "eNIC Cocos (Keeling) Islands Pty.\nLtd. d/b/a Island Internet Services"
+-
+  domain: .cd
+  type: country-code
+  organisation: 'Office Congolais des Postes et Télécommunications - OCPT'
+-
+  domain: .center
+  type: generic
+  organisation: 'Tin Mill, LLC'
+-
+  domain: .ceo
+  type: generic
+  organisation: 'CEOTLD Pty Ltd'
+-
+  domain: .cf
+  type: country-code
+  organisation: 'Societe Centrafricaine de Telecommunications (SOCATEL)'
+-
+  domain: .cg
+  type: country-code
+  organisation: 'ONPT Congo and Interpoint Switzerland'
+-
+  domain: .ch
+  type: country-code
+  organisation: 'SWITCH The Swiss Education & Research Network'
+-
+  domain: .cheap
+  type: generic
+  organisation: 'Sand Cover, LLC'
+-
+  domain: .christmas
+  type: generic
+  organisation: 'Uniregistry, Corp.'
+-
+  domain: .ci
+  type: country-code
+  organisation: 'INP-HB Institut National Polytechnique Felix Houphouet Boigny'
+-
+  domain: .ck
+  type: country-code
+  organisation: 'Telecom Cook Islands Ltd.'
+-
+  domain: .cl
+  type: country-code
+  organisation: 'NIC Chile (University of Chile)'
+-
+  domain: .cleaning
+  type: generic
+  organisation: 'Fox Shadow, LLC'
+-
+  domain: .clothing
+  type: generic
+  organisation: 'Steel Lake, LLC'
+-
+  domain: .club
+  type: generic
+  organisation: '.CLUB DOMAINS, LLC'
+-
+  domain: .cm
+  type: country-code
+  organisation: 'Cameroon Telecommunications (CAMTEL)'
+-
+  domain: .cn
+  type: country-code
+  organisation: 'Computer Network Information Center, Chinese Academy of Sciences'
+-
+  domain: .co
+  type: country-code
+  organisation: '.CO Internet S.A.S.'
+-
+  domain: .codes
+  type: generic
+  organisation: 'Puff Willow, LLC'
+-
+  domain: .coffee
+  type: generic
+  organisation: 'Trixy Cover, LLC'
+-
+  domain: .com
+  type: generic
+  organisation: 'VeriSign Global Registry Services'
+-
+  domain: .community
+  type: generic
+  organisation: 'Fox Orchard, LLC'
+-
+  domain: .company
+  type: generic
+  organisation: 'Silver Avenue, LLC'
+-
+  domain: .computer
+  type: generic
+  organisation: 'Pine Mill, LLC'
+-
+  domain: .construction
+  type: generic
+  organisation: 'Fox Dynamite, LLC'
+-
+  domain: .contractors
+  type: generic
+  organisation: 'Magic Woods, LLC'
+-
+  domain: .cool
+  type: generic
+  organisation: 'Koko Lake, LLC'
+-
+  domain: .coop
+  type: sponsored
+  organisation: 'DotCooperation LLC'
+-
+  domain: .cr
+  type: country-code
+  organisation: "National Academy of Sciences\nAcademia Nacional de Ciencias"
+-
+  domain: .cruises
+  type: generic
+  organisation: 'Spring Way, LLC'
+-
+  domain: .cu
+  type: country-code
+  organisation: "CENIAInternet\nIndustria y San Jose\nCapitolio Nacional"
+-
+  domain: .cv
+  type: country-code
+  organisation: 'Agência Nacional das Comunicações (ANAC)'
+-
+  domain: .cw
+  type: country-code
+  organisation: 'University of Curacao'
+-
+  domain: .cx
+  type: country-code
+  organisation: 'Christmas Island Internet Administration Limited'
+-
+  domain: .cy
+  type: country-code
+  organisation: 'University of Cyprus'
+-
+  domain: .cz
+  type: country-code
+  organisation: 'CZ.NIC, z.s.p.o'
+-
+  domain: .dance
+  type: generic
+  organisation: 'United TLD Holdco Ltd.'
+-
+  domain: .dating
+  type: generic
+  organisation: 'Pine Fest, LLC'
+-
+  domain: .de
+  type: country-code
+  organisation: 'DENIC eG'
+-
+  domain: .democrat
+  type: generic
+  organisation: 'United TLD Holdco Ltd.'
+-
+  domain: .diamonds
+  type: generic
+  organisation: 'John Edge, LLC'
+-
+  domain: .directory
+  type: generic
+  organisation: 'Extra Madison, LLC'
+-
+  domain: .dj
+  type: country-code
+  organisation: 'Djibouti Telecom S.A'
+-
+  domain: .dk
+  type: country-code
+  organisation: 'Dansk Internet Forum'
+-
+  domain: .dm
+  type: country-code
+  organisation: 'DotDM Corporation'
+-
+  domain: .do
+  type: country-code
+  organisation: "Pontificia Universidad Catolica Madre y Maestra\nRecinto Santo Tomas de Aquino"
+-
+  domain: .domains
+  type: generic
+  organisation: 'Sugar Cross, LLC'
+-
+  domain: .dz
+  type: country-code
+  organisation: CERIST
+-
+  domain: .ec
+  type: country-code
+  organisation: 'NIC.EC (NICEC) S.A.'
+-
+  domain: .edu
+  type: sponsored
+  organisation: EDUCAUSE
+-
+  domain: .education
+  type: generic
+  organisation: 'Brice Way, LLC'
+-
+  domain: .ee
+  type: country-code
+  organisation: 'Eesti Interneti Sihtasutus (EIS)'
+-
+  domain: .eg
+  type: country-code
+  organisation: "Egyptian Universities Network (EUN)\nSupreme Council of Universities"
+-
+  domain: .eh
+  type: country-code
+  organisation: 'Not assigned'
+-
+  domain: .email
+  type: generic
+  organisation: 'Spring Madison, LLC'
+-
+  domain: .enterprises
+  type: generic
+  organisation: 'Snow Oaks, LLC'
+-
+  domain: .equipment
+  type: generic
+  organisation: 'Corn Station, LLC'
+-
+  domain: .er
+  type: country-code
+  organisation: 'Eritrea Telecommunication Services Corporation (EriTel)'
+-
+  domain: .es
+  type: country-code
+  organisation: Red.es
+-
+  domain: .estate
+  type: generic
+  organisation: 'Trixy Park, LLC'
+-
+  domain: .et
+  type: country-code
+  organisation: 'Ethio telecom'
+-
+  domain: .eu
+  type: country-code
+  organisation: 'EURid vzw/asbl'
+-
+  domain: .events
+  type: generic
+  organisation: 'Pioneer Maple, LLC'
+-
+  domain: .expert
+  type: generic
+  organisation: 'Magic Pass, LLC'
+-
+  domain: .exposed
+  type: generic
+  organisation: 'Victor Beach, LLC'
+-
+  domain: .farm
+  type: generic
+  organisation: 'Just Maple, LLC'
+-
+  domain: .fi
+  type: country-code
+  organisation: 'Finnish Communications Regulatory Authority'
+-
+  domain: .fish
+  type: generic
+  organisation: 'Fox Woods, LLC'
+-
+  domain: .fj
+  type: country-code
+  organisation: "The University of the South Pacific\nIT Services"
+-
+  domain: .fk
+  type: country-code
+  organisation: 'Falkland Islands Government'
+-
+  domain: .flights
+  type: generic
+  organisation: 'Fox Station, LLC'
+-
+  domain: .florist
+  type: generic
+  organisation: 'Half Cypress, LLC'
+-
+  domain: .fm
+  type: country-code
+  organisation: 'FSM Telecommunications Corporation'
+-
+  domain: .fo
+  type: country-code
+  organisation: 'FO Council'
+-
+  domain: .foundation
+  type: generic
+  organisation: 'John Dale, LLC'
+-
+  domain: .fr
+  type: country-code
+  organisation: 'AFNIC (NIC France) - Immeuble International'
+-
+  domain: .futbol
+  type: generic
+  organisation: 'United TLD Holdco, Ltd.'
+-
+  domain: .ga
+  type: country-code
+  organisation: 'Agence Nationale des Infrastructures Numériques et des Fréquences (ANINF)'
+-
+  domain: .gallery
+  type: generic
+  organisation: 'Sugar House, LLC'
+-
+  domain: .gb
+  type: country-code
+  organisation: 'Reserved Domain - IANA'
+-
+  domain: .gd
+  type: country-code
+  organisation: 'The National Telecommunications Regulatory Commission (NTRC)'
+-
+  domain: .ge
+  type: country-code
+  organisation: 'Caucasus Online'
+-
+  domain: .gf
+  type: country-code
+  organisation: 'Net Plus'
+-
+  domain: .gg
+  type: country-code
+  organisation: 'Island Networks Ltd.'
+-
+  domain: .gh
+  type: country-code
+  organisation: 'Network Computer Systems Limited'
+-
+  domain: .gi
+  type: country-code
+  organisation: 'Sapphire Networks'
+-
+  domain: .gift
+  type: generic
+  organisation: 'Uniregistry, Corp.'
+-
+  domain: .gl
+  type: country-code
+  organisation: 'TELE Greenland A/S'
+-
+  domain: .glass
+  type: generic
+  organisation: 'Black Cover, LLC'
+-
+  domain: .gm
+  type: country-code
+  organisation: GM-NIC
+-
+  domain: .gn
+  type: country-code
+  organisation: 'Centre National des Sciences Halieutiques de Boussoura'
+-
+  domain: .gov
+  type: sponsored
+  organisation: "General Services Administration\nAttn: QTDC, 2E08 (.gov Domain Registration)"
+-
+  domain: .gp
+  type: country-code
+  organisation: 'Networking Technologies Group'
+-
+  domain: .gq
+  type: country-code
+  organisation: GETESA
+-
+  domain: .gr
+  type: country-code
+  organisation: 'ICS-FORTH GR'
+-
+  domain: .graphics
+  type: generic
+  organisation: 'Over Madison, LLC'
+-
+  domain: .gs
+  type: country-code
+  organisation: 'Government of South Georgia and South Sandwich Islands (GSGSSI)'
+-
+  domain: .gt
+  type: country-code
+  organisation: 'Universidad del Valle de Guatemala'
+-
+  domain: .gu
+  type: country-code
+  organisation: "University of Guam\nComputer Center"
+-
+  domain: .guitars
+  type: generic
+  organisation: 'Uniregistry, Corp.'
+-
+  domain: .guru
+  type: generic
+  organisation: 'Pioneer Cypress, LLC'
+-
+  domain: .gw
+  type: country-code
+  organisation: 'Fundação IT & MEDIA Universidade de Bissao'
+-
+  domain: .gy
+  type: country-code
+  organisation: 'University of Guyana'
+-
+  domain: .hk
+  type: country-code
+  organisation: 'Hong Kong Internet Registration Corporation Ltd.'
+-
+  domain: .hm
+  type: country-code
+  organisation: 'HM Domain Registry'
+-
+  domain: .hn
+  type: country-code
+  organisation: 'Red de Desarrollo Sostenible Honduras'
+-
+  domain: .holdings
+  type: generic
+  organisation: 'John Madison, LLC'
+-
+  domain: .holiday
+  type: generic
+  organisation: 'Goose Woods, LLC'
+-
+  domain: .house
+  type: generic
+  organisation: 'Sugar Park, LLC'
+-
+  domain: .hr
+  type: country-code
+  organisation: 'CARNet - Croatian Academic and Research Network'
+-
+  domain: .ht
+  type: country-code
+  organisation: 'Consortium FDS/RDDH'
+-
+  domain: .hu
+  type: country-code
+  organisation: 'Council of Hungarian Internet Providers (CHIP)'
+-
+  domain: .id
+  type: country-code
+  organisation: 'Perkumpulan Pengelola Nama Domain Internet Indonesia (PANDI)'
+-
+  domain: .ie
+  type: country-code
+  organisation: "University College Dublin\nComputing Services\nComputer Centre"
+-
+  domain: .il
+  type: country-code
+  organisation: 'Internet Society of Israel'
+-
+  domain: .im
+  type: country-code
+  organisation: 'Isle of Man Government'
+-
+  domain: .immobilien
+  type: generic
+  organisation: 'United TLD Holdco Ltd.'
+-
+  domain: .in
+  type: country-code
+  organisation: 'National Internet Exchange of India'
+-
+  domain: .industries
+  type: generic
+  organisation: 'Outer House, LLC'
+-
+  domain: .info
+  type: generic
+  organisation: 'Afilias Limited'
+-
+  domain: .institute
+  type: generic
+  organisation: 'Outer Maple, LLC'
+-
+  domain: .int
+  type: sponsored
+  organisation: 'Internet Assigned Numbers Authority'
+-
+  domain: .international
+  type: generic
+  organisation: 'Wild Way, LLC'
+-
+  domain: .io
+  type: country-code
+  organisation: "IO Top Level Domain Registry\nCable and Wireless"
+-
+  domain: .iq
+  type: country-code
+  organisation: 'Communications and Media Commission (CMC)'
+-
+  domain: .ir
+  type: country-code
+  organisation: 'Institute for Research in Fundamental Sciences'
+-
+  domain: .is
+  type: country-code
+  organisation: 'ISNIC - Internet Iceland ltd.'
+-
+  domain: .it
+  type: country-code
+  organisation: 'IIT - CNR'
+-
+  domain: .je
+  type: country-code
+  organisation: 'Island Networks (Jersey) Ltd.'
+-
+  domain: .jm
+  type: country-code
+  organisation: 'University of West Indies'
+-
+  domain: .jo
+  type: country-code
+  organisation: 'National Information Technology Center (NITC)'
+-
+  domain: .jobs
+  type: sponsored
+  organisation: 'Employ Media LLC'
+-
+  domain: .jp
+  type: country-code
+  organisation: 'Japan Registry Services Co., Ltd.'
+-
+  domain: .kaufen
+  type: generic
+  organisation: 'United TLD Holdco Ltd.'
+-
+  domain: .ke
+  type: country-code
+  organisation: 'Kenya Network Information Center (KeNIC)'
+-
+  domain: .kg
+  type: country-code
+  organisation: 'AsiaInfo Telecommunication Enterprise'
+-
+  domain: .kh
+  type: country-code
+  organisation: 'Ministry of Post and Telecommunications'
+-
+  domain: .ki
+  type: country-code
+  organisation: 'Ministry of Communications, Transport, and Tourism Development'
+-
+  domain: .kim
+  type: generic
+  organisation: 'Afilias Limited'
+-
+  domain: .kitchen
+  type: generic
+  organisation: 'Just Goodbye, LLC'
+-
+  domain: .kiwi
+  type: generic
+  organisation: 'DOT KIWI LIMITED'
+-
+  domain: .km
+  type: country-code
+  organisation: 'Comores Telecom'
+-
+  domain: .kn
+  type: country-code
+  organisation: 'Ministry of Finance, Sustainable Development Information & Technology'
+-
+  domain: .kp
+  type: country-code
+  organisation: 'Star Joint Venture Company'
+-
+  domain: .kr
+  type: country-code
+  organisation: 'Korea Internet & Security Agency (KISA)'
+-
+  domain: .kw
+  type: country-code
+  organisation: 'Ministry of Communications'
+-
+  domain: .ky
+  type: country-code
+  organisation: 'The Information and Communications Technology Authority'
+-
+  domain: .kz
+  type: country-code
+  organisation: 'Association of IT Companies of Kazakhstan'
+-
+  domain: .la
+  type: country-code
+  organisation: 'Lao National Internet Committee (LANIC), Ministry of Posts and Telecommunications'
+-
+  domain: .land
+  type: generic
+  organisation: 'Pine Moon, LLC'
+-
+  domain: .lb
+  type: country-code
+  organisation: "American University of Beirut\nComputing and Networking Services"
+-
+  domain: .lc
+  type: country-code
+  organisation: 'University of Puerto Rico'
+-
+  domain: .li
+  type: country-code
+  organisation: 'Universitaet Liechtenstein'
+-
+  domain: .lighting
+  type: generic
+  organisation: 'John McCook, LLC'
+-
+  domain: .limo
+  type: generic
+  organisation: 'Hidden Frostbite, LLC'
+-
+  domain: .link
+  type: generic
+  organisation: 'Uniregistry, Corp.'
+-
+  domain: .lk
+  type: country-code
+  organisation: "Council for Information Technology\nLK Domain Registrar"
+-
+  domain: .lr
+  type: country-code
+  organisation: 'Data Technology Solutions, Inc.'
+-
+  domain: .ls
+  type: country-code
+  organisation: 'National University of Lesotho'
+-
+  domain: .lt
+  type: country-code
+  organisation: 'Kaunas University of Technology'
+-
+  domain: .lu
+  type: country-code
+  organisation: RESTENA
+-
+  domain: .luxury
+  type: generic
+  organisation: 'Luxury Partners LLC'
+-
+  domain: .lv
+  type: country-code
+  organisation: "University of Latvia\nInstitute of Mathematics and Computer Science\nDepartment of Network Solutions (DNS)"
+-
+  domain: .ly
+  type: country-code
+  organisation: 'General Post and Telecommunication Company'
+-
+  domain: .ma
+  type: country-code
+  organisation: 'Agence Nationale de Réglementation des Télécommunications (ANRT)'
+-
+  domain: .management
+  type: generic
+  organisation: 'John Goodbye, LLC'
+-
+  domain: .mango
+  type: generic
+  organisation: 'PUNTO FA S.L.'
+-
+  domain: .marketing
+  type: generic
+  organisation: 'Fern Pass, LLC'
+-
+  domain: .mc
+  type: country-code
+  organisation: "Gouvernement de Monaco\nDirection des Communications Electroniques"
+-
+  domain: .md
+  type: country-code
+  organisation: 'MoldData S.E.'
+-
+  domain: .me
+  type: country-code
+  organisation: 'Government of Montenegro'
+-
+  domain: .menu
+  type: generic
+  organisation: 'Wedding TLD2, LLC'
+-
+  domain: .mf
+  type: country-code
+  organisation: 'Not assigned'
+-
+  domain: .mg
+  type: country-code
+  organisation: 'NIC-MG (Network Information Center Madagascar)'
+-
+  domain: .mh
+  type: country-code
+  organisation: 'Office of the Cabinet'
+-
+  domain: .mil
+  type: sponsored
+  organisation: 'DoD Network Information Center'
+-
+  domain: .mk
+  type: country-code
+  organisation: 'Ministry of Foreign Affairs'
+-
+  domain: .ml
+  type: country-code
+  organisation: 'Agence des Technologies de l’Information et de la Communication'
+-
+  domain: .mm
+  type: country-code
+  organisation: 'Ministry of Communications, Posts & Telegraphs'
+-
+  domain: .mn
+  type: country-code
+  organisation: 'Datacom Co., Ltd.'
+-
+  domain: .mo
+  type: country-code
+  organisation: 'Bureau of Telecommunications Regulation (DSRT)'
+-
+  domain: .mobi
+  type: sponsored
+  organisation: 'Afilias Technologies Limited dba dotMobi'
+-
+  domain: .moda
+  type: generic
+  organisation: 'United TLD Holdco Ltd.'
+-
+  domain: .monash
+  type: generic
+  organisation: 'Monash University'
+-
+  domain: .mp
+  type: country-code
+  organisation: 'Saipan Datacom, Inc.'
+-
+  domain: .mq
+  type: country-code
+  organisation: MEDIASERV
+-
+  domain: .mr
+  type: country-code
+  organisation: 'University of Nouakchott'
+-
+  domain: .ms
+  type: country-code
+  organisation: 'MNI Networks Ltd.'
+-
+  domain: .mt
+  type: country-code
+  organisation: 'NIC (Malta)'
+-
+  domain: .mu
+  type: country-code
+  organisation: 'Internet Direct Ltd'
+-
+  domain: .museum
+  type: sponsored
+  organisation: 'Museum Domain Management Association'
+-
+  domain: .mv
+  type: country-code
+  organisation: 'Dhiraagu Pvt. Ltd. (DHIVEHINET)'
+-
+  domain: .mw
+  type: country-code
+  organisation: "Malawi Sustainable Development Network Programme\n(Malawi SDNP)"
+-
+  domain: .mx
+  type: country-code
+  organisation: "NIC-Mexico\nITESM - Campus Monterrey"
+-
+  domain: .my
+  type: country-code
+  organisation: 'MYNIC Berhad'
+-
+  domain: .mz
+  type: country-code
+  organisation: 'Centro de Informatica de Universidade Eduardo Mondlane'
+-
+  domain: .na
+  type: country-code
+  organisation: 'Namibian Network Information Center'
+-
+  domain: .nagoya
+  type: generic
+  organisation: 'GMO Registry, Inc.'
+-
+  domain: .name
+  type: generic-restricted
+  organisation: 'VeriSign Information Services, Inc.'
+-
+  domain: .nc
+  type: country-code
+  organisation: 'Office des Postes et Telecommunications'
+-
+  domain: .ne
+  type: country-code
+  organisation: SONITEL
+-
+  domain: .net
+  type: generic
+  organisation: 'VeriSign Global Registry Services'
+-
+  domain: .neustar
+  type: generic
+  organisation: 'NeuStar, Inc.'
+-
+  domain: .nf
+  type: country-code
+  organisation: 'Norfolk Island Data Services'
+-
+  domain: .ng
+  type: country-code
+  organisation: 'Nigeria Internet Registration Association'
+-
+  domain: .ni
+  type: country-code
+  organisation: "Universidad Nacional del Ingernieria\nCentro de Computo"
+-
+  domain: .ninja
+  type: generic
+  organisation: 'United TLD Holdco Ltd.'
+-
+  domain: .nl
+  type: country-code
+  organisation: 'SIDN (Stichting Internet  Domeinregistratie Nederland)'
+-
+  domain: .no
+  type: country-code
+  organisation: 'UNINETT Norid A/S'
+-
+  domain: .np
+  type: country-code
+  organisation: 'Mercantile Communications Pvt. Ltd.'
+-
+  domain: .nr
+  type: country-code
+  organisation: 'CENPAC NET'
+-
+  domain: .nu
+  type: country-code
+  organisation: 'The IUSN Foundation'
+-
+  domain: .nz
+  type: country-code
+  organisation: InternetNZ
+-
+  domain: .om
+  type: country-code
+  organisation: 'Telecommunications Regulatory Authority (TRA)'
+-
+  domain: .onl
+  type: generic
+  organisation: 'I-REGISTRY Ltd., Niederlassung Deutschland'
+-
+  domain: .org
+  type: generic
+  organisation: 'Public Interest Registry (PIR)'
+-
+  domain: .pa
+  type: country-code
+  organisation: 'Universidad Tecnologica de Panama'
+-
+  domain: .partners
+  type: generic
+  organisation: 'Magic Glen, LLC'
+-
+  domain: .parts
+  type: generic
+  organisation: 'Sea Goodbye, LLC'
+-
+  domain: .pe
+  type: country-code
+  organisation: 'Red Cientifica Peruana'
+-
+  domain: .pf
+  type: country-code
+  organisation: 'Gouvernement de la Polynésie française'
+-
+  domain: .pg
+  type: country-code
+  organisation: "PNG DNS Administration\nVice Chancellors Office\nThe Papua New Guinea University of Technology"
+-
+  domain: .ph
+  type: country-code
+  organisation: 'PH Domain Foundation'
+-
+  domain: .photo
+  type: generic
+  organisation: 'Uniregistry, Corp.'
+-
+  domain: .photography
+  type: generic
+  organisation: 'Sugar Glen, LLC'
+-
+  domain: .photos
+  type: generic
+  organisation: 'Sea Corner, LLC'
+-
+  domain: .pics
+  type: generic
+  organisation: 'Uniregistry, Corp.'
+-
+  domain: .pink
+  type: generic
+  organisation: 'Afilias Limited'
+-
+  domain: .pk
+  type: country-code
+  organisation: PKNIC
+-
+  domain: .pl
+  type: country-code
+  organisation: 'Research and Academic Computer Network'
+-
+  domain: .plumbing
+  type: generic
+  organisation: 'Spring Tigers, LLC'
+-
+  domain: .pm
+  type: country-code
+  organisation: 'AFNIC (NIC France) - Immeuble International'
+-
+  domain: .pn
+  type: country-code
+  organisation: 'Pitcairn Island Administration'
+-
+  domain: .post
+  type: sponsored
+  organisation: 'Universal Postal Union'
+-
+  domain: .pr
+  type: country-code
+  organisation: 'Gauss Research Laboratory Inc.'
+-
+  domain: .pro
+  type: generic-restricted
+  organisation: "Registry Services Corporation\ndba RegistryPro"
+-
+  domain: .productions
+  type: generic
+  organisation: 'Magic Birch, LLC'
+-
+  domain: .properties
+  type: generic
+  organisation: 'Big Pass, LLC'
+-
+  domain: .ps
+  type: country-code
+  organisation: "Ministry Of Telecommunications &\nInformation Technology,\nGovernment Computer Center."
+-
+  domain: .pt
+  type: country-code
+  organisation: 'Associação DNS.PT'
+-
+  domain: .pub
+  type: generic
+  organisation: 'United TLD Holdco Ltd.'
+-
+  domain: .pw
+  type: country-code
+  organisation: 'Micronesia Investment and Development Corporation'
+-
+  domain: .py
+  type: country-code
+  organisation: NIC-PY
+-
+  domain: .qa
+  type: country-code
+  organisation: 'The Supreme Council of Information and Communication Technology (ictQATAR)'
+-
+  domain: .qpon
+  type: generic
+  organisation: 'dotCOOL, Inc.'
+-
+  domain: .re
+  type: country-code
+  organisation: 'AFNIC (NIC France) - Immeuble International'
+-
+  domain: .recipes
+  type: generic
+  organisation: 'Grand Island, LLC'
+-
+  domain: .red
+  type: generic
+  organisation: 'Afilias Limited'
+-
+  domain: .rentals
+  type: generic
+  organisation: 'Big Hollow,LLC'
+-
+  domain: .repair
+  type: generic
+  organisation: 'Lone Sunset, LLC'
+-
+  domain: .report
+  type: generic
+  organisation: 'Binky Glen, LLC'
+-
+  domain: .reviews
+  type: generic
+  organisation: 'United TLD Holdco, Ltd.'
+-
+  domain: .rich
+  type: generic
+  organisation: 'I-REGISTRY Ltd., Niederlassung Deutschland'
+-
+  domain: .ro
+  type: country-code
+  organisation: 'National Institute for R&D in Informatics'
+-
+  domain: .rs
+  type: country-code
+  organisation: "Serbian National Register of\nInternet Domain Names (RNIDS)"
+-
+  domain: .ru
+  type: country-code
+  organisation: 'Coordination Center for TLD RU'
+-
+  domain: .ruhr
+  type: generic
+  organisation: 'regiodot GmbH & Co. KG'
+-
+  domain: .rw
+  type: country-code
+  organisation: 'Rwanda Information Communication and Technology Association (RICTA)'
+-
+  domain: .sa
+  type: country-code
+  organisation: 'Communications and Information Technology Commission'
+-
+  domain: .sb
+  type: country-code
+  organisation: 'Solomon Telekom Company Limited'
+-
+  domain: .sc
+  type: country-code
+  organisation: 'VCS Pty Ltd'
+-
+  domain: .sd
+  type: country-code
+  organisation: 'Sudan Internet Society'
+-
+  domain: .se
+  type: country-code
+  organisation: 'The Internet Infrastructure Foundation'
+-
+  domain: .sexy
+  type: generic
+  organisation: 'Uniregistry, Corp.'
+-
+  domain: .sg
+  type: country-code
+  organisation: 'Singapore Network Information Centre (SGNIC) Pte Ltd'
+-
+  domain: .sh
+  type: country-code
+  organisation: 'Government of St. Helena'
+-
+  domain: .shiksha
+  type: generic
+  organisation: 'Afilias Limited'
+-
+  domain: .shoes
+  type: generic
+  organisation: 'Binky Galley, LLC'
+-
+  domain: .si
+  type: country-code
+  organisation: 'Academic and Research Network of Slovenia (ARNES)'
+-
+  domain: .singles
+  type: generic
+  organisation: 'Fern Madison, LLC'
+-
+  domain: .sj
+  type: country-code
+  organisation: 'UNINETT Norid A/S'
+-
+  domain: .sk
+  type: country-code
+  organisation: 'SK-NIC, a.s.'
+-
+  domain: .sl
+  type: country-code
+  organisation: Sierratel
+-
+  domain: .sm
+  type: country-code
+  organisation: 'Telecom Italia San Marino S.p.A.'
+-
+  domain: .sn
+  type: country-code
+  organisation: "Universite Cheikh Anta Diop\nNIC Senegal"
+-
+  domain: .so
+  type: country-code
+  organisation: 'Ministry of Post and Telecommunications'
+-
+  domain: .social
+  type: generic
+  organisation: 'United TLD Holdco Ltd.'
+-
+  domain: .solar
+  type: generic
+  organisation: 'Ruby Town, LLC'
+-
+  domain: .solutions
+  type: generic
+  organisation: 'Silver Cover, LLC'
+-
+  domain: .sr
+  type: country-code
+  organisation: Telesur
+-
+  domain: .ss
+  type: country-code
+  organisation: 'Not assigned'
+-
+  domain: .st
+  type: country-code
+  organisation: Tecnisys
+-
+  domain: .su
+  type: country-code
+  organisation: "Russian Institute for Development of Public Networks\n(ROSNIIROS)"
+-
+  domain: .supplies
+  type: generic
+  organisation: 'Atomic Fields, LLC'
+-
+  domain: .supply
+  type: generic
+  organisation: 'Half Falls, LLC'
+-
+  domain: .support
+  type: generic
+  organisation: 'Grand Orchard, LLC'
+-
+  domain: .sv
+  type: country-code
+  organisation: SVNet
+-
+  domain: .sx
+  type: country-code
+  organisation: 'SX Registry SA B.V.'
+-
+  domain: .sy
+  type: country-code
+  organisation: 'National Agency for Network Services (NANS)'
+-
+  domain: .systems
+  type: generic
+  organisation: 'Dash Cypress, LLC'
+-
+  domain: .sz
+  type: country-code
+  organisation: "University of Swaziland\nDepartment of Computer Science"
+-
+  domain: .tattoo
+  type: generic
+  organisation: 'Uniregistry, Corp.'
+-
+  domain: .tc
+  type: country-code
+  organisation: 'Melrex TC'
+-
+  domain: .td
+  type: country-code
+  organisation: 'Société des télécommunications du Tchad (SOTEL TCHAD)'
+-
+  domain: .technology
+  type: generic
+  organisation: 'Auburn Falls, LLC'
+-
+  domain: .tel
+  type: sponsored
+  organisation: 'Telnic Ltd.'
+-
+  domain: .tf
+  type: country-code
+  organisation: 'AFNIC (NIC France) - Immeuble International'
+-
+  domain: .tg
+  type: country-code
+  organisation: 'Cafe Informatique et Telecommunications'
+-
+  domain: .th
+  type: country-code
+  organisation: 'Thai Network Information Center Foundation'
+-
+  domain: .tienda
+  type: generic
+  organisation: 'Victor Manor, LLC'
+-
+  domain: .tips
+  type: generic
+  organisation: 'Corn Willow, LLC'
+-
+  domain: .tj
+  type: country-code
+  organisation: 'Information Technology Center'
+-
+  domain: .tk
+  type: country-code
+  organisation: 'Telecommunication Tokelau Corporation (Teletok)'
+-
+  domain: .tl
+  type: country-code
+  organisation: "Ministry of Infrastructure\nInformation and Technology Division"
+-
+  domain: .tm
+  type: country-code
+  organisation: 'TM Domain Registry Ltd'
+-
+  domain: .tn
+  type: country-code
+  organisation: 'Agence Tunisienne d''Internet'
+-
+  domain: .to
+  type: country-code
+  organisation: "Government of the Kingdom of Tonga\nH.R.H. Crown Prince Tupouto'a\nc/o Consulate of Tonga"
+-
+  domain: .today
+  type: generic
+  organisation: 'Pearl Woods, LLC'
+-
+  domain: .tokyo
+  type: generic
+  organisation: 'GMO Registry, Inc.'
+-
+  domain: .tools
+  type: generic
+  organisation: 'Pioneer North, LLC'
+-
+  domain: .tp
+  type: country-code
+  organisation: '-'
+-
+  domain: .tr
+  type: country-code
+  organisation: "Middle East Technical University\nDepartment of Computer Engineering"
+-
+  domain: .training
+  type: generic
+  organisation: 'Wild Willow, LLC'
+-
+  domain: .travel
+  type: sponsored
+  organisation: 'Tralliance Registry Management Company, LLC.'
+-
+  domain: .tt
+  type: country-code
+  organisation: "University of the West Indies\nFaculty of Engineering"
+-
+  domain: .tv
+  type: country-code
+  organisation: 'Ministry of Finance and Tourism'
+-
+  domain: .tw
+  type: country-code
+  organisation: 'Taiwan Network Information Center (TWNIC)'
+-
+  domain: .tz
+  type: country-code
+  organisation: 'Tanzania Network Information Centre (tzNIC)'
+-
+  domain: .ua
+  type: country-code
+  organisation: 'Communication Systems Ltd'
+-
+  domain: .ug
+  type: country-code
+  organisation: 'Uganda Online Ltd.'
+-
+  domain: .uk
+  type: country-code
+  organisation: 'Nominet UK'
+-
+  domain: .um
+  type: country-code
+  organisation: 'Not assigned'
+-
+  domain: .uno
+  type: generic
+  organisation: 'Dot Latin LLC'
+-
+  domain: .us
+  type: country-code
+  organisation: 'NeuStar, Inc.'
+-
+  domain: .uy
+  type: country-code
+  organisation: 'SeCIU - Universidad de la Republica'
+-
+  domain: .uz
+  type: country-code
+  organisation: "Computerization and Information Technologies Developing Center\nUZINFOCOM"
+-
+  domain: .va
+  type: country-code
+  organisation: 'Holy See Secretariat of State Department of Telecommunications'
+-
+  domain: .vacations
+  type: generic
+  organisation: 'Atomic Tigers, LLC'
+-
+  domain: .vc
+  type: country-code
+  organisation: 'Ministry of Telecommunications, Science, Technology and Industry'
+-
+  domain: .ve
+  type: country-code
+  organisation: 'Comisión Nacional de Telecomunicaciones (CONATEL)'
+-
+  domain: .ventures
+  type: generic
+  organisation: 'Binky Lake, LLC'
+-
+  domain: .vg
+  type: country-code
+  organisation: 'Pinebrook Developments Ltd'
+-
+  domain: .vi
+  type: country-code
+  organisation: "Virgin Islands Public Telcommunications System\nc/o COBEX Internet Services"
+-
+  domain: .viajes
+  type: generic
+  organisation: 'Black Madison, LLC'
+-
+  domain: .villas
+  type: generic
+  organisation: 'New Sky, LLC'
+-
+  domain: .vision
+  type: generic
+  organisation: 'Koko Station, LLC'
+-
+  domain: .vn
+  type: country-code
+  organisation: 'Ministry of Information and Communications of Socialist Republic of Viet Nam'
+-
+  domain: .voting
+  type: generic
+  organisation: 'Valuetainment Corp.'
+-
+  domain: .voyage
+  type: generic
+  organisation: 'Ruby House, LLC'
+-
+  domain: .vu
+  type: country-code
+  organisation: 'Telecom Vanuatu Limited'
+-
+  domain: .wang
+  type: generic
+  organisation: 'Zodiac Leo Limited'
+-
+  domain: .watch
+  type: generic
+  organisation: 'Sand Shadow, LLC'
+-
+  domain: .wed
+  type: generic
+  organisation: 'Atgron, Inc.'
+-
+  domain: .wf
+  type: country-code
+  organisation: 'AFNIC (NIC France) - Immeuble International'
+-
+  domain: .wien
+  type: generic
+  organisation: 'punkt.wien GmbH'
+-
+  domain: .wiki
+  type: generic
+  organisation: 'Top Level Design, LLC'
+-
+  domain: .works
+  type: generic
+  organisation: 'Little Dynamite, LLC'
+-
+  domain: .ws
+  type: country-code
+  organisation: 'Government of Samoa Ministry of Foreign Affairs & Trade'
+-
+  domain: .测试
+  type: test
+  organisation: 'Internet Assigned Numbers Authority'
+-
+  domain: .परीक्षा
+  type: test
+  organisation: 'Internet Assigned Numbers Authority'
+-
+  domain: .集团
+  type: generic
+  organisation: 'Eagle Horizon Limited'
+-
+  domain: .在线
+  type: generic
+  organisation: 'TLD REGISTRY LIMITED'
+-
+  domain: .한국
+  type: country-code
+  organisation: 'KISA (Korea Internet & Security Agency)'
+-
+  domain: .ভারত
+  type: country-code
+  organisation: 'National Internet Exchange of India'
+-
+  domain: .বাংলা
+  type: country-code
+  organisation: 'Not assigned'
+-
+  domain: '.公益'
+  type: generic
+  organisation: 'China Organizational Name Administration Center'
+-
+  domain: '.公司'
+  type: generic
+  organisation: 'Computer Network Information Center of Chinese Academy of Sciences （China Internet Network Information Center）'
+-
+  domain: .移动
+  type: generic
+  organisation: 'Afilias Limited'
+-
+  domain: '.我爱你'
+  type: generic
+  organisation: 'Tycoon Treasure Limited'
+-
+  domain: .испытание
+  type: test
+  organisation: 'Internet Assigned Numbers Authority'
+-
+  domain: .қаз
+  type: country-code
+  organisation: 'Association of IT Companies of Kazakhstan'
+-
+  domain: .онлайн
+  type: generic
+  organisation: 'CORE Association'
+-
+  domain: .сайт
+  type: generic
+  organisation: 'CORE Association'
+-
+  domain: .срб
+  type: country-code
+  organisation: 'Serbian National Register of Internet Domain Names (RNIDS)'
+-
+  domain: '.테스트'
+  type: test
+  organisation: 'Internet Assigned Numbers Authority'
+-
+  domain: .삼성
+  type: generic
+  organisation: 'SAMSUNG SDS CO., LTD'
+-
+  domain: .சிங்கப்பூர்
+  type: country-code
+  organisation: 'Singapore Network Information Centre (SGNIC) Pte Ltd'
+-
+  domain: .дети
+  type: generic
+  organisation: 'The Foundation for Network Initiatives “The Smart Internet”'
+-
+  domain: .טעסט
+  type: test
+  organisation: 'Internet Assigned Numbers Authority'
+-
+  domain: .中文网
+  type: generic
+  organisation: 'TLD REGISTRY LIMITED'
+-
+  domain: .中信
+  type: generic
+  organisation: 'CITIC Group Corporation'
+-
+  domain: .中国
+  type: country-code
+  organisation: 'China Internet Network Information Center'
+-
+  domain: .中國
+  type: country-code
+  organisation: 'China Internet Network Information Center'
+-
+  domain: .భారత్
+  type: country-code
+  organisation: 'National Internet Exchange of India'
+-
+  domain: .ලංකා
+  type: country-code
+  organisation: 'LK Domain Registry'
+-
+  domain: .測試
+  type: test
+  organisation: 'Internet Assigned Numbers Authority'
+-
+  domain: .ભારત
+  type: country-code
+  organisation: 'National Internet Exchange of India'
+-
+  domain: .भारत
+  type: country-code
+  organisation: 'National Internet Exchange of India'
+-
+  domain: '.آزمایشی'
+  type: test
+  organisation: 'Internet Assigned Numbers Authority'
+-
+  domain: .பரிட்சை
+  type: test
+  organisation: 'Internet Assigned Numbers Authority'
+-
+  domain: .网络
+  type: generic
+  organisation: 'Computer Network Information Center of Chinese Academy of Sciences （China Internet Network Information Center）'
+-
+  domain: .укр
+  type: country-code
+  organisation: 'Ukrainian Network Information Centre (UANIC), Inc.'
+-
+  domain: .香港
+  type: country-code
+  organisation: 'Hong Kong Internet Registration Corporation Ltd.'
+-
+  domain: .δοκιμή
+  type: test
+  organisation: 'Internet Assigned Numbers Authority'
+-
+  domain: .إختبار
+  type: test
+  organisation: 'Internet Assigned Numbers Authority'
+-
+  domain: .台湾
+  type: country-code
+  organisation: 'Taiwan Network Information Center (TWNIC)'
+-
+  domain: .台灣
+  type: country-code
+  organisation: 'Taiwan Network Information Center (TWNIC)'
+-
+  domain: .мон
+  type: country-code
+  organisation: 'Datacom Co.,Ltd'
+-
+  domain: .الجزائر
+  type: country-code
+  organisation: CERIST
+-
+  domain: '.عمان'
+  type: country-code
+  organisation: 'Telecommunications Regulatory Authority (TRA)'
+-
+  domain: .ایران
+  type: country-code
+  organisation: 'Institute for Research in Fundamental Sciences (IPM)'
+-
+  domain: '.امارات'
+  type: country-code
+  organisation: 'Telecommunications Regulatory Authority (TRA)'
+-
+  domain: .بازار
+  type: generic
+  organisation: 'CORE Association'
+-
+  domain: .پاکستان
+  type: country-code
+  organisation: 'Not assigned'
+-
+  domain: .الاردن
+  type: country-code
+  organisation: 'National Information Technology Center (NITC)'
+-
+  domain: .بھارت
+  type: country-code
+  organisation: 'National Internet Exchange of India'
+-
+  domain: '.المغرب'
+  type: country-code
+  organisation: 'Agence Nationale de Réglementation des Télécommunications (ANRT)'
+-
+  domain: .السعودية
+  type: country-code
+  organisation: 'Communications and Information Technology Commission'
+-
+  domain: .سودان
+  type: country-code
+  organisation: 'Not assigned'
+-
+  domain: '.مليسيا'
+  type: country-code
+  organisation: 'MYNIC Berhad'
+-
+  domain: .شبكة
+  type: generic
+  organisation: 'International Domain Registry Pty. Ltd.'
+-
+  domain: .გე
+  type: country-code
+  organisation: 'Not assigned'
+-
+  domain: .ไทย
+  type: country-code
+  organisation: 'Thai Network Information Center Foundation'
+-
+  domain: .سورية
+  type: country-code
+  organisation: 'National Agency for Network Services (NANS)'
+-
+  domain: .рф
+  type: country-code
+  organisation: 'Coordination Center for TLD RU'
+-
+  domain: .تونس
+  type: country-code
+  organisation: 'Agence Tunisienne d''Internet'
+-
+  domain: .みんな
+  type: generic
+  organisation: 'Charleston Road Registry Inc.'
+-
+  domain: .ਭਾਰਤ
+  type: country-code
+  organisation: 'National Internet Exchange of India'
+-
+  domain: .游戏
+  type: generic
+  organisation: 'Spring Fields, LLC'
+-
+  domain: '.مصر'
+  type: country-code
+  organisation: 'National Telecommunication Regulatory Authority - NTRA'
+-
+  domain: .قطر
+  type: country-code
+  organisation: 'Supreme Council for Communications and Information Technology (ictQATAR)'
+-
+  domain: .இலங்கை
+  type: country-code
+  organisation: 'LK Domain Registry'
+-
+  domain: .இந்தியா
+  type: country-code
+  organisation: 'National Internet Exchange of India'
+-
+  domain: '.新加坡'
+  type: country-code
+  organisation: 'Singapore Network Information Centre (SGNIC) Pte Ltd'
+-
+  domain: .فلسطين
+  type: country-code
+  organisation: 'Ministry of Telecom & Information Technology (MTIT)'
+-
+  domain: .テスト
+  type: test
+  organisation: 'Internet Assigned Numbers Authority'
+-
+  domain: .政务
+  type: generic
+  organisation: 'China Organizational Name Administration Center'
+-
+  domain: .xxx
+  type: sponsored
+  organisation: 'ICM Registry LLC'
+-
+  domain: .xyz
+  type: generic
+  organisation: 'XYZ.COM LLC'
+-
+  domain: .ye
+  type: country-code
+  organisation: TeleYemen
+-
+  domain: .yt
+  type: country-code
+  organisation: 'AFNIC (NIC France) - Immeuble International'
+-
+  domain: .za
+  type: country-code
+  organisation: 'ZA Domain Name Authority'
+-
+  domain: .zm
+  type: country-code
+  organisation: 'ZAMNET Communication Systems Ltd.'
+-
+  domain: .zone
+  type: generic
+  organisation: 'Outer Falls, LLC'
+-
+  domain: .zw
+  type: country-code
+  organisation: 'Postal and Telecommunications Regulatory Authority of Zimbabwe (POTRAZ)'
