@@ -9,6 +9,7 @@ $url = 'http://www.iana.org/domains/root/db';
 $csvFile = './data/tld.csv';
 $jsonFile = './data/tld.json';
 $yamlFile = './data/tld.yml';
+$regexpFile = './data/tld-regexp.php';
 
 use Symfony\Component\DomCrawler\Crawler;
 use Guzzle\Common\Collection;
@@ -17,6 +18,7 @@ use Nojimage\TLDCrawler\TLD;
 use Nojimage\TLDCrawler\Writer\CSVWriter;
 use Nojimage\TLDCrawler\Writer\JsonWriter;
 use Nojimage\TLDCrawler\Writer\YamlWriter;
+use Nojimage\TLDCrawler\Writer\RegexpWriter;
 
 $client = new Goutte();
 $crawler = $client->request('GET', $url);
@@ -25,6 +27,7 @@ $collection = new Collection();
 $csv = new CSVWriter($csvFile);
 $json = new JsonWriter($jsonFile);
 $yaml = new YamlWriter($yamlFile);
+$regexp = new RegexpWriter($regexpFile);
 
 // fetch data
 $crawler->filter('#tld-table tbody > tr')->each(function (Crawler $node) use ($collection) {
@@ -36,8 +39,9 @@ $crawler->filter('#tld-table tbody > tr')->each(function (Crawler $node) use ($c
 	$collection->add($tld->domain, $tld);
 });
 
-$collection->map(function ($domain, TLD $tld) use ($csv, $json, $yaml) {
+$collection->map(function ($domain, TLD $tld) use ($csv, $json, $yaml, $regexp) {
 	$csv->write($tld);
 	$json->write($tld);
 	$yaml->write($tld);
+	$regexp->write($tld);
 });
