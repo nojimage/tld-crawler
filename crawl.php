@@ -29,12 +29,18 @@ $json = new JsonWriter($jsonFile);
 $yaml = new YamlWriter($yamlFile);
 $regexp = new RegexpWriter($regexpFile);
 
+$withPunycode = function_exists('\idn_to_ascii');
 // fetch data
-$crawler->filter('#tld-table tbody > tr')->each(function (Crawler $node) use ($collection) {
+$crawler->filter('#tld-table tbody > tr')->each(function (Crawler $node) use ($collection, $withPunycode) {
 	$tld = new TLD();
 	$tld->domain = ltrim($node->children()->eq(0)->text(), '.');
 	$tld->type = $node->children()->eq(1)->text();
 	$tld->organisation = $node->children()->eq(2)->text();
+	$tld->isIDN = !preg_match('/^[a-z0-9]+$/u', $tld->domain);
+
+	if ($withPunycode) {
+		$tld->punycode = \idn_to_ascii($tld->domain);
+	}
 
 	$collection->add($tld->domain, $tld);
 });

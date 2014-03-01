@@ -22,33 +22,33 @@ class RegexpWriter extends FileWriter
 
 	public function write(\Nojimage\TLDCrawler\TLD $tld)
 	{
-		$code = (preg_match('/^[a-z0-9]+$/u', $tld->domain)) ? 'ascii' : 'utf8';
+		$code = $tld->isIDN ? 'utf8' : 'ascii';
 
 		if ($tld->type === 'country-code') {
 			$this->ccTLD[$code][] = $tld->domain;
+			if ($code === 'utf8') {
+				$this->ccTLD['punycode'][] = $tld->punycode;
+			}
 		} else {
 			$this->gTLD[$code][] = $tld->domain;
+			if ($code === 'utf8') {
+				$this->gTLD['punycode'][] = $tld->punycode;
+			}
 		}
 		return $this;
 	}
 
 	public function save()
 	{
-		$withPunycode = function_exists('\idn_to_ascii');
 		$gTLD = $this->gTLD;
 		$ccTLD = $this->ccTLD;
-
-		if ($withPunycode) {
-			$gTLD['punycode'] = array_map('\idn_to_ascii', $gTLD['utf8']);
-			$ccTLD['punycode'] = array_map('\idn_to_ascii', $ccTLD['utf8']);
-		}
 
 		$this->file->fwrite("<?php" . PHP_EOL . PHP_EOL);
 		$this->file->fwrite(sprintf('$gTLD = "(?:%s)";', join('|', $gTLD['ascii'])) . PHP_EOL);
 		$this->file->fwrite(sprintf('$ccTLD = "(?:%s)";', join('|', $ccTLD['ascii'])) . PHP_EOL);
-		$this->file->fwrite(sprintf('$gTLD_utf8 = "(?:%s)";', join('|', $gTLD['utf8'])) . PHP_EOL);
-		$this->file->fwrite(sprintf('$ccTLD_utf8 = "(?:%s)";', join('|', $ccTLD['utf8'])) . PHP_EOL);
-		if ($withPunycode) {
+		$this->file->fwrite(sprintf('$gTLD_IDN = "(?:%s)";', join('|', $gTLD['utf8'])) . PHP_EOL);
+		$this->file->fwrite(sprintf('$ccTLD_IDN = "(?:%s)";', join('|', $ccTLD['utf8'])) . PHP_EOL);
+		if (function_exists('\idn_to_ascii')) {
 			$this->file->fwrite(sprintf('$gTLD_punycode = "(?:%s)";', join('|', $gTLD['punycode'])) . PHP_EOL);
 			$this->file->fwrite(sprintf('$ccTLD_punycode = "(?:%s)";', join('|', $ccTLD['punycode'])) . PHP_EOL);
 		}
