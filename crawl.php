@@ -15,7 +15,7 @@ use Symfony\Component\DomCrawler\Crawler;
 use Guzzle\Common\Collection;
 use Goutte\Client as Goutte;
 use Nojimage\TLDCrawler\TLD;
-use Nojimage\TLDCrawler\Writer\CSVWriter;
+use Nojimage\TLDCrawler\Writer\CsvWriter;
 use Nojimage\TLDCrawler\Writer\JsonWriter;
 use Nojimage\TLDCrawler\Writer\YamlWriter;
 use Nojimage\TLDCrawler\Writer\RegexpWriter;
@@ -24,7 +24,7 @@ $client = new Goutte();
 $crawler = $client->request('GET', $url);
 
 $collection = new Collection();
-$csv = new CSVWriter($csvFile);
+$csv = new CsvWriter($csvFile);
 $json = new JsonWriter($jsonFile);
 $yaml = new YamlWriter($yamlFile);
 $regexp = new RegexpWriter($regexpFile);
