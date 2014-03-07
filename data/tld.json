@@ -252,6 +252,13 @@
         "punycode": "bi"
     },
     {
+        "domain": "bid",
+        "type": "generic",
+        "organisation": "dot Bid Limited",
+        "isIDN": false,
+        "punycode": "bid"
+    },
+    {
         "domain": "bike",
         "type": "generic",
         "organisation": "Grand Hollow, LLC",
@@ -1449,6 +1456,13 @@
         "punycode": "kn"
     },
     {
+        "domain": "koeln",
+        "type": "generic",
+        "organisation": "NetCologne Gesellschaft f\u00fcr Telekommunikation mbH",
+        "isIDN": false,
+        "punycode": "koeln"
+    },
+    {
         "domain": "kp",
         "type": "country-code",
         "organisation": "Star Joint Venture Company",
@@ -1944,6 +1958,13 @@
         "organisation": "InternetNZ",
         "isIDN": false,
         "punycode": "nz"
+    },
+    {
+        "domain": "okinawa",
+        "type": "generic",
+        "organisation": "BusinessRalliart inc.",
+        "isIDN": false,
+        "punycode": "okinawa"
     },
     {
         "domain": "om",
@@ -2814,11 +2835,25 @@
         "punycode": "vn"
     },
     {
+        "domain": "vote",
+        "type": "generic",
+        "organisation": "Monolith Registry LLC",
+        "isIDN": false,
+        "punycode": "vote"
+    },
+    {
         "domain": "voting",
         "type": "generic",
         "organisation": "Valuetainment Corp.",
         "isIDN": false,
         "punycode": "voting"
+    },
+    {
+        "domain": "voto",
+        "type": "generic",
+        "organisation": "Monolith Registry LLC",
+        "isIDN": false,
+        "punycode": "voto"
     },
     {
         "domain": "voyage",
@@ -3008,6 +3043,13 @@
         "organisation": "Internet Assigned Numbers Authority",
         "isIDN": true,
         "punycode": "xn--9t4b11yi5a"
+    },
+    {
+        "domain": "\u043e\u0440\u0433",
+        "type": "generic",
+        "organisation": "Public Interest Registry",
+        "isIDN": true,
+        "punycode": "xn--c1avg"
     },
     {
         "domain": "\uc0bc\uc131",
