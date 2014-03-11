@@ -2705,6 +2705,12 @@
   isIDN: true
   punycode: xn--hlcj6aya9esc7a
 -
+  domain: संगठन
+  type: generic
+  organisation: 'Public Interest Registry'
+  isIDN: true
+  punycode: xn--i1b6b1a6a2e
+-
   domain: 网络
   type: generic
   organisation: 'Computer Network Information Center of Chinese Academy of Sciences （China Internet Network Information Center）'
@@ -2836,6 +2842,18 @@
   organisation: 'Not assigned'
   isIDN: true
   punycode: xn--node
+-
+  domain: 机构
+  type: generic
+  organisation: 'Public Interest Registry'
+  isIDN: true
+  punycode: xn--nqv7f
+-
+  domain: 组织机构
+  type: generic
+  organisation: 'Public Interest Registry'
+  isIDN: true
+  punycode: xn--nqv7fs00ema
 -
   domain: ไทย
   type: country-code
