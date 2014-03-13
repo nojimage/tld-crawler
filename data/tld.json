@@ -3367,6 +3367,13 @@
         "punycode": "xn--q9jyb4c"
     },
     {
+        "domain": "\u4e16\u754c",
+        "type": "generic",
+        "organisation": "Stable Tone Limited",
+        "isIDN": true,
+        "punycode": "xn--rhqv96g"
+    },
+    {
         "domain": "\u0a2d\u0a3e\u0a30\u0a24",
         "type": "country-code",
         "organisation": "National Internet Exchange of India",

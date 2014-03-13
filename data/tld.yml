@@ -2885,6 +2885,12 @@
   isIDN: true
   punycode: xn--q9jyb4c
 -
+  domain: 世界
+  type: generic
+  organisation: 'Stable Tone Limited'
+  isIDN: true
+  punycode: xn--rhqv96g
+-
   domain: ਭਾਰਤ
   type: country-code
   organisation: 'National Internet Exchange of India'
