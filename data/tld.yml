@@ -1163,6 +1163,12 @@
   isIDN: false
   punycode: je
 -
+  domain: jetzt
+  type: generic
+  organisation: 'New TLD Company AB'
+  isIDN: false
+  punycode: jetzt
+-
   domain: jm
   type: country-code
   organisation: 'University of West Indies'
