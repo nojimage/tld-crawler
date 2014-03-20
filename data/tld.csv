@@ -22,6 +22,7 @@ at,country-code,"nic.at GmbH"
 au,country-code,".au Domain Administration (auDA)"
 aw,country-code,SETAR
 ax,country-code,"Ålands landskapsregering"
+axa,generic,"AXA SA"
 az,country-code,IntraNS
 ba,country-code,"Universtiy Telinformatic Centre (UTIC)"
 bar,generic,"Punto 2012 Sociedad Anonima Promotora de Inversion de Capital Variable"
@@ -90,6 +91,7 @@ cn,country-code,"Computer Network Information Center, Chinese Academy of Science
 co,country-code,".CO Internet S.A.S."
 codes,generic,"Puff Willow, LLC"
 coffee,generic,"Trixy Cover, LLC"
+cologne,generic,"NetCologne Gesellschaft für Telekommunikation mbH"
 com,generic,"VeriSign Global Registry Services"
 community,generic,"Fox Orchard, LLC"
 company,generic,"Silver Avenue, LLC"
@@ -418,6 +420,7 @@ tools,generic,"Pioneer North, LLC"
 tp,country-code,-
 tr,country-code,"Middle East Technical University
 Department of Computer Engineering"
+trade,generic,"Elite Registry Limited"
 training,generic,"Wild Willow, LLC"
 travel,sponsored,"Tralliance Registry Management Company, LLC."
 tt,country-code,"University of the West Indies
@@ -453,6 +456,7 @@ voyage,generic,"Ruby House, LLC"
 vu,country-code,"Telecom Vanuatu Limited"
 wang,generic,"Zodiac Leo Limited"
 watch,generic,"Sand Shadow, LLC"
+webcam,generic,"dot Webcam Limited"
 wed,generic,"Atgron, Inc."
 wf,country-code,"AFNIC (NIC France) - Immeuble International"
 wien,generic,"punkt.wien GmbH"

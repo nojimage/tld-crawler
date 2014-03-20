@@ -161,6 +161,13 @@
         "punycode": "ax"
     },
     {
+        "domain": "axa",
+        "type": "generic",
+        "organisation": "AXA SA",
+        "isIDN": false,
+        "punycode": "axa"
+    },
+    {
         "domain": "az",
         "type": "country-code",
         "organisation": "IntraNS",
@@ -593,6 +600,13 @@
         "organisation": "Trixy Cover, LLC",
         "isIDN": false,
         "punycode": "coffee"
+    },
+    {
+        "domain": "cologne",
+        "type": "generic",
+        "organisation": "NetCologne Gesellschaft f\u00fcr Telekommunikation mbH",
+        "isIDN": false,
+        "punycode": "cologne"
     },
     {
         "domain": "com",
@@ -2667,6 +2681,13 @@
         "punycode": "tr"
     },
     {
+        "domain": "trade",
+        "type": "generic",
+        "organisation": "Elite Registry Limited",
+        "isIDN": false,
+        "punycode": "trade"
+    },
+    {
         "domain": "training",
         "type": "generic",
         "organisation": "Wild Willow, LLC",
@@ -2889,6 +2910,13 @@
         "organisation": "Sand Shadow, LLC",
         "isIDN": false,
         "punycode": "watch"
+    },
+    {
+        "domain": "webcam",
+        "type": "generic",
+        "organisation": "dot Webcam Limited",
+        "isIDN": false,
+        "punycode": "webcam"
     },
     {
         "domain": "wed",
