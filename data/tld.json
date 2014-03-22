@@ -1974,6 +1974,13 @@
         "punycode": "nu"
     },
     {
+        "domain": "nyc",
+        "type": "generic",
+        "organisation": "The City of New York by and through the New York City Department of Information Technology \u0026 Telecommunications",
+        "isIDN": false,
+        "punycode": "nyc"
+    },
+    {
         "domain": "nz",
         "type": "country-code",
         "organisation": "InternetNZ",
