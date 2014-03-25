@@ -1589,6 +1589,13 @@
         "punycode": "lk"
     },
     {
+        "domain": "london",
+        "type": "generic",
+        "organisation": "Dot London Domains Limited",
+        "isIDN": false,
+        "punycode": "london"
+    },
+    {
         "domain": "lr",
         "type": "country-code",
         "organisation": "Data Technology Solutions, Inc.",
