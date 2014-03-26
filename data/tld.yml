@@ -2099,6 +2099,12 @@
   isIDN: false
   punycode: social
 -
+  domain: sohu
+  type: generic
+  organisation: 'Sohu.com Limited'
+  isIDN: false
+  punycode: sohu
+-
   domain: solar
   type: generic
   organisation: 'Ruby Town, LLC'
