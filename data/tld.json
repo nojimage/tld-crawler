@@ -294,6 +294,13 @@
         "punycode": "bl"
     },
     {
+        "domain": "black",
+        "type": "generic",
+        "organisation": "Afilias Limited",
+        "isIDN": false,
+        "punycode": "black"
+    },
+    {
         "domain": "blue",
         "type": "generic",
         "organisation": "Afilias Limited",
@@ -1694,6 +1701,13 @@
         "punycode": "me"
     },
     {
+        "domain": "meet",
+        "type": "generic",
+        "organisation": "Afilias Limited",
+        "isIDN": false,
+        "punycode": "meet"
+    },
+    {
         "domain": "menu",
         "type": "generic",
         "organisation": "Wedding TLD2, LLC",
@@ -2245,6 +2259,13 @@
         "organisation": "Afilias Limited",
         "isIDN": false,
         "punycode": "red"
+    },
+    {
+        "domain": "ren",
+        "type": "generic",
+        "organisation": "Beijing Qianxiang Wangjing Technology Development Co., Ltd.",
+        "isIDN": false,
+        "punycode": "ren"
     },
     {
         "domain": "rentals",
