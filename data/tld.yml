@@ -95,6 +95,12 @@
   isIDN: false
   punycode: ar
 -
+  domain: archi
+  type: generic
+  organisation: 'STARTING DOT LIMITED'
+  isIDN: false
+  punycode: archi
+-
   domain: arpa
   type: infrastructure
   organisation: 'Internet Assigned Numbers Authority'
@@ -563,6 +569,12 @@
   isIDN: false
   punycode: contractors
 -
+  domain: cooking
+  type: generic
+  organisation: 'Top Level Domain Holdings Limited'
+  isIDN: false
+  punycode: cooking
+-
   domain: cool
   type: generic
   organisation: 'Koko Lake, LLC'
@@ -574,6 +586,12 @@
   organisation: 'DotCooperation LLC'
   isIDN: false
   punycode: coop
+-
+  domain: country
+  type: generic
+  organisation: 'Top Level Domain Holdings Limited'
+  isIDN: false
+  punycode: country
 -
   domain: cr
   type: country-code
@@ -815,6 +833,12 @@
   isIDN: false
   punycode: fish
 -
+  domain: fishing
+  type: generic
+  organisation: 'Top Level Domain Holdings Limited'
+  isIDN: false
+  punycode: fishing
+-
   domain: fj
   type: country-code
   organisation: "The University of the South Pacific\nIT Services"
@@ -1025,6 +1049,12 @@
   isIDN: false
   punycode: gy
 -
+  domain: haus
+  type: generic
+  organisation: 'United TLD Holdco, LTD.'
+  isIDN: false
+  punycode: haus
+-
   domain: hk
   type: country-code
   organisation: 'Hong Kong Internet Registration Corporation Ltd.'
@@ -1054,6 +1084,12 @@
   organisation: 'Goose Woods, LLC'
   isIDN: false
   punycode: holiday
+-
+  domain: horse
+  type: generic
+  organisation: 'Top Level Domain Holdings Limited'
+  isIDN: false
+  punycode: horse
 -
   domain: house
   type: generic
@@ -1487,6 +1523,12 @@
   isIDN: false
   punycode: mh
 -
+  domain: miami
+  type: generic
+  organisation: 'Top Level Domain Holdings Limited'
+  isIDN: false
+  punycode: miami
+-
   domain: mil
   type: sponsored
   organisation: 'DoD Network Information Center'
@@ -1534,6 +1576,12 @@
   organisation: 'United TLD Holdco Ltd.'
   isIDN: false
   punycode: moda
+-
+  domain: moe
+  type: generic
+  organisation: 'Interlink Co., Ltd.'
+  isIDN: false
+  punycode: moe
 -
   domain: monash
   type: generic
@@ -1978,6 +2026,12 @@
   organisation: 'National Institute for R&D in Informatics'
   isIDN: false
   punycode: ro
+-
+  domain: rodeo
+  type: generic
+  organisation: 'Top Level Domain Holdings Limited'
+  isIDN: false
+  punycode: rodeo
 -
   domain: rs
   type: country-code
@@ -2447,6 +2501,12 @@
   isIDN: false
   punycode: ve
 -
+  domain: vegas
+  type: generic
+  organisation: 'Dot Vegas, Inc.'
+  isIDN: false
+  punycode: vegas
+-
   domain: ventures
   type: generic
   organisation: 'Binky Lake, LLC'
@@ -2488,6 +2548,12 @@
   organisation: 'Ministry of Information and Communications of Socialist Republic of Viet Nam'
   isIDN: false
   punycode: vn
+-
+  domain: vodka
+  type: generic
+  organisation: 'Top Level Domain Holdings Limited'
+  isIDN: false
+  punycode: vodka
 -
   domain: vote
   type: generic
@@ -2692,6 +2758,12 @@
   organisation: 'Singapore Network Information Centre (SGNIC) Pte Ltd'
   isIDN: true
   punycode: xn--clchc0ea0b2g2a9gcd
+-
+  domain: 商城
+  type: generic
+  organisation: 'Zodiac Capricorn Limited'
+  isIDN: true
+  punycode: xn--czru2d
 -
   domain: дети
   type: generic
