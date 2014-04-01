@@ -100,7 +100,7 @@
     {
         "domain": "aq",
         "type": "country-code",
-        "organisation": "Mott and Associates",
+        "organisation": "Antarctica Network Information Centre Limited",
         "isIDN": false,
         "punycode": "aq"
     },
@@ -110,6 +110,13 @@
         "organisation": "Presidencia de la Naci\u00f3n \u2013 Secretar\u00eda Legal y T\u00e9cnica",
         "isIDN": false,
         "punycode": "ar"
+    },
+    {
+        "domain": "archi",
+        "type": "generic",
+        "organisation": "STARTING DOT LIMITED",
+        "isIDN": false,
+        "punycode": "archi"
     },
     {
         "domain": "arpa",
@@ -159,6 +166,13 @@
         "organisation": "\u00c5lands landskapsregering",
         "isIDN": false,
         "punycode": "ax"
+    },
+    {
+        "domain": "axa",
+        "type": "generic",
+        "organisation": "AXA SA",
+        "isIDN": false,
+        "punycode": "axa"
     },
     {
         "domain": "az",
@@ -252,6 +266,13 @@
         "punycode": "bi"
     },
     {
+        "domain": "bid",
+        "type": "generic",
+        "organisation": "dot Bid Limited",
+        "isIDN": false,
+        "punycode": "bid"
+    },
+    {
         "domain": "bike",
         "type": "generic",
         "organisation": "Grand Hollow, LLC",
@@ -278,6 +299,13 @@
         "organisation": "Not assigned",
         "isIDN": false,
         "punycode": "bl"
+    },
+    {
+        "domain": "black",
+        "type": "generic",
+        "organisation": "Afilias Limited",
+        "isIDN": false,
+        "punycode": "black"
     },
     {
         "domain": "blue",
@@ -588,6 +616,13 @@
         "punycode": "coffee"
     },
     {
+        "domain": "cologne",
+        "type": "generic",
+        "organisation": "NetCologne Gesellschaft f\u00fcr Telekommunikation mbH",
+        "isIDN": false,
+        "punycode": "cologne"
+    },
+    {
         "domain": "com",
         "type": "generic",
         "organisation": "VeriSign Global Registry Services",
@@ -630,6 +665,13 @@
         "punycode": "contractors"
     },
     {
+        "domain": "cooking",
+        "type": "generic",
+        "organisation": "Top Level Domain Holdings Limited",
+        "isIDN": false,
+        "punycode": "cooking"
+    },
+    {
         "domain": "cool",
         "type": "generic",
         "organisation": "Koko Lake, LLC",
@@ -642,6 +684,13 @@
         "organisation": "DotCooperation LLC",
         "isIDN": false,
         "punycode": "coop"
+    },
+    {
+        "domain": "country",
+        "type": "generic",
+        "organisation": "Top Level Domain Holdings Limited",
+        "isIDN": false,
+        "punycode": "country"
     },
     {
         "domain": "cr",
@@ -924,6 +973,13 @@
         "punycode": "fish"
     },
     {
+        "domain": "fishing",
+        "type": "generic",
+        "organisation": "Top Level Domain Holdings Limited",
+        "isIDN": false,
+        "punycode": "fishing"
+    },
+    {
         "domain": "fj",
         "type": "country-code",
         "organisation": "The University of the South Pacific\nIT Services",
@@ -1169,6 +1225,13 @@
         "punycode": "gy"
     },
     {
+        "domain": "haus",
+        "type": "generic",
+        "organisation": "United TLD Holdco, LTD.",
+        "isIDN": false,
+        "punycode": "haus"
+    },
+    {
         "domain": "hk",
         "type": "country-code",
         "organisation": "Hong Kong Internet Registration Corporation Ltd.",
@@ -1202,6 +1265,13 @@
         "organisation": "Goose Woods, LLC",
         "isIDN": false,
         "punycode": "holiday"
+    },
+    {
+        "domain": "horse",
+        "type": "generic",
+        "organisation": "Top Level Domain Holdings Limited",
+        "isIDN": false,
+        "punycode": "horse"
     },
     {
         "domain": "house",
@@ -1351,6 +1421,13 @@
         "punycode": "je"
     },
     {
+        "domain": "jetzt",
+        "type": "generic",
+        "organisation": "New TLD Company AB",
+        "isIDN": false,
+        "punycode": "jetzt"
+    },
+    {
         "domain": "jm",
         "type": "country-code",
         "organisation": "University of West Indies",
@@ -1447,6 +1524,13 @@
         "organisation": "Ministry of Finance, Sustainable Development Information \u0026 Technology",
         "isIDN": false,
         "punycode": "kn"
+    },
+    {
+        "domain": "koeln",
+        "type": "generic",
+        "organisation": "NetCologne Gesellschaft f\u00fcr Telekommunikation mbH",
+        "isIDN": false,
+        "punycode": "koeln"
     },
     {
         "domain": "kp",
@@ -1554,6 +1638,13 @@
         "punycode": "lk"
     },
     {
+        "domain": "london",
+        "type": "generic",
+        "organisation": "Dot London Domains Limited",
+        "isIDN": false,
+        "punycode": "london"
+    },
+    {
         "domain": "lr",
         "type": "country-code",
         "organisation": "Data Technology Solutions, Inc.",
@@ -1652,6 +1743,13 @@
         "punycode": "me"
     },
     {
+        "domain": "meet",
+        "type": "generic",
+        "organisation": "Afilias Limited",
+        "isIDN": false,
+        "punycode": "meet"
+    },
+    {
         "domain": "menu",
         "type": "generic",
         "organisation": "Wedding TLD2, LLC",
@@ -1678,6 +1776,13 @@
         "organisation": "Office of the Cabinet",
         "isIDN": false,
         "punycode": "mh"
+    },
+    {
+        "domain": "miami",
+        "type": "generic",
+        "organisation": "Top Level Domain Holdings Limited",
+        "isIDN": false,
+        "punycode": "miami"
     },
     {
         "domain": "mil",
@@ -1734,6 +1839,13 @@
         "organisation": "United TLD Holdco Ltd.",
         "isIDN": false,
         "punycode": "moda"
+    },
+    {
+        "domain": "moe",
+        "type": "generic",
+        "organisation": "Interlink Co., Ltd.",
+        "isIDN": false,
+        "punycode": "moe"
     },
     {
         "domain": "monash",
@@ -1939,11 +2051,25 @@
         "punycode": "nu"
     },
     {
+        "domain": "nyc",
+        "type": "generic",
+        "organisation": "The City of New York by and through the New York City Department of Information Technology \u0026 Telecommunications",
+        "isIDN": false,
+        "punycode": "nyc"
+    },
+    {
         "domain": "nz",
         "type": "country-code",
         "organisation": "InternetNZ",
         "isIDN": false,
         "punycode": "nz"
+    },
+    {
+        "domain": "okinawa",
+        "type": "generic",
+        "organisation": "BusinessRalliart inc.",
+        "isIDN": false,
+        "punycode": "okinawa"
     },
     {
         "domain": "om",
@@ -2191,6 +2317,13 @@
         "punycode": "red"
     },
     {
+        "domain": "ren",
+        "type": "generic",
+        "organisation": "Beijing Qianxiang Wangjing Technology Development Co., Ltd.",
+        "isIDN": false,
+        "punycode": "ren"
+    },
+    {
         "domain": "rentals",
         "type": "generic",
         "organisation": "Big Hollow,LLC",
@@ -2231,6 +2364,13 @@
         "organisation": "National Institute for R\u0026D in Informatics",
         "isIDN": false,
         "punycode": "ro"
+    },
+    {
+        "domain": "rodeo",
+        "type": "generic",
+        "organisation": "Top Level Domain Holdings Limited",
+        "isIDN": false,
+        "punycode": "rodeo"
     },
     {
         "domain": "rs",
@@ -2392,6 +2532,13 @@
         "organisation": "United TLD Holdco Ltd.",
         "isIDN": false,
         "punycode": "social"
+    },
+    {
+        "domain": "sohu",
+        "type": "generic",
+        "organisation": "Sohu.com Limited",
+        "isIDN": false,
+        "punycode": "sohu"
     },
     {
         "domain": "solar",
@@ -2639,6 +2786,13 @@
         "punycode": "tr"
     },
     {
+        "domain": "trade",
+        "type": "generic",
+        "organisation": "Elite Registry Limited",
+        "isIDN": false,
+        "punycode": "trade"
+    },
+    {
         "domain": "training",
         "type": "generic",
         "organisation": "Wild Willow, LLC",
@@ -2765,6 +2919,13 @@
         "punycode": "ve"
     },
     {
+        "domain": "vegas",
+        "type": "generic",
+        "organisation": "Dot Vegas, Inc.",
+        "isIDN": false,
+        "punycode": "vegas"
+    },
+    {
         "domain": "ventures",
         "type": "generic",
         "organisation": "Binky Lake, LLC",
@@ -2814,11 +2975,32 @@
         "punycode": "vn"
     },
     {
+        "domain": "vodka",
+        "type": "generic",
+        "organisation": "Top Level Domain Holdings Limited",
+        "isIDN": false,
+        "punycode": "vodka"
+    },
+    {
+        "domain": "vote",
+        "type": "generic",
+        "organisation": "Monolith Registry LLC",
+        "isIDN": false,
+        "punycode": "vote"
+    },
+    {
         "domain": "voting",
         "type": "generic",
         "organisation": "Valuetainment Corp.",
         "isIDN": false,
         "punycode": "voting"
+    },
+    {
+        "domain": "voto",
+        "type": "generic",
+        "organisation": "Monolith Registry LLC",
+        "isIDN": false,
+        "punycode": "voto"
     },
     {
         "domain": "voyage",
@@ -2847,6 +3029,13 @@
         "organisation": "Sand Shadow, LLC",
         "isIDN": false,
         "punycode": "watch"
+    },
+    {
+        "domain": "webcam",
+        "type": "generic",
+        "organisation": "dot Webcam Limited",
+        "isIDN": false,
+        "punycode": "webcam"
     },
     {
         "domain": "wed",
@@ -3010,6 +3199,13 @@
         "punycode": "xn--9t4b11yi5a"
     },
     {
+        "domain": "\u043e\u0440\u0433",
+        "type": "generic",
+        "organisation": "Public Interest Registry",
+        "isIDN": true,
+        "punycode": "xn--c1avg"
+    },
+    {
         "domain": "\uc0bc\uc131",
         "type": "generic",
         "organisation": "SAMSUNG SDS CO., LTD",
@@ -3022,6 +3218,13 @@
         "organisation": "Singapore Network Information Centre (SGNIC) Pte Ltd",
         "isIDN": true,
         "punycode": "xn--clchc0ea0b2g2a9gcd"
+    },
+    {
+        "domain": "\u5546\u57ce",
+        "type": "generic",
+        "organisation": "Zodiac Capricorn Limited",
+        "isIDN": true,
+        "punycode": "xn--czru2d"
     },
     {
         "domain": "\u0434\u0435\u0442\u0438",
@@ -3113,6 +3316,13 @@
         "organisation": "Internet Assigned Numbers Authority",
         "isIDN": true,
         "punycode": "xn--hlcj6aya9esc7a"
+    },
+    {
+        "domain": "\u0938\u0902\u0917\u0920\u0928",
+        "type": "generic",
+        "organisation": "Public Interest Registry",
+        "isIDN": true,
+        "punycode": "xn--i1b6b1a6a2e"
     },
     {
         "domain": "\u7f51\u7edc",
@@ -3269,6 +3479,20 @@
         "punycode": "xn--node"
     },
     {
+        "domain": "\u673a\u6784",
+        "type": "generic",
+        "organisation": "Public Interest Registry",
+        "isIDN": true,
+        "punycode": "xn--nqv7f"
+    },
+    {
+        "domain": "\u7ec4\u7ec7\u673a\u6784",
+        "type": "generic",
+        "organisation": "Public Interest Registry",
+        "isIDN": true,
+        "punycode": "xn--nqv7fs00ema"
+    },
+    {
         "domain": "\u0e44\u0e17\u0e22",
         "type": "country-code",
         "organisation": "Thai Network Information Center Foundation",
@@ -3302,6 +3526,13 @@
         "organisation": "Charleston Road Registry Inc.",
         "isIDN": true,
         "punycode": "xn--q9jyb4c"
+    },
+    {
+        "domain": "\u4e16\u754c",
+        "type": "generic",
+        "organisation": "Stable Tone Limited",
+        "isIDN": true,
+        "punycode": "xn--rhqv96g"
     },
     {
         "domain": "\u0a2d\u0a3e\u0a30\u0a24",
