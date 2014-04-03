@@ -2009,6 +2009,12 @@
   isIDN: false
   punycode: report
 -
+  domain: rest
+  type: generic
+  organisation: 'Punto 2012 Sociedad Anonima Promotora de Inversion de Capital Variable'
+  isIDN: false
+  punycode: rest
+-
   domain: reviews
   type: generic
   organisation: 'United TLD Holdco, Ltd.'
@@ -2062,6 +2068,12 @@
   organisation: 'Communications and Information Technology Commission'
   isIDN: false
   punycode: sa
+-
+  domain: saarland
+  type: generic
+  organisation: 'dotSaarland GmbH'
+  isIDN: false
+  punycode: saarland
 -
   domain: sb
   type: country-code
