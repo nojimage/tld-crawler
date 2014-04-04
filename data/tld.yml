@@ -2063,6 +2063,12 @@
   isIDN: false
   punycode: rw
 -
+  domain: ryukyu
+  type: generic
+  organisation: 'BusinessRalliart inc.'
+  isIDN: false
+  punycode: ryukyu
+-
   domain: sa
   type: country-code
   organisation: 'Communications and Information Technology Commission'
@@ -3118,6 +3124,12 @@
   organisation: TeleYemen
   isIDN: false
   punycode: ye
+-
+  domain: yokohama
+  type: generic
+  organisation: 'GMO Registry, Inc.'
+  isIDN: false
+  punycode: yokohama
 -
   domain: yt
   type: country-code
