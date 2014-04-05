@@ -1141,6 +1141,13 @@
         "punycode": "gn"
     },
     {
+        "domain": "gop",
+        "type": "generic",
+        "organisation": "Republican State Leadership Committee, Inc.",
+        "isIDN": false,
+        "punycode": "gop"
+    },
+    {
         "domain": "gov",
         "type": "sponsored",
         "organisation": "General Services Administration\nAttn: QTDC, 2E08 (.gov Domain Registration)",
@@ -3670,7 +3677,7 @@
     {
         "domain": "zm",
         "type": "country-code",
-        "organisation": "ZAMNET Communication Systems Ltd.",
+        "organisation": "Zambia Information and Communications Technology Authority (ZICTA)",
         "isIDN": false,
         "punycode": "zm"
     },
