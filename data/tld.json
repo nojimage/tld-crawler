@@ -616,6 +616,13 @@
         "punycode": "coffee"
     },
     {
+        "domain": "college",
+        "type": "generic",
+        "organisation": "XYZ.COM LLC",
+        "isIDN": false,
+        "punycode": "college"
+    },
+    {
         "domain": "cologne",
         "type": "generic",
         "organisation": "NetCologne Gesellschaft f\u00fcr Telekommunikation mbH",
@@ -775,6 +782,13 @@
         "organisation": "United TLD Holdco Ltd.",
         "isIDN": false,
         "punycode": "democrat"
+    },
+    {
+        "domain": "desi",
+        "type": "generic",
+        "organisation": "Desi Networks LLC",
+        "isIDN": false,
+        "punycode": "desi"
     },
     {
         "domain": "diamonds",
@@ -957,6 +971,13 @@
         "organisation": "Just Maple, LLC",
         "isIDN": false,
         "punycode": "farm"
+    },
+    {
+        "domain": "feedback",
+        "type": "generic",
+        "organisation": "Top Level Spectrum, Inc.",
+        "isIDN": false,
+        "punycode": "feedback"
     },
     {
         "domain": "fi",
@@ -2380,6 +2401,13 @@
         "punycode": "ro"
     },
     {
+        "domain": "rocks",
+        "type": "generic",
+        "organisation": "United TLD Holdco, LTD.",
+        "isIDN": false,
+        "punycode": "rocks"
+    },
+    {
         "domain": "rodeo",
         "type": "generic",
         "organisation": "Top Level Domain Holdings Limited",
@@ -2963,7 +2991,7 @@
     {
         "domain": "vg",
         "type": "country-code",
-        "organisation": "Pinebrook Developments Ltd",
+        "organisation": "Telecommunications Regulatory Commission of the Virgin Islands",
         "isIDN": false,
         "punycode": "vg"
     },
@@ -3568,6 +3596,13 @@
         "organisation": "National Internet Exchange of India",
         "isIDN": true,
         "punycode": "xn--s9brj9c"
+    },
+    {
+        "domain": "\u7f51\u5740",
+        "type": "generic",
+        "organisation": "HU YI GLOBAL INFORMATION RESOURCES (HOLDING) COMPANY. HONGKONG LIMITED",
+        "isIDN": true,
+        "punycode": "xn--ses554g"
     },
     {
         "domain": "\u6e38\u620f",

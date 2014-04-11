@@ -527,6 +527,12 @@
   isIDN: false
   punycode: coffee
 -
+  domain: college
+  type: generic
+  organisation: 'XYZ.COM LLC'
+  isIDN: false
+  punycode: college
+-
   domain: cologne
   type: generic
   organisation: 'NetCologne Gesellschaft für Telekommunikation mbH'
@@ -664,6 +670,12 @@
   organisation: 'United TLD Holdco Ltd.'
   isIDN: false
   punycode: democrat
+-
+  domain: desi
+  type: generic
+  organisation: 'Desi Networks LLC'
+  isIDN: false
+  punycode: desi
 -
   domain: diamonds
   type: generic
@@ -820,6 +832,12 @@
   organisation: 'Just Maple, LLC'
   isIDN: false
   punycode: farm
+-
+  domain: feedback
+  type: generic
+  organisation: 'Top Level Spectrum, Inc.'
+  isIDN: false
+  punycode: feedback
 -
   domain: fi
   type: country-code
@@ -2039,6 +2057,12 @@
   isIDN: false
   punycode: ro
 -
+  domain: rocks
+  type: generic
+  organisation: 'United TLD Holdco, LTD.'
+  isIDN: false
+  punycode: rocks
+-
   domain: rodeo
   type: generic
   organisation: 'Top Level Domain Holdings Limited'
@@ -2539,7 +2563,7 @@
 -
   domain: vg
   type: country-code
-  organisation: 'Pinebrook Developments Ltd'
+  organisation: 'Telecommunications Regulatory Commission of the Virgin Islands'
   isIDN: false
   punycode: vg
 -
@@ -3058,6 +3082,12 @@
   organisation: 'National Internet Exchange of India'
   isIDN: true
   punycode: xn--s9brj9c
+-
+  domain: 网址
+  type: generic
+  organisation: 'HU YI GLOBAL INFORMATION RESOURCES (HOLDING) COMPANY. HONGKONG LIMITED'
+  isIDN: true
+  punycode: xn--ses554g
 -
   domain: 游戏
   type: generic
