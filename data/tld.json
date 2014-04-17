@@ -2394,6 +2394,13 @@
         "punycode": "qpon"
     },
     {
+        "domain": "quebec",
+        "type": "generic",
+        "organisation": "PointQu\u00e9bec Inc",
+        "isIDN": false,
+        "punycode": "quebec"
+    },
+    {
         "domain": "re",
         "type": "country-code",
         "organisation": "AFNIC (NIC France) - Immeuble International",

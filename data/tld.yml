@@ -2051,6 +2051,12 @@
   isIDN: false
   punycode: qpon
 -
+  domain: quebec
+  type: generic
+  organisation: 'PointQuébec Inc'
+  isIDN: false
+  punycode: quebec
+-
   domain: re
   type: country-code
   organisation: 'AFNIC (NIC France) - Immeuble International'
