@@ -269,6 +269,12 @@
   isIDN: false
   punycode: black
 -
+  domain: blackfriday
+  type: generic
+  organisation: 'Uniregistry, Corp.'
+  isIDN: false
+  punycode: blackfriday
+-
   domain: blue
   type: generic
   organisation: 'Afilias Limited'
@@ -401,6 +407,12 @@
   isIDN: false
   punycode: cards
 -
+  domain: care
+  type: generic
+  organisation: 'Goose Cross, LLC'
+  isIDN: false
+  punycode: care
+-
   domain: career
   type: generic
   organisation: 'dotCareer LLC'
@@ -412,6 +424,12 @@
   organisation: 'Wild Corner, LLC'
   isIDN: false
   punycode: careers
+-
+  domain: cash
+  type: generic
+  organisation: 'Delta Lake, LLC'
+  isIDN: false
+  punycode: cash
 -
   domain: cat
   type: sponsored
@@ -502,6 +520,12 @@
   organisation: 'Fox Shadow, LLC'
   isIDN: false
   punycode: cleaning
+-
+  domain: clinic
+  type: generic
+  organisation: 'Goose Park, LLC'
+  isIDN: false
+  punycode: clinic
 -
   domain: clothing
   type: generic
@@ -689,6 +713,12 @@
   isIDN: false
   punycode: democrat
 -
+  domain: dental
+  type: generic
+  organisation: 'Tin Birch, LLC'
+  isIDN: false
+  punycode: dental
+-
   domain: desi
   type: generic
   organisation: 'Desi Networks LLC'
@@ -706,6 +736,12 @@
   organisation: 'Extra Madison, LLC'
   isIDN: false
   punycode: directory
+-
+  domain: discount
+  type: generic
+  organisation: 'Holly Hill, LLC'
+  isIDN: false
+  punycode: discount
 -
   domain: dj
   type: country-code
@@ -845,6 +881,12 @@
   isIDN: false
   punycode: events
 -
+  domain: exchange
+  type: generic
+  organisation: 'Spring Falls, LLC'
+  isIDN: false
+  punycode: exchange
+-
   domain: expert
   type: generic
   organisation: 'Magic Pass, LLC'
@@ -856,6 +898,12 @@
   organisation: 'Victor Beach, LLC'
   isIDN: false
   punycode: exposed
+-
+  domain: fail
+  type: generic
+  organisation: 'Atomic Pipe, LLC'
+  isIDN: false
+  punycode: fail
 -
   domain: farm
   type: generic
@@ -875,6 +923,12 @@
   isIDN: false
   punycode: fi
 -
+  domain: financial
+  type: generic
+  organisation: 'Just Cover, LLC'
+  isIDN: false
+  punycode: financial
+-
   domain: fish
   type: generic
   organisation: 'Fox Woods, LLC'
@@ -886,6 +940,12 @@
   organisation: 'Top Level Domain Holdings Limited'
   isIDN: false
   punycode: fishing
+-
+  domain: fitness
+  type: generic
+  organisation: 'Brice Orchard, LLC'
+  isIDN: false
+  punycode: fitness
 -
   domain: fj
   type: country-code
@@ -923,6 +983,12 @@
   isIDN: false
   punycode: fo
 -
+  domain: foo
+  type: generic
+  organisation: 'Charleston Road Registry Inc.'
+  isIDN: false
+  punycode: foo
+-
   domain: foundation
   type: generic
   organisation: 'John Dale, LLC'
@@ -934,6 +1000,24 @@
   organisation: 'AFNIC (NIC France) - Immeuble International'
   isIDN: false
   punycode: fr
+-
+  domain: frogans
+  type: generic
+  organisation: OP3FT
+  isIDN: false
+  punycode: frogans
+-
+  domain: fund
+  type: generic
+  organisation: 'John Castle, LLC'
+  isIDN: false
+  punycode: fund
+-
+  domain: furniture
+  type: generic
+  organisation: 'Lone Fields, LLC'
+  isIDN: false
+  punycode: furniture
 -
   domain: futbol
   type: generic
@@ -1066,6 +1150,12 @@
   organisation: 'Over Madison, LLC'
   isIDN: false
   punycode: graphics
+-
+  domain: gratis
+  type: generic
+  organisation: 'Pioneer Tigers, LLC'
+  isIDN: false
+  punycode: gratis
 -
   domain: gripe
   type: generic
@@ -1246,6 +1336,12 @@
   organisation: 'Wild Way, LLC'
   isIDN: false
   punycode: international
+-
+  domain: investments
+  type: generic
+  organisation: 'Holly Glen, LLC'
+  isIDN: false
+  punycode: investments
 -
   domain: io
   type: country-code
@@ -1457,6 +1553,12 @@
   isIDN: false
   punycode: lighting
 -
+  domain: limited
+  type: generic
+  organisation: 'Big Fest, LLC'
+  isIDN: false
+  punycode: limited
+-
   domain: limo
   type: generic
   organisation: 'Hidden Frostbite, LLC'
@@ -1667,6 +1769,12 @@
   isIDN: false
   punycode: monash
 -
+  domain: moscow
+  type: generic
+  organisation: 'Foundation for Assistance for Internet Technologies and Infrastructure Development (FAITID)'
+  isIDN: false
+  punycode: moscow
+-
   domain: mp
   type: country-code
   organisation: 'Saipan Datacom, Inc.'
@@ -1876,6 +1984,12 @@
   organisation: 'Universidad Tecnologica de Panama'
   isIDN: false
   punycode: pa
+-
+  domain: paris
+  type: generic
+  organisation: 'City of Paris'
+  isIDN: false
+  punycode: paris
 -
   domain: partners
   type: generic
@@ -2195,6 +2309,12 @@
   isIDN: false
   punycode: sc
 -
+  domain: schule
+  type: generic
+  organisation: 'Outer Moon, LLC'
+  isIDN: false
+  punycode: schule
+-
   domain: sd
   type: country-code
   organisation: 'Sudan Internet Society'
@@ -2315,6 +2435,12 @@
   isIDN: false
   punycode: solutions
 -
+  domain: soy
+  type: generic
+  organisation: 'Charleston Road Registry Inc.'
+  isIDN: false
+  punycode: soy
+-
   domain: sr
   type: country-code
   organisation: Telesur
@@ -2357,6 +2483,12 @@
   isIDN: false
   punycode: support
 -
+  domain: surgery
+  type: generic
+  organisation: 'Tin Avenue, LLC'
+  isIDN: false
+  punycode: surgery
+-
   domain: sv
   type: country-code
   organisation: SVNet
@@ -2392,6 +2524,12 @@
   organisation: 'Uniregistry, Corp.'
   isIDN: false
   punycode: tattoo
+-
+  domain: tax
+  type: generic
+  organisation: 'Storm Orchard, LLC'
+  isIDN: false
+  punycode: tax
 -
   domain: tc
   type: country-code
@@ -2783,6 +2921,12 @@
   isIDN: false
   punycode: ws
 -
+  domain: wtf
+  type: generic
+  organisation: 'Hidden Way, LLC'
+  isIDN: false
+  punycode: wtf
+-
   domain: 测试
   type: test
   organisation: 'Internet Assigned Numbers Authority'
@@ -2849,6 +2993,12 @@
   isIDN: true
   punycode: xn--6qq986b3xl
 -
+  domain: москва
+  type: generic
+  organisation: 'Foundation for Assistance for Internet Technologies and Infrastructure Development (FAITID)'
+  isIDN: true
+  punycode: xn--80adxhks
+-
   domain: испытание
   type: test
   organisation: 'Internet Assigned Numbers Authority'
@@ -2914,6 +3064,12 @@
   organisation: 'The Foundation for Network Initiatives “The Smart Internet”'
   isIDN: true
   punycode: xn--d1acj3b
+-
+  domain: мкд
+  type: country-code
+  organisation: 'Not assigned'
+  isIDN: true
+  punycode: xn--d1alf
 -
   domain: טעסט
   type: test
