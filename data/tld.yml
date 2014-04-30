@@ -503,6 +503,12 @@
   isIDN: false
   punycode: ci
 -
+  domain: citic
+  type: generic
+  organisation: 'CITIC Group Corporation'
+  isIDN: false
+  punycode: citic
+-
   domain: ck
   type: country-code
   organisation: 'Telecom Cook Islands Ltd.'
@@ -646,6 +652,12 @@
   organisation: "National Academy of Sciences\nAcademia Nacional de Ciencias"
   isIDN: false
   punycode: cr
+-
+  domain: creditcard
+  type: generic
+  organisation: 'Binky Frostbite, LLC'
+  isIDN: false
+  punycode: creditcard
 -
   domain: cruises
   type: generic
@@ -922,6 +934,12 @@
   organisation: 'Finnish Communications Regulatory Authority'
   isIDN: false
   punycode: fi
+-
+  domain: finance
+  type: generic
+  organisation: 'Cotton Cypress, LLC'
+  isIDN: false
+  punycode: finance
 -
   domain: financial
   type: generic
@@ -1324,6 +1342,12 @@
   organisation: 'Outer Maple, LLC'
   isIDN: false
   punycode: institute
+-
+  domain: insure
+  type: generic
+  organisation: 'Pioneer Willow, LLC'
+  isIDN: false
+  punycode: insure
 -
   domain: int
   type: sponsored
@@ -2920,6 +2944,12 @@
   organisation: 'Government of Samoa Ministry of Foreign Affairs & Trade'
   isIDN: false
   punycode: ws
+-
+  domain: wtc
+  type: generic
+  organisation: 'World Trade Centers Association, Inc.'
+  isIDN: false
+  punycode: wtc
 -
   domain: wtf
   type: generic
