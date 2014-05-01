@@ -59,6 +59,12 @@
   isIDN: false
   punycode: ai
 -
+  domain: airforce
+  type: generic
+  organisation: 'United TLD Holdco Ltd.'
+  isIDN: false
+  punycode: airforce
+-
   domain: al
   type: country-code
   organisation: 'Electronic and Postal Communications Authority - AKEP'
