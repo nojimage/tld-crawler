@@ -70,6 +70,13 @@
         "punycode": "ai"
     },
     {
+        "domain": "airforce",
+        "type": "generic",
+        "organisation": "United TLD Holdco Ltd.",
+        "isIDN": false,
+        "punycode": "airforce"
+    },
+    {
         "domain": "al",
         "type": "country-code",
         "organisation": "Electronic and Postal Communications Authority - AKEP",
@@ -138,6 +145,13 @@
         "organisation": "DotAsia Organisation Ltd.",
         "isIDN": false,
         "punycode": "asia"
+    },
+    {
+        "domain": "associates",
+        "type": "generic",
+        "organisation": "Baxter Hill, LLC",
+        "isIDN": false,
+        "punycode": "associates"
     },
     {
         "domain": "at",
@@ -308,6 +322,13 @@
         "punycode": "black"
     },
     {
+        "domain": "blackfriday",
+        "type": "generic",
+        "organisation": "Uniregistry, Corp.",
+        "isIDN": false,
+        "punycode": "blackfriday"
+    },
+    {
         "domain": "blue",
         "type": "generic",
         "organisation": "Afilias Limited",
@@ -448,6 +469,13 @@
         "punycode": "camp"
     },
     {
+        "domain": "capital",
+        "type": "generic",
+        "organisation": "Delta Mill, LLC",
+        "isIDN": false,
+        "punycode": "capital"
+    },
+    {
         "domain": "cards",
         "type": "generic",
         "organisation": "Foggy Hollow, LLC",
@@ -455,11 +483,32 @@
         "punycode": "cards"
     },
     {
+        "domain": "care",
+        "type": "generic",
+        "organisation": "Goose Cross, LLC",
+        "isIDN": false,
+        "punycode": "care"
+    },
+    {
+        "domain": "career",
+        "type": "generic",
+        "organisation": "dotCareer LLC",
+        "isIDN": false,
+        "punycode": "career"
+    },
+    {
         "domain": "careers",
         "type": "generic",
         "organisation": "Wild Corner, LLC",
         "isIDN": false,
         "punycode": "careers"
+    },
+    {
+        "domain": "cash",
+        "type": "generic",
+        "organisation": "Delta Lake, LLC",
+        "isIDN": false,
+        "punycode": "cash"
     },
     {
         "domain": "cat",
@@ -546,6 +595,13 @@
         "punycode": "ci"
     },
     {
+        "domain": "citic",
+        "type": "generic",
+        "organisation": "CITIC Group Corporation",
+        "isIDN": false,
+        "punycode": "citic"
+    },
+    {
         "domain": "ck",
         "type": "country-code",
         "organisation": "Telecom Cook Islands Ltd.",
@@ -565,6 +621,13 @@
         "organisation": "Fox Shadow, LLC",
         "isIDN": false,
         "punycode": "cleaning"
+    },
+    {
+        "domain": "clinic",
+        "type": "generic",
+        "organisation": "Goose Park, LLC",
+        "isIDN": false,
+        "punycode": "clinic"
     },
     {
         "domain": "clothing",
@@ -614,6 +677,13 @@
         "organisation": "Trixy Cover, LLC",
         "isIDN": false,
         "punycode": "coffee"
+    },
+    {
+        "domain": "college",
+        "type": "generic",
+        "organisation": "XYZ.COM LLC",
+        "isIDN": false,
+        "punycode": "college"
     },
     {
         "domain": "cologne",
@@ -700,6 +770,13 @@
         "punycode": "cr"
     },
     {
+        "domain": "creditcard",
+        "type": "generic",
+        "organisation": "Binky Frostbite, LLC",
+        "isIDN": false,
+        "punycode": "creditcard"
+    },
+    {
         "domain": "cruises",
         "type": "generic",
         "organisation": "Spring Way, LLC",
@@ -777,6 +854,20 @@
         "punycode": "democrat"
     },
     {
+        "domain": "dental",
+        "type": "generic",
+        "organisation": "Tin Birch, LLC",
+        "isIDN": false,
+        "punycode": "dental"
+    },
+    {
+        "domain": "desi",
+        "type": "generic",
+        "organisation": "Desi Networks LLC",
+        "isIDN": false,
+        "punycode": "desi"
+    },
+    {
         "domain": "diamonds",
         "type": "generic",
         "organisation": "John Edge, LLC",
@@ -789,6 +880,13 @@
         "organisation": "Extra Madison, LLC",
         "isIDN": false,
         "punycode": "directory"
+    },
+    {
+        "domain": "discount",
+        "type": "generic",
+        "organisation": "Holly Hill, LLC",
+        "isIDN": false,
+        "punycode": "discount"
     },
     {
         "domain": "dj",
@@ -882,6 +980,13 @@
         "punycode": "email"
     },
     {
+        "domain": "engineering",
+        "type": "generic",
+        "organisation": "Romeo Canyon",
+        "isIDN": false,
+        "punycode": "engineering"
+    },
+    {
         "domain": "enterprises",
         "type": "generic",
         "organisation": "Snow Oaks, LLC",
@@ -931,11 +1036,25 @@
         "punycode": "eu"
     },
     {
+        "domain": "eus",
+        "type": "generic",
+        "organisation": "Puntueus Fundazioa",
+        "isIDN": false,
+        "punycode": "eus"
+    },
+    {
         "domain": "events",
         "type": "generic",
         "organisation": "Pioneer Maple, LLC",
         "isIDN": false,
         "punycode": "events"
+    },
+    {
+        "domain": "exchange",
+        "type": "generic",
+        "organisation": "Spring Falls, LLC",
+        "isIDN": false,
+        "punycode": "exchange"
     },
     {
         "domain": "expert",
@@ -952,6 +1071,13 @@
         "punycode": "exposed"
     },
     {
+        "domain": "fail",
+        "type": "generic",
+        "organisation": "Atomic Pipe, LLC",
+        "isIDN": false,
+        "punycode": "fail"
+    },
+    {
         "domain": "farm",
         "type": "generic",
         "organisation": "Just Maple, LLC",
@@ -959,11 +1085,32 @@
         "punycode": "farm"
     },
     {
+        "domain": "feedback",
+        "type": "generic",
+        "organisation": "Top Level Spectrum, Inc.",
+        "isIDN": false,
+        "punycode": "feedback"
+    },
+    {
         "domain": "fi",
         "type": "country-code",
         "organisation": "Finnish Communications Regulatory Authority",
         "isIDN": false,
         "punycode": "fi"
+    },
+    {
+        "domain": "finance",
+        "type": "generic",
+        "organisation": "Cotton Cypress, LLC",
+        "isIDN": false,
+        "punycode": "finance"
+    },
+    {
+        "domain": "financial",
+        "type": "generic",
+        "organisation": "Just Cover, LLC",
+        "isIDN": false,
+        "punycode": "financial"
     },
     {
         "domain": "fish",
@@ -978,6 +1125,13 @@
         "organisation": "Top Level Domain Holdings Limited",
         "isIDN": false,
         "punycode": "fishing"
+    },
+    {
+        "domain": "fitness",
+        "type": "generic",
+        "organisation": "Brice Orchard, LLC",
+        "isIDN": false,
+        "punycode": "fitness"
     },
     {
         "domain": "fj",
@@ -1022,6 +1176,13 @@
         "punycode": "fo"
     },
     {
+        "domain": "foo",
+        "type": "generic",
+        "organisation": "Charleston Road Registry Inc.",
+        "isIDN": false,
+        "punycode": "foo"
+    },
+    {
         "domain": "foundation",
         "type": "generic",
         "organisation": "John Dale, LLC",
@@ -1036,6 +1197,27 @@
         "punycode": "fr"
     },
     {
+        "domain": "frogans",
+        "type": "generic",
+        "organisation": "OP3FT",
+        "isIDN": false,
+        "punycode": "frogans"
+    },
+    {
+        "domain": "fund",
+        "type": "generic",
+        "organisation": "John Castle, LLC",
+        "isIDN": false,
+        "punycode": "fund"
+    },
+    {
+        "domain": "furniture",
+        "type": "generic",
+        "organisation": "Lone Fields, LLC",
+        "isIDN": false,
+        "punycode": "furniture"
+    },
+    {
         "domain": "futbol",
         "type": "generic",
         "organisation": "United TLD Holdco, Ltd.",
@@ -1048,6 +1230,13 @@
         "organisation": "Agence Nationale des Infrastructures Num\u00e9riques et des Fr\u00e9quences (ANINF)",
         "isIDN": false,
         "punycode": "ga"
+    },
+    {
+        "domain": "gal",
+        "type": "generic",
+        "organisation": "Asociaci\u00f3n puntoGAL",
+        "isIDN": false,
+        "punycode": "gal"
     },
     {
         "domain": "gallery",
@@ -1141,6 +1330,13 @@
         "punycode": "gn"
     },
     {
+        "domain": "gop",
+        "type": "generic",
+        "organisation": "Republican State Leadership Committee, Inc.",
+        "isIDN": false,
+        "punycode": "gop"
+    },
+    {
         "domain": "gov",
         "type": "sponsored",
         "organisation": "General Services Administration\nAttn: QTDC, 2E08 (.gov Domain Registration)",
@@ -1174,6 +1370,20 @@
         "organisation": "Over Madison, LLC",
         "isIDN": false,
         "punycode": "graphics"
+    },
+    {
+        "domain": "gratis",
+        "type": "generic",
+        "organisation": "Pioneer Tigers, LLC",
+        "isIDN": false,
+        "punycode": "gratis"
+    },
+    {
+        "domain": "gripe",
+        "type": "generic",
+        "organisation": "Corn Sunset, LLC",
+        "isIDN": false,
+        "punycode": "gripe"
     },
     {
         "domain": "gs",
@@ -1365,6 +1575,13 @@
         "punycode": "institute"
     },
     {
+        "domain": "insure",
+        "type": "generic",
+        "organisation": "Pioneer Willow, LLC",
+        "isIDN": false,
+        "punycode": "insure"
+    },
+    {
         "domain": "int",
         "type": "sponsored",
         "organisation": "Internet Assigned Numbers Authority",
@@ -1377,6 +1594,13 @@
         "organisation": "Wild Way, LLC",
         "isIDN": false,
         "punycode": "international"
+    },
+    {
+        "domain": "investments",
+        "type": "generic",
+        "organisation": "Holly Glen, LLC",
+        "isIDN": false,
+        "punycode": "investments"
     },
     {
         "domain": "io",
@@ -1603,6 +1827,13 @@
         "punycode": "lc"
     },
     {
+        "domain": "lease",
+        "type": "generic",
+        "organisation": "Victor Trail, LLC",
+        "isIDN": false,
+        "punycode": "lease"
+    },
+    {
         "domain": "li",
         "type": "country-code",
         "organisation": "Universitaet Liechtenstein",
@@ -1615,6 +1846,13 @@
         "organisation": "John McCook, LLC",
         "isIDN": false,
         "punycode": "lighting"
+    },
+    {
+        "domain": "limited",
+        "type": "generic",
+        "organisation": "Big Fest, LLC",
+        "isIDN": false,
+        "punycode": "limited"
     },
     {
         "domain": "limo",
@@ -1743,6 +1981,13 @@
         "punycode": "me"
     },
     {
+        "domain": "media",
+        "type": "generic",
+        "organisation": "Grand Glen, LLC",
+        "isIDN": false,
+        "punycode": "media"
+    },
+    {
         "domain": "meet",
         "type": "generic",
         "organisation": "Afilias Limited",
@@ -1853,6 +2098,13 @@
         "organisation": "Monash University",
         "isIDN": false,
         "punycode": "monash"
+    },
+    {
+        "domain": "moscow",
+        "type": "generic",
+        "organisation": "Foundation for Assistance for Internet Technologies and Infrastructure Development (FAITID)",
+        "isIDN": false,
+        "punycode": "moscow"
     },
     {
         "domain": "mp",
@@ -2100,6 +2352,13 @@
         "punycode": "pa"
     },
     {
+        "domain": "paris",
+        "type": "generic",
+        "organisation": "City of Paris",
+        "isIDN": false,
+        "punycode": "paris"
+    },
+    {
         "domain": "partners",
         "type": "generic",
         "organisation": "Magic Glen, LLC",
@@ -2168,6 +2427,13 @@
         "organisation": "Uniregistry, Corp.",
         "isIDN": false,
         "punycode": "pics"
+    },
+    {
+        "domain": "pictures",
+        "type": "generic",
+        "organisation": "Foggy Sky, LLC",
+        "isIDN": false,
+        "punycode": "pictures"
     },
     {
         "domain": "pink",
@@ -2296,6 +2562,13 @@
         "punycode": "qpon"
     },
     {
+        "domain": "quebec",
+        "type": "generic",
+        "organisation": "PointQu\u00e9bec Inc",
+        "isIDN": false,
+        "punycode": "quebec"
+    },
+    {
         "domain": "re",
         "type": "country-code",
         "organisation": "AFNIC (NIC France) - Immeuble International",
@@ -2315,6 +2588,13 @@
         "organisation": "Afilias Limited",
         "isIDN": false,
         "punycode": "red"
+    },
+    {
+        "domain": "reisen",
+        "type": "generic",
+        "organisation": "New Cypress, LLC",
+        "isIDN": false,
+        "punycode": "reisen"
     },
     {
         "domain": "ren",
@@ -2345,6 +2625,13 @@
         "punycode": "report"
     },
     {
+        "domain": "rest",
+        "type": "generic",
+        "organisation": "Punto 2012 Sociedad Anonima Promotora de Inversion de Capital Variable",
+        "isIDN": false,
+        "punycode": "rest"
+    },
+    {
         "domain": "reviews",
         "type": "generic",
         "organisation": "United TLD Holdco, Ltd.",
@@ -2364,6 +2651,13 @@
         "organisation": "National Institute for R\u0026D in Informatics",
         "isIDN": false,
         "punycode": "ro"
+    },
+    {
+        "domain": "rocks",
+        "type": "generic",
+        "organisation": "United TLD Holdco, LTD.",
+        "isIDN": false,
+        "punycode": "rocks"
     },
     {
         "domain": "rodeo",
@@ -2401,11 +2695,25 @@
         "punycode": "rw"
     },
     {
+        "domain": "ryukyu",
+        "type": "generic",
+        "organisation": "BusinessRalliart inc.",
+        "isIDN": false,
+        "punycode": "ryukyu"
+    },
+    {
         "domain": "sa",
         "type": "country-code",
         "organisation": "Communications and Information Technology Commission",
         "isIDN": false,
         "punycode": "sa"
+    },
+    {
+        "domain": "saarland",
+        "type": "generic",
+        "organisation": "dotSaarland GmbH",
+        "isIDN": false,
+        "punycode": "saarland"
     },
     {
         "domain": "sb",
@@ -2422,6 +2730,13 @@
         "punycode": "sc"
     },
     {
+        "domain": "schule",
+        "type": "generic",
+        "organisation": "Outer Moon, LLC",
+        "isIDN": false,
+        "punycode": "schule"
+    },
+    {
         "domain": "sd",
         "type": "country-code",
         "organisation": "Sudan Internet Society",
@@ -2434,6 +2749,13 @@
         "organisation": "The Internet Infrastructure Foundation",
         "isIDN": false,
         "punycode": "se"
+    },
+    {
+        "domain": "services",
+        "type": "generic",
+        "organisation": "Fox Castle, LLC",
+        "isIDN": false,
+        "punycode": "services"
     },
     {
         "domain": "sexy",
@@ -2555,6 +2877,13 @@
         "punycode": "solutions"
     },
     {
+        "domain": "soy",
+        "type": "generic",
+        "organisation": "Charleston Road Registry Inc.",
+        "isIDN": false,
+        "punycode": "soy"
+    },
+    {
         "domain": "sr",
         "type": "country-code",
         "organisation": "Telesur",
@@ -2604,6 +2933,13 @@
         "punycode": "support"
     },
     {
+        "domain": "surgery",
+        "type": "generic",
+        "organisation": "Tin Avenue, LLC",
+        "isIDN": false,
+        "punycode": "surgery"
+    },
+    {
         "domain": "sv",
         "type": "country-code",
         "organisation": "SVNet",
@@ -2644,6 +2980,13 @@
         "organisation": "Uniregistry, Corp.",
         "isIDN": false,
         "punycode": "tattoo"
+    },
+    {
+        "domain": "tax",
+        "type": "generic",
+        "organisation": "Storm Orchard, LLC",
+        "isIDN": false,
+        "punycode": "tax"
     },
     {
         "domain": "tc",
@@ -2772,6 +3115,20 @@
         "punycode": "tools"
     },
     {
+        "domain": "town",
+        "type": "generic",
+        "organisation": "Koko Moon, LLC",
+        "isIDN": false,
+        "punycode": "town"
+    },
+    {
+        "domain": "toys",
+        "type": "generic",
+        "organisation": "Pioneer Orchard, LLC",
+        "isIDN": false,
+        "punycode": "toys"
+    },
+    {
         "domain": "tp",
         "type": "country-code",
         "organisation": "-",
@@ -2863,6 +3220,13 @@
         "punycode": "um"
     },
     {
+        "domain": "university",
+        "type": "generic",
+        "organisation": "Little Station, LLC",
+        "isIDN": false,
+        "punycode": "university"
+    },
+    {
         "domain": "uno",
         "type": "generic",
         "organisation": "Dot Latin LLC",
@@ -2935,7 +3299,7 @@
     {
         "domain": "vg",
         "type": "country-code",
-        "organisation": "Pinebrook Developments Ltd",
+        "organisation": "Telecommunications Regulatory Commission of the Virgin Islands",
         "isIDN": false,
         "punycode": "vg"
     },
@@ -3080,6 +3444,20 @@
         "punycode": "ws"
     },
     {
+        "domain": "wtc",
+        "type": "generic",
+        "organisation": "World Trade Centers Association, Inc.",
+        "isIDN": false,
+        "punycode": "wtc"
+    },
+    {
+        "domain": "wtf",
+        "type": "generic",
+        "organisation": "Hidden Way, LLC",
+        "isIDN": false,
+        "punycode": "wtf"
+    },
+    {
         "domain": "\u6d4b\u8bd5",
         "type": "test",
         "organisation": "Internet Assigned Numbers Authority",
@@ -3157,6 +3535,13 @@
         "punycode": "xn--6qq986b3xl"
     },
     {
+        "domain": "\u043c\u043e\u0441\u043a\u0432\u0430",
+        "type": "generic",
+        "organisation": "Foundation for Assistance for Internet Technologies and Infrastructure Development (FAITID)",
+        "isIDN": true,
+        "punycode": "xn--80adxhks"
+    },
+    {
         "domain": "\u0438\u0441\u043f\u044b\u0442\u0430\u043d\u0438\u0435",
         "type": "test",
         "organisation": "Internet Assigned Numbers Authority",
@@ -3232,6 +3617,13 @@
         "organisation": "The Foundation for Network Initiatives \u201cThe Smart Internet\u201d",
         "isIDN": true,
         "punycode": "xn--d1acj3b"
+    },
+    {
+        "domain": "\u043c\u043a\u0434",
+        "type": "country-code",
+        "organisation": "Not assigned",
+        "isIDN": true,
+        "punycode": "xn--d1alf"
     },
     {
         "domain": "\u05d8\u05e2\u05e1\u05d8",
@@ -3542,6 +3934,13 @@
         "punycode": "xn--s9brj9c"
     },
     {
+        "domain": "\u7f51\u5740",
+        "type": "generic",
+        "organisation": "HU YI GLOBAL INFORMATION RESOURCES (HOLDING) COMPANY. HONGKONG LIMITED",
+        "isIDN": true,
+        "punycode": "xn--ses554g"
+    },
+    {
         "domain": "\u6e38\u620f",
         "type": "generic",
         "organisation": "Spring Fields, LLC",
@@ -3626,6 +4025,13 @@
         "punycode": "ye"
     },
     {
+        "domain": "yokohama",
+        "type": "generic",
+        "organisation": "GMO Registry, Inc.",
+        "isIDN": false,
+        "punycode": "yokohama"
+    },
+    {
         "domain": "yt",
         "type": "country-code",
         "organisation": "AFNIC (NIC France) - Immeuble International",
@@ -3642,7 +4048,7 @@
     {
         "domain": "zm",
         "type": "country-code",
-        "organisation": "ZAMNET Communication Systems Ltd.",
+        "organisation": "Zambia Information and Communications Technology Authority (ZICTA)",
         "isIDN": false,
         "punycode": "zm"
     },
