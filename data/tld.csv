@@ -30,6 +30,7 @@ az,country-code,IntraNS
 ba,country-code,"Universtiy Telinformatic Centre (UTIC)"
 bar,generic,"Punto 2012 Sociedad Anonima Promotora de Inversion de Capital Variable"
 bargains,generic,"Half Hallow, LLC"
+bayern,generic,"Bayern Connect GmbH"
 bb,country-code,"Government of Barbados
 Ministry of Economic Affairs and Development
 Telecommunications Unit"
@@ -199,7 +200,9 @@ gi,country-code,"Sapphire Networks"
 gift,generic,"Uniregistry, Corp."
 gl,country-code,"TELE Greenland A/S"
 glass,generic,"Black Cover, LLC"
+globo,generic,"Globo Comunicação e Participações S.A"
 gm,country-code,GM-NIC
+gmo,generic,"GMO Internet, Inc."
 gn,country-code,"Centre National des Sciences Halieutiques de Boussoura"
 gop,generic,"Republican State Leadership Committee, Inc."
 gov,sponsored,"General Services Administration

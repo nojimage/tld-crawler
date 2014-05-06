@@ -185,6 +185,12 @@
   isIDN: false
   punycode: bargains
 -
+  domain: bayern
+  type: generic
+  organisation: 'Bayern Connect GmbH'
+  isIDN: false
+  punycode: bayern
+-
   domain: bb
   type: country-code
   organisation: "Government of Barbados\nMinistry of Economic Affairs and Development\nTelecommunications Unit"
@@ -1127,11 +1133,23 @@
   isIDN: false
   punycode: glass
 -
+  domain: globo
+  type: generic
+  organisation: 'Globo Comunicação e Participações S.A'
+  isIDN: false
+  punycode: globo
+-
   domain: gm
   type: country-code
   organisation: GM-NIC
   isIDN: false
   punycode: gm
+-
+  domain: gmo
+  type: generic
+  organisation: 'GMO Internet, Inc.'
+  isIDN: false
+  punycode: gmo
 -
   domain: gn
   type: country-code

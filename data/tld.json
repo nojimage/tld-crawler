@@ -217,6 +217,13 @@
         "punycode": "bargains"
     },
     {
+        "domain": "bayern",
+        "type": "generic",
+        "organisation": "Bayern Connect GmbH",
+        "isIDN": false,
+        "punycode": "bayern"
+    },
+    {
         "domain": "bb",
         "type": "country-code",
         "organisation": "Government of Barbados\nMinistry of Economic Affairs and Development\nTelecommunications Unit",
@@ -1316,11 +1323,25 @@
         "punycode": "glass"
     },
     {
+        "domain": "globo",
+        "type": "generic",
+        "organisation": "Globo Comunica\u00e7\u00e3o e Participa\u00e7\u00f5es S.A",
+        "isIDN": false,
+        "punycode": "globo"
+    },
+    {
         "domain": "gm",
         "type": "country-code",
         "organisation": "GM-NIC",
         "isIDN": false,
         "punycode": "gm"
+    },
+    {
+        "domain": "gmo",
+        "type": "generic",
+        "organisation": "GMO Internet, Inc.",
+        "isIDN": false,
+        "punycode": "gmo"
     },
     {
         "domain": "gn",
