@@ -14,6 +14,13 @@
         "punycode": "academy"
     },
     {
+        "domain": "accountants",
+        "type": "generic",
+        "organisation": "Knob Town, LLC",
+        "isIDN": false,
+        "punycode": "accountants"
+    },
+    {
         "domain": "actor",
         "type": "generic",
         "organisation": "United TLD Holdco Ltd.",
@@ -623,6 +630,13 @@
         "punycode": "cl"
     },
     {
+        "domain": "claims",
+        "type": "generic",
+        "organisation": "Black Corner, LLC",
+        "isIDN": false,
+        "punycode": "claims"
+    },
+    {
         "domain": "cleaning",
         "type": "generic",
         "organisation": "Fox Shadow, LLC",
@@ -777,6 +791,13 @@
         "punycode": "cr"
     },
     {
+        "domain": "credit",
+        "type": "generic",
+        "organisation": "Snow Shadow, LLC",
+        "isIDN": false,
+        "punycode": "credit"
+    },
+    {
         "domain": "creditcard",
         "type": "generic",
         "organisation": "Binky Frostbite, LLC",
@@ -880,6 +901,13 @@
         "organisation": "John Edge, LLC",
         "isIDN": false,
         "punycode": "diamonds"
+    },
+    {
+        "domain": "digital",
+        "type": "generic",
+        "organisation": "Dash Park, LLC",
+        "isIDN": false,
+        "punycode": "digital"
     },
     {
         "domain": "directory",
