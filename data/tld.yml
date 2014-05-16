@@ -149,6 +149,12 @@
   isIDN: false
   punycode: au
 -
+  domain: audio
+  type: generic
+  organisation: 'Uniregistry, Corp.'
+  isIDN: false
+  punycode: audio
+-
   domain: aw
   type: country-code
   organisation: SETAR
@@ -214,6 +220,12 @@
   organisation: 'DNS BE vzw/asbl'
   isIDN: false
   punycode: be
+-
+  domain: beer
+  type: generic
+  organisation: 'Top Level Domain Holdings Limited'
+  isIDN: false
+  punycode: beer
 -
   domain: berlin
   type: generic
@@ -514,6 +526,12 @@
   organisation: 'Uniregistry, Corp.'
   isIDN: false
   punycode: christmas
+-
+  domain: church
+  type: generic
+  organisation: 'Holly Fileds, LLC'
+  isIDN: false
+  punycode: church
 -
   domain: ci
   type: country-code
@@ -1247,6 +1265,12 @@
   isIDN: false
   punycode: gu
 -
+  domain: guide
+  type: generic
+  organisation: 'Snow Moon, LLC'
+  isIDN: false
+  punycode: guide
+-
   domain: guitars
   type: generic
   organisation: 'Uniregistry, Corp.'
@@ -1276,6 +1300,12 @@
   organisation: 'United TLD Holdco, LTD.'
   isIDN: false
   punycode: haus
+-
+  domain: hiphop
+  type: generic
+  organisation: 'Uniregistry, Corp.'
+  isIDN: false
+  punycode: hiphop
 -
   domain: hk
   type: country-code
@@ -1481,6 +1511,12 @@
   isIDN: false
   punycode: jp
 -
+  domain: juegos
+  type: generic
+  organisation: 'Uniregistry, Corp.'
+  isIDN: false
+  punycode: juegos
+-
   domain: kaufen
   type: generic
   organisation: 'United TLD Holdco Ltd.'
@@ -1619,6 +1655,12 @@
   isIDN: false
   punycode: li
 -
+  domain: life
+  type: generic
+  organisation: 'Trixy Oaks, LLC'
+  isIDN: false
+  punycode: life
+-
   domain: lighting
   type: generic
   organisation: 'John McCook, LLC'
@@ -1649,6 +1691,12 @@
   isIDN: false
   punycode: lk
 -
+  domain: loans
+  type: generic
+  organisation: 'June Woods, LLC'
+  isIDN: false
+  punycode: loans
+-
   domain: london
   type: generic
   organisation: 'Dot London Domains Limited'
@@ -1678,6 +1726,12 @@
   organisation: RESTENA
   isIDN: false
   punycode: lu
+-
+  domain: luxe
+  type: generic
+  organisation: 'Top Level Domain Holdings Limited'
+  isIDN: false
+  punycode: luxe
 -
   domain: luxury
   type: generic
