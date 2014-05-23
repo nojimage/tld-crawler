@@ -155,6 +155,12 @@
   isIDN: false
   punycode: audio
 -
+  domain: autos
+  type: generic
+  organisation: 'DERAutos, LLC'
+  isIDN: false
+  punycode: autos
+-
   domain: aw
   type: country-code
   organisation: SETAR
@@ -1337,6 +1343,12 @@
   isIDN: false
   punycode: holiday
 -
+  domain: homes
+  type: generic
+  organisation: 'DERHomes, LLC'
+  isIDN: false
+  punycode: homes
+-
   domain: horse
   type: generic
   organisation: 'Top Level Domain Holdings Limited'
@@ -1900,6 +1912,12 @@
   organisation: 'Foundation for Assistance for Internet Technologies and Infrastructure Development (FAITID)'
   isIDN: false
   punycode: moscow
+-
+  domain: motorcycles
+  type: generic
+  organisation: 'DERMotorcycles, LLC'
+  isIDN: false
+  punycode: motorcycles
 -
   domain: mp
   type: country-code
@@ -3185,6 +3203,12 @@
   isIDN: true
   punycode: xn--clchc0ea0b2g2a9gcd
 -
+  domain: 商标
+  type: generic
+  organisation: 'HU YI GLOBAL INFORMATION RESOURCES(HOLDING) COMPANY.HONGKONG LIMITED'
+  isIDN: true
+  punycode: xn--czr694b
+-
   domain: 商城
   type: generic
   organisation: 'Zodiac Capricorn Limited'
@@ -3538,6 +3562,12 @@
   organisation: 'XYZ.COM LLC'
   isIDN: false
   punycode: xyz
+-
+  domain: yachts
+  type: generic
+  organisation: 'DERYachts, LLC'
+  isIDN: false
+  punycode: yachts
 -
   domain: ye
   type: country-code
