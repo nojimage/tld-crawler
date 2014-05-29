@@ -659,11 +659,23 @@
   isIDN: false
   punycode: computer
 -
+  domain: condos
+  type: generic
+  organisation: 'Pine House, LLC'
+  isIDN: false
+  punycode: condos
+-
   domain: construction
   type: generic
   organisation: 'Fox Dynamite, LLC'
   isIDN: false
   punycode: construction
+-
+  domain: consulting
+  type: generic
+  organisation: 'United TLD Holdco, LTD.'
+  isIDN: false
+  punycode: consulting
 -
   domain: contractors
   type: generic
@@ -832,6 +844,12 @@
   organisation: 'DotDM Corporation'
   isIDN: false
   punycode: dm
+-
+  domain: dnp
+  type: generic
+  organisation: 'Dai Nippon Printing Co., Ltd.'
+  isIDN: false
+  punycode: dnp
 -
   domain: do
   type: country-code
@@ -1427,6 +1445,12 @@
   isIDN: false
   punycode: info
 -
+  domain: ink
+  type: generic
+  organisation: 'Top Level Design, LLC'
+  isIDN: false
+  punycode: ink
+-
   domain: institute
   type: generic
   organisation: 'Outer Maple, LLC'
@@ -1768,6 +1792,12 @@
   organisation: 'Agence Nationale de Réglementation des Télécommunications (ANRT)'
   isIDN: false
   punycode: ma
+-
+  domain: maison
+  type: generic
+  organisation: 'Victor Frostbite, LLC'
+  isIDN: false
+  punycode: maison
 -
   domain: management
   type: generic
@@ -2333,6 +2363,12 @@
   isIDN: false
   punycode: red
 -
+  domain: reise
+  type: generic
+  organisation: 'dotreise GmbH'
+  isIDN: false
+  punycode: reise
+-
   domain: reisen
   type: generic
   organisation: 'New Cypress, LLC'
@@ -2380,6 +2416,12 @@
   organisation: 'I-REGISTRY Ltd., Niederlassung Deutschland'
   isIDN: false
   punycode: rich
+-
+  domain: rio
+  type: generic
+  organisation: 'Empresa Municipal de Informática SA - IPLANRIO'
+  isIDN: false
+  punycode: rio
 -
   domain: ro
   type: country-code
@@ -2939,6 +2981,12 @@
   isIDN: false
   punycode: ventures
 -
+  domain: versicherung
+  type: generic
+  organisation: 'dotversicherung-registry GmbH'
+  isIDN: false
+  punycode: versicherung
+-
   domain: vg
   type: country-code
   organisation: 'Telecommunications Regulatory Commission of the Virgin Islands'
@@ -3112,6 +3160,12 @@
   organisation: 'National Internet Exchange of India'
   isIDN: true
   punycode: xn--45brj9c
+-
+  domain: موقع
+  type: generic
+  organisation: 'Suhub Electronic Establishment'
+  isIDN: true
+  punycode: xn--4gbrim
 -
   domain: বাংলা
   type: country-code
