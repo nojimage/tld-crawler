@@ -785,6 +785,12 @@
   isIDN: false
   punycode: de
 -
+  domain: degree
+  type: generic
+  organisation: 'United TLD Holdco, Ltd'
+  isIDN: false
+  punycode: degree
+-
   domain: democrat
   type: generic
   organisation: 'United TLD Holdco Ltd.'
@@ -2627,6 +2633,12 @@
   isIDN: false
   punycode: soy
 -
+  domain: space
+  type: generic
+  organisation: 'DotSpace Inc.'
+  isIDN: false
+  punycode: space
+-
   domain: sr
   type: country-code
   organisation: Telesur
@@ -3076,6 +3088,12 @@
   organisation: 'dot Webcam Limited'
   isIDN: false
   punycode: webcam
+-
+  domain: website
+  type: generic
+  organisation: 'DotWebsite Inc.'
+  isIDN: false
+  punycode: website
 -
   domain: wed
   type: generic
