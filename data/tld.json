@@ -168,6 +168,13 @@
         "punycode": "at"
     },
     {
+        "domain": "attorney",
+        "type": "generic",
+        "organisation": "United TLD Holdco, Ltd",
+        "isIDN": false,
+        "punycode": "attorney"
+    },
+    {
         "domain": "au",
         "type": "country-code",
         "organisation": ".au Domain Administration (auDA)",
@@ -327,6 +334,13 @@
         "organisation": "Grand Hollow, LLC",
         "isIDN": false,
         "punycode": "bike"
+    },
+    {
+        "domain": "bio",
+        "type": "generic",
+        "organisation": "STARTING DOT LIMITED",
+        "isIDN": false,
+        "punycode": "bio"
     },
     {
         "domain": "biz",
@@ -936,6 +950,13 @@
         "organisation": "Tin Birch, LLC",
         "isIDN": false,
         "punycode": "dental"
+    },
+    {
+        "domain": "dentist",
+        "type": "generic",
+        "organisation": "United TLD Holdco, Ltd",
+        "isIDN": false,
+        "punycode": "dentist"
     },
     {
         "domain": "desi",
@@ -1561,6 +1582,13 @@
         "punycode": "hiphop"
     },
     {
+        "domain": "hiv",
+        "type": "generic",
+        "organisation": "dotHIV gemeinnuetziger e.V.",
+        "isIDN": false,
+        "punycode": "hiv"
+    },
+    {
         "domain": "hk",
         "type": "country-code",
         "organisation": "Hong Kong Internet Registration Corporation Ltd.",
@@ -1608,6 +1636,13 @@
         "organisation": "Top Level Domain Holdings Limited",
         "isIDN": false,
         "punycode": "horse"
+    },
+    {
+        "domain": "host",
+        "type": "generic",
+        "organisation": "DotHost Inc.",
+        "isIDN": false,
+        "punycode": "host"
     },
     {
         "domain": "house",
@@ -1953,6 +1988,13 @@
         "punycode": "land"
     },
     {
+        "domain": "lawyer",
+        "type": "generic",
+        "organisation": "United TLD Holdco, Ltd",
+        "isIDN": false,
+        "punycode": "lawyer"
+    },
+    {
         "domain": "lb",
         "type": "country-code",
         "organisation": "American University of Beirut\nComputing and Networking Services",
@@ -2121,6 +2163,13 @@
         "punycode": "mango"
     },
     {
+        "domain": "market",
+        "type": "generic",
+        "organisation": "Unitied TLD Holdco, Ltd",
+        "isIDN": false,
+        "punycode": "market"
+    },
+    {
         "domain": "marketing",
         "type": "generic",
         "organisation": "Fern Pass, LLC",
@@ -2266,6 +2315,13 @@
         "organisation": "Monash University",
         "isIDN": false,
         "punycode": "monash"
+    },
+    {
+        "domain": "mortgage",
+        "type": "generic",
+        "organisation": "United TLD Holdco, Ltd",
+        "isIDN": false,
+        "punycode": "mortgage"
     },
     {
         "domain": "moscow",
@@ -2667,6 +2723,13 @@
         "punycode": "pr"
     },
     {
+        "domain": "press",
+        "type": "generic",
+        "organisation": "DotPress Inc.",
+        "isIDN": false,
+        "punycode": "press"
+    },
+    {
         "domain": "pro",
         "type": "generic-restricted",
         "organisation": "Registry Services Corporation\ndba RegistryPro",
@@ -3043,6 +3106,13 @@
         "organisation": "United TLD Holdco Ltd.",
         "isIDN": false,
         "punycode": "social"
+    },
+    {
+        "domain": "software",
+        "type": "generic",
+        "organisation": "United TLD Holdco, Ltd",
+        "isIDN": false,
+        "punycode": "software"
     },
     {
         "domain": "sohu",
@@ -3498,6 +3568,13 @@
         "organisation": "dotversicherung-registry GmbH",
         "isIDN": false,
         "punycode": "versicherung"
+    },
+    {
+        "domain": "vet",
+        "type": "generic",
+        "organisation": "United TLD Holdco, Ltd",
+        "isIDN": false,
+        "punycode": "vet"
     },
     {
         "domain": "vg",
