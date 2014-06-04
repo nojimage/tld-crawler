@@ -11,6 +11,12 @@
   isIDN: false
   punycode: academy
 -
+  domain: accountants
+  type: generic
+  organisation: 'Knob Town, LLC'
+  isIDN: false
+  punycode: accountants
+-
   domain: actor
   type: generic
   organisation: 'United TLD Holdco Ltd.'
@@ -137,11 +143,29 @@
   isIDN: false
   punycode: at
 -
+  domain: attorney
+  type: generic
+  organisation: 'United TLD Holdco, Ltd'
+  isIDN: false
+  punycode: attorney
+-
   domain: au
   type: country-code
   organisation: '.au Domain Administration (auDA)'
   isIDN: false
   punycode: au
+-
+  domain: audio
+  type: generic
+  organisation: 'Uniregistry, Corp.'
+  isIDN: false
+  punycode: audio
+-
+  domain: autos
+  type: generic
+  organisation: 'DERAutos, LLC'
+  isIDN: false
+  punycode: autos
 -
   domain: aw
   type: country-code
@@ -185,6 +209,12 @@
   isIDN: false
   punycode: bargains
 -
+  domain: bayern
+  type: generic
+  organisation: 'Bayern Connect GmbH'
+  isIDN: false
+  punycode: bayern
+-
   domain: bb
   type: country-code
   organisation: "Government of Barbados\nMinistry of Economic Affairs and Development\nTelecommunications Unit"
@@ -202,6 +232,12 @@
   organisation: 'DNS BE vzw/asbl'
   isIDN: false
   punycode: be
+-
+  domain: beer
+  type: generic
+  organisation: 'Top Level Domain Holdings Limited'
+  isIDN: false
+  punycode: beer
 -
   domain: berlin
   type: generic
@@ -250,6 +286,12 @@
   organisation: 'Grand Hollow, LLC'
   isIDN: false
   punycode: bike
+-
+  domain: bio
+  type: generic
+  organisation: 'STARTING DOT LIMITED'
+  isIDN: false
+  punycode: bio
 -
   domain: biz
   type: generic-restricted
@@ -503,6 +545,12 @@
   isIDN: false
   punycode: christmas
 -
+  domain: church
+  type: generic
+  organisation: 'Holly Fileds, LLC'
+  isIDN: false
+  punycode: church
+-
   domain: ci
   type: country-code
   organisation: 'INP-HB Institut National Polytechnique Felix Houphouet Boigny'
@@ -526,6 +574,12 @@
   organisation: 'NIC Chile (University of Chile)'
   isIDN: false
   punycode: cl
+-
+  domain: claims
+  type: generic
+  organisation: 'Black Corner, LLC'
+  isIDN: false
+  punycode: claims
 -
   domain: cleaning
   type: generic
@@ -617,11 +671,23 @@
   isIDN: false
   punycode: computer
 -
+  domain: condos
+  type: generic
+  organisation: 'Pine House, LLC'
+  isIDN: false
+  punycode: condos
+-
   domain: construction
   type: generic
   organisation: 'Fox Dynamite, LLC'
   isIDN: false
   punycode: construction
+-
+  domain: consulting
+  type: generic
+  organisation: 'United TLD Holdco, LTD.'
+  isIDN: false
+  punycode: consulting
 -
   domain: contractors
   type: generic
@@ -658,6 +724,12 @@
   organisation: "National Academy of Sciences\nAcademia Nacional de Ciencias"
   isIDN: false
   punycode: cr
+-
+  domain: credit
+  type: generic
+  organisation: 'Snow Shadow, LLC'
+  isIDN: false
+  punycode: credit
 -
   domain: creditcard
   type: generic
@@ -725,6 +797,12 @@
   isIDN: false
   punycode: de
 -
+  domain: degree
+  type: generic
+  organisation: 'United TLD Holdco, Ltd'
+  isIDN: false
+  punycode: degree
+-
   domain: democrat
   type: generic
   organisation: 'United TLD Holdco Ltd.'
@@ -737,6 +815,12 @@
   isIDN: false
   punycode: dental
 -
+  domain: dentist
+  type: generic
+  organisation: 'United TLD Holdco, Ltd'
+  isIDN: false
+  punycode: dentist
+-
   domain: desi
   type: generic
   organisation: 'Desi Networks LLC'
@@ -748,6 +832,12 @@
   organisation: 'John Edge, LLC'
   isIDN: false
   punycode: diamonds
+-
+  domain: digital
+  type: generic
+  organisation: 'Dash Park, LLC'
+  isIDN: false
+  punycode: digital
 -
   domain: directory
   type: generic
@@ -778,6 +868,12 @@
   organisation: 'DotDM Corporation'
   isIDN: false
   punycode: dm
+-
+  domain: dnp
+  type: generic
+  organisation: 'Dai Nippon Printing Co., Ltd.'
+  isIDN: false
+  punycode: dnp
 -
   domain: do
   type: country-code
@@ -1127,11 +1223,23 @@
   isIDN: false
   punycode: glass
 -
+  domain: globo
+  type: generic
+  organisation: 'Globo Comunicação e Participações S.A'
+  isIDN: false
+  punycode: globo
+-
   domain: gm
   type: country-code
   organisation: GM-NIC
   isIDN: false
   punycode: gm
+-
+  domain: gmo
+  type: generic
+  organisation: 'GMO Internet, Inc.'
+  isIDN: false
+  punycode: gmo
 -
   domain: gn
   type: country-code
@@ -1205,6 +1313,12 @@
   isIDN: false
   punycode: gu
 -
+  domain: guide
+  type: generic
+  organisation: 'Snow Moon, LLC'
+  isIDN: false
+  punycode: guide
+-
   domain: guitars
   type: generic
   organisation: 'Uniregistry, Corp.'
@@ -1234,6 +1348,18 @@
   organisation: 'United TLD Holdco, LTD.'
   isIDN: false
   punycode: haus
+-
+  domain: hiphop
+  type: generic
+  organisation: 'Uniregistry, Corp.'
+  isIDN: false
+  punycode: hiphop
+-
+  domain: hiv
+  type: generic
+  organisation: 'dotHIV gemeinnuetziger e.V.'
+  isIDN: false
+  punycode: hiv
 -
   domain: hk
   type: country-code
@@ -1265,11 +1391,23 @@
   isIDN: false
   punycode: holiday
 -
+  domain: homes
+  type: generic
+  organisation: 'DERHomes, LLC'
+  isIDN: false
+  punycode: homes
+-
   domain: horse
   type: generic
   organisation: 'Top Level Domain Holdings Limited'
   isIDN: false
   punycode: horse
+-
+  domain: host
+  type: generic
+  organisation: 'DotHost Inc.'
+  isIDN: false
+  punycode: host
 -
   domain: house
   type: generic
@@ -1342,6 +1480,12 @@
   organisation: 'Afilias Limited'
   isIDN: false
   punycode: info
+-
+  domain: ink
+  type: generic
+  organisation: 'Top Level Design, LLC'
+  isIDN: false
+  punycode: ink
 -
   domain: institute
   type: generic
@@ -1438,6 +1582,12 @@
   organisation: 'Japan Registry Services Co., Ltd.'
   isIDN: false
   punycode: jp
+-
+  domain: juegos
+  type: generic
+  organisation: 'Uniregistry, Corp.'
+  isIDN: false
+  punycode: juegos
 -
   domain: kaufen
   type: generic
@@ -1553,6 +1703,12 @@
   isIDN: false
   punycode: land
 -
+  domain: lawyer
+  type: generic
+  organisation: 'United TLD Holdco, Ltd'
+  isIDN: false
+  punycode: lawyer
+-
   domain: lb
   type: country-code
   organisation: "American University of Beirut\nComputing and Networking Services"
@@ -1576,6 +1732,12 @@
   organisation: 'Universitaet Liechtenstein'
   isIDN: false
   punycode: li
+-
+  domain: life
+  type: generic
+  organisation: 'Trixy Oaks, LLC'
+  isIDN: false
+  punycode: life
 -
   domain: lighting
   type: generic
@@ -1607,6 +1769,12 @@
   isIDN: false
   punycode: lk
 -
+  domain: loans
+  type: generic
+  organisation: 'June Woods, LLC'
+  isIDN: false
+  punycode: loans
+-
   domain: london
   type: generic
   organisation: 'Dot London Domains Limited'
@@ -1637,6 +1805,12 @@
   isIDN: false
   punycode: lu
 -
+  domain: luxe
+  type: generic
+  organisation: 'Top Level Domain Holdings Limited'
+  isIDN: false
+  punycode: luxe
+-
   domain: luxury
   type: generic
   organisation: 'Luxury Partners LLC'
@@ -1661,6 +1835,12 @@
   isIDN: false
   punycode: ma
 -
+  domain: maison
+  type: generic
+  organisation: 'Victor Frostbite, LLC'
+  isIDN: false
+  punycode: maison
+-
   domain: management
   type: generic
   organisation: 'John Goodbye, LLC'
@@ -1672,6 +1852,12 @@
   organisation: 'PUNTO FA S.L.'
   isIDN: false
   punycode: mango
+-
+  domain: market
+  type: generic
+  organisation: 'Unitied TLD Holdco, Ltd'
+  isIDN: false
+  punycode: market
 -
   domain: marketing
   type: generic
@@ -1799,11 +1985,23 @@
   isIDN: false
   punycode: monash
 -
+  domain: mortgage
+  type: generic
+  organisation: 'United TLD Holdco, Ltd'
+  isIDN: false
+  punycode: mortgage
+-
   domain: moscow
   type: generic
   organisation: 'Foundation for Assistance for Internet Technologies and Infrastructure Development (FAITID)'
   isIDN: false
   punycode: moscow
+-
+  domain: motorcycles
+  type: generic
+  organisation: 'DERMotorcycles, LLC'
+  isIDN: false
+  punycode: motorcycles
 -
   domain: mp
   type: country-code
@@ -2135,6 +2333,12 @@
   isIDN: false
   punycode: pr
 -
+  domain: press
+  type: generic
+  organisation: 'DotPress Inc.'
+  isIDN: false
+  punycode: press
+-
   domain: pro
   type: generic-restricted
   organisation: "Registry Services Corporation\ndba RegistryPro"
@@ -2219,6 +2423,12 @@
   isIDN: false
   punycode: red
 -
+  domain: reise
+  type: generic
+  organisation: 'dotreise GmbH'
+  isIDN: false
+  punycode: reise
+-
   domain: reisen
   type: generic
   organisation: 'New Cypress, LLC'
@@ -2266,6 +2476,12 @@
   organisation: 'I-REGISTRY Ltd., Niederlassung Deutschland'
   isIDN: false
   punycode: rich
+-
+  domain: rio
+  type: generic
+  organisation: 'Empresa Municipal de Informática SA - IPLANRIO'
+  isIDN: false
+  punycode: rio
 -
   domain: ro
   type: country-code
@@ -2447,6 +2663,12 @@
   isIDN: false
   punycode: social
 -
+  domain: software
+  type: generic
+  organisation: 'United TLD Holdco, Ltd'
+  isIDN: false
+  punycode: software
+-
   domain: sohu
   type: generic
   organisation: 'Sohu.com Limited'
@@ -2470,6 +2692,12 @@
   organisation: 'Charleston Road Registry Inc.'
   isIDN: false
   punycode: soy
+-
+  domain: space
+  type: generic
+  organisation: 'DotSpace Inc.'
+  isIDN: false
+  punycode: space
 -
   domain: sr
   type: country-code
@@ -2825,6 +3053,18 @@
   isIDN: false
   punycode: ventures
 -
+  domain: versicherung
+  type: generic
+  organisation: 'dotversicherung-registry GmbH'
+  isIDN: false
+  punycode: versicherung
+-
+  domain: vet
+  type: generic
+  organisation: 'United TLD Holdco, Ltd'
+  isIDN: false
+  punycode: vet
+-
   domain: vg
   type: country-code
   organisation: 'Telecommunications Regulatory Commission of the Virgin Islands'
@@ -2915,6 +3155,12 @@
   isIDN: false
   punycode: webcam
 -
+  domain: website
+  type: generic
+  organisation: 'DotWebsite Inc.'
+  isIDN: false
+  punycode: website
+-
   domain: wed
   type: generic
   organisation: 'Atgron, Inc.'
@@ -2998,6 +3244,12 @@
   organisation: 'National Internet Exchange of India'
   isIDN: true
   punycode: xn--45brj9c
+-
+  domain: موقع
+  type: generic
+  organisation: 'Suhub Electronic Establishment'
+  isIDN: true
+  punycode: xn--4gbrim
 -
   domain: বাংলা
   type: country-code
@@ -3088,6 +3340,12 @@
   organisation: 'Singapore Network Information Centre (SGNIC) Pte Ltd'
   isIDN: true
   punycode: xn--clchc0ea0b2g2a9gcd
+-
+  domain: 商标
+  type: generic
+  organisation: 'HU YI GLOBAL INFORMATION RESOURCES(HOLDING) COMPANY.HONGKONG LIMITED'
+  isIDN: true
+  punycode: xn--czr694b
 -
   domain: 商城
   type: generic
@@ -3442,6 +3700,12 @@
   organisation: 'XYZ.COM LLC'
   isIDN: false
   punycode: xyz
+-
+  domain: yachts
+  type: generic
+  organisation: 'DERYachts, LLC'
+  isIDN: false
+  punycode: yachts
 -
   domain: ye
   type: country-code
