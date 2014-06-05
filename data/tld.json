@@ -133,6 +133,13 @@
         "punycode": "archi"
     },
     {
+        "domain": "army",
+        "type": "generic",
+        "organisation": "United TLD Holdco Ltd.",
+        "isIDN": false,
+        "punycode": "army"
+    },
+    {
         "domain": "arpa",
         "type": "infrastructure",
         "organisation": "Internet Assigned Numbers Authority",
@@ -1092,6 +1099,13 @@
         "punycode": "email"
     },
     {
+        "domain": "engineer",
+        "type": "generic",
+        "organisation": "United TLD Holdco Ltd.",
+        "isIDN": false,
+        "punycode": "engineer"
+    },
+    {
         "domain": "engineering",
         "type": "generic",
         "organisation": "Romeo Canyon",
@@ -1414,6 +1428,13 @@
         "punycode": "gift"
     },
     {
+        "domain": "gives",
+        "type": "generic",
+        "organisation": "United TLD Holdco Ltd.",
+        "isIDN": false,
+        "punycode": "gives"
+    },
+    {
         "domain": "gl",
         "type": "country-code",
         "organisation": "TELE Greenland A/S",
@@ -1566,6 +1587,13 @@
         "organisation": "University of Guyana",
         "isIDN": false,
         "punycode": "gy"
+    },
+    {
+        "domain": "hamburg",
+        "type": "generic",
+        "organisation": "Hamburg Top-Level-Domain GmbH",
+        "isIDN": false,
+        "punycode": "hamburg"
     },
     {
         "domain": "haus",
@@ -2443,6 +2471,13 @@
         "punycode": "name"
     },
     {
+        "domain": "navy",
+        "type": "generic",
+        "organisation": "United TLD Holdco Ltd.",
+        "isIDN": false,
+        "punycode": "navy"
+    },
+    {
         "domain": "nc",
         "type": "country-code",
         "organisation": "Office des Postes et Telecommunications",
@@ -2483,6 +2518,13 @@
         "organisation": "Nigeria Internet Registration Association",
         "isIDN": false,
         "punycode": "ng"
+    },
+    {
+        "domain": "nhk",
+        "type": "generic",
+        "organisation": "Japan Broadcasting Corporation (NHK)",
+        "isIDN": false,
+        "punycode": "nhk"
     },
     {
         "domain": "ni",
@@ -2828,6 +2870,13 @@
         "punycode": "red"
     },
     {
+        "domain": "rehab",
+        "type": "generic",
+        "organisation": "United TLD Holdco Ltd.",
+        "isIDN": false,
+        "punycode": "rehab"
+    },
+    {
         "domain": "reise",
         "type": "generic",
         "organisation": "dotreise GmbH",
@@ -2868,6 +2917,13 @@
         "organisation": "Binky Glen, LLC",
         "isIDN": false,
         "punycode": "report"
+    },
+    {
+        "domain": "republican",
+        "type": "generic",
+        "organisation": "United TLD Holdco Ltd.",
+        "isIDN": false,
+        "punycode": "republican"
     },
     {
         "domain": "rest",
@@ -3316,6 +3372,13 @@
         "organisation": "Corn Willow, LLC",
         "isIDN": false,
         "punycode": "tips"
+    },
+    {
+        "domain": "tirol",
+        "type": "generic",
+        "organisation": "punkt Tirol GmbH",
+        "isIDN": false,
+        "punycode": "tirol"
     },
     {
         "domain": "tj",
