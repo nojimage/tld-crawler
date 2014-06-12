@@ -1241,6 +1241,12 @@
   isIDN: false
   punycode: glass
 -
+  domain: global
+  type: generic
+  organisation: 'Dot GLOBAL AS'
+  isIDN: false
+  punycode: global
+-
   domain: globo
   type: generic
   organisation: 'Globo Comunicação e Participações S.A'

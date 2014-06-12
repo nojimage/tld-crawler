@@ -1449,6 +1449,13 @@
         "punycode": "glass"
     },
     {
+        "domain": "global",
+        "type": "generic",
+        "organisation": "Dot GLOBAL AS",
+        "isIDN": false,
+        "punycode": "global"
+    },
+    {
         "domain": "globo",
         "type": "generic",
         "organisation": "Globo Comunica\u00e7\u00e3o e Participa\u00e7\u00f5es S.A",
