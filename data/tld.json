@@ -2625,6 +2625,13 @@
         "punycode": "org"
     },
     {
+        "domain": "organic",
+        "type": "generic",
+        "organisation": "Afilias Limited",
+        "isIDN": false,
+        "punycode": "organic"
+    },
+    {
         "domain": "pa",
         "type": "country-code",
         "organisation": "Universidad Tecnologica de Panama",
@@ -3050,6 +3057,13 @@
         "organisation": "Outer Moon, LLC",
         "isIDN": false,
         "punycode": "schule"
+    },
+    {
+        "domain": "scot",
+        "type": "generic",
+        "organisation": "Dot Scot Registry Limited",
+        "isIDN": false,
+        "punycode": "scot"
     },
     {
         "domain": "sd",
