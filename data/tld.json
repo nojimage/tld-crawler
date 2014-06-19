@@ -434,6 +434,13 @@
         "punycode": "br"
     },
     {
+        "domain": "brussels",
+        "type": "generic",
+        "organisation": "DNS.be vzw",
+        "isIDN": false,
+        "punycode": "brussels"
+    },
+    {
         "domain": "bs",
         "type": "country-code",
         "organisation": "The College of the Bahamas",
@@ -495,6 +502,13 @@
         "organisation": "University of Belize",
         "isIDN": false,
         "punycode": "bz"
+    },
+    {
+        "domain": "bzh",
+        "type": "generic",
+        "organisation": "Association www.bzh",
+        "isIDN": false,
+        "punycode": "bzh"
     },
     {
         "domain": "ca",
@@ -1318,7 +1332,7 @@
     {
         "domain": "fr",
         "type": "country-code",
-        "organisation": "AFNIC (NIC France) - Immeuble International",
+        "organisation": "Association Fran\u00e7aise pour le Nommage Internet en Coop\u00e9ration (A.F.N.I.C.)",
         "isIDN": false,
         "punycode": "fr"
     },
@@ -2753,7 +2767,7 @@
     {
         "domain": "pm",
         "type": "country-code",
-        "organisation": "AFNIC (NIC France) - Immeuble International",
+        "organisation": "Association Fran\u00e7aise pour le Nommage Internet en Coop\u00e9ration (A.F.N.I.C.)",
         "isIDN": false,
         "punycode": "pm"
     },
@@ -2865,7 +2879,7 @@
     {
         "domain": "re",
         "type": "country-code",
-        "organisation": "AFNIC (NIC France) - Immeuble International",
+        "organisation": "Association Fran\u00e7aise pour le Nommage Internet en Coop\u00e9ration (A.F.N.I.C.)",
         "isIDN": false,
         "punycode": "re"
     },
@@ -3276,6 +3290,13 @@
         "punycode": "support"
     },
     {
+        "domain": "surf",
+        "type": "generic",
+        "organisation": "Top Level Domain Holdings Limited",
+        "isIDN": false,
+        "punycode": "surf"
+    },
+    {
         "domain": "surgery",
         "type": "generic",
         "organisation": "Tin Avenue, LLC",
@@ -3362,7 +3383,7 @@
     {
         "domain": "tf",
         "type": "country-code",
-        "organisation": "AFNIC (NIC France) - Immeuble International",
+        "organisation": "Association Fran\u00e7aise pour le Nommage Internet en Coop\u00e9ration (A.F.N.I.C.)",
         "isIDN": false,
         "punycode": "tf"
     },
@@ -3696,6 +3717,13 @@
         "punycode": "vision"
     },
     {
+        "domain": "vlaanderen",
+        "type": "generic",
+        "organisation": "DNS.be vzw",
+        "isIDN": false,
+        "punycode": "vlaanderen"
+    },
+    {
         "domain": "vn",
         "type": "country-code",
         "organisation": "Ministry of Information and Communications of Socialist Republic of Viet Nam",
@@ -3782,7 +3810,7 @@
     {
         "domain": "wf",
         "type": "country-code",
-        "organisation": "AFNIC (NIC France) - Immeuble International",
+        "organisation": "Association Fran\u00e7aise pour le Nommage Internet en Coop\u00e9ration (A.F.N.I.C.)",
         "isIDN": false,
         "punycode": "wf"
     },
@@ -4426,7 +4454,7 @@
     {
         "domain": "yt",
         "type": "country-code",
-        "organisation": "AFNIC (NIC France) - Immeuble International",
+        "organisation": "Association Fran\u00e7aise pour le Nommage Internet en Coop\u00e9ration (A.F.N.I.C.)",
         "isIDN": false,
         "punycode": "yt"
     },
