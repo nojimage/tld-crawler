@@ -461,6 +461,12 @@
   isIDN: false
   punycode: camp
 -
+  domain: capetown
+  type: generic
+  organisation: 'ZA Central Registry NPC trading as ZA Central Registry'
+  isIDN: false
+  punycode: capetown
+-
   domain: capital
   type: generic
   organisation: 'Delta Mill, LLC'
@@ -905,6 +911,12 @@
   isIDN: false
   punycode: domains
 -
+  domain: durban
+  type: generic
+  organisation: 'ZA Central Registry NPC trading as ZA Central Registry'
+  isIDN: false
+  punycode: durban
+-
   domain: dz
   type: country-code
   organisation: CERIST
@@ -1325,6 +1337,12 @@
   isIDN: false
   punycode: gratis
 -
+  domain: green
+  type: generic
+  organisation: 'Afilias Limited'
+  isIDN: false
+  punycode: green
+-
   domain: gripe
   type: generic
   organisation: 'Corn Sunset, LLC'
@@ -1619,6 +1637,12 @@
   isIDN: false
   punycode: jobs
 -
+  domain: joburg
+  type: generic
+  organisation: 'ZA Central Registry NPC trading as ZA Central Registry'
+  isIDN: false
+  punycode: joburg
+-
   domain: jp
   type: country-code
   organisation: 'Japan Registry Services Co., Ltd.'
@@ -1822,6 +1846,12 @@
   organisation: 'Dot London Domains Limited'
   isIDN: false
   punycode: london
+-
+  domain: lotto
+  type: generic
+  organisation: 'Afilias Limited'
+  isIDN: false
+  punycode: lotto
 -
   domain: lr
   type: country-code
@@ -2267,6 +2297,12 @@
   isIDN: false
   punycode: organic
 -
+  domain: ovh
+  type: generic
+  organisation: 'OVH SAS'
+  isIDN: false
+  punycode: ovh
+-
   domain: pa
   type: country-code
   organisation: 'Universidad Tecnologica de Panama'
@@ -2332,6 +2368,12 @@
   organisation: 'Sea Corner, LLC'
   isIDN: false
   punycode: photos
+-
+  domain: physio
+  type: generic
+  organisation: 'PhysBiz Pty Ltd'
+  isIDN: false
+  punycode: physio
 -
   domain: pics
   type: generic
@@ -3235,7 +3277,7 @@
 -
   domain: wang
   type: generic
-  organisation: 'Zodiac Leo Limited'
+  organisation: 'Zodiac Registry Limited'
   isIDN: false
   punycode: wang
 -
