@@ -399,6 +399,13 @@
         "punycode": "bm"
     },
     {
+        "domain": "bmw",
+        "type": "generic",
+        "organisation": "Bayerische Motoren Werke Aktiengesellschaft",
+        "isIDN": false,
+        "punycode": "bmw"
+    },
+    {
         "domain": "bn",
         "type": "country-code",
         "organisation": "Telekom Brunei Berhad",
