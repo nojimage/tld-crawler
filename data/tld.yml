@@ -2009,6 +2009,12 @@
   isIDN: false
   punycode: mil
 -
+  domain: mini
+  type: generic
+  organisation: 'Bayerische Motoren Werke Aktiengesellschaft'
+  isIDN: false
+  punycode: mini
+-
   domain: mk
   type: country-code
   organisation: 'Ministry of Foreign Affairs'
