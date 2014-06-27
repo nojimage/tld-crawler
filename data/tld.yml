@@ -17,6 +17,12 @@
   isIDN: false
   punycode: accountants
 -
+  domain: active
+  type: generic
+  organisation: 'The Active Network, Inc'
+  isIDN: false
+  punycode: active
+-
   domain: actor
   type: generic
   organisation: 'United TLD Holdco Ltd.'
