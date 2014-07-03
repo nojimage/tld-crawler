@@ -1022,6 +1022,13 @@
         "punycode": "digital"
     },
     {
+        "domain": "direct",
+        "type": "generic",
+        "organisation": "Half Trail, LLC",
+        "isIDN": false,
+        "punycode": "direct"
+    },
+    {
         "domain": "directory",
         "type": "generic",
         "organisation": "Extra Madison, LLC",
@@ -2828,6 +2835,13 @@
         "punycode": "pl"
     },
     {
+        "domain": "place",
+        "type": "generic",
+        "organisation": "Snow Galley, LLC",
+        "isIDN": false,
+        "punycode": "place"
+    },
+    {
         "domain": "plumbing",
         "type": "generic",
         "organisation": "Spring Tigers, LLC",
@@ -3372,6 +3386,13 @@
         "organisation": "Tin Avenue, LLC",
         "isIDN": false,
         "punycode": "surgery"
+    },
+    {
+        "domain": "suzuki",
+        "type": "generic",
+        "organisation": "SUZUKI MOTOR CORPORATION",
+        "isIDN": false,
+        "punycode": "suzuki"
     },
     {
         "domain": "sv",
