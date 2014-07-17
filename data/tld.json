@@ -553,6 +553,13 @@
         "punycode": "camp"
     },
     {
+        "domain": "cancerresearch",
+        "type": "generic",
+        "organisation": "Australian Cancer Research Foundation",
+        "isIDN": false,
+        "punycode": "cancerresearch"
+    },
+    {
         "domain": "capetown",
         "type": "generic",
         "organisation": "ZA Central Registry NPC trading as ZA Central Registry",
@@ -915,6 +922,13 @@
         "organisation": "CENIAInternet\nIndustria y San Jose\nCapitolio Nacional",
         "isIDN": false,
         "punycode": "cu"
+    },
+    {
+        "domain": "cuisinella",
+        "type": "generic",
+        "organisation": "SALM S.A.S.",
+        "isIDN": false,
+        "punycode": "cuisinella"
     },
     {
         "domain": "cv",
@@ -3148,6 +3162,13 @@
         "organisation": "VCS Pty Ltd",
         "isIDN": false,
         "punycode": "sc"
+    },
+    {
+        "domain": "schmidt",
+        "type": "generic",
+        "organisation": "SALM S.A.S.",
+        "isIDN": false,
+        "punycode": "schmidt"
     },
     {
         "domain": "schule",
