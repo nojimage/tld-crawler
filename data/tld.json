@@ -2128,6 +2128,13 @@
         "punycode": "lease"
     },
     {
+        "domain": "lgbt",
+        "type": "generic",
+        "organisation": "Afilias Limited",
+        "isIDN": false,
+        "punycode": "lgbt"
+    },
+    {
         "domain": "li",
         "type": "country-code",
         "organisation": "Universitaet Liechtenstein",
@@ -3344,6 +3351,13 @@
         "organisation": "DotSpace Inc.",
         "isIDN": false,
         "punycode": "space"
+    },
+    {
+        "domain": "spiegel",
+        "type": "generic",
+        "organisation": "SPIEGEL-Verlag Rudolf Augstein GmbH \u0026 Co. KG",
+        "isIDN": false,
+        "punycode": "spiegel"
     },
     {
         "domain": "sr",
