@@ -2898,6 +2898,13 @@
         "punycode": "pr"
     },
     {
+        "domain": "praxi",
+        "type": "generic",
+        "organisation": "Praxi S.p.A.",
+        "isIDN": false,
+        "punycode": "praxi"
+    },
+    {
         "domain": "press",
         "type": "generic",
         "organisation": "DotPress Inc.",
