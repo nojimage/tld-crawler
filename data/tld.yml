@@ -167,6 +167,12 @@
   isIDN: false
   punycode: au
 -
+  domain: auction
+  type: generic
+  organisation: 'Sand Galley, LLC'
+  isIDN: false
+  punycode: auction
+-
   domain: audio
   type: generic
   organisation: 'Uniregistry, Corp.'
@@ -605,6 +611,12 @@
   isIDN: false
   punycode: citic
 -
+  domain: city
+  type: generic
+  organisation: 'Snow Sky, LLC'
+  isIDN: false
+  punycode: city
+-
   domain: ck
   type: country-code
   organisation: 'Telecom Cook Islands Ltd.'
@@ -844,6 +856,12 @@
   organisation: 'DENIC eG'
   isIDN: false
   punycode: de
+-
+  domain: deals
+  type: generic
+  organisation: 'Sand Sunset, LLC'
+  isIDN: false
+  punycode: deals
 -
   domain: degree
   type: generic
@@ -1246,6 +1264,12 @@
   organisation: 'Caucasus Online'
   isIDN: false
   punycode: ge
+-
+  domain: gent
+  type: generic
+  organisation: 'COMBELL GROUP NV/SA'
+  isIDN: false
+  punycode: gent
 -
   domain: gf
   type: country-code
@@ -1763,6 +1787,12 @@
   isIDN: false
   punycode: kr
 -
+  domain: krd
+  type: generic
+  organisation: 'KRG Department of Information Technology'
+  isIDN: false
+  punycode: krd
+-
   domain: kred
   type: generic
   organisation: 'KredTLD Pty Ltd'
@@ -1792,6 +1822,12 @@
   organisation: 'Lao National Internet Committee (LANIC), Ministry of Posts and Telecommunications'
   isIDN: false
   punycode: la
+-
+  domain: lacaixa
+  type: generic
+  organisation: 'CAIXA D''ESTALVIS I PENSIONS DE BARCELONA'
+  isIDN: false
+  punycode: lacaixa
 -
   domain: land
   type: generic
@@ -2002,6 +2038,12 @@
   organisation: 'Afilias Limited'
   isIDN: false
   punycode: meet
+-
+  domain: melbourne
+  type: generic
+  organisation: 'The Crown in right of the State of Victoria, represented by its Department of State Development, Business and Innovation'
+  isIDN: false
+  punycode: melbourne
 -
   domain: menu
   type: generic
@@ -2249,6 +2291,12 @@
   isIDN: false
   punycode: ng
 -
+  domain: ngo
+  type: generic
+  organisation: 'Public Interest Registry'
+  isIDN: false
+  punycode: ngo
+-
   domain: nhk
   type: generic
   organisation: 'Japan Broadcasting Corporation (NHK)'
@@ -2290,6 +2338,18 @@
   organisation: 'CENPAC NET'
   isIDN: false
   punycode: nr
+-
+  domain: nra
+  type: generic
+  organisation: 'NRA Holdings Company, INC.'
+  isIDN: false
+  punycode: nra
+-
+  domain: nrw
+  type: generic
+  organisation: 'Minds + Machines GmbH'
+  isIDN: false
+  punycode: nrw
 -
   domain: nu
   type: country-code
@@ -2722,6 +2782,12 @@
   organisation: 'VCS Pty Ltd'
   isIDN: false
   punycode: sc
+-
+  domain: scb
+  type: generic
+  organisation: 'The Siam Commercial Bank Public Company Limited ("SCB")'
+  isIDN: false
+  punycode: scb
 -
   domain: schmidt
   type: generic
@@ -3383,6 +3449,12 @@
   isIDN: false
   punycode: wf
 -
+  domain: whoswho
+  type: generic
+  organisation: 'Who''s Who Registry'
+  isIDN: false
+  punycode: whoswho
+-
   domain: wien
   type: generic
   organisation: 'punkt.wien GmbH'
@@ -3916,6 +3988,12 @@
   organisation: 'DERYachts, LLC'
   isIDN: false
   punycode: yachts
+-
+  domain: yandex
+  type: generic
+  organisation: 'YANDEX, LLC'
+  isIDN: false
+  punycode: yandex
 -
   domain: ye
   type: country-code
