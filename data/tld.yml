@@ -3467,6 +3467,12 @@
   isIDN: false
   punycode: wiki
 -
+  domain: williamhill
+  type: generic
+  organisation: 'William Hill Organization Limited'
+  isIDN: false
+  punycode: williamhill
+-
   domain: works
   type: generic
   organisation: 'Little Dynamite, LLC'
