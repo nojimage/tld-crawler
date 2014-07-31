@@ -247,7 +247,7 @@
 -
   domain: be
   type: country-code
-  organisation: 'DNS BE vzw/asbl'
+  organisation: 'DNS Belgium vzw/asbl'
   isIDN: false
   punycode: be
 -
@@ -2731,7 +2731,7 @@
 -
   domain: rs
   type: country-code
-  organisation: "Serbian National Register of\nInternet Domain Names (RNIDS)"
+  organisation: 'Register of National Internet Domain Names of Serbia'
   isIDN: false
   punycode: rs
 -
