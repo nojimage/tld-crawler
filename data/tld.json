@@ -1708,6 +1708,13 @@
         "punycode": "haus"
     },
     {
+        "domain": "healthcare",
+        "type": "generic",
+        "organisation": "Silver Glen, LLC",
+        "isIDN": false,
+        "punycode": "healthcare"
+    },
+    {
         "domain": "hiphop",
         "type": "generic",
         "organisation": "Uniregistry, Corp.",
@@ -3064,6 +3071,13 @@
         "organisation": "Association Fran\u00e7aise pour le Nommage Internet en Coop\u00e9ration (A.F.N.I.C.)",
         "isIDN": false,
         "punycode": "re"
+    },
+    {
+        "domain": "realtor",
+        "type": "generic",
+        "organisation": "Real Estate Domains LLC",
+        "isIDN": false,
+        "punycode": "realtor"
     },
     {
         "domain": "recipes",
