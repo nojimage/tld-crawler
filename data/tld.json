@@ -3563,6 +3563,13 @@
         "punycode": "sz"
     },
     {
+        "domain": "tatar",
+        "type": "generic",
+        "organisation": "Limited Liability Company \u0022Coordination Center of Regional Domain of Tatarstan Republic\u0022",
+        "isIDN": false,
+        "punycode": "tatar"
+    },
+    {
         "domain": "tattoo",
         "type": "generic",
         "organisation": "Uniregistry, Corp.",
@@ -3663,7 +3670,7 @@
     {
         "domain": "tl",
         "type": "country-code",
-        "organisation": "Ministry of Infrastructure\nInformation and Technology Division",
+        "organisation": "Ministry of Transport and  Communications; National Division of  Information and Technology",
         "isIDN": false,
         "punycode": "tl"
     },
@@ -4002,6 +4009,13 @@
         "organisation": "Telecom Vanuatu Limited",
         "isIDN": false,
         "punycode": "vu"
+    },
+    {
+        "domain": "wales",
+        "type": "generic",
+        "organisation": "Nominet UK",
+        "isIDN": false,
+        "punycode": "wales"
     },
     {
         "domain": "wang",
