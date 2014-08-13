@@ -973,6 +973,13 @@
         "punycode": "cy"
     },
     {
+        "domain": "cymru",
+        "type": "generic",
+        "organisation": "Nominet UK",
+        "isIDN": false,
+        "punycode": "cymru"
+    },
+    {
         "domain": "cz",
         "type": "country-code",
         "organisation": "CZ.NIC, z.s.p.o",
@@ -1517,6 +1524,13 @@
         "organisation": "Uniregistry, Corp.",
         "isIDN": false,
         "punycode": "gift"
+    },
+    {
+        "domain": "gifts",
+        "type": "generic",
+        "organisation": "Goose Sky, LLC",
+        "isIDN": false,
+        "punycode": "gifts"
     },
     {
         "domain": "gives",
@@ -3157,6 +3171,13 @@
         "punycode": "rest"
     },
     {
+        "domain": "restaurant",
+        "type": "generic",
+        "organisation": "Snow Avenue, LLC",
+        "isIDN": false,
+        "punycode": "restaurant"
+    },
+    {
         "domain": "reviews",
         "type": "generic",
         "organisation": "United TLD Holdco, Ltd.",
@@ -3246,6 +3267,13 @@
         "organisation": "dotSaarland GmbH",
         "isIDN": false,
         "punycode": "saarland"
+    },
+    {
+        "domain": "sarl",
+        "type": "generic",
+        "organisation": "Delta Orchard, LLC",
+        "isIDN": false,
+        "punycode": "sarl"
     },
     {
         "domain": "sb",
