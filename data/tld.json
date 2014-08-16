@@ -581,6 +581,13 @@
         "punycode": "capital"
     },
     {
+        "domain": "caravan",
+        "type": "generic",
+        "organisation": "Caravan International, Inc.",
+        "isIDN": false,
+        "punycode": "caravan"
+    },
+    {
         "domain": "cards",
         "type": "generic",
         "organisation": "Foggy Hollow, LLC",
