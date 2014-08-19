@@ -427,6 +427,13 @@
         "punycode": "bn"
     },
     {
+        "domain": "bnpparibas",
+        "type": "generic",
+        "organisation": "BNP Paribas",
+        "isIDN": false,
+        "punycode": "bnpparibas"
+    },
+    {
         "domain": "bo",
         "type": "country-code",
         "organisation": "Agencia para el Desarrollo de la Informaci\u00f3n de la Sociedad en Bolivia",
@@ -665,6 +672,13 @@
         "punycode": "ceo"
     },
     {
+        "domain": "cern",
+        "type": "generic",
+        "organisation": "European Organization for Nuclear Research (\u0022CERN\u0022)",
+        "isIDN": false,
+        "punycode": "cern"
+    },
+    {
         "domain": "cf",
         "type": "country-code",
         "organisation": "Societe Centrafricaine de Telecommunications (SOCATEL)",
@@ -754,6 +768,13 @@
         "organisation": "Fox Shadow, LLC",
         "isIDN": false,
         "punycode": "cleaning"
+    },
+    {
+        "domain": "click",
+        "type": "generic",
+        "organisation": "Uniregistry, Corp.",
+        "isIDN": false,
+        "punycode": "click"
     },
     {
         "domain": "clinic",
@@ -1062,6 +1083,13 @@
         "organisation": "John Edge, LLC",
         "isIDN": false,
         "punycode": "diamonds"
+    },
+    {
+        "domain": "diet",
+        "type": "generic",
+        "organisation": "Uniregistry, Corp.",
+        "isIDN": false,
+        "punycode": "diet"
     },
     {
         "domain": "digital",
@@ -1736,6 +1764,13 @@
         "punycode": "healthcare"
     },
     {
+        "domain": "help",
+        "type": "generic",
+        "organisation": "Uniregistry, Corp.",
+        "isIDN": false,
+        "punycode": "help"
+    },
+    {
         "domain": "hiphop",
         "type": "generic",
         "organisation": "Uniregistry, Corp.",
@@ -1806,11 +1841,25 @@
         "punycode": "host"
     },
     {
+        "domain": "hosting",
+        "type": "generic",
+        "organisation": "Uniregistry, Corp.",
+        "isIDN": false,
+        "punycode": "hosting"
+    },
+    {
         "domain": "house",
         "type": "generic",
         "organisation": "Sugar Park, LLC",
         "isIDN": false,
         "punycode": "house"
+    },
+    {
+        "domain": "how",
+        "type": "generic",
+        "organisation": "Charleston Road Registry Inc.",
+        "isIDN": false,
+        "punycode": "how"
     },
     {
         "domain": "hr",
@@ -2294,6 +2343,13 @@
         "organisation": "Kaunas University of Technology",
         "isIDN": false,
         "punycode": "lt"
+    },
+    {
+        "domain": "ltda",
+        "type": "generic",
+        "organisation": "DOMAIN ROBOT SERVICOS DE HOSPEDAGEM NA INTERNET LTDA",
+        "isIDN": false,
+        "punycode": "ltda"
     },
     {
         "domain": "lu",
@@ -2814,6 +2870,13 @@
         "punycode": "onl"
     },
     {
+        "domain": "ooo",
+        "type": "generic",
+        "organisation": "INFIBEAM INCORPORATION LIMITED",
+        "isIDN": false,
+        "punycode": "ooo"
+    },
+    {
         "domain": "org",
         "type": "generic",
         "organisation": "Public Interest Registry (PIR)",
@@ -3029,6 +3092,13 @@
         "organisation": "Big Pass, LLC",
         "isIDN": false,
         "punycode": "properties"
+    },
+    {
+        "domain": "property",
+        "type": "generic",
+        "organisation": "Uniregistry, Corp.",
+        "isIDN": false,
+        "punycode": "property"
     },
     {
         "domain": "ps",
@@ -3295,6 +3365,13 @@
         "organisation": "VCS Pty Ltd",
         "isIDN": false,
         "punycode": "sc"
+    },
+    {
+        "domain": "sca",
+        "type": "generic",
+        "organisation": "SVENSKA CELLULOSA AKTIEBOLAGET SCA (publ)",
+        "isIDN": false,
+        "punycode": "sca"
     },
     {
         "domain": "scb",
@@ -3878,6 +3955,13 @@
         "punycode": "uno"
     },
     {
+        "domain": "uol",
+        "type": "generic",
+        "organisation": "UBN INTERNET LTDA.",
+        "isIDN": false,
+        "punycode": "uol"
+    },
+    {
         "domain": "us",
         "type": "country-code",
         "organisation": "NeuStar, Inc.",
@@ -4163,6 +4247,13 @@
         "organisation": "Internet Assigned Numbers Authority",
         "isIDN": true,
         "punycode": "xn--11b5bs3a9aj6g"
+    },
+    {
+        "domain": "\u4f5b\u5c71",
+        "type": "generic",
+        "organisation": "Guangzhou YU Wei Information Technology Co., Ltd.",
+        "isIDN": true,
+        "punycode": "xn--1qqw23a"
     },
     {
         "domain": "\u96c6\u56e2",
@@ -4667,6 +4758,13 @@
         "organisation": "Supreme Council for Communications and Information Technology (ictQATAR)",
         "isIDN": true,
         "punycode": "xn--wgbl6a"
+    },
+    {
+        "domain": "\u5e7f\u4e1c",
+        "type": "generic",
+        "organisation": "Guangzhou YU Wei Information Technology Co., Ltd.",
+        "isIDN": true,
+        "punycode": "xn--xhq521b"
     },
     {
         "domain": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
