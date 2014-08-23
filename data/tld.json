@@ -497,6 +497,13 @@
         "punycode": "builders"
     },
     {
+        "domain": "business",
+        "type": "generic",
+        "organisation": "Spring Cross, LLC",
+        "isIDN": false,
+        "punycode": "business"
+    },
+    {
         "domain": "buzz",
         "type": "generic",
         "organisation": "DOTSTRATEGY CO.",
@@ -2737,6 +2744,13 @@
         "punycode": "net"
     },
     {
+        "domain": "network",
+        "type": "generic",
+        "organisation": "Trixy Manor, LLC",
+        "isIDN": false,
+        "punycode": "network"
+    },
+    {
         "domain": "neustar",
         "type": "generic",
         "organisation": "NeuStar, Inc.",
@@ -4744,6 +4758,13 @@
         "organisation": "Spring Fields, LLC",
         "isIDN": true,
         "punycode": "xn--unup4y"
+    },
+    {
+        "domain": "\u4f01\u4e1a",
+        "type": "generic",
+        "organisation": "Dash McCook, LLC",
+        "isIDN": true,
+        "punycode": "xn--vhquv"
     },
     {
         "domain": "\u0645\u0635\u0631",
