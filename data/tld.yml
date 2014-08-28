@@ -1295,6 +1295,12 @@
   isIDN: false
   punycode: gb
 -
+  domain: gbiz
+  type: generic
+  organisation: 'Charleston Road Registry Inc.'
+  isIDN: false
+  punycode: gbiz
+-
   domain: gd
   type: country-code
   organisation: 'The National Telecommunications Regulatory Commission (NTRC)'
@@ -1384,6 +1390,12 @@
   organisation: GM-NIC
   isIDN: false
   punycode: gm
+-
+  domain: gmail
+  type: generic
+  organisation: 'Charleston Road Registry Inc.'
+  isIDN: false
+  punycode: gmail
 -
   domain: gmo
   type: generic
@@ -1642,6 +1654,12 @@
   organisation: 'Isle of Man Government'
   isIDN: false
   punycode: im
+-
+  domain: immo
+  type: generic
+  organisation: 'Auburn Bloom, LLC'
+  isIDN: false
+  punycode: immo
 -
   domain: immobilien
   type: generic
@@ -2489,6 +2507,12 @@
   isIDN: false
   punycode: organic
 -
+  domain: otsuka
+  type: generic
+  organisation: 'Otsuka Holdings Co., Ltd.'
+  isIDN: false
+  punycode: otsuka
+-
   domain: ovh
   type: generic
   organisation: 'OVH SAS'
@@ -2584,6 +2608,12 @@
   organisation: 'Afilias Limited'
   isIDN: false
   punycode: pink
+-
+  domain: pizza
+  type: generic
+  organisation: 'Foggy Moon, LLC'
+  isIDN: false
+  punycode: pizza
 -
   domain: pk
   type: country-code
