@@ -169,7 +169,7 @@
 -
   domain: auction
   type: generic
-  organisation: 'Sand Galley, LLC'
+  organisation: 'United TLD HoldCo, Ltd.'
   isIDN: false
   punycode: auction
 -
@@ -2035,7 +2035,7 @@
 -
   domain: ltda
   type: generic
-  organisation: 'DOMAIN ROBOT SERVICOS DE HOSPEDAGEM NA INTERNET LTDA'
+  organisation: 'InterNetX Corp.'
   isIDN: false
   punycode: ltda
 -
@@ -3781,7 +3781,7 @@
 -
   domain: срб
   type: country-code
-  organisation: 'Serbian National Register of Internet Domain Names (RNIDS)'
+  organisation: 'Serbian National Internet Domain Registry (RNIDS)'
   isIDN: true
   punycode: xn--90a3ac
 -
