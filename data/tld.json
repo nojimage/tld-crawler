@@ -441,6 +441,13 @@
         "punycode": "bo"
     },
     {
+        "domain": "boo",
+        "type": "generic",
+        "organisation": "Charleston Road Registry Inc.",
+        "isIDN": false,
+        "punycode": "boo"
+    },
+    {
         "domain": "boutique",
         "type": "generic",
         "organisation": "Over Galley, LLC",
@@ -1022,6 +1029,13 @@
         "punycode": "cz"
     },
     {
+        "domain": "dad",
+        "type": "generic",
+        "organisation": "Charleston Road Registry Inc.",
+        "isIDN": false,
+        "punycode": "dad"
+    },
+    {
         "domain": "dance",
         "type": "generic",
         "organisation": "United TLD Holdco Ltd.",
@@ -1034,6 +1048,13 @@
         "organisation": "Pine Fest, LLC",
         "isIDN": false,
         "punycode": "dating"
+    },
+    {
+        "domain": "day",
+        "type": "generic",
+        "organisation": "Charleston Road Registry Inc.",
+        "isIDN": false,
+        "punycode": "day"
     },
     {
         "domain": "de",
@@ -1181,6 +1202,13 @@
         "organisation": "CERIST",
         "isIDN": false,
         "punycode": "dz"
+    },
+    {
+        "domain": "eat",
+        "type": "generic",
+        "organisation": "Charleston Road Registry Inc.",
+        "isIDN": false,
+        "punycode": "eat"
     },
     {
         "domain": "ec",
@@ -1454,6 +1482,13 @@
         "organisation": "Association Fran\u00e7aise pour le Nommage Internet en Coop\u00e9ration (A.F.N.I.C.)",
         "isIDN": false,
         "punycode": "fr"
+    },
+    {
+        "domain": "frl",
+        "type": "generic",
+        "organisation": "FRLregistry B.V.",
+        "isIDN": false,
+        "punycode": "frl"
     },
     {
         "domain": "frogans",
@@ -1965,6 +2000,13 @@
         "organisation": "Afilias Limited",
         "isIDN": false,
         "punycode": "info"
+    },
+    {
+        "domain": "ing",
+        "type": "generic",
+        "organisation": "Charleston Road Registry Inc.",
+        "isIDN": false,
+        "punycode": "ing"
     },
     {
         "domain": "ink",
@@ -2499,6 +2541,13 @@
         "punycode": "melbourne"
     },
     {
+        "domain": "meme",
+        "type": "generic",
+        "organisation": "Charleston Road Registry Inc.",
+        "isIDN": false,
+        "punycode": "meme"
+    },
+    {
         "domain": "menu",
         "type": "generic",
         "organisation": "Wedding TLD2, LLC",
@@ -2630,6 +2679,13 @@
         "organisation": "DERMotorcycles, LLC",
         "isIDN": false,
         "punycode": "motorcycles"
+    },
+    {
+        "domain": "mov",
+        "type": "generic",
+        "organisation": "Charleston Road Registry Inc.",
+        "isIDN": false,
+        "punycode": "mov"
     },
     {
         "domain": "mp",
@@ -2777,6 +2833,13 @@
         "organisation": "NeuStar, Inc.",
         "isIDN": false,
         "punycode": "neustar"
+    },
+    {
+        "domain": "new",
+        "type": "generic",
+        "organisation": "Charleston Road Registry Inc.",
+        "isIDN": false,
+        "punycode": "new"
     },
     {
         "domain": "nf",
@@ -3351,6 +3414,13 @@
         "organisation": "Serbian National Internet Domain Registry (RNIDS)",
         "isIDN": false,
         "punycode": "rs"
+    },
+    {
+        "domain": "rsvp",
+        "type": "generic",
+        "organisation": "Charleston Road Registry Inc.",
+        "isIDN": false,
+        "punycode": "rsvp"
     },
     {
         "domain": "ru",
