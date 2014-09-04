@@ -1302,6 +1302,13 @@
         "punycode": "es"
     },
     {
+        "domain": "esq",
+        "type": "generic",
+        "organisation": "Charleston Road Registry Inc.",
+        "isIDN": false,
+        "punycode": "esq"
+    },
+    {
         "domain": "estate",
         "type": "generic",
         "organisation": "Trixy Park, LLC",
@@ -1825,6 +1832,13 @@
         "organisation": "Uniregistry, Corp.",
         "isIDN": false,
         "punycode": "help"
+    },
+    {
+        "domain": "here",
+        "type": "generic",
+        "organisation": "Charleston Road Registry Inc.",
+        "isIDN": false,
+        "punycode": "here"
     },
     {
         "domain": "hiphop",
@@ -2961,6 +2975,13 @@
         "punycode": "om"
     },
     {
+        "domain": "ong",
+        "type": "generic",
+        "organisation": "Public Interest Registry",
+        "isIDN": false,
+        "punycode": "ong"
+    },
+    {
         "domain": "onl",
         "type": "generic",
         "organisation": "I-REGISTRY Ltd., Niederlassung Deutschland",
@@ -3190,6 +3211,13 @@
         "organisation": "Registry Services Corporation\ndba RegistryPro",
         "isIDN": false,
         "punycode": "pro"
+    },
+    {
+        "domain": "prod",
+        "type": "generic",
+        "organisation": "Charleston Road Registry Inc.",
+        "isIDN": false,
+        "punycode": "prod"
     },
     {
         "domain": "productions",
@@ -4683,6 +4711,13 @@
         "punycode": "xn--kpry57d"
     },
     {
+        "domain": "\u624b\u673a",
+        "type": "generic",
+        "organisation": "Beijing RITT-Net Technology Development Co., Ltd",
+        "isIDN": true,
+        "punycode": "xn--kput3i"
+    },
+    {
         "domain": "\u043c\u043e\u043d",
         "type": "country-code",
         "organisation": "Datacom Co.,Ltd",
@@ -4975,6 +5010,13 @@
         "organisation": "GMO Registry, Inc.",
         "isIDN": false,
         "punycode": "yokohama"
+    },
+    {
+        "domain": "youtube",
+        "type": "generic",
+        "organisation": "Charleston Road Registry Inc.",
+        "isIDN": false,
+        "punycode": "youtube"
     },
     {
         "domain": "yt",

@@ -1115,6 +1115,12 @@
   isIDN: false
   punycode: es
 -
+  domain: esq
+  type: generic
+  organisation: 'Charleston Road Registry Inc.'
+  isIDN: false
+  punycode: esq
+-
   domain: estate
   type: generic
   organisation: 'Trixy Park, LLC'
@@ -1564,6 +1570,12 @@
   organisation: 'Uniregistry, Corp.'
   isIDN: false
   punycode: help
+-
+  domain: here
+  type: generic
+  organisation: 'Charleston Road Registry Inc.'
+  isIDN: false
+  punycode: here
 -
   domain: hiphop
   type: generic
@@ -2537,6 +2549,12 @@
   isIDN: false
   punycode: om
 -
+  domain: ong
+  type: generic
+  organisation: 'Public Interest Registry'
+  isIDN: false
+  punycode: ong
+-
   domain: onl
   type: generic
   organisation: 'I-REGISTRY Ltd., Niederlassung Deutschland'
@@ -2734,6 +2752,12 @@
   organisation: "Registry Services Corporation\ndba RegistryPro"
   isIDN: false
   punycode: pro
+-
+  domain: prod
+  type: generic
+  organisation: 'Charleston Road Registry Inc.'
+  isIDN: false
+  punycode: prod
 -
   domain: productions
   type: generic
@@ -4013,6 +4037,12 @@
   isIDN: true
   punycode: xn--kpry57d
 -
+  domain: 手机
+  type: generic
+  organisation: 'Beijing RITT-Net Technology Development Co., Ltd'
+  isIDN: true
+  punycode: xn--kput3i
+-
   domain: мон
   type: country-code
   organisation: 'Datacom Co.,Ltd'
@@ -4264,6 +4294,12 @@
   organisation: 'GMO Registry, Inc.'
   isIDN: false
   punycode: yokohama
+-
+  domain: youtube
+  type: generic
+  organisation: 'Charleston Road Registry Inc.'
+  isIDN: false
+  punycode: youtube
 -
   domain: yt
   type: country-code
