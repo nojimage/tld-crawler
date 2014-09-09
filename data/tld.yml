@@ -1439,6 +1439,12 @@
   isIDN: false
   punycode: gmo
 -
+  domain: gmx
+  type: generic
+  organisation: '1&1 Mail & Media GmbH'
+  isIDN: false
+  punycode: gmx
+-
   domain: gn
   type: country-code
   organisation: 'Centre National des Sciences Halieutiques de Boussoura'
@@ -2638,6 +2644,12 @@
   organisation: 'PH Domain Foundation'
   isIDN: false
   punycode: ph
+-
+  domain: pharmacy
+  type: generic
+  organisation: 'National Association of Boards of Pharmacy'
+  isIDN: false
+  punycode: pharmacy
 -
   domain: photo
   type: generic
