@@ -3743,6 +3743,12 @@
   isIDN: false
   punycode: williamhill
 -
+  domain: wme
+  type: generic
+  organisation: 'William Morris Endeavor Entertainment, LLC'
+  isIDN: false
+  punycode: wme
+-
   domain: works
   type: generic
   organisation: 'Little Dynamite, LLC'
