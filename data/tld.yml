@@ -485,6 +485,12 @@
   isIDN: false
   punycode: cab
 -
+  domain: cal
+  type: generic
+  organisation: 'Charleston Road Registry Inc.'
+  isIDN: false
+  punycode: cal
+-
   domain: camera
   type: generic
   organisation: 'Atomic Maple, LLC'
@@ -611,6 +617,12 @@
   isIDN: false
   punycode: ch
 -
+  domain: channel
+  type: generic
+  organisation: 'Charleston Road Registry Inc.'
+  isIDN: false
+  punycode: channel
+-
   domain: cheap
   type: generic
   organisation: 'Sand Cover, LLC'
@@ -622,6 +634,12 @@
   organisation: 'Uniregistry, Corp.'
   isIDN: false
   punycode: christmas
+-
+  domain: chrome
+  type: generic
+  organisation: 'Charleston Road Registry Inc.'
+  isIDN: false
+  punycode: chrome
 -
   domain: church
   type: generic
@@ -1247,6 +1265,12 @@
   isIDN: false
   punycode: florist
 -
+  domain: fly
+  type: generic
+  organisation: 'Charleston Road Registry Inc.'
+  isIDN: false
+  punycode: fly
+-
   domain: fm
   type: country-code
   organisation: 'FSM Telecommunications Corporation'
@@ -1409,6 +1433,12 @@
   isIDN: false
   punycode: glass
 -
+  domain: gle
+  type: generic
+  organisation: 'Charleston Road Registry Inc.'
+  isIDN: false
+  punycode: gle
+-
   domain: global
   type: generic
   organisation: 'Dot GLOBAL AS'
@@ -1450,6 +1480,12 @@
   organisation: 'Centre National des Sciences Halieutiques de Boussoura'
   isIDN: false
   punycode: gn
+-
+  domain: google
+  type: generic
+  organisation: 'Charleston Road Registry Inc.'
+  isIDN: false
+  punycode: google
 -
   domain: gop
   type: generic
@@ -2453,6 +2489,12 @@
   isIDN: false
   punycode: new
 -
+  domain: nexus
+  type: generic
+  organisation: 'Charleston Road Registry Inc.'
+  isIDN: false
+  punycode: nexus
+-
   domain: nf
   type: country-code
   organisation: 'Norfolk Island Data Services'
@@ -2776,6 +2818,12 @@
   organisation: 'Magic Birch, LLC'
   isIDN: false
   punycode: productions
+-
+  domain: prof
+  type: generic
+  organisation: 'Charleston Road Registry Inc.'
+  isIDN: false
+  punycode: prof
 -
   domain: properties
   type: generic
@@ -4330,6 +4378,12 @@
   organisation: 'ZA Domain Name Authority'
   isIDN: false
   punycode: za
+-
+  domain: zip
+  type: generic
+  organisation: 'Charleston Road Registry Inc.'
+  isIDN: false
+  punycode: zip
 -
   domain: zm
   type: country-code
