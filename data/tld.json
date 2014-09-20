@@ -4438,6 +4438,13 @@
         "punycode": "works"
     },
     {
+        "domain": "world",
+        "type": "generic",
+        "organisation": "Bitter Fields, LLC",
+        "isIDN": false,
+        "punycode": "world"
+    },
+    {
         "domain": "ws",
         "type": "country-code",
         "organisation": "Government of Samoa Ministry of Foreign Affairs \u0026 Trade",
