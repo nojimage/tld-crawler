@@ -419,6 +419,12 @@
   isIDN: false
   punycode: bt
 -
+  domain: budapest
+  type: generic
+  organisation: 'Top Level Domain Holdings Limited'
+  isIDN: false
+  punycode: budapest
+-
   domain: build
   type: generic
   organisation: 'Plan Bee LLC'
@@ -550,6 +556,12 @@
   organisation: 'Wild Corner, LLC'
   isIDN: false
   punycode: careers
+-
+  domain: casa
+  type: generic
+  organisation: 'Top Level Domain Holdings Limited'
+  isIDN: false
+  punycode: casa
 -
   domain: cash
   type: generic
@@ -3796,6 +3808,12 @@
   organisation: 'William Morris Endeavor Entertainment, LLC'
   isIDN: false
   punycode: wme
+-
+  domain: work
+  type: generic
+  organisation: 'Top Level Domain Holdings Limited'
+  isIDN: false
+  punycode: work
 -
   domain: works
   type: generic
