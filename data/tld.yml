@@ -1055,6 +1055,12 @@
   isIDN: false
   punycode: durban
 -
+  domain: dvag
+  type: generic
+  organisation: 'Deutsche Vermögensberatung Aktiengesellschaft DVAG'
+  isIDN: false
+  punycode: dvag
+-
   domain: dz
   type: country-code
   organisation: CERIST
@@ -2789,6 +2795,12 @@
   isIDN: false
   punycode: pn
 -
+  domain: pohl
+  type: generic
+  organisation: 'Deutsche Vermögensberatung Aktiengesellschaft DVAG'
+  isIDN: false
+  punycode: pohl
+-
   domain: post
   type: sponsored
   organisation: 'Universal Postal Union'
@@ -3959,6 +3971,12 @@
   isIDN: true
   punycode: xn--90a3ac
 -
+  domain: бел
+  type: country-code
+  organisation: 'Not assigned'
+  isIDN: true
+  punycode: xn--90ais
+-
   domain: 테스트
   type: test
   organisation: 'Internet Assigned Numbers Authority'
@@ -4204,6 +4222,12 @@
   organisation: 'Not assigned'
   isIDN: true
   punycode: xn--mgbpl2fh
+-
+  domain: عراق
+  type: country-code
+  organisation: 'Not assigned'
+  isIDN: true
+  punycode: xn--mgbtx2b
 -
   domain: مليسيا
   type: country-code
