@@ -149,7 +149,7 @@
     {
         "domain": "arpa",
         "type": "infrastructure",
-        "organisation": "Internet Assigned Numbers Authority",
+        "organisation": "Internet Architecture Board (IAB)",
         "isIDN": false,
         "punycode": "arpa"
     },
@@ -4137,6 +4137,13 @@
         "punycode": "tt"
     },
     {
+        "domain": "tui",
+        "type": "generic",
+        "organisation": "TUI AG",
+        "isIDN": false,
+        "punycode": "tui"
+    },
+    {
         "domain": "tv",
         "type": "country-code",
         "organisation": "Ministry of Finance and Tourism",
@@ -4984,6 +4991,13 @@
         "punycode": "xn--ogbpf8fl"
     },
     {
+        "domain": "\u0440\u0443\u0441",
+        "type": "generic",
+        "organisation": "Rusnames Limited",
+        "isIDN": true,
+        "punycode": "xn--p1acf"
+    },
+    {
         "domain": "\u0440\u0444",
         "type": "country-code",
         "organisation": "Coordination Center for TLD RU",
@@ -5031,6 +5045,20 @@
         "organisation": "Spring Fields, LLC",
         "isIDN": true,
         "punycode": "xn--unup4y"
+    },
+    {
+        "domain": "verm\u00f6gensberater",
+        "type": "generic",
+        "organisation": "Deutsche Verm\u00f6gensberatung Aktiengesellschaft DVAG",
+        "isIDN": true,
+        "punycode": "xn--vermgensberater-ctb"
+    },
+    {
+        "domain": "verm\u00f6gensberatung",
+        "type": "generic",
+        "organisation": "Deutsche Verm\u00f6gensberatung Aktiengesellschaft DVAG",
+        "isIDN": true,
+        "punycode": "xn--vermgensberatung-pwb"
     },
     {
         "domain": "\u4f01\u4e1a",

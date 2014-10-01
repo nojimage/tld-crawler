@@ -127,7 +127,7 @@
 -
   domain: arpa
   type: infrastructure
-  organisation: 'Internet Assigned Numbers Authority'
+  organisation: 'Internet Architecture Board (IAB)'
   isIDN: false
   punycode: arpa
 -
@@ -3545,6 +3545,12 @@
   isIDN: false
   punycode: tt
 -
+  domain: tui
+  type: generic
+  organisation: 'TUI AG'
+  isIDN: false
+  punycode: tui
+-
   domain: tv
   type: country-code
   organisation: 'Ministry of Finance and Tourism'
@@ -4271,6 +4277,12 @@
   isIDN: true
   punycode: xn--ogbpf8fl
 -
+  domain: рус
+  type: generic
+  organisation: 'Rusnames Limited'
+  isIDN: true
+  punycode: xn--p1acf
+-
   domain: рф
   type: country-code
   organisation: 'Coordination Center for TLD RU'
@@ -4312,6 +4324,18 @@
   organisation: 'Spring Fields, LLC'
   isIDN: true
   punycode: xn--unup4y
+-
+  domain: vermögensberater
+  type: generic
+  organisation: 'Deutsche Vermögensberatung Aktiengesellschaft DVAG'
+  isIDN: true
+  punycode: xn--vermgensberater-ctb
+-
+  domain: vermögensberatung
+  type: generic
+  organisation: 'Deutsche Vermögensberatung Aktiengesellschaft DVAG'
+  isIDN: true
+  punycode: xn--vermgensberatung-pwb
 -
   domain: 企业
   type: generic
