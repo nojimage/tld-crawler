@@ -98,6 +98,13 @@
         "punycode": "al"
     },
     {
+        "domain": "allfinanz",
+        "type": "generic",
+        "organisation": "Allfinanz Deutsche Verm\u00f6gensberatung Aktiengesellschaft",
+        "isIDN": false,
+        "punycode": "allfinanz"
+    },
+    {
         "domain": "am",
         "type": "country-code",
         "organisation": "Internet Society",
@@ -2021,6 +2028,13 @@
         "organisation": "Council of Hungarian Internet Providers (CHIP)",
         "isIDN": false,
         "punycode": "hu"
+    },
+    {
+        "domain": "ibm",
+        "type": "generic",
+        "organisation": "International Business Machines Corporation",
+        "isIDN": false,
+        "punycode": "ibm"
     },
     {
         "domain": "id",
