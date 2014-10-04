@@ -1533,6 +1533,13 @@
         "punycode": "foo"
     },
     {
+        "domain": "forsale",
+        "type": "generic",
+        "organisation": "United TLD Holdco, LLC",
+        "isIDN": false,
+        "punycode": "forsale"
+    },
+    {
         "domain": "foundation",
         "type": "generic",
         "organisation": "John Dale, LLC",
