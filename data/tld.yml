@@ -89,6 +89,12 @@
   isIDN: false
   punycode: allfinanz
 -
+  domain: alsace
+  type: generic
+  organisation: 'REGION D ALSACE'
+  isIDN: false
+  punycode: alsace
+-
   domain: am
   type: country-code
   organisation: 'Internet Society'
