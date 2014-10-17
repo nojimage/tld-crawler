@@ -1,5 +1,12 @@
 [
     {
+        "domain": "abogado",
+        "type": "generic",
+        "organisation": "Top Level Domain Holdings Limited",
+        "isIDN": false,
+        "punycode": "abogado"
+    },
+    {
         "domain": "ac",
         "type": "country-code",
         "organisation": "Network Information Center (AC Domain Registry)\nc/o Cable and Wireless (Ascension Island)",
@@ -264,6 +271,13 @@
         "organisation": "Universtiy Telinformatic Centre (UTIC)",
         "isIDN": false,
         "punycode": "ba"
+    },
+    {
+        "domain": "band",
+        "type": "generic",
+        "organisation": "United TLD Holdco, Ltd",
+        "isIDN": false,
+        "punycode": "band"
     },
     {
         "domain": "bar",
@@ -1015,6 +1029,13 @@
         "punycode": "creditcard"
     },
     {
+        "domain": "crs",
+        "type": "generic",
+        "organisation": "Federated Co-operatives Limited",
+        "isIDN": false,
+        "punycode": "crs"
+    },
+    {
         "domain": "cruises",
         "type": "generic",
         "organisation": "Spring Way, LLC",
@@ -1510,6 +1531,13 @@
         "organisation": "Half Cypress, LLC",
         "isIDN": false,
         "punycode": "florist"
+    },
+    {
+        "domain": "flsmidth",
+        "type": "generic",
+        "organisation": "FLSmidth A/S",
+        "isIDN": false,
+        "punycode": "flsmidth"
     },
     {
         "domain": "fly",
@@ -3297,6 +3325,13 @@
         "punycode": "pohl"
     },
     {
+        "domain": "poker",
+        "type": "generic",
+        "organisation": "Afilias Domains No. 5 Limited",
+        "isIDN": false,
+        "punycode": "poker"
+    },
+    {
         "domain": "post",
         "type": "sponsored",
         "organisation": "Universal Postal Union",
@@ -3540,6 +3575,13 @@
         "organisation": "Empresa Municipal de Inform\u00e1tica SA - IPLANRIO",
         "isIDN": false,
         "punycode": "rio"
+    },
+    {
+        "domain": "rip",
+        "type": "generic",
+        "organisation": "United TLD Holdco Ltd.",
+        "isIDN": false,
+        "punycode": "rip"
     },
     {
         "domain": "ro",
@@ -4452,6 +4494,13 @@
         "punycode": "wed"
     },
     {
+        "domain": "wedding",
+        "type": "generic",
+        "organisation": "Top Level Domain Holdings Limited",
+        "isIDN": false,
+        "punycode": "wedding"
+    },
+    {
         "domain": "wf",
         "type": "country-code",
         "organisation": "Association Fran\u00e7aise pour le Nommage Internet en Coop\u00e9ration (A.F.N.I.C.)",
@@ -5192,6 +5241,13 @@
         "organisation": "TeleYemen",
         "isIDN": false,
         "punycode": "ye"
+    },
+    {
+        "domain": "yoga",
+        "type": "generic",
+        "organisation": "Top Level Domain Holdings Limited",
+        "isIDN": false,
+        "punycode": "yoga"
     },
     {
         "domain": "yokohama",
