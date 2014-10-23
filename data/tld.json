@@ -1337,6 +1337,13 @@
         "punycode": "email"
     },
     {
+        "domain": "emerck",
+        "type": "generic",
+        "organisation": "Merck KGaA",
+        "isIDN": false,
+        "punycode": "emerck"
+    },
+    {
         "domain": "engineer",
         "type": "generic",
         "organisation": "United TLD Holdco Ltd.",
@@ -2739,7 +2746,7 @@
     {
         "domain": "mk",
         "type": "country-code",
-        "organisation": "Ministry of Foreign Affairs",
+        "organisation": "Macedonian Academic Research Network Skopje",
         "isIDN": false,
         "punycode": "mk"
     },
