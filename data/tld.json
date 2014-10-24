@@ -3997,6 +3997,13 @@
         "punycode": "sz"
     },
     {
+        "domain": "taipei",
+        "type": "generic",
+        "organisation": "Taipei City Government",
+        "isIDN": false,
+        "punycode": "taipei"
+    },
+    {
         "domain": "tatar",
         "type": "generic",
         "organisation": "Limited Liability Company \u0022Coordination Center of Regional Domain of Tatarstan Republic\u0022",

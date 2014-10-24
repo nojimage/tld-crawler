@@ -3425,6 +3425,12 @@
   isIDN: false
   punycode: sz
 -
+  domain: taipei
+  type: generic
+  organisation: 'Taipei City Government'
+  isIDN: false
+  punycode: taipei
+-
   domain: tatar
   type: generic
   organisation: 'Limited Liability Company "Coordination Center of Regional Domain of Tatarstan Republic"'
