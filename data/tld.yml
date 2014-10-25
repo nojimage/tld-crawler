@@ -4105,7 +4105,7 @@
 -
   domain: мкд
   type: country-code
-  organisation: 'Not assigned'
+  organisation: 'Macedonian Academic Research Network Skopje'
   isIDN: true
   punycode: xn--d1alf
 -
@@ -4327,7 +4327,7 @@
 -
   domain: გე
   type: country-code
-  organisation: 'Not assigned'
+  organisation: 'Information Technologies Development Center (ITDC)'
   isIDN: true
   punycode: xn--node
 -

@@ -4790,7 +4790,7 @@
     {
         "domain": "\u043c\u043a\u0434",
         "type": "country-code",
-        "organisation": "Not assigned",
+        "organisation": "Macedonian Academic Research Network Skopje",
         "isIDN": true,
         "punycode": "xn--d1alf"
     },
@@ -5049,7 +5049,7 @@
     {
         "domain": "\u10d2\u10d4",
         "type": "country-code",
-        "organisation": "Not assigned",
+        "organisation": "Information Technologies Development Center (ITDC)",
         "isIDN": true,
         "punycode": "xn--node"
     },
