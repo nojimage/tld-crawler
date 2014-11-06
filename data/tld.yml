@@ -365,6 +365,12 @@
   isIDN: false
   punycode: blackfriday
 -
+  domain: bloomberg
+  type: generic
+  organisation: 'Bloomberg IP Holdings LLC'
+  isIDN: false
+  punycode: bloomberg
+-
   domain: blue
   type: generic
   organisation: 'Afilias Limited'
@@ -3412,6 +3418,12 @@
   organisation: 'National Agency for Network Services (NANS)'
   isIDN: false
   punycode: sy
+-
+  domain: sydney
+  type: generic
+  organisation: 'State of New South Wales, Department of Premier and Cabinet'
+  isIDN: false
+  punycode: sydney
 -
   domain: systems
   type: generic
