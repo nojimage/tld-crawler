@@ -3453,7 +3453,7 @@
     {
         "domain": "qa",
         "type": "country-code",
-        "organisation": "The Supreme Council of Information and Communication Technology (ictQATAR)",
+        "organisation": "Communications Regulatory Authority",
         "isIDN": false,
         "punycode": "qa"
     },
@@ -5182,7 +5182,7 @@
     {
         "domain": "\u0642\u0637\u0631",
         "type": "country-code",
-        "organisation": "Supreme Council for Communications and Information Technology (ictQATAR)",
+        "organisation": "Communications Regulatory Authority",
         "isIDN": true,
         "punycode": "xn--wgbl6a"
     },

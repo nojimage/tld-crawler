@@ -2959,7 +2959,7 @@
 -
   domain: qa
   type: country-code
-  organisation: 'The Supreme Council of Information and Communication Technology (ictQATAR)'
+  organisation: 'Communications Regulatory Authority'
   isIDN: false
   punycode: qa
 -
@@ -4441,7 +4441,7 @@
 -
   domain: قطر
   type: country-code
-  organisation: 'Supreme Council for Communications and Information Technology (ictQATAR)'
+  organisation: 'Communications Regulatory Authority'
   isIDN: true
   punycode: xn--wgbl6a
 -
