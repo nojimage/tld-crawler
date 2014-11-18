@@ -133,6 +133,13 @@
         "punycode": "an"
     },
     {
+        "domain": "android",
+        "type": "generic",
+        "organisation": "Charleston Road Registry Inc.",
+        "isIDN": false,
+        "punycode": "android"
+    },
+    {
         "domain": "ao",
         "type": "country-code",
         "organisation": "Faculdade de Engenharia da Universidade Agostinho Neto",
@@ -1155,6 +1162,13 @@
         "punycode": "degree"
     },
     {
+        "domain": "delivery",
+        "type": "generic",
+        "organisation": "Steel Station, LLC",
+        "isIDN": false,
+        "punycode": "delivery"
+    },
+    {
         "domain": "democrat",
         "type": "generic",
         "organisation": "United TLD Holdco Ltd.",
@@ -1349,6 +1363,13 @@
         "organisation": "Merck KGaA",
         "isIDN": false,
         "punycode": "emerck"
+    },
+    {
+        "domain": "energy",
+        "type": "generic",
+        "organisation": "Binky Birch, LLC",
+        "isIDN": false,
+        "punycode": "energy"
     },
     {
         "domain": "engineer",
@@ -3521,6 +3542,13 @@
         "punycode": "reisen"
     },
     {
+        "domain": "reit",
+        "type": "generic",
+        "organisation": "National Association of Real Estate Investment Trusts, Inc.",
+        "isIDN": false,
+        "punycode": "reit"
+    },
+    {
         "domain": "ren",
         "type": "generic",
         "organisation": "Beijing Qianxiang Wangjing Technology Development Co., Ltd.",
@@ -3722,6 +3750,13 @@
         "organisation": "Outer Moon, LLC",
         "isIDN": false,
         "punycode": "schule"
+    },
+    {
+        "domain": "science",
+        "type": "generic",
+        "organisation": "dot Science Limited",
+        "isIDN": false,
+        "punycode": "science"
     },
     {
         "domain": "scot",
