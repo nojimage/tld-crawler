@@ -1043,6 +1043,13 @@
         "punycode": "creditcard"
     },
     {
+        "domain": "cricket",
+        "type": "generic",
+        "organisation": "dot Cricket Limited",
+        "isIDN": false,
+        "punycode": "cricket"
+    },
+    {
         "domain": "crs",
         "type": "generic",
         "organisation": "Federated Co-operatives Limited",
@@ -3220,6 +3227,13 @@
         "punycode": "parts"
     },
     {
+        "domain": "party",
+        "type": "generic",
+        "organisation": "Blue Sky Registry Limited",
+        "isIDN": false,
+        "punycode": "party"
+    },
+    {
         "domain": "pe",
         "type": "country-code",
         "organisation": "Red Cientifica Peruana",
@@ -4695,6 +4709,13 @@
         "organisation": "National Internet Exchange of India",
         "isIDN": true,
         "punycode": "xn--45brj9c"
+    },
+    {
+        "domain": "\u516b\u5366",
+        "type": "generic",
+        "organisation": "Zodiac Scorpio Limited",
+        "isIDN": true,
+        "punycode": "xn--45q11c"
     },
     {
         "domain": "\u0645\u0648\u0642\u0639",
