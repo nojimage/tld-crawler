@@ -1307,6 +1307,12 @@
   isIDN: false
   punycode: null
 -
+  domain: firmdale
+  type: generic
+  organisation: 'Firmdale Holdings Limited'
+  isIDN: false
+  punycode: null
+-
   domain: fish
   type: generic
   organisation: 'Fox Woods, LLC'
@@ -2270,6 +2276,12 @@
   domain: ma
   type: country-code
   organisation: 'Agence Nationale de Réglementation des Télécommunications (ANRT)'
+  isIDN: false
+  punycode: null
+-
+  domain: madrid
+  type: generic
+  organisation: 'Comunidad de Madrid'
   isIDN: false
   punycode: null
 -
@@ -4211,6 +4223,12 @@
   isIDN: true
   punycode: null
 -
+  domain: 谷歌
+  type: generic
+  organisation: 'Charleston Road Registry Inc.'
+  isIDN: true
+  punycode: null
+-
   domain: భారత్
   type: country-code
   organisation: 'National Internet Exchange of India'
@@ -4446,6 +4464,12 @@
   punycode: null
 -
   domain: みんな
+  type: generic
+  organisation: 'Charleston Road Registry Inc.'
+  isIDN: true
+  punycode: null
+-
+  domain: グーグル
   type: generic
   organisation: 'Charleston Road Registry Inc.'
   isIDN: true

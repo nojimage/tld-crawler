@@ -1526,6 +1526,13 @@
         "punycode": null
     },
     {
+        "domain": "firmdale",
+        "type": "generic",
+        "organisation": "Firmdale Holdings Limited",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "fish",
         "type": "generic",
         "organisation": "Fox Woods, LLC",
@@ -2649,6 +2656,13 @@
         "domain": "ma",
         "type": "country-code",
         "organisation": "Agence Nationale de R\u00e9glementation des T\u00e9l\u00e9communications (ANRT)",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
+        "domain": "madrid",
+        "type": "generic",
+        "organisation": "Comunidad de Madrid",
         "isIDN": false,
         "punycode": null
     },
@@ -4914,6 +4928,13 @@
         "punycode": null
     },
     {
+        "domain": "\u8c37\u6b4c",
+        "type": "generic",
+        "organisation": "Charleston Road Registry Inc.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\u0c2d\u0c3e\u0c30\u0c24\u0c4d",
         "type": "country-code",
         "organisation": "National Internet Exchange of India",
@@ -5188,6 +5209,13 @@
     },
     {
         "domain": "\u307f\u3093\u306a",
+        "type": "generic",
+        "organisation": "Charleston Road Registry Inc.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\u30b0\u30fc\u30b0\u30eb",
         "type": "generic",
         "organisation": "Charleston Road Registry Inc.",
         "isIDN": true,
