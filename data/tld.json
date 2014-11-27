@@ -910,6 +910,13 @@
         "punycode": null
     },
     {
+        "domain": "coach",
+        "type": "generic",
+        "organisation": "Koko Island, LLC",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "codes",
         "type": "generic",
         "organisation": "Puff Willow, LLC",
@@ -1459,6 +1466,13 @@
         "domain": "events",
         "type": "generic",
         "organisation": "Pioneer Maple, LLC",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
+        "domain": "everbank",
+        "type": "generic",
+        "organisation": "EverBank",
         "isIDN": false,
         "punycode": null
     },
@@ -2513,6 +2527,13 @@
         "punycode": null
     },
     {
+        "domain": "legal",
+        "type": "generic",
+        "organisation": "Blue Falls, LLC",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "lgbt",
         "type": "generic",
         "organisation": "Afilias Limited",
@@ -2751,6 +2772,13 @@
         "punycode": null
     },
     {
+        "domain": "memorial",
+        "type": "generic",
+        "organisation": "Dog Beach, LLC",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "menu",
         "type": "generic",
         "organisation": "Wedding TLD2, LLC",
@@ -2859,6 +2887,13 @@
         "domain": "monash",
         "type": "generic",
         "organisation": "Monash University",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
+        "domain": "money",
+        "type": "generic",
+        "organisation": "Outer McCook, LLC",
         "isIDN": false,
         "punycode": null
     },
@@ -5302,6 +5337,13 @@
         "domain": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
         "type": "country-code",
         "organisation": "National Internet Exchange of India",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\u0570\u0561\u0575",
+        "type": "country-code",
+        "organisation": "Not assigned",
         "isIDN": true,
         "punycode": null
     },
