@@ -131,6 +131,12 @@
   isIDN: false
   punycode: null
 -
+  domain: aquarelle
+  type: generic
+  organisation: Aquarelle.com
+  isIDN: false
+  punycode: null
+-
   domain: ar
   type: country-code
   organisation: 'Presidencia de la Nación – Secretaría Legal y Técnica'
@@ -1949,6 +1955,12 @@
   isIDN: false
   punycode: null
 -
+  domain: irish
+  type: generic
+  organisation: 'Dot-Irish LLC'
+  isIDN: false
+  punycode: null
+-
   domain: is
   type: country-code
   organisation: 'ISNIC - Internet Iceland ltd.'
@@ -2132,6 +2144,12 @@
   domain: land
   type: generic
   organisation: 'Pine Moon, LLC'
+  isIDN: false
+  punycode: null
+-
+  domain: latrobe
+  type: generic
+  organisation: 'La Trobe University'
   isIDN: false
   punycode: null
 -
@@ -4298,6 +4316,12 @@
   domain: பரிட்சை
   type: test
   organisation: 'Internet Assigned Numbers Authority'
+  isIDN: true
+  punycode: null
+-
+  domain: 网店
+  type: generic
+  organisation: 'Zodiac Libra Limited'
   isIDN: true
   punycode: null
 -

@@ -154,6 +154,13 @@
         "punycode": null
     },
     {
+        "domain": "aquarelle",
+        "type": "generic",
+        "organisation": "Aquarelle.com",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "ar",
         "type": "country-code",
         "organisation": "Presidencia de la Naci\u00f3n \u2013 Secretar\u00eda Legal y T\u00e9cnica",
@@ -2275,6 +2282,13 @@
         "punycode": null
     },
     {
+        "domain": "irish",
+        "type": "generic",
+        "organisation": "Dot-Irish LLC",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "is",
         "type": "country-code",
         "organisation": "ISNIC - Internet Iceland ltd.",
@@ -2488,6 +2502,13 @@
         "domain": "land",
         "type": "generic",
         "organisation": "Pine Moon, LLC",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
+        "domain": "latrobe",
+        "type": "generic",
+        "organisation": "La Trobe University",
         "isIDN": false,
         "punycode": null
     },
@@ -5015,6 +5036,13 @@
         "domain": "\u0baa\u0bb0\u0bbf\u0b9f\u0bcd\u0b9a\u0bc8",
         "type": "test",
         "organisation": "Internet Assigned Numbers Authority",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\u7f51\u5e97",
+        "type": "generic",
+        "organisation": "Zodiac Libra Limited",
         "isIDN": true,
         "punycode": null
     },
