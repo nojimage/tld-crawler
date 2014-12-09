@@ -41,6 +41,12 @@
   isIDN: false
   punycode: null
 -
+  domain: adult
+  type: generic
+  organisation: 'ICM Registry AD LLC'
+  isIDN: false
+  punycode: null
+-
   domain: ae
   type: country-code
   organisation: 'Telecommunication Regulatory Authority (TRA)'
@@ -1253,6 +1259,12 @@
   isIDN: false
   punycode: null
 -
+  domain: eurovision
+  type: generic
+  organisation: 'European Broadcasting Union (EBU)'
+  isIDN: false
+  punycode: null
+-
   domain: eus
   type: generic
   organisation: 'Puntueus Fundazioa'
@@ -1298,6 +1310,12 @@
   domain: farm
   type: generic
   organisation: 'Just Maple, LLC'
+  isIDN: false
+  punycode: null
+-
+  domain: fashion
+  type: generic
+  organisation: 'Top Level Domain Holdings Limited'
   isIDN: false
   punycode: null
 -
@@ -2969,6 +2987,12 @@
   isIDN: false
   punycode: null
 -
+  domain: porn
+  type: generic
+  organisation: 'ICM Registry PN LLC'
+  isIDN: false
+  punycode: null
+-
   domain: post
   type: sponsored
   organisation: 'Universal Postal Union'
@@ -3737,6 +3761,12 @@
   isIDN: false
   punycode: null
 -
+  domain: trust
+  type: generic
+  organisation: 'Artemis Internet Inc'
+  isIDN: false
+  punycode: null
+-
   domain: tt
   type: country-code
   organisation: "University of the West Indies\nFaculty of Engineering"
@@ -4220,6 +4250,12 @@
   domain: 商标
   type: generic
   organisation: 'HU YI GLOBAL INFORMATION RESOURCES(HOLDING) COMPANY.HONGKONG LIMITED'
+  isIDN: true
+  punycode: null
+-
+  domain: 商店
+  type: generic
+  organisation: 'Wild Island, LLC'
   isIDN: true
   punycode: null
 -
