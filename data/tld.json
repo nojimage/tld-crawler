@@ -3829,6 +3829,13 @@
         "punycode": null
     },
     {
+        "domain": "samsung",
+        "type": "generic",
+        "organisation": "SAMSUNG SDS CO., LTD",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "sarl",
         "type": "generic",
         "organisation": "Delta Orchard, LLC",
