@@ -605,6 +605,12 @@
   isIDN: false
   punycode: null
 -
+  domain: cartier
+  type: generic
+  organisation: 'Richemont DNS Inc.'
+  isIDN: false
+  punycode: null
+-
   domain: casa
   type: generic
   organisation: 'Top Level Domain Holdings Limited'
