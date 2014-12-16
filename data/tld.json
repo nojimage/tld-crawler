@@ -1316,6 +1316,13 @@
         "punycode": null
     },
     {
+        "domain": "doosan",
+        "type": "generic",
+        "organisation": "Doosan Corporation",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "durban",
         "type": "generic",
         "organisation": "ZA Central Registry NPC trading as ZA Central Registry",
@@ -1739,6 +1746,13 @@
         "domain": "gallery",
         "type": "generic",
         "organisation": "Sugar House, LLC",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
+        "domain": "garden",
+        "type": "generic",
+        "organisation": "Top Level Domain Holdings Limited",
         "isIDN": false,
         "punycode": null
     },
@@ -2331,6 +2345,13 @@
         "punycode": null
     },
     {
+        "domain": "iwc",
+        "type": "generic",
+        "organisation": "Richemont DNS Inc.",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "je",
         "type": "country-code",
         "organisation": "Island Networks (Jersey) Ltd.",
@@ -2593,6 +2614,13 @@
         "domain": "li",
         "type": "country-code",
         "organisation": "Universitaet Liechtenstein",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
+        "domain": "lidl",
+        "type": "generic",
+        "organisation": "Schwarz Domains und Services GmbH \u0026 Co. KG",
         "isIDN": false,
         "punycode": null
     },
@@ -3297,6 +3325,13 @@
         "punycode": null
     },
     {
+        "domain": "osaka",
+        "type": "generic",
+        "organisation": "Interlink Co., Ltd.",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "otsuka",
         "type": "generic",
         "organisation": "Otsuka Holdings Co., Ltd.",
@@ -3892,6 +3927,13 @@
         "punycode": null
     },
     {
+        "domain": "schwarz",
+        "type": "generic",
+        "organisation": "Schwarz Domains und Services GmbH \u0026 Co. KG",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "science",
         "type": "generic",
         "organisation": "dot Science Limited",
@@ -3923,6 +3965,13 @@
         "domain": "services",
         "type": "generic",
         "organisation": "Fox Castle, LLC",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
+        "domain": "sew",
+        "type": "generic",
+        "organisation": "SEW-EURODRIVE GmbH \u0026 Co KG",
         "isIDN": false,
         "punycode": null
     },
@@ -3986,6 +4035,13 @@
         "domain": "sk",
         "type": "country-code",
         "organisation": "SK-NIC, a.s.",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
+        "domain": "sky",
+        "type": "generic",
+        "organisation": "Sky IP International Ltd, a company incorporated in England and Wales, operating via its registered Swiss branch",
         "isIDN": false,
         "punycode": null
     },
