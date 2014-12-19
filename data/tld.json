@@ -1232,6 +1232,13 @@
         "punycode": null
     },
     {
+        "domain": "dev",
+        "type": "generic",
+        "organisation": "Charleston Road Registry Inc.",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "diamonds",
         "type": "generic",
         "organisation": "John Edge, LLC",
