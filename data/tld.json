@@ -1316,6 +1316,13 @@
         "punycode": null
     },
     {
+        "domain": "docs",
+        "type": "generic",
+        "organisation": "Charleston Road Registry Inc.",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "domains",
         "type": "generic",
         "organisation": "Sugar Cross, LLC",
@@ -4336,6 +4343,13 @@
         "domain": "tips",
         "type": "generic",
         "organisation": "Corn Willow, LLC",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
+        "domain": "tires",
+        "type": "generic",
+        "organisation": "Dog Edge, LLC",
         "isIDN": false,
         "punycode": null
     },
