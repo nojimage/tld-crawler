@@ -133,6 +133,13 @@
         "punycode": null
     },
     {
+        "domain": "amsterdam",
+        "type": "generic",
+        "organisation": "Gemeente Amsterdam",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "an",
         "type": "country-code",
         "organisation": "University of Curacao",
@@ -1652,6 +1659,13 @@
         "punycode": null
     },
     {
+        "domain": "flowers",
+        "type": "generic",
+        "organisation": "Uniregistry, Corp.",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "flsmidth",
         "type": "generic",
         "organisation": "FLSmidth A/S",
@@ -1816,6 +1830,13 @@
         "domain": "gg",
         "type": "country-code",
         "organisation": "Island Networks Ltd.",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
+        "domain": "ggee",
+        "type": "generic",
+        "organisation": "GMO Internet, Inc.",
         "isIDN": false,
         "punycode": null
     },
@@ -3885,6 +3906,13 @@
         "punycode": null
     },
     {
+        "domain": "sale",
+        "type": "generic",
+        "organisation": "United TLD Holdco, Ltd",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "samsung",
         "type": "generic",
         "organisation": "SAMSUNG SDS CO., LTD",
@@ -4021,6 +4049,13 @@
         "domain": "shoes",
         "type": "generic",
         "organisation": "Binky Galley, LLC",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
+        "domain": "shriram",
+        "type": "generic",
+        "organisation": "Shriram Capital Ltd.",
         "isIDN": false,
         "punycode": null
     },
@@ -4665,6 +4700,13 @@
         "domain": "viajes",
         "type": "generic",
         "organisation": "Black Madison, LLC",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
+        "domain": "video",
+        "type": "generic",
+        "organisation": "United TLD Holdco, Ltd",
         "isIDN": false,
         "punycode": null
     },
@@ -5624,6 +5666,13 @@
         "domain": "zone",
         "type": "generic",
         "organisation": "Outer Falls, LLC",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
+        "domain": "zuerich",
+        "type": "generic",
+        "organisation": "Kanton Z\u00fcrich (Canton of Zurich)",
         "isIDN": false,
         "punycode": null
     },
