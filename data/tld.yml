@@ -263,6 +263,12 @@
   isIDN: false
   punycode: null
 -
+  domain: bank
+  type: generic
+  organisation: 'fTLD Registry Services, LLC'
+  isIDN: false
+  punycode: null
+-
   domain: bar
   type: generic
   organisation: 'Punto 2012 Sociedad Anonima Promotora de Inversion de Capital Variable'
@@ -2099,6 +2105,12 @@
   isIDN: false
   punycode: null
 -
+  domain: kddi
+  type: generic
+  organisation: 'KDDI CORPORATION'
+  isIDN: false
+  punycode: null
+-
   domain: ke
   type: country-code
   organisation: 'Kenya Network Information Center (KeNIC)'
@@ -2216,6 +2228,12 @@
   domain: land
   type: generic
   organisation: 'Pine Moon, LLC'
+  isIDN: false
+  punycode: null
+-
+  domain: lat
+  type: generic
+  organisation: 'ECOM-LAC Federación de Latinoamérica y el Caribe para Internet y el Comercio Electrónico'
   isIDN: false
   punycode: null
 -

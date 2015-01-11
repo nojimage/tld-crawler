@@ -308,6 +308,13 @@
         "punycode": null
     },
     {
+        "domain": "bank",
+        "type": "generic",
+        "organisation": "fTLD Registry Services, LLC",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "bar",
         "type": "generic",
         "organisation": "Punto 2012 Sociedad Anonima Promotora de Inversion de Capital Variable",
@@ -2450,6 +2457,13 @@
         "punycode": null
     },
     {
+        "domain": "kddi",
+        "type": "generic",
+        "organisation": "KDDI CORPORATION",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "ke",
         "type": "country-code",
         "organisation": "Kenya Network Information Center (KeNIC)",
@@ -2586,6 +2600,13 @@
         "domain": "land",
         "type": "generic",
         "organisation": "Pine Moon, LLC",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
+        "domain": "lat",
+        "type": "generic",
+        "organisation": "ECOM-LAC Federaci\u00f3n de Latinoam\u00e9rica y el Caribe para Internet y el Comercio Electr\u00f3nico",
         "isIDN": false,
         "punycode": null
     },
