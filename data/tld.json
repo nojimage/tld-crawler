@@ -1631,6 +1631,13 @@
         "punycode": null
     },
     {
+        "domain": "fit",
+        "type": "generic",
+        "organisation": "Minds + Machines Group Limited",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "fitness",
         "type": "generic",
         "organisation": "Brice Orchard, LLC",
