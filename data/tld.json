@@ -2744,6 +2744,13 @@
         "punycode": null
     },
     {
+        "domain": "lotte",
+        "type": "generic",
+        "organisation": "Lotte Holdings Co., Ltd.",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "lotto",
         "type": "generic",
         "organisation": "Afilias Limited",
@@ -2859,6 +2866,13 @@
         "domain": "marketing",
         "type": "generic",
         "organisation": "Fern Pass, LLC",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
+        "domain": "marriott",
+        "type": "generic",
+        "organisation": "Marriott Worldwide Corporation",
         "isIDN": false,
         "punycode": null
     },
