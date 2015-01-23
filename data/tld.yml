@@ -2885,6 +2885,12 @@
   isIDN: false
   punycode: null
 -
+  domain: one
+  type: generic
+  organisation: 'One.com A/S'
+  isIDN: false
+  punycode: null
+-
   domain: ong
   type: generic
   organisation: 'Public Interest Registry'
