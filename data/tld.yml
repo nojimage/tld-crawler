@@ -2057,6 +2057,12 @@
   isIDN: false
   punycode: null
 -
+  domain: jcb
+  type: generic
+  organisation: 'JCB Co., Ltd.'
+  isIDN: false
+  punycode: null
+-
   domain: je
   type: country-code
   organisation: 'Island Networks (Jersey) Ltd.'
@@ -4735,7 +4741,7 @@
 -
   domain: 网址
   type: generic
-  organisation: 'HU YI GLOBAL INFORMATION RESOURCES (HOLDING) COMPANY. HONGKONG LIMITED'
+  organisation: 'KNET Co., LTd'
   isIDN: true
   punycode: null
 -
