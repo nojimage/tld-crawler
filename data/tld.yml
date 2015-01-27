@@ -275,6 +275,18 @@
   isIDN: false
   punycode: null
 -
+  domain: barclaycard
+  type: generic
+  organisation: 'Barclays Bank PLC'
+  isIDN: false
+  punycode: null
+-
+  domain: barclays
+  type: generic
+  organisation: 'Barclays Bank PLC'
+  isIDN: false
+  punycode: null
+-
   domain: bargains
   type: generic
   organisation: 'Half Hallow, LLC'
@@ -995,6 +1007,12 @@
   isIDN: false
   punycode: null
 -
+  domain: dabur
+  type: generic
+  organisation: 'Dabur India Limited'
+  isIDN: false
+  punycode: null
+-
   domain: dad
   type: generic
   organisation: 'Charleston Road Registry Inc.'
@@ -1014,6 +1032,12 @@
   punycode: null
 -
   domain: day
+  type: generic
+  organisation: 'Charleston Road Registry Inc.'
+  isIDN: false
+  punycode: null
+-
+  domain: dclk
   type: generic
   organisation: 'Charleston Road Registry Inc.'
   isIDN: false
@@ -1064,6 +1088,12 @@
   domain: desi
   type: generic
   organisation: 'Desi Networks LLC'
+  isIDN: false
+  punycode: null
+-
+  domain: design
+  type: generic
+  organisation: 'Top Level Design, LLC'
   isIDN: false
   punycode: null
 -
@@ -1679,6 +1709,12 @@
   isIDN: false
   punycode: null
 -
+  domain: goog
+  type: generic
+  organisation: 'Charleston Road Registry Inc.'
+  isIDN: false
+  punycode: null
+-
   domain: google
   type: generic
   organisation: 'Charleston Road Registry Inc.'
@@ -1793,6 +1829,12 @@
   isIDN: false
   punycode: null
 -
+  domain: hangout
+  type: generic
+  organisation: 'Charleston Road Registry Inc.'
+  isIDN: false
+  punycode: null
+-
   domain: haus
   type: generic
   organisation: 'United TLD Holdco, LTD.'
@@ -1814,6 +1856,12 @@
   domain: here
   type: generic
   organisation: 'Charleston Road Registry Inc.'
+  isIDN: false
+  punycode: null
+-
+  domain: hermes
+  type: generic
+  organisation: 'Hermes International'
   isIDN: false
   punycode: null
 -
@@ -1928,6 +1976,12 @@
   domain: ie
   type: country-code
   organisation: "University College Dublin\nComputing Services\nComputer Centre"
+  isIDN: false
+  punycode: null
+-
+  domain: ifm
+  type: generic
+  organisation: 'ifm electronic gmbh'
   isIDN: false
   punycode: null
 -
@@ -3773,6 +3827,12 @@
   isIDN: false
   punycode: null
 -
+  domain: temasek
+  type: generic
+  organisation: 'Temasek Holdings (Private) Limited'
+  isIDN: false
+  punycode: null
+-
   domain: tf
   type: country-code
   organisation: 'Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)'
@@ -4388,6 +4448,12 @@
   domain: 테스트
   type: test
   organisation: 'Internet Assigned Numbers Authority'
+  isIDN: true
+  punycode: null
+-
+  domain: 淡马锡
+  type: generic
+  organisation: 'Temasek Holdings (Private) Limited'
   isIDN: true
   punycode: null
 -
