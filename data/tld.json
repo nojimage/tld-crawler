@@ -2653,6 +2653,13 @@
         "punycode": null
     },
     {
+        "domain": "kyoto",
+        "type": "generic",
+        "organisation": "Academic Institution: Kyoto Jyoho Gakuen",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "kz",
         "type": "country-code",
         "organisation": "Association of IT Companies of Kazakhstan",
@@ -5609,7 +5616,7 @@
     {
         "domain": "\u7f51\u5740",
         "type": "generic",
-        "organisation": "KNET Co., LTd",
+        "organisation": "KNET Co., Ltd",
         "isIDN": true,
         "punycode": null
     },
