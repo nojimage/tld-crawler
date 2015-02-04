@@ -3409,6 +3409,13 @@
         "punycode": null
     },
     {
+        "domain": "ntt",
+        "type": "generic",
+        "organisation": "NIPPON TELEGRAPH AND TELEPHONE CORPORATION",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "nu",
         "type": "country-code",
         "organisation": "The IUSN Foundation",
