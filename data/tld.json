@@ -434,6 +434,13 @@
         "punycode": null
     },
     {
+        "domain": "bingo",
+        "type": "generic",
+        "organisation": "Sand Cedar, LLC",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "bio",
         "type": "generic",
         "organisation": "STARTING DOT LIMITED",
@@ -829,6 +836,13 @@
         "domain": "channel",
         "type": "generic",
         "organisation": "Charleston Road Registry Inc.",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
+        "domain": "chat",
+        "type": "generic",
+        "organisation": "Sand Fields, LLC",
         "isIDN": false,
         "punycode": null
     },
@@ -4333,6 +4347,13 @@
         "punycode": null
     },
     {
+        "domain": "style",
+        "type": "generic",
+        "organisation": "Binky Moon, LLC",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "su",
         "type": "country-code",
         "organisation": "Russian Institute for Development of Public Networks\n(ROSNIIROS)",
@@ -4483,6 +4504,13 @@
         "domain": "temasek",
         "type": "generic",
         "organisation": "Temasek Holdings (Private) Limited",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
+        "domain": "tennis",
+        "type": "generic",
+        "organisation": "Cotton Bloom, LLC",
         "isIDN": false,
         "punycode": null
     },
