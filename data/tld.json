@@ -693,6 +693,13 @@
         "punycode": null
     },
     {
+        "domain": "canon",
+        "type": "generic",
+        "organisation": "Canon Inc.",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "capetown",
         "type": "generic",
         "organisation": "ZA Central Registry NPC trading as ZA Central Registry",
@@ -4630,6 +4637,13 @@
         "domain": "top",
         "type": "generic",
         "organisation": "Jiangsu Bangning Science \u0026 Technology Co.,Ltd.",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
+        "domain": "toshiba",
+        "type": "generic",
+        "organisation": "TOSHIBA Corporation",
         "isIDN": false,
         "punycode": null
     },
