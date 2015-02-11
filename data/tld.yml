@@ -137,6 +137,12 @@
   isIDN: false
   punycode: null
 -
+  domain: apartments
+  type: generic
+  organisation: 'June Maple, LLC'
+  isIDN: false
+  punycode: null
+-
   domain: aq
   type: country-code
   organisation: 'Antarctica Network Information Centre Limited'
@@ -2897,6 +2903,12 @@
   isIDN: false
   punycode: null
 -
+  domain: nico
+  type: generic
+  organisation: 'DWANGO Co., Ltd.'
+  isIDN: false
+  punycode: null
+-
   domain: ninja
   type: generic
   organisation: 'United TLD Holdco Ltd.'
@@ -3494,6 +3506,12 @@
   domain: sarl
   type: generic
   organisation: 'Delta Orchard, LLC'
+  isIDN: false
+  punycode: null
+-
+  domain: saxo
+  type: generic
+  organisation: 'Saxo Bank A/S'
   isIDN: false
   punycode: null
 -
