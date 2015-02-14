@@ -791,6 +791,13 @@
         "punycode": null
     },
     {
+        "domain": "cbn",
+        "type": "generic",
+        "organisation": "The Christian Broadcasting Network, Inc.",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "cc",
         "type": "country-code",
         "organisation": "eNIC Cocos (Keeling) Islands Pty.\nLtd. d/b/a Island Internet Services",
@@ -1879,6 +1886,13 @@
         "domain": "gd",
         "type": "country-code",
         "organisation": "The National Telecommunications Regulatory Commission (NTRC)",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
+        "domain": "gdn",
+        "type": "generic",
+        "organisation": "Joint Stock Company \u0022Navigation-information systems\u0022",
         "isIDN": false,
         "punycode": null
     },
