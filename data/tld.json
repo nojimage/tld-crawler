@@ -2037,6 +2037,13 @@
         "punycode": null
     },
     {
+        "domain": "goldpoint",
+        "type": "generic",
+        "organisation": "YODOBASHI CAMERA CO.,LTD.",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "goog",
         "type": "generic",
         "organisation": "Charleston Road Registry Inc.",
@@ -5834,6 +5841,13 @@
         "domain": "ye",
         "type": "country-code",
         "organisation": "TeleYemen",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
+        "domain": "yodobashi",
+        "type": "generic",
+        "organisation": "YODOBASHI CAMERA CO.,LTD.",
         "isIDN": false,
         "punycode": null
     },
