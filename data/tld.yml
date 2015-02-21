@@ -1403,6 +1403,12 @@
   isIDN: false
   punycode: null
 -
+  domain: fans
+  type: generic
+  organisation: 'Asiamix Digital Limited'
+  isIDN: false
+  punycode: null
+-
   domain: farm
   type: generic
   organisation: 'Just Maple, LLC'
