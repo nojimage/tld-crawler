@@ -953,6 +953,12 @@
   isIDN: false
   punycode: null
 -
+  domain: courses
+  type: generic
+  organisation: 'OPEN UNIVERSITIES AUSTRALIA PTY LTD'
+  isIDN: false
+  punycode: null
+-
   domain: cr
   type: country-code
   organisation: "National Academy of Sciences\nAcademia Nacional de Ciencias"
@@ -3773,6 +3779,12 @@
   isIDN: false
   punycode: null
 -
+  domain: study
+  type: generic
+  organisation: 'OPEN UNIVERSITIES AUSTRALIA PTY LTD'
+  isIDN: false
+  punycode: null
+-
   domain: style
   type: generic
   organisation: 'Binky Moon, LLC'
@@ -3782,6 +3794,12 @@
   domain: su
   type: country-code
   organisation: "Russian Institute for Development of Public Networks\n(ROSNIIROS)"
+  isIDN: false
+  punycode: null
+-
+  domain: sucks
+  type: generic
+  organisation: 'Vox Populi Registry Inc.'
   isIDN: false
   punycode: null
 -
