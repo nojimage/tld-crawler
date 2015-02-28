@@ -539,6 +539,13 @@
         "punycode": null
     },
     {
+        "domain": "boats",
+        "type": "generic",
+        "organisation": "DERBoats, LLC",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "boo",
         "type": "generic",
         "organisation": "Charleston Road Registry Inc.",
