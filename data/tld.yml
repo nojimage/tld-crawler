@@ -1325,6 +1325,12 @@
   isIDN: false
   punycode: null
 -
+  domain: epson
+  type: generic
+  organisation: 'Seiko Epson Corporation'
+  isIDN: false
+  punycode: null
+-
   domain: equipment
   type: generic
   organisation: 'Corn Station, LLC'
@@ -1766,6 +1772,12 @@
   domain: goldpoint
   type: generic
   organisation: 'YODOBASHI CAMERA CO.,LTD.'
+  isIDN: false
+  punycode: null
+-
+  domain: goo
+  type: generic
+  organisation: 'NTT Resonant Inc.'
   isIDN: false
   punycode: null
 -
