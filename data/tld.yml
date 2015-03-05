@@ -1073,6 +1073,12 @@
   isIDN: false
   punycode: null
 -
+  domain: datsun
+  type: generic
+  organisation: 'NISSAN MOTOR CO., LTD.'
+  isIDN: false
+  punycode: null
+-
   domain: day
   type: generic
   organisation: 'Charleston Road Registry Inc.'
@@ -2093,6 +2099,12 @@
   isIDN: false
   punycode: null
 -
+  domain: infiniti
+  type: generic
+  organisation: 'NISSAN MOTOR CO., LTD.'
+  isIDN: false
+  punycode: null
+-
   domain: info
   type: generic
   organisation: 'Afilias Limited'
@@ -2813,6 +2825,12 @@
   isIDN: false
   punycode: null
 -
+  domain: mtpc
+  type: generic
+  organisation: 'Mitsubishi Tanabe Pharma Corporation'
+  isIDN: false
+  punycode: null
+-
   domain: mu
   type: country-code
   organisation: 'Internet Direct Ltd'
@@ -2960,6 +2978,12 @@
   domain: ninja
   type: generic
   organisation: 'United TLD Holdco Ltd.'
+  isIDN: false
+  punycode: null
+-
+  domain: nissan
+  type: generic
+  organisation: 'NISSAN MOTOR CO., LTD.'
   isIDN: false
   punycode: null
 -
@@ -4075,7 +4099,7 @@
 -
   domain: tp
   type: country-code
-  organisation: '-'
+  organisation: Retired
   isIDN: false
   punycode: null
 -
