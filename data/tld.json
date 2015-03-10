@@ -1,5 +1,12 @@
 [
     {
+        "domain": "abbott",
+        "type": "generic",
+        "organisation": "Abbott Laboratories, Inc.",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "abogado",
         "type": "generic",
         "organisation": "Top Level Domain Holdings Limited",
@@ -784,6 +791,13 @@
         "punycode": null
     },
     {
+        "domain": "casino",
+        "type": "generic",
+        "organisation": "Binky Sky, LLC",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "cat",
         "type": "sponsored",
         "organisation": "Fundacio puntCAT",
@@ -878,6 +892,13 @@
         "domain": "cheap",
         "type": "generic",
         "organisation": "Sand Cover, LLC",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
+        "domain": "chloe",
+        "type": "generic",
+        "organisation": "Richemont DNS Inc.",
         "isIDN": false,
         "punycode": null
     },
@@ -1820,6 +1841,13 @@
         "punycode": null
     },
     {
+        "domain": "football",
+        "type": "generic",
+        "organisation": "Foggy Farms, LLC",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "forsale",
         "type": "generic",
         "organisation": "United TLD Holdco, LLC",
@@ -2562,6 +2590,13 @@
         "punycode": null
     },
     {
+        "domain": "java",
+        "type": "generic",
+        "organisation": "Oracle Corporation",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "jcb",
         "type": "generic",
         "organisation": "JCB Co., Ltd.",
@@ -2835,6 +2870,13 @@
         "punycode": null
     },
     {
+        "domain": "leclerc",
+        "type": "generic",
+        "organisation": "A.C.D. LEC Association des Centres Distributeurs Edouard Leclerc",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "legal",
         "type": "generic",
         "organisation": "Blue Falls, LLC",
@@ -3006,6 +3048,13 @@
         "domain": "madrid",
         "type": "generic",
         "organisation": "Comunidad de Madrid",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
+        "domain": "maif",
+        "type": "generic",
+        "organisation": "Mutuelle Assurance Instituteur France (MAIF)",
         "isIDN": false,
         "punycode": null
     },
@@ -3738,6 +3787,13 @@
         "punycode": null
     },
     {
+        "domain": "pictet",
+        "type": "generic",
+        "organisation": "Pictet Europe S.A.",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "pictures",
         "type": "generic",
         "organisation": "Foggy Sky, LLC",
@@ -4217,6 +4273,13 @@
         "domain": "schmidt",
         "type": "generic",
         "organisation": "SALM S.A.S.",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
+        "domain": "school",
+        "type": "generic",
+        "organisation": "Little Galley, LLC",
         "isIDN": false,
         "punycode": null
     },
@@ -5215,6 +5278,13 @@
         "punycode": null
     },
     {
+        "domain": "xin",
+        "type": "generic",
+        "organisation": "Elegant Leader Limited",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "\u6d4b\u8bd5",
         "type": "test",
         "organisation": "Internet Assigned Numbers Authority",
@@ -5687,6 +5757,13 @@
         "domain": "\u0645\u0644\u064a\u0633\u064a\u0627",
         "type": "country-code",
         "organisation": "MYNIC Berhad",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\u653f\u5e9c",
+        "type": "generic",
+        "organisation": "Net-Chinese Co., Ltd.",
         "isIDN": true,
         "punycode": null
     },
