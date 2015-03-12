@@ -1583,6 +1583,12 @@
   isIDN: false
   punycode: null
 -
+  domain: forex
+  type: generic
+  organisation: 'IG Group Holdings PLC'
+  isIDN: false
+  punycode: null
+-
   domain: forsale
   type: generic
   organisation: 'United TLD Holdco, LLC'
@@ -2648,6 +2654,12 @@
   domain: marketing
   type: generic
   organisation: 'Fern Pass, LLC'
+  isIDN: false
+  punycode: null
+-
+  domain: markets
+  type: generic
+  organisation: 'IG Group Holdings PLC'
   isIDN: false
   punycode: null
 -
