@@ -737,6 +737,12 @@
   isIDN: false
   punycode: null
 -
+  domain: cfd
+  type: generic
+  organisation: 'IG Group Holdings PLC'
+  isIDN: false
+  punycode: null
+-
   domain: cg
   type: country-code
   organisation: 'ONPT Congo and Interpoint Switzerland'
@@ -1367,6 +1373,12 @@
   isIDN: false
   punycode: null
 -
+  domain: erni
+  type: generic
+  organisation: 'ERNI Group Holding AG'
+  isIDN: false
+  punycode: null
+-
   domain: es
   type: country-code
   organisation: Red.es
@@ -1585,7 +1597,7 @@
 -
   domain: forex
   type: generic
-  organisation: 'IG Group Holdings PLC'
+  organisation: 'DOTFOREX REGISTRY LTD'
   isIDN: false
   punycode: null
 -
@@ -2659,7 +2671,7 @@
 -
   domain: markets
   type: generic
-  organisation: 'IG Group Holdings PLC'
+  organisation: 'DOTMARKETS REGISTRY LTD'
   isIDN: false
   punycode: null
 -
@@ -2774,6 +2786,12 @@
   domain: mm
   type: country-code
   organisation: 'Ministry of Communications, Posts & Telegraphs'
+  isIDN: false
+  punycode: null
+-
+  domain: mma
+  type: generic
+  organisation: 'MMA IARD'
   isIDN: false
   punycode: null
 -
@@ -3869,6 +3887,12 @@
   isIDN: false
   punycode: null
 -
+  domain: spreadbetting
+  type: generic
+  organisation: 'IG Group Holdings PLC'
+  isIDN: false
+  punycode: null
+-
   domain: sr
   type: country-code
   organisation: Telesur
@@ -4178,6 +4202,12 @@
   domain: trade
   type: generic
   organisation: 'Elite Registry Limited'
+  isIDN: false
+  punycode: null
+-
+  domain: trading
+  type: generic
+  organisation: 'IG Group Holdings PLC'
   isIDN: false
   punycode: null
 -
