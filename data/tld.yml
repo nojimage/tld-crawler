@@ -739,7 +739,7 @@
 -
   domain: cfd
   type: generic
-  organisation: 'IG Group Holdings PLC'
+  organisation: 'DOTCFD REGISTRY LTD'
   isIDN: false
   punycode: null
 -
@@ -3889,7 +3889,7 @@
 -
   domain: spreadbetting
   type: generic
-  organisation: 'IG Group Holdings PLC'
+  organisation: 'DOTSPREADBETTING REGISTRY LTD'
   isIDN: false
   punycode: null
 -
@@ -4207,7 +4207,7 @@
 -
   domain: trading
   type: generic
-  organisation: 'IG Group Holdings PLC'
+  organisation: 'DOTTRADING REGISTRY LTD'
   isIDN: false
   punycode: null
 -
