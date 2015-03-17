@@ -1701,6 +1701,13 @@
         "punycode": null
     },
     {
+        "domain": "fan",
+        "type": "generic",
+        "organisation": "Asiamix Digital Ltd",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "fans",
         "type": "generic",
         "organisation": "Asiamix Digital Limited",
@@ -1732,6 +1739,13 @@
         "domain": "fi",
         "type": "country-code",
         "organisation": "Finnish Communications Regulatory Authority",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
+        "domain": "film",
+        "type": "generic",
+        "organisation": "Motion Picture Domain Registry Pty Ltd",
         "isIDN": false,
         "punycode": null
     },
@@ -3507,6 +3521,13 @@
         "punycode": null
     },
     {
+        "domain": "news",
+        "type": "generic",
+        "organisation": "United TLD Holdco Ltd.",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "nexus",
         "type": "generic",
         "organisation": "Charleston Road Registry Inc.",
@@ -3675,6 +3696,13 @@
         "punycode": null
     },
     {
+        "domain": "online",
+        "type": "generic",
+        "organisation": "DotOnline Inc.",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "ooo",
         "type": "generic",
         "organisation": "INFIBEAM INCORPORATION LIMITED",
@@ -3720,6 +3748,13 @@
         "domain": "pa",
         "type": "country-code",
         "organisation": "Universidad Tecnologica de Panama",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
+        "domain": "page",
+        "type": "generic",
+        "organisation": "Charleston Road Registry Inc.",
         "isIDN": false,
         "punycode": null
     },
@@ -3811,6 +3846,13 @@
         "domain": "physio",
         "type": "generic",
         "organisation": "PhysBiz Pty Ltd",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
+        "domain": "piaget",
+        "type": "generic",
+        "organisation": "Richemont DNS Inc.",
         "isIDN": false,
         "punycode": null
     },
@@ -4427,6 +4469,13 @@
         "domain": "singles",
         "type": "generic",
         "organisation": "Fern Madison, LLC",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
+        "domain": "site",
+        "type": "generic",
+        "organisation": "DotSite Inc.",
         "isIDN": false,
         "punycode": null
     },
