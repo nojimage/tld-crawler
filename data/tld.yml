@@ -317,6 +317,12 @@
   isIDN: false
   punycode: null
 -
+  domain: bbc
+  type: generic
+  organisation: 'British Broadcasting Corporation'
+  isIDN: false
+  punycode: null
+-
   domain: bd
   type: country-code
   organisation: "Ministry of Post & Telecommunications\nBangladesh Secretariat"
@@ -4085,6 +4091,12 @@
   isIDN: false
   punycode: null
 -
+  domain: tech
+  type: generic
+  organisation: 'Dot Tech LLC'
+  isIDN: false
+  punycode: null
+-
   domain: technology
   type: generic
   organisation: 'Auburn Falls, LLC'
@@ -5132,6 +5144,12 @@
   domain: 企业
   type: generic
   organisation: 'Dash McCook, LLC'
+  isIDN: true
+  punycode: null
+-
+  domain: 信息
+  type: generic
+  organisation: 'Beijing Tele-info Network Technology Co., Ltd.'
   isIDN: true
   punycode: null
 -
