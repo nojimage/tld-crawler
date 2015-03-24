@@ -28,6 +28,13 @@
         "punycode": null
     },
     {
+        "domain": "accountant",
+        "type": "generic",
+        "organisation": "dot Accountant Limited",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "accountants",
         "type": "generic",
         "organisation": "Knob Town, LLC",
@@ -52,6 +59,13 @@
         "domain": "ad",
         "type": "country-code",
         "organisation": "Andorra Telecom",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
+        "domain": "ads",
+        "type": "generic",
+        "organisation": "Charleston Road Registry Inc.",
         "isIDN": false,
         "punycode": null
     },
@@ -556,6 +570,13 @@
         "domain": "boats",
         "type": "generic",
         "organisation": "DERBoats, LLC",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
+        "domain": "bond",
+        "type": "generic",
+        "organisation": "Bond University Limited",
         "isIDN": false,
         "punycode": null
     },
@@ -1281,6 +1302,13 @@
         "punycode": null
     },
     {
+        "domain": "date",
+        "type": "generic",
+        "organisation": "dot Date Limited",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "dating",
         "type": "generic",
         "organisation": "Pine Fest, LLC",
@@ -1463,6 +1491,13 @@
         "punycode": null
     },
     {
+        "domain": "doha",
+        "type": "generic",
+        "organisation": "Communications Regulatory Authority (CRA)",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "domains",
         "type": "generic",
         "organisation": "Sugar Cross, LLC",
@@ -1473,6 +1508,13 @@
         "domain": "doosan",
         "type": "generic",
         "organisation": "Doosan Corporation",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
+        "domain": "download",
+        "type": "generic",
+        "organisation": "dot Support Limited",
         "isIDN": false,
         "punycode": null
     },
@@ -1704,6 +1746,13 @@
         "domain": "fail",
         "type": "generic",
         "organisation": "Atomic Pipe, LLC",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
+        "domain": "faith",
+        "type": "generic",
+        "organisation": "dot Faith Limited",
         "isIDN": false,
         "punycode": null
     },
@@ -2142,9 +2191,23 @@
         "punycode": null
     },
     {
+        "domain": "gold",
+        "type": "generic",
+        "organisation": "June Edge, LLC",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "goldpoint",
         "type": "generic",
         "organisation": "YODOBASHI CAMERA CO.,LTD.",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
+        "domain": "golf",
+        "type": "generic",
+        "organisation": "Lone falls, LLC",
         "isIDN": false,
         "punycode": null
     },
@@ -2250,6 +2313,13 @@
         "domain": "gu",
         "type": "country-code",
         "organisation": "University of Guam\nComputer Center",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
+        "domain": "guge",
+        "type": "generic",
+        "organisation": "Charleston Road Registry Inc.",
         "isIDN": false,
         "punycode": null
     },
@@ -2989,6 +3059,13 @@
         "punycode": null
     },
     {
+        "domain": "loan",
+        "type": "generic",
+        "organisation": "dot Loan Limited",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "loans",
         "type": "generic",
         "organisation": "June Woods, LLC",
@@ -3367,6 +3444,13 @@
         "punycode": null
     },
     {
+        "domain": "movie",
+        "type": "generic",
+        "organisation": "New Frostbite, LLC",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "mp",
         "type": "country-code",
         "organisation": "Saipan Datacom, Inc.",
@@ -3398,6 +3482,13 @@
         "domain": "mt",
         "type": "country-code",
         "organisation": "NIC (Malta)",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
+        "domain": "mtn",
+        "type": "generic",
+        "organisation": "MTN Dubai Limited",
         "isIDN": false,
         "punycode": null
     },
@@ -3766,6 +3857,13 @@
         "punycode": null
     },
     {
+        "domain": "panerai",
+        "type": "generic",
+        "organisation": "Richemont DNS Inc.",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "paris",
         "type": "generic",
         "organisation": "City of Paris",
@@ -3923,6 +4021,13 @@
         "domain": "plumbing",
         "type": "generic",
         "organisation": "Spring Tigers, LLC",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
+        "domain": "plus",
+        "type": "generic",
+        "organisation": "Sugar Mill, LLC",
         "isIDN": false,
         "punycode": null
     },
@@ -4189,6 +4294,13 @@
         "domain": "restaurant",
         "type": "generic",
         "organisation": "Snow Avenue, LLC",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
+        "domain": "review",
+        "type": "generic",
+        "organisation": "dot Review Limited",
         "isIDN": false,
         "punycode": null
     },
@@ -4830,6 +4942,13 @@
         "punycode": null
     },
     {
+        "domain": "tickets",
+        "type": "generic",
+        "organisation": "Accent Media Limited",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "tienda",
         "type": "generic",
         "organisation": "Victor Manor, LLC",
@@ -4931,6 +5050,13 @@
         "domain": "toshiba",
         "type": "generic",
         "organisation": "TOSHIBA Corporation",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
+        "domain": "tours",
+        "type": "generic",
+        "organisation": "Sugar Station, LLC",
         "isIDN": false,
         "punycode": null
     },
@@ -5337,6 +5463,13 @@
         "domain": "williamhill",
         "type": "generic",
         "organisation": "William Hill Organization Limited",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
+        "domain": "win",
+        "type": "generic",
+        "organisation": "First Registry Limited",
         "isIDN": false,
         "punycode": null
     },
