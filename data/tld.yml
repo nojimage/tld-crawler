@@ -2447,6 +2447,12 @@
   isIDN: false
   punycode: null
 -
+  domain: komatsu
+  type: generic
+  organisation: 'Komatsu Ltd.'
+  isIDN: false
+  punycode: null
+-
   domain: kp
   type: country-code
   organisation: 'Star Joint Venture Company'
@@ -3791,6 +3797,12 @@
   isIDN: false
   punycode: null
 -
+  domain: sap
+  type: generic
+  organisation: 'SAP AG'
+  isIDN: false
+  punycode: null
+-
   domain: sarl
   type: generic
   organisation: 'Delta Orchard, LLC'
@@ -4754,6 +4766,12 @@
   domain: 佛山
   type: generic
   organisation: 'Guangzhou YU Wei Information Technology Co., Ltd.'
+  isIDN: true
+  punycode: null
+-
+  domain: 慈善
+  type: generic
+  organisation: 'Excellent First Limited'
   isIDN: true
   punycode: null
 -
