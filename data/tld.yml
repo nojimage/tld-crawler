@@ -83,6 +83,12 @@
   isIDN: false
   punycode: null
 -
+  domain: afl
+  type: generic
+  organisation: 'Australian Football League'
+  isIDN: false
+  punycode: null
+-
   domain: ag
   type: country-code
   organisation: 'UHSA School of Medicine'
@@ -3623,6 +3629,12 @@
   isIDN: false
   punycode: null
 -
+  domain: redstone
+  type: generic
+  organisation: 'Redstone Haute Couture Co., Ltd.'
+  isIDN: false
+  punycode: null
+-
   domain: rehab
   type: generic
   organisation: 'United TLD Holdco Ltd.'
@@ -4880,6 +4892,12 @@
   domain: бел
   type: country-code
   organisation: 'Reliable Software Inc.'
+  isIDN: true
+  punycode: null
+-
+  domain: 时尚
+  type: generic
+  organisation: 'RISE VICTORY LIMITED'
   isIDN: true
   punycode: null
 -

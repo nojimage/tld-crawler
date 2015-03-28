@@ -98,6 +98,13 @@
         "punycode": null
     },
     {
+        "domain": "afl",
+        "type": "generic",
+        "organisation": "Australian Football League",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "ag",
         "type": "country-code",
         "organisation": "UHSA School of Medicine",
@@ -4228,6 +4235,13 @@
         "punycode": null
     },
     {
+        "domain": "redstone",
+        "type": "generic",
+        "organisation": "Redstone Haute Couture Co., Ltd.",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "rehab",
         "type": "generic",
         "organisation": "United TLD Holdco Ltd.",
@@ -5694,6 +5708,13 @@
         "domain": "\u0431\u0435\u043b",
         "type": "country-code",
         "organisation": "Reliable Software Inc.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\u65f6\u5c1a",
+        "type": "generic",
+        "organisation": "RISE VICTORY LIMITED",
         "isIDN": true,
         "punycode": null
     },
