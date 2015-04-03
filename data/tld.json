@@ -1281,6 +1281,13 @@
         "punycode": null
     },
     {
+        "domain": "cyou",
+        "type": "generic",
+        "organisation": "Beijing Gamease Age Digital Technology Co., Ltd.",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "cz",
         "type": "country-code",
         "organisation": "CZ.NIC, z.s.p.o",
@@ -3108,6 +3115,13 @@
         "punycode": null
     },
     {
+        "domain": "love",
+        "type": "generic",
+        "organisation": "Merchant Law Group LLP",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "lr",
         "type": "country-code",
         "organisation": "Data Technology Solutions, Inc.",
@@ -4203,6 +4217,13 @@
         "domain": "quebec",
         "type": "generic",
         "organisation": "PointQu\u00e9bec Inc",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
+        "domain": "racing",
+        "type": "generic",
+        "organisation": "Premier Registry Limited",
         "isIDN": false,
         "punycode": null
     },
@@ -6086,6 +6107,13 @@
         "domain": "\u7ec4\u7ec7\u673a\u6784",
         "type": "generic",
         "organisation": "Public Interest Registry",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\u5065\u5eb7",
+        "type": "generic",
+        "organisation": "Stable Tone Limited",
         "isIDN": true,
         "punycode": null
     },
