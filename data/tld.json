@@ -378,6 +378,13 @@
         "punycode": null
     },
     {
+        "domain": "bauhaus",
+        "type": "generic",
+        "organisation": "Werkhaus GmbH",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "bayern",
         "type": "generic",
         "organisation": "Bayern Connect GmbH",
@@ -717,6 +724,13 @@
         "domain": "cab",
         "type": "generic",
         "organisation": "Half Sunset, LLC",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
+        "domain": "cafe",
+        "type": "generic",
+        "organisation": "Pioneer Canyon, LLC",
         "isIDN": false,
         "punycode": null
     },
@@ -1753,6 +1767,13 @@
         "domain": "exposed",
         "type": "generic",
         "organisation": "Victor Beach, LLC",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
+        "domain": "express",
+        "type": "generic",
+        "organisation": "Sea Sunset, LLC",
         "isIDN": false,
         "punycode": null
     },
@@ -5946,6 +5967,13 @@
         "domain": "\u03b4\u03bf\u03ba\u03b9\u03bc\u03ae",
         "type": "test",
         "organisation": "Internet Assigned Numbers Authority",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\u98de\u5229\u6d66",
+        "type": "generic",
+        "organisation": "Koninklijke Philips N.V.",
         "isIDN": true,
         "punycode": null
     },
