@@ -5023,13 +5023,13 @@
 -
   domain: 中国
   type: country-code
-  organisation: 'China Internet Network Information Center'
+  organisation: 'China Internet Network Information Center (CNNIC)'
   isIDN: true
   punycode: null
 -
   domain: 中國
   type: country-code
-  organisation: 'China Internet Network Information Center'
+  organisation: 'China Internet Network Information Center (CNNIC)'
   isIDN: true
   punycode: null
 -

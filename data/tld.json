@@ -5861,14 +5861,14 @@
     {
         "domain": "\u4e2d\u56fd",
         "type": "country-code",
-        "organisation": "China Internet Network Information Center",
+        "organisation": "China Internet Network Information Center (CNNIC)",
         "isIDN": true,
         "punycode": null
     },
     {
         "domain": "\u4e2d\u570b",
         "type": "country-code",
-        "organisation": "China Internet Network Information Center",
+        "organisation": "China Internet Network Information Center (CNNIC)",
         "isIDN": true,
         "punycode": null
     },
