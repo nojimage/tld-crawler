@@ -2369,6 +2369,12 @@
   isIDN: false
   punycode: null
 -
+  domain: jewelry
+  type: generic
+  organisation: 'Wild Bloom, LLC'
+  isIDN: false
+  punycode: null
+-
   domain: jm
   type: country-code
   organisation: 'University of West Indies'
@@ -3983,6 +3989,12 @@
   isIDN: false
   punycode: null
 -
+  domain: show
+  type: generic
+  organisation: 'Snow Beach, LLC'
+  isIDN: false
+  punycode: null
+-
   domain: shriram
   type: generic
   organisation: 'Shriram Capital Ltd.'
@@ -4250,6 +4262,12 @@
   domain: td
   type: country-code
   organisation: 'Société des télécommunications du Tchad (SOTEL TCHAD)'
+  isIDN: false
+  punycode: null
+-
+  domain: team
+  type: generic
+  organisation: 'Atomic Lake, LLC'
   isIDN: false
   punycode: null
 -
@@ -4796,6 +4814,12 @@
   domain: wtf
   type: generic
   organisation: 'Hidden Way, LLC'
+  isIDN: false
+  punycode: null
+-
+  domain: xerox
+  type: generic
+  organisation: 'Xerox DNHC LLC'
   isIDN: false
   punycode: null
 -
