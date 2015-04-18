@@ -4606,6 +4606,13 @@
         "punycode": null
     },
     {
+        "domain": "seat",
+        "type": "generic",
+        "organisation": "SEAT, S.A. (Sociedad Unipersonal)",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "services",
         "type": "generic",
         "organisation": "Fox Castle, LLC",
@@ -4616,6 +4623,13 @@
         "domain": "sew",
         "type": "generic",
         "organisation": "SEW-EURODRIVE GmbH \u0026 Co KG",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
+        "domain": "sex",
+        "type": "generic",
+        "organisation": "ICM Registry SX LLC",
         "isIDN": false,
         "punycode": null
     },
@@ -5526,6 +5540,13 @@
         "domain": "wedding",
         "type": "generic",
         "organisation": "Top Level Domain Holdings Limited",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
+        "domain": "weir",
+        "type": "generic",
+        "organisation": "Weir Group IP Limited",
         "isIDN": false,
         "punycode": null
     },
