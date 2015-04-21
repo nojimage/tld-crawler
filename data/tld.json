@@ -4788,6 +4788,13 @@
         "punycode": null
     },
     {
+        "domain": "sony",
+        "type": "generic",
+        "organisation": "Sony Corporation",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "soy",
         "type": "generic",
         "organisation": "Charleston Road Registry Inc.",
