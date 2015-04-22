@@ -427,7 +427,7 @@
 -
   domain: biz
   type: generic-restricted
-  organisation: 'NeuStar, Inc.'
+  organisation: 'Neustar, Inc.'
   isIDN: false
   punycode: null
 -
@@ -5276,6 +5276,12 @@
   domain: مليسيا
   type: country-code
   organisation: 'MYNIC Berhad'
+  isIDN: true
+  punycode: null
+-
+  domain: 澳門
+  type: country-code
+  organisation: 'Not assigned'
   isIDN: true
   punycode: null
 -

@@ -499,7 +499,7 @@
     {
         "domain": "biz",
         "type": "generic-restricted",
-        "organisation": "NeuStar, Inc.",
+        "organisation": "Neustar, Inc.",
         "isIDN": false,
         "punycode": null
     },
@@ -6156,6 +6156,13 @@
         "domain": "\u0645\u0644\u064a\u0633\u064a\u0627",
         "type": "country-code",
         "organisation": "MYNIC Berhad",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\u6fb3\u9580",
+        "type": "country-code",
+        "organisation": "Not assigned",
         "isIDN": true,
         "punycode": null
     },
