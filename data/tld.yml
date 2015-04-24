@@ -1,4 +1,10 @@
 -
+  domain: abb
+  type: generic
+  organisation: 'ABB Ltd'
+  isIDN: false
+  punycode: null
+-
   domain: abbott
   type: generic
   organisation: 'Abbott Laboratories, Inc.'
