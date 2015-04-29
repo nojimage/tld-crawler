@@ -539,6 +539,18 @@
   isIDN: false
   punycode: null
 -
+  domain: bridgestone
+  type: generic
+  organisation: 'Bridgestone Corporation'
+  isIDN: false
+  punycode: null
+-
+  domain: broker
+  type: generic
+  organisation: 'IG Group Holdings PLC'
+  isIDN: false
+  punycode: null
+-
   domain: brussels
   type: generic
   organisation: 'DNS.be vzw'
@@ -1304,6 +1316,12 @@
   domain: docs
   type: generic
   organisation: 'Charleston Road Registry Inc.'
+  isIDN: false
+  punycode: null
+-
+  domain: dog
+  type: generic
+  organisation: 'Koko Mill, LLC'
   isIDN: false
   punycode: null
 -
@@ -2105,6 +2123,12 @@
   isIDN: false
   punycode: null
 -
+  domain: hitachi
+  type: generic
+  organisation: 'Hitachi, Ltd.'
+  isIDN: false
+  punycode: null
+-
   domain: hiv
   type: generic
   organisation: 'dotHIV gemeinnuetziger e.V.'
@@ -2144,6 +2168,12 @@
   domain: homes
   type: generic
   organisation: 'DERHomes, LLC'
+  isIDN: false
+  punycode: null
+-
+  domain: honda
+  type: generic
+  organisation: 'Honda Motor Co., Ltd.'
   isIDN: false
   punycode: null
 -
@@ -2198,6 +2228,12 @@
   domain: ibm
   type: generic
   organisation: 'International Business Machines Corporation'
+  isIDN: false
+  punycode: null
+-
+  domain: icu
+  type: generic
+  organisation: 'One.com A/S'
   isIDN: false
   punycode: null
 -
@@ -3713,6 +3749,12 @@
   isIDN: false
   punycode: null
 -
+  domain: rent
+  type: generic
+  organisation: 'DERRent, LLC'
+  isIDN: false
+  punycode: null
+-
   domain: rentals
   type: generic
   organisation: 'Big Hollow,LLC'
@@ -3956,6 +3998,12 @@
   domain: seat
   type: generic
   organisation: 'SEAT, S.A. (Sociedad Unipersonal)'
+  isIDN: false
+  punycode: null
+-
+  domain: sener
+  type: generic
+  organisation: 'Sener Ingeniería y Sistemas, S.A.'
   isIDN: false
   punycode: null
 -
@@ -4223,6 +4271,12 @@
   isIDN: false
   punycode: null
 -
+  domain: swiss
+  type: generic
+  organisation: 'Swiss Confederation'
+  isIDN: false
+  punycode: null
+-
   domain: sx
   type: country-code
   organisation: 'SX Registry SA B.V.'
@@ -4430,6 +4484,12 @@
   domain: top
   type: generic
   organisation: 'Jiangsu Bangning Science & Technology Co.,Ltd.'
+  isIDN: false
+  punycode: null
+-
+  domain: toray
+  type: generic
+  organisation: 'Toray Industries, Inc.'
   isIDN: false
   punycode: null
 -
