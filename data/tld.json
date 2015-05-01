@@ -301,6 +301,13 @@
         "punycode": null
     },
     {
+        "domain": "auto",
+        "type": "generic",
+        "organisation": "Uniregistry, Corp.",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "autos",
         "type": "generic",
         "organisation": "DERAutos, LLC",
@@ -840,6 +847,13 @@
         "punycode": null
     },
     {
+        "domain": "cars",
+        "type": "generic",
+        "organisation": "Uniregistry, Corp.",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "cartier",
         "type": "generic",
         "organisation": "Richemont DNS Inc.",
@@ -927,6 +941,13 @@
         "domain": "cf",
         "type": "country-code",
         "organisation": "Societe Centrafricaine de Telecommunications (SOCATEL)",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
+        "domain": "cfa",
+        "type": "generic",
+        "organisation": "CFA Institute",
         "isIDN": false,
         "punycode": null
     },
@@ -4377,7 +4398,7 @@
     {
         "domain": "rent",
         "type": "generic",
-        "organisation": "DERRent, LLC",
+        "organisation": "XYZ.COM LLC",
         "isIDN": false,
         "punycode": null
     },
