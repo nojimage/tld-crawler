@@ -133,6 +133,13 @@
         "punycode": null
     },
     {
+        "domain": "aig",
+        "type": "generic",
+        "organisation": "American International Group, Inc.",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "airforce",
         "type": "generic",
         "organisation": "United TLD Holdco Ltd.",
@@ -3129,6 +3136,13 @@
         "punycode": null
     },
     {
+        "domain": "liaison",
+        "type": "generic",
+        "organisation": "Liaison Technologies, Incorporated",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "lidl",
         "type": "generic",
         "organisation": "Schwarz Domains und Services GmbH \u0026 Co. KG",
@@ -3188,6 +3202,13 @@
         "domain": "loans",
         "type": "generic",
         "organisation": "June Woods, LLC",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
+        "domain": "lol",
+        "type": "generic",
+        "organisation": "Uniregistry, Corp.",
         "isIDN": false,
         "punycode": null
     },
@@ -3678,6 +3699,13 @@
         "domain": "na",
         "type": "country-code",
         "organisation": "Namibian Network Information Center",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
+        "domain": "nadex",
+        "type": "generic",
+        "organisation": "Nadex Domains, Inc",
         "isIDN": false,
         "punycode": null
     },
