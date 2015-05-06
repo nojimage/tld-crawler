@@ -1115,7 +1115,7 @@
     {
         "domain": "cn",
         "type": "country-code",
-        "organisation": "Computer Network Information Center, Chinese Academy of Sciences",
+        "organisation": "China Internet Network Information Center (CNNIC)",
         "isIDN": false,
         "punycode": null
     },
