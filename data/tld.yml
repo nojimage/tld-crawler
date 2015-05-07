@@ -499,7 +499,7 @@
 -
   domain: bn
   type: country-code
-  organisation: 'Telekom Brunei Berhad'
+  organisation: 'Brunei Darussalam Network Information Centre Sdn Bhd (BNNIC)'
   isIDN: false
   punycode: null
 -
@@ -2174,6 +2174,12 @@
   domain: hn
   type: country-code
   organisation: 'Red de Desarrollo Sostenible Honduras'
+  isIDN: false
+  punycode: null
+-
+  domain: hockey
+  type: generic
+  organisation: 'Half Willow, LLC'
   isIDN: false
   punycode: null
 -
@@ -3905,6 +3911,12 @@
   isIDN: false
   punycode: null
 -
+  domain: run
+  type: generic
+  organisation: 'Snow Park, LLC'
+  isIDN: false
+  punycode: null
+-
   domain: rw
   type: country-code
   organisation: 'Rwanda Information Communication and Technology Association (RICTA)'
@@ -4370,6 +4382,12 @@
   domain: tax
   type: generic
   organisation: 'Storm Orchard, LLC'
+  isIDN: false
+  punycode: null
+-
+  domain: taxi
+  type: generic
+  organisation: 'Pine Falls, LLC'
   isIDN: false
   punycode: null
 -
@@ -5195,6 +5213,12 @@
   isIDN: true
   punycode: null
 -
+  domain: 娱乐
+  type: generic
+  organisation: 'Will Bloom, LLC'
+  isIDN: true
+  punycode: null
+-
   domain: 谷歌
   type: generic
   organisation: 'Charleston Road Registry Inc.'
@@ -5474,6 +5498,12 @@
   domain: グーグル
   type: generic
   organisation: 'Charleston Road Registry Inc.'
+  isIDN: true
+  punycode: null
+-
+  domain: ελ
+  type: country-code
+  organisation: 'Not assigned'
   isIDN: true
   punycode: null
 -
