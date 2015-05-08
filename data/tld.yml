@@ -2509,7 +2509,7 @@
 -
   domain: kh
   type: country-code
-  organisation: 'Ministry of Post and Telecommunications'
+  organisation: 'Telecommunication Regulator of Cambodia (TRC)'
   isIDN: false
   punycode: null
 -
@@ -5189,6 +5189,12 @@
   isIDN: true
   punycode: null
 -
+  domain: 工行
+  type: generic
+  organisation: 'Industrial and Commercial Bank of China Limited'
+  isIDN: true
+  punycode: null
+-
   domain: 中文网
   type: generic
   organisation: 'TLD REGISTRY LIMITED'
@@ -5401,7 +5407,7 @@
 -
   domain: سودان
   type: country-code
-  organisation: 'Not assigned'
+  organisation: 'Sudan Internet Society'
   isIDN: true
   punycode: null
 -
@@ -5587,7 +5593,7 @@
 -
   domain: հայ
   type: country-code
-  organisation: 'Not assigned'
+  organisation: 'Internet Society'
   isIDN: true
   punycode: null
 -

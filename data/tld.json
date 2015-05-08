@@ -2928,7 +2928,7 @@
     {
         "domain": "kh",
         "type": "country-code",
-        "organisation": "Ministry of Post and Telecommunications",
+        "organisation": "Telecommunication Regulator of Cambodia (TRC)",
         "isIDN": false,
         "punycode": null
     },
@@ -6055,6 +6055,13 @@
         "punycode": null
     },
     {
+        "domain": "\u5de5\u884c",
+        "type": "generic",
+        "organisation": "Industrial and Commercial Bank of China Limited",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\u4e2d\u6587\u7f51",
         "type": "generic",
         "organisation": "TLD REGISTRY LIMITED",
@@ -6302,7 +6309,7 @@
     {
         "domain": "\u0633\u0648\u062f\u0627\u0646",
         "type": "country-code",
-        "organisation": "Not assigned",
+        "organisation": "Sudan Internet Society",
         "isIDN": true,
         "punycode": null
     },
@@ -6519,7 +6526,7 @@
     {
         "domain": "\u0570\u0561\u0575",
         "type": "country-code",
-        "organisation": "Not assigned",
+        "organisation": "Internet Society",
         "isIDN": true,
         "punycode": null
     },
