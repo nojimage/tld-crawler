@@ -35,6 +35,13 @@
         "punycode": null
     },
     {
+        "domain": "accenture",
+        "type": "generic",
+        "organisation": "Accenture plc",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "accountant",
         "type": "generic",
         "organisation": "dot Accountant Limited",
@@ -3752,6 +3759,13 @@
         "punycode": null
     },
     {
+        "domain": "nec",
+        "type": "generic",
+        "organisation": "NEC Corporation",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "net",
         "type": "generic",
         "organisation": "VeriSign Global Registry Services",
@@ -4084,6 +4098,13 @@
         "domain": "pharmacy",
         "type": "generic",
         "organisation": "National Association of Boards of Pharmacy",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
+        "domain": "philips",
+        "type": "generic",
+        "organisation": "Koninklijke Philips N.V.",
         "isIDN": false,
         "punycode": null
     },
