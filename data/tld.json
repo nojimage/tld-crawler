@@ -665,6 +665,13 @@
         "punycode": null
     },
     {
+        "domain": "brother",
+        "type": "generic",
+        "organisation": "Brother Industries, Ltd.",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "brussels",
         "type": "generic",
         "organisation": "DNS.be vzw",
