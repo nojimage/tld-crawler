@@ -899,6 +899,12 @@
   isIDN: false
   punycode: null
 -
+  domain: cisco
+  type: generic
+  organisation: 'Cisco Technology, Inc.'
+  isIDN: false
+  punycode: null
+-
   domain: citic
   type: generic
   organisation: 'CITIC Group Corporation'
