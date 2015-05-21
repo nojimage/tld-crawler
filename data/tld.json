@@ -3332,6 +3332,13 @@
         "punycode": null
     },
     {
+        "domain": "lupin",
+        "type": "generic",
+        "organisation": "LUPIN LIMITED",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "luxe",
         "type": "generic",
         "organisation": "Top Level Domain Holdings Limited",
@@ -3482,6 +3489,13 @@
         "domain": "memorial",
         "type": "generic",
         "organisation": "Dog Beach, LLC",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
+        "domain": "men",
+        "type": "generic",
+        "organisation": "Exclusive Registry Limited",
         "isIDN": false,
         "punycode": null
     },
