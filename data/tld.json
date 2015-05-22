@@ -2128,6 +2128,13 @@
         "punycode": null
     },
     {
+        "domain": "fyi",
+        "type": "generic",
+        "organisation": "Silver Tigers, LLC",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "ga",
         "type": "country-code",
         "organisation": "Agence Nationale des Infrastructures Num\u00e9riques et des Fr\u00e9quences (ANINF)",
@@ -2905,6 +2912,13 @@
         "punycode": null
     },
     {
+        "domain": "jll",
+        "type": "generic",
+        "organisation": "Jones Lang LaSalle Incorporated",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "jm",
         "type": "country-code",
         "organisation": "University of West Indies",
@@ -3433,6 +3447,13 @@
         "domain": "marriott",
         "type": "generic",
         "organisation": "Marriott Worldwide Corporation",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
+        "domain": "mba",
+        "type": "generic",
+        "organisation": "Lone Hollow, LLC",
         "isIDN": false,
         "punycode": null
     },
@@ -5281,6 +5302,13 @@
         "domain": "th",
         "type": "country-code",
         "organisation": "Thai Network Information Center Foundation",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
+        "domain": "thd",
+        "type": "generic",
+        "organisation": "Homer TLC, Inc.",
         "isIDN": false,
         "punycode": null
     },
