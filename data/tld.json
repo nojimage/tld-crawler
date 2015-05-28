@@ -434,6 +434,13 @@
         "punycode": null
     },
     {
+        "domain": "bbva",
+        "type": "generic",
+        "organisation": "BANCO BILBAO VIZCAYA ARGENTARIA, S.A.",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "bd",
         "type": "country-code",
         "organisation": "Ministry of Post \u0026 Telecommunications\nBangladesh Secretariat",
@@ -4711,6 +4718,20 @@
         "punycode": null
     },
     {
+        "domain": "sandvik",
+        "type": "generic",
+        "organisation": "Sandvik AB",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
+        "domain": "sandvikcoromant",
+        "type": "generic",
+        "organisation": "Sandvik AB",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "sap",
         "type": "generic",
         "organisation": "SAP AG",
@@ -5775,6 +5796,13 @@
         "punycode": null
     },
     {
+        "domain": "walter",
+        "type": "generic",
+        "organisation": "Sandvik AB",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "wang",
         "type": "generic",
         "organisation": "Zodiac Registry Limited",
@@ -6275,6 +6303,13 @@
         "domain": "\u0938\u0902\u0917\u0920\u0928",
         "type": "generic",
         "organisation": "Public Interest Registry",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\u9910\u5385",
+        "type": "generic",
+        "organisation": "HU YI GLOBAL INFORMATION RESOURCES (HOLDING) COMPANY. HONGKONG LIMITED",
         "isIDN": true,
         "punycode": null
     },
