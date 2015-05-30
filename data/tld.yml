@@ -431,6 +431,12 @@
   isIDN: false
   punycode: null
 -
+  domain: bible
+  type: generic
+  organisation: 'American Bible Society'
+  isIDN: false
+  punycode: null
+-
   domain: bid
   type: generic
   organisation: 'dot Bid Limited'
@@ -4253,6 +4259,12 @@
   isIDN: false
   punycode: null
 -
+  domain: ski
+  type: generic
+  organisation: 'STARTING DOT LIMITED'
+  isIDN: false
+  punycode: null
+-
   domain: sky
   type: generic
   organisation: 'Sky International AG'
@@ -4274,6 +4286,12 @@
   domain: sn
   type: country-code
   organisation: "Universite Cheikh Anta Diop\nNIC Senegal"
+  isIDN: false
+  punycode: null
+-
+  domain: sncf
+  type: generic
+  organisation: 'Société Nationale des Chemins de fer Francais S N C F'
   isIDN: false
   punycode: null
 -
