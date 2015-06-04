@@ -2249,6 +2249,12 @@
   isIDN: false
   punycode: null
 -
+  domain: homedepot
+  type: generic
+  organisation: 'Homer TLC, Inc.'
+  isIDN: false
+  punycode: null
+-
   domain: homes
   type: generic
   organisation: 'DERHomes, LLC'
@@ -4297,7 +4303,7 @@
 -
   domain: sncf
   type: generic
-  organisation: 'Société Nationale des Chemins de fer Francais S N C F'
+  organisation: 'SNCF (Société Nationale des Chemins de fer Francais)'
   isIDN: false
   punycode: null
 -
@@ -5114,6 +5120,12 @@
   domain: wtf
   type: generic
   organisation: 'Hidden Way, LLC'
+  isIDN: false
+  punycode: null
+-
+  domain: xbox
+  type: generic
+  organisation: 'Microsoft Corporation'
   isIDN: false
   punycode: null
 -
