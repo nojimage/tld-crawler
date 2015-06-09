@@ -305,6 +305,12 @@
   isIDN: false
   punycode: null
 -
+  domain: azure
+  type: generic
+  organisation: 'Microsoft Corporation'
+  isIDN: false
+  punycode: null
+-
   domain: ba
   type: country-code
   organisation: 'Universtiy Telinformatic Centre (UTIC)'
@@ -446,6 +452,12 @@
   domain: bike
   type: generic
   organisation: 'Grand Hollow, LLC'
+  isIDN: false
+  punycode: null
+-
+  domain: bing
+  type: generic
+  organisation: 'Microsoft Corporation'
   isIDN: false
   punycode: null
 -
@@ -2285,6 +2297,12 @@
   isIDN: false
   punycode: null
 -
+  domain: hotmail
+  type: generic
+  organisation: 'Microsoft Corporation'
+  isIDN: false
+  punycode: null
+-
   domain: house
   type: generic
   organisation: 'Sugar Park, LLC'
@@ -3062,6 +3080,12 @@
   domain: miami
   type: generic
   organisation: 'Top Level Domain Holdings Limited'
+  isIDN: false
+  punycode: null
+-
+  domain: microsoft
+  type: generic
+  organisation: 'Microsoft Corporation'
   isIDN: false
   punycode: null
 -
@@ -5078,6 +5102,12 @@
   domain: win
   type: generic
   organisation: 'First Registry Limited'
+  isIDN: false
+  punycode: null
+-
+  domain: windows
+  type: generic
+  organisation: 'Microsoft Corporation'
   isIDN: false
   punycode: null
 -
