@@ -2531,6 +2531,12 @@
   isIDN: false
   punycode: null
 -
+  domain: jlc
+  type: generic
+  organisation: 'Richemont DNS Inc.'
+  isIDN: false
+  punycode: null
+-
   domain: jll
   type: generic
   organisation: 'Jones Lang LaSalle Incorporated'
