@@ -3178,6 +3178,13 @@
         "punycode": null
     },
     {
+        "domain": "lasalle",
+        "type": "generic",
+        "organisation": "Jones Lang LaSalle Incorporated",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "lat",
         "type": "generic",
         "organisation": "ECOM-LAC Federaci\u00f3n de Latinoam\u00e9rica y el Caribe para Internet y el Comercio Electr\u00f3nico",

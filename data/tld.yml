@@ -2723,6 +2723,12 @@
   isIDN: false
   punycode: null
 -
+  domain: lasalle
+  type: generic
+  organisation: 'Jones Lang LaSalle Incorporated'
+  isIDN: false
+  punycode: null
+-
   domain: lat
   type: generic
   organisation: 'ECOM-LAC Federación de Latinoamérica y el Caribe para Internet y el Comercio Electrónico'
