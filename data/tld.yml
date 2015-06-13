@@ -431,6 +431,12 @@
   isIDN: false
   punycode: null
 -
+  domain: bharti
+  type: generic
+  organisation: 'Bharti Enterprises (Holding) Private Limited'
+  isIDN: false
+  punycode: null
+-
   domain: bi
   type: country-code
   organisation: 'Centre National de l''Informatique'
