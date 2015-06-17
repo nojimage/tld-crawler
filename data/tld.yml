@@ -1157,6 +1157,12 @@
   isIDN: false
   punycode: null
 -
+  domain: crown
+  type: generic
+  organisation: 'Crown Equipment Corporation'
+  isIDN: false
+  punycode: null
+-
   domain: crs
   type: generic
   organisation: 'Federated Co-operatives Limited'
@@ -4439,6 +4445,18 @@
   isIDN: false
   punycode: null
 -
+  domain: starhub
+  type: generic
+  organisation: 'StarHub Limited'
+  isIDN: false
+  punycode: null
+-
+  domain: statoil
+  type: generic
+  organisation: 'Statoil ASA'
+  isIDN: false
+  punycode: null
+-
   domain: study
   type: generic
   organisation: 'OPEN UNIVERSITIES AUSTRALIA PTY LTD'
@@ -4982,6 +5000,18 @@
   domain: vision
   type: generic
   organisation: 'Koko Station, LLC'
+  isIDN: false
+  punycode: null
+-
+  domain: vista
+  type: generic
+  organisation: 'Vistaprint Limited'
+  isIDN: false
+  punycode: null
+-
+  domain: vistaprint
+  type: generic
+  organisation: 'Vistaprint Limited'
   isIDN: false
   punycode: null
 -
