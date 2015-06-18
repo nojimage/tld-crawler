@@ -4144,6 +4144,13 @@
         "punycode": null
     },
     {
+        "domain": "oracle",
+        "type": "generic",
+        "organisation": "Oracle Corporation",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "org",
         "type": "generic",
         "organisation": "Public Interest Registry (PIR)",
