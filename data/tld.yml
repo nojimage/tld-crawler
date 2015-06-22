@@ -83,6 +83,12 @@
   isIDN: false
   punycode: null
 -
+  domain: aeg
+  type: generic
+  organisation: 'Aktiebolaget Electrolux'
+  isIDN: false
+  punycode: null
+-
   domain: aero
   type: sponsored
   organisation: 'Societe Internationale de Telecommunications Aeronautique (SITA INC USA)'
@@ -815,6 +821,12 @@
   isIDN: false
   punycode: null
 -
+  domain: cba
+  type: generic
+  organisation: 'COMMONWEALTH BANK OF AUSTRALIA'
+  isIDN: false
+  punycode: null
+-
   domain: cbn
   type: generic
   organisation: 'The Christian Broadcasting Network, Inc.'
@@ -1046,6 +1058,12 @@
   domain: com
   type: generic
   organisation: 'VeriSign Global Registry Services'
+  isIDN: false
+  punycode: null
+-
+  domain: commbank
+  type: generic
+  organisation: 'COMMONWEALTH BANK OF AUSTRALIA'
   isIDN: false
   punycode: null
 -
@@ -1436,6 +1454,12 @@
   domain: download
   type: generic
   organisation: 'dot Support Limited'
+  isIDN: false
+  punycode: null
+-
+  domain: drive
+  type: generic
+  organisation: 'Charleston Road Registry Inc.'
   isIDN: false
   punycode: null
 -
@@ -1922,6 +1946,12 @@
   domain: gent
   type: generic
   organisation: 'COMBELL GROUP NV/SA'
+  isIDN: false
+  punycode: null
+-
+  domain: genting
+  type: generic
+  organisation: 'Resorts World Inc. Pte. Ltd.'
   isIDN: false
   punycode: null
 -
@@ -3371,6 +3401,12 @@
   isIDN: false
   punycode: null
 -
+  domain: netbank
+  type: generic
+  organisation: 'COMMONWEALTH BANK OF AUSTRALIA'
+  isIDN: false
+  punycode: null
+-
   domain: network
   type: generic
   organisation: 'Trixy Manor, LLC'
@@ -3743,6 +3779,12 @@
   isIDN: false
   punycode: null
 -
+  domain: play
+  type: generic
+  organisation: 'Charleston Road Registry Inc.'
+  isIDN: false
+  punycode: null
+-
   domain: plumbing
   type: generic
   organisation: 'Spring Tigers, LLC'
@@ -4016,6 +4058,12 @@
   domain: rich
   type: generic
   organisation: 'I-REGISTRY Ltd., Niederlassung Deutschland'
+  isIDN: false
+  punycode: null
+-
+  domain: ricoh
+  type: generic
+  organisation: 'Ricoh Company, Ltd.'
   isIDN: false
   punycode: null
 -
