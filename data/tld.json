@@ -4137,6 +4137,13 @@
         "punycode": null
     },
     {
+        "domain": "office",
+        "type": "generic",
+        "organisation": "Microsoft Corporation",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "okinawa",
         "type": "generic",
         "organisation": "BusinessRalliart inc.",
@@ -4963,6 +4970,13 @@
         "punycode": null
     },
     {
+        "domain": "scor",
+        "type": "generic",
+        "organisation": "SCOR SE",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "scot",
         "type": "generic",
         "organisation": "Dot Scot Registry Limited",
@@ -5113,6 +5127,13 @@
         "domain": "sky",
         "type": "generic",
         "organisation": "Sky International AG",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
+        "domain": "skype",
+        "type": "generic",
+        "organisation": "Microsoft Corporation",
         "isIDN": false,
         "punycode": null
     },
