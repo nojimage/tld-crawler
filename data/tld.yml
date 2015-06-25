@@ -2783,6 +2783,12 @@
   isIDN: false
   punycode: null
 -
+  domain: law
+  type: generic
+  organisation: 'Minds + Machines Group Limited'
+  isIDN: false
+  punycode: null
+-
   domain: lawyer
   type: generic
   organisation: 'United TLD Holdco, Ltd'
@@ -3560,6 +3566,12 @@
   domain: om
   type: country-code
   organisation: 'Telecommunications Regulatory Authority (TRA)'
+  isIDN: false
+  punycode: null
+-
+  domain: omega
+  type: generic
+  organisation: 'The Swatch Group Ltd'
   isIDN: false
   punycode: null
 -
@@ -4592,6 +4604,12 @@
   domain: sv
   type: country-code
   organisation: SVNet
+  isIDN: false
+  punycode: null
+-
+  domain: swatch
+  type: generic
+  organisation: 'The Swatch Group Ltd'
   isIDN: false
   punycode: null
 -
