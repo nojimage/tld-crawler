@@ -637,6 +637,13 @@
         "punycode": null
     },
     {
+        "domain": "bnl",
+        "type": "generic",
+        "organisation": "Banca Nazionale del Lavoro",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "bnpparibas",
         "type": "generic",
         "organisation": "BNP Paribas",
@@ -689,6 +696,13 @@
         "domain": "br",
         "type": "country-code",
         "organisation": "Comite Gestor da Internet no Brasil",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
+        "domain": "bradesco",
+        "type": "generic",
+        "organisation": "Banco Bradesco S.A.",
         "isIDN": false,
         "punycode": null
     },
@@ -1165,6 +1179,13 @@
         "domain": "clothing",
         "type": "generic",
         "organisation": "Steel Lake, LLC",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
+        "domain": "cloud",
+        "type": "generic",
+        "organisation": "ARUBA S.p.A.",
         "isIDN": false,
         "punycode": null
     },
@@ -2730,6 +2751,13 @@
         "punycode": null
     },
     {
+        "domain": "hoteles",
+        "type": "generic",
+        "organisation": "Travel Reservations SRL",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "hotmail",
         "type": "generic",
         "organisation": "Microsoft Corporation",
@@ -3811,6 +3839,13 @@
         "domain": "movie",
         "type": "generic",
         "organisation": "New Frostbite, LLC",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
+        "domain": "movistar",
+        "type": "generic",
+        "organisation": "Telef\u00f3nica S.A.",
         "isIDN": false,
         "punycode": null
     },
@@ -5498,6 +5533,13 @@
         "domain": "tel",
         "type": "sponsored",
         "organisation": "Telnic Ltd.",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
+        "domain": "telefonica",
+        "type": "generic",
+        "organisation": "Telef\u00f3nica S.A.",
         "isIDN": false,
         "punycode": null
     },
