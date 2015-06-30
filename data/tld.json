@@ -2170,6 +2170,13 @@
         "punycode": null
     },
     {
+        "domain": "forum",
+        "type": "generic",
+        "organisation": "Fegistry, LLC",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "foundation",
         "type": "generic",
         "organisation": "John Dale, LLC",
@@ -4665,6 +4672,13 @@
         "domain": "realtor",
         "type": "generic",
         "organisation": "Real Estate Domains LLC",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
+        "domain": "realty",
+        "type": "generic",
+        "organisation": "Fegistry, LLC",
         "isIDN": false,
         "punycode": null
     },
