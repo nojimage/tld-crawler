@@ -161,6 +161,13 @@
         "punycode": null
     },
     {
+        "domain": "airtel",
+        "type": "generic",
+        "organisation": "Bharti Airtel Limited",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "al",
         "type": "country-code",
         "organisation": "Electronic and Postal Communications Authority - AKEP",
@@ -399,6 +406,13 @@
         "punycode": null
     },
     {
+        "domain": "barcelona",
+        "type": "generic",
+        "organisation": "Municipi de Barcelona",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "barclaycard",
         "type": "generic",
         "organisation": "Barclays Bank PLC",
@@ -451,6 +465,13 @@
         "domain": "bbva",
         "type": "generic",
         "organisation": "BANCO BILBAO VIZCAYA ARGENTARIA, S.A.",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
+        "domain": "bcn",
+        "type": "generic",
+        "organisation": "Municipi de Barcelona",
         "isIDN": false,
         "punycode": null
     },
@@ -2254,6 +2275,13 @@
         "punycode": null
     },
     {
+        "domain": "game",
+        "type": "generic",
+        "organisation": "Uniregistry, Corp.",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "garden",
         "type": "generic",
         "organisation": "Top Level Domain Holdings Limited",
@@ -3087,6 +3115,13 @@
         "punycode": null
     },
     {
+        "domain": "jprs",
+        "type": "generic",
+        "organisation": "Japan Registry Services Co., Ltd.",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "juegos",
         "type": "generic",
         "organisation": "Uniregistry, Corp.",
@@ -3398,6 +3433,13 @@
         "domain": "link",
         "type": "generic",
         "organisation": "Uniregistry, Corp.",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
+        "domain": "live",
+        "type": "generic",
+        "organisation": "United TLD Holdco Ltd.",
         "isIDN": false,
         "punycode": null
     },
@@ -5344,6 +5386,13 @@
         "domain": "statoil",
         "type": "generic",
         "organisation": "Statoil ASA",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
+        "domain": "studio",
+        "type": "generic",
+        "organisation": "United TLD Holdco Ltd.",
         "isIDN": false,
         "punycode": null
     },
