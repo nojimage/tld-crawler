@@ -197,6 +197,12 @@
   isIDN: false
   punycode: null
 -
+  domain: app
+  type: generic
+  organisation: 'Charleston Road Registry Inc.'
+  isIDN: false
+  punycode: null
+-
   domain: aq
   type: country-code
   organisation: 'Antarctica Network Information Centre Limited'
@@ -422,6 +428,12 @@
   domain: beer
   type: generic
   organisation: 'Top Level Domain Holdings Limited'
+  isIDN: false
+  punycode: null
+-
+  domain: bentley
+  type: generic
+  organisation: 'Bentley Motors Limited'
   isIDN: false
   punycode: null
 -
@@ -2417,6 +2429,12 @@
   isIDN: false
   punycode: null
 -
+  domain: hsbc
+  type: generic
+  organisation: 'HSBC Holdings PLC'
+  isIDN: false
+  punycode: null
+-
   domain: ht
   type: country-code
   organisation: 'Consortium FDS/RDDH'
@@ -2462,6 +2480,12 @@
   domain: ifm
   type: generic
   organisation: 'ifm electronic gmbh'
+  isIDN: false
+  punycode: null
+-
+  domain: iinet
+  type: generic
+  organisation: 'Connect West Pty. Ltd.'
   isIDN: false
   punycode: null
 -
@@ -3683,6 +3707,12 @@
   isIDN: false
   punycode: null
 -
+  domain: orange
+  type: generic
+  organisation: 'Orange Brand Services Limited'
+  isIDN: false
+  punycode: null
+-
   domain: org
   type: generic
   organisation: 'Public Interest Registry (PIR)'
@@ -4244,6 +4274,12 @@
   domain: saarland
   type: generic
   organisation: 'dotSaarland GmbH'
+  isIDN: false
+  punycode: null
+-
+  domain: sakura
+  type: generic
+  organisation: 'SAKURA Internet Inc.'
   isIDN: false
   punycode: null
 -
