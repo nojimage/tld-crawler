@@ -1367,6 +1367,12 @@
   isIDN: false
   punycode: null
 -
+  domain: delta
+  type: generic
+  organisation: 'Delta Air Lines, Inc.'
+  isIDN: false
+  punycode: null
+-
   domain: democrat
   type: generic
   organisation: 'United TLD Holdco Ltd.'
@@ -2609,6 +2615,18 @@
   isIDN: false
   punycode: null
 -
+  domain: ist
+  type: generic
+  organisation: 'Istanbul Metropolitan Municipality'
+  isIDN: false
+  punycode: null
+-
+  domain: istanbul
+  type: generic
+  organisation: 'Istanbul Metropolitan Municipality'
+  isIDN: false
+  punycode: null
+-
   domain: it
   type: country-code
   organisation: 'IIT - CNR'
@@ -2840,6 +2858,12 @@
   domain: lacaixa
   type: generic
   organisation: 'CAIXA D''ESTALVIS I PENSIONS DE BARCELONA'
+  isIDN: false
+  punycode: null
+-
+  domain: lancaster
+  type: generic
+  organisation: LANCASTER
   isIDN: false
   punycode: null
 -
@@ -5078,6 +5102,12 @@
   domain: ua
   type: country-code
   organisation: 'Hostmaster Ltd.'
+  isIDN: false
+  punycode: null
+-
+  domain: ubs
+  type: generic
+  organisation: 'UBS AG'
   isIDN: false
   punycode: null
 -
