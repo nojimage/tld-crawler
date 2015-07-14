@@ -4228,6 +4228,13 @@
         "punycode": null
     },
     {
+        "domain": "nokia",
+        "type": "generic",
+        "organisation": "Nokia Corporation",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "np",
         "type": "country-code",
         "organisation": "Mercantile Communications Pvt. Ltd.",
