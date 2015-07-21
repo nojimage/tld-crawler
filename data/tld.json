@@ -2877,6 +2877,13 @@
         "punycode": null
     },
     {
+        "domain": "ice",
+        "type": "generic",
+        "organisation": "IntercontinentalExchange, Inc.",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "icu",
         "type": "generic",
         "organisation": "One.com A/S",
@@ -3069,6 +3076,13 @@
         "domain": "it",
         "type": "country-code",
         "organisation": "IIT - CNR",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
+        "domain": "itau",
+        "type": "generic",
+        "organisation": "Itau Unibanco Holding S.A.",
         "isIDN": false,
         "punycode": null
     },
