@@ -525,6 +525,13 @@
         "punycode": null
     },
     {
+        "domain": "bet",
+        "type": "generic",
+        "organisation": "Afilias plc",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "bf",
         "type": "country-code",
         "organisation": "ARCE-Autorit\u00c8 de R\u00c8gulation des Communications Electroniques",
@@ -4473,6 +4480,13 @@
         "punycode": null
     },
     {
+        "domain": "pet",
+        "type": "generic",
+        "organisation": "Afilias plc",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "pf",
         "type": "country-code",
         "organisation": "Gouvernement de la Polyn\u00e9sie fran\u00e7aise",
@@ -5075,6 +5089,13 @@
         "punycode": null
     },
     {
+        "domain": "sanofi",
+        "type": "generic",
+        "organisation": "Sanofi",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "sap",
         "type": "generic",
         "organisation": "SAP AG",
@@ -5453,6 +5474,13 @@
         "punycode": null
     },
     {
+        "domain": "srl",
+        "type": "generic",
+        "organisation": "mySRL GmbH",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "ss",
         "type": "country-code",
         "organisation": "Not assigned",
@@ -5617,6 +5645,13 @@
         "domain": "taipei",
         "type": "generic",
         "organisation": "Taipei City Government",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
+        "domain": "tatamotors",
+        "type": "generic",
+        "organisation": "Tata Motors Ltd",
         "isIDN": false,
         "punycode": null
     },
