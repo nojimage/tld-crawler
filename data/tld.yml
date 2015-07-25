@@ -2603,6 +2603,12 @@
   isIDN: false
   punycode: null
 -
+  domain: ipiranga
+  type: generic
+  organisation: 'Ipiranga Produtos de Petroleo S.A.'
+  isIDN: false
+  punycode: null
+-
   domain: iq
   type: country-code
   organisation: 'Communications and Media Commission (CMC)'
@@ -2957,6 +2963,12 @@
   isIDN: false
   punycode: null
 -
+  domain: lexus
+  type: generic
+  organisation: 'TOYOTA MOTOR CORPORATION'
+  isIDN: false
+  punycode: null
+-
   domain: lgbt
   type: generic
   organisation: 'Afilias Limited'
@@ -3014,6 +3026,12 @@
   domain: live
   type: generic
   organisation: 'United TLD Holdco Ltd.'
+  isIDN: false
+  punycode: null
+-
+  domain: lixil
+  type: generic
+  organisation: 'LIXIL Group Corporation'
   isIDN: false
   punycode: null
 -
@@ -3146,6 +3164,12 @@
   domain: maison
   type: generic
   organisation: 'Victor Frostbite, LLC'
+  isIDN: false
+  punycode: null
+-
+  domain: man
+  type: generic
+  organisation: 'MAN SE'
   isIDN: false
   punycode: null
 -
@@ -4693,7 +4717,7 @@
 -
   domain: srl
   type: generic
-  organisation: 'mySRL GmbH'
+  organisation: 'InterNetX Corp.'
   isIDN: false
   punycode: null
 -
@@ -5066,6 +5090,12 @@
   domain: town
   type: generic
   organisation: 'Koko Moon, LLC'
+  isIDN: false
+  punycode: null
+-
+  domain: toyota
+  type: generic
+  organisation: 'TOYOTA MOTOR CORPORATION'
   isIDN: false
   punycode: null
 -
