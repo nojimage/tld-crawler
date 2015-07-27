@@ -6475,6 +6475,13 @@
         "punycode": null
     },
     {
+        "domain": "\u0915\u0949\u092e",
+        "type": "generic",
+        "organisation": "VeriSign Sarl",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\u092a\u0930\u0940\u0915\u094d\u0937\u093e",
         "type": "test",
         "organisation": "Internet Assigned Numbers Authority",
@@ -6513,6 +6520,20 @@
         "domain": "\ud55c\uad6d",
         "type": "country-code",
         "organisation": "KISA (Korea Internet \u0026 Security Agency)",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\u70b9\u770b",
+        "type": "generic",
+        "organisation": "VeriSign Sarl",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\u0e04\u0e2d\u0e21",
+        "type": "generic",
+        "organisation": "VeriSign Sarl",
         "isIDN": true,
         "punycode": null
     },
@@ -6622,6 +6643,13 @@
         "punycode": null
     },
     {
+        "domain": "\u05e7\u05d5\u05dd",
+        "type": "generic",
+        "organisation": "VeriSign Sarl",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\u65f6\u5c1a",
         "type": "generic",
         "organisation": "RISE VICTORY LIMITED",
@@ -6646,6 +6674,13 @@
         "domain": "\u043e\u0440\u0433",
         "type": "generic",
         "organisation": "Public Interest Registry",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\u0928\u0947\u091f",
+        "type": "generic",
+        "organisation": "VeriSign Sarl",
         "isIDN": true,
         "punycode": null
     },
@@ -6709,6 +6744,13 @@
         "domain": "\u5de5\u884c",
         "type": "generic",
         "organisation": "Industrial and Commercial Bank of China Limited",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\u0643\u0648\u0645",
+        "type": "generic",
+        "organisation": "VeriSign Sarl",
         "isIDN": true,
         "punycode": null
     },
@@ -6828,6 +6870,13 @@
         "domain": "\u7f51\u7edc",
         "type": "generic",
         "organisation": "Computer Network Information Center of Chinese Academy of Sciences \uff08China Internet Network Information Center\uff09",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\u043a\u043e\u043c",
+        "type": "generic",
+        "organisation": "VeriSign Sarl",
         "isIDN": true,
         "punycode": null
     },
@@ -6993,6 +7042,13 @@
         "punycode": null
     },
     {
+        "domain": "\ub2f7\ucef4",
+        "type": "generic",
+        "organisation": "VeriSign Sarl",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\u653f\u5e9c",
         "type": "generic",
         "organisation": "Net-Chinese Co., Ltd.",
@@ -7070,6 +7126,13 @@
         "punycode": null
     },
     {
+        "domain": "\u5927\u62ff",
+        "type": "generic",
+        "organisation": "VeriSign Sarl",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\u307f\u3093\u306a",
         "type": "generic",
         "organisation": "Charleston Road Registry Inc.",
@@ -7108,6 +7171,20 @@
         "domain": "\u7f51\u5740",
         "type": "generic",
         "organisation": "KNET Co., Ltd",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\ub2f7\ub137",
+        "type": "generic",
+        "organisation": "VeriSign Sarl",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\u30b3\u30e0",
+        "type": "generic",
+        "organisation": "VeriSign Sarl",
         "isIDN": true,
         "punycode": null
     },

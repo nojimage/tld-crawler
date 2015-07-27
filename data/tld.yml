@@ -5549,6 +5549,12 @@
   isIDN: true
   punycode: null
 -
+  domain: कॉम
+  type: generic
+  organisation: 'VeriSign Sarl'
+  isIDN: true
+  punycode: null
+-
   domain: परीक्षा
   type: test
   organisation: 'Internet Assigned Numbers Authority'
@@ -5582,6 +5588,18 @@
   domain: 한국
   type: country-code
   organisation: 'KISA (Korea Internet & Security Agency)'
+  isIDN: true
+  punycode: null
+-
+  domain: 点看
+  type: generic
+  organisation: 'VeriSign Sarl'
+  isIDN: true
+  punycode: null
+-
+  domain: คอม
+  type: generic
+  organisation: 'VeriSign Sarl'
   isIDN: true
   punycode: null
 -
@@ -5675,6 +5693,12 @@
   isIDN: true
   punycode: null
 -
+  domain: קום
+  type: generic
+  organisation: 'VeriSign Sarl'
+  isIDN: true
+  punycode: null
+-
   domain: 时尚
   type: generic
   organisation: 'RISE VICTORY LIMITED'
@@ -5696,6 +5720,12 @@
   domain: орг
   type: generic
   organisation: 'Public Interest Registry'
+  isIDN: true
+  punycode: null
+-
+  domain: नेट
+  type: generic
+  organisation: 'VeriSign Sarl'
   isIDN: true
   punycode: null
 -
@@ -5750,6 +5780,12 @@
   domain: 工行
   type: generic
   organisation: 'Industrial and Commercial Bank of China Limited'
+  isIDN: true
+  punycode: null
+-
+  domain: كوم
+  type: generic
+  organisation: 'VeriSign Sarl'
   isIDN: true
   punycode: null
 -
@@ -5852,6 +5888,12 @@
   domain: 网络
   type: generic
   organisation: 'Computer Network Information Center of Chinese Academy of Sciences （China Internet Network Information Center）'
+  isIDN: true
+  punycode: null
+-
+  domain: ком
+  type: generic
+  organisation: 'VeriSign Sarl'
   isIDN: true
   punycode: null
 -
@@ -5993,6 +6035,12 @@
   isIDN: true
   punycode: null
 -
+  domain: 닷컴
+  type: generic
+  organisation: 'VeriSign Sarl'
+  isIDN: true
+  punycode: null
+-
   domain: 政府
   type: generic
   organisation: 'Net-Chinese Co., Ltd.'
@@ -6059,6 +6107,12 @@
   isIDN: true
   punycode: null
 -
+  domain: 大拿
+  type: generic
+  organisation: 'VeriSign Sarl'
+  isIDN: true
+  punycode: null
+-
   domain: みんな
   type: generic
   organisation: 'Charleston Road Registry Inc.'
@@ -6092,6 +6146,18 @@
   domain: 网址
   type: generic
   organisation: 'KNET Co., Ltd'
+  isIDN: true
+  punycode: null
+-
+  domain: 닷넷
+  type: generic
+  organisation: 'VeriSign Sarl'
+  isIDN: true
+  punycode: null
+-
+  domain: コム
+  type: generic
+  organisation: 'VeriSign Sarl'
   isIDN: true
   punycode: null
 -
