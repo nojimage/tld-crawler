@@ -163,7 +163,7 @@
 -
   domain: am
   type: country-code
-  organisation: 'Internet Society'
+  organisation: '"Internet Society" Non-governmental Organization'
   isIDN: false
   punycode: null
 -
@@ -938,6 +938,12 @@
   domain: ch
   type: country-code
   organisation: 'SWITCH The Swiss Education & Research Network'
+  isIDN: false
+  punycode: null
+-
+  domain: chanel
+  type: generic
+  organisation: 'Chanel International B.V.'
   isIDN: false
   punycode: null
 -
@@ -2072,6 +2078,12 @@
   domain: gives
   type: generic
   organisation: 'United TLD Holdco Ltd.'
+  isIDN: false
+  punycode: null
+-
+  domain: giving
+  type: generic
+  organisation: 'Giving Limited'
   isIDN: false
   punycode: null
 -
@@ -5321,6 +5333,12 @@
   isIDN: false
   punycode: null
 -
+  domain: vin
+  type: generic
+  organisation: 'Holly Shadow, LLC'
+  isIDN: false
+  punycode: null
+-
   domain: vision
   type: generic
   organisation: 'Koko Station, LLC'
@@ -5480,6 +5498,12 @@
   domain: windows
   type: generic
   organisation: 'Microsoft Corporation'
+  isIDN: false
+  punycode: null
+-
+  domain: wine
+  type: generic
+  organisation: 'June Station, LLC'
   isIDN: false
   punycode: null
 -
@@ -6223,7 +6247,7 @@
 -
   domain: հայ
   type: country-code
-  organisation: 'Internet Society'
+  organisation: '"Internet Society" Non-governmental Organization'
   isIDN: true
   punycode: null
 -
