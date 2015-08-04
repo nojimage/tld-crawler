@@ -721,6 +721,13 @@
         "punycode": null
     },
     {
+        "domain": "boots",
+        "type": "generic",
+        "organisation": "THE BOOTS COMPANY PLC",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "boutique",
         "type": "generic",
         "organisation": "Over Galley, LLC",
@@ -7319,6 +7326,13 @@
         "type": "generic",
         "organisation": "China Organizational Name Administration Center",
         "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "xperia",
+        "type": "generic",
+        "organisation": "Sony Mobile Communications AB",
+        "isIDN": false,
         "punycode": null
     },
     {
