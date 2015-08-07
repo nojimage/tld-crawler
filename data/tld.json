@@ -205,7 +205,7 @@
     {
         "domain": "an",
         "type": "country-code",
-        "organisation": "University of Curacao",
+        "organisation": "Retired",
         "isIDN": false,
         "punycode": null
     },
@@ -1046,6 +1046,13 @@
         "domain": "cd",
         "type": "country-code",
         "organisation": "Office Congolais des Postes et T\u00e9l\u00e9communications - OCPT",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
+        "domain": "ceb",
+        "type": "generic",
+        "organisation": "The Corporate Executive Board Company",
         "isIDN": false,
         "punycode": null
     },
