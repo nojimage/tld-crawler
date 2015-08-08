@@ -2058,6 +2058,13 @@
         "punycode": null
     },
     {
+        "domain": "family",
+        "type": "generic",
+        "organisation": "United TLD Holdco Ltd.",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "fan",
         "type": "generic",
         "organisation": "Asiamix Digital Ltd",
