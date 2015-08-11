@@ -4541,6 +4541,12 @@
   isIDN: false
   punycode: null
 -
+  domain: seek
+  type: generic
+  organisation: 'Seek Limited'
+  isIDN: false
+  punycode: null
+-
   domain: sener
   type: generic
   organisation: 'Sener Ingeniería y Sistemas, S.A.'
