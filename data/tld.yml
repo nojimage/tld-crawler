@@ -3413,6 +3413,12 @@
   isIDN: false
   punycode: null
 -
+  domain: mom
+  type: generic
+  organisation: 'Uniregistry, Corp.'
+  isIDN: false
+  punycode: null
+-
   domain: monash
   type: generic
   organisation: 'Monash University'
@@ -5834,6 +5840,12 @@
   domain: טעסט
   type: test
   organisation: 'Internet Assigned Numbers Authority'
+  isIDN: true
+  punycode: null
+-
+  domain: 新闻
+  type: generic
+  organisation: 'Xinhua News Agency Guangdong Branch 新华通讯社广东分社'
   isIDN: true
   punycode: null
 -
