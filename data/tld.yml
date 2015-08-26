@@ -1,6426 +1,6438 @@
 -
-  domain: abb
+  domain: "\n            \n            .abb"
   type: generic
   organisation: 'ABB Ltd'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: abbott
+  domain: "\n            \n            .abbott"
   type: generic
   organisation: 'Abbott Laboratories, Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: abogado
+  domain: "\n            \n            .abogado"
   type: generic
   organisation: 'Top Level Domain Holdings Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: ac
+  domain: "\n            \n            .ac"
   type: country-code
   organisation: "Network Information Center (AC Domain Registry)\nc/o Cable and Wireless (Ascension Island)"
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: academy
+  domain: "\n            \n            .academy"
   type: generic
   organisation: 'Half Oaks, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: accenture
+  domain: "\n            \n            .accenture"
   type: generic
   organisation: 'Accenture plc'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: accountant
+  domain: "\n            \n            .accountant"
   type: generic
   organisation: 'dot Accountant Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: accountants
+  domain: "\n            \n            .accountants"
   type: generic
   organisation: 'Knob Town, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: active
+  domain: "\n            \n            .aco"
+  type: generic
+  organisation: 'ACO Severin Ahlmann GmbH & Co. KG'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .active"
   type: generic
   organisation: 'The Active Network, Inc'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: actor
+  domain: "\n            \n            .actor"
   type: generic
   organisation: 'United TLD Holdco Ltd.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: ad
+  domain: "\n            \n            .ad"
   type: country-code
   organisation: 'Andorra Telecom'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: ads
+  domain: "\n            \n            .ads"
   type: generic
   organisation: 'Charleston Road Registry Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: adult
+  domain: "\n            \n            .adult"
   type: generic
   organisation: 'ICM Registry AD LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: ae
+  domain: "\n            \n            .ae"
   type: country-code
   organisation: 'Telecommunication Regulatory Authority (TRA)'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: aeg
+  domain: "\n            \n            .aeg"
   type: generic
   organisation: 'Aktiebolaget Electrolux'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: aero
+  domain: "\n            \n            .aero"
   type: sponsored
   organisation: 'Societe Internationale de Telecommunications Aeronautique (SITA INC USA)'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: af
+  domain: "\n            \n            .af"
   type: country-code
   organisation: 'Ministry of Communications and IT'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: afl
+  domain: "\n            \n            .afl"
   type: generic
   organisation: 'Australian Football League'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: ag
+  domain: "\n            \n            .ag"
   type: country-code
   organisation: 'UHSA School of Medicine'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: agency
+  domain: "\n            \n            .agency"
   type: generic
   organisation: 'Steel Falls, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: ai
+  domain: "\n            \n            .ai"
   type: country-code
   organisation: 'Government of Anguilla'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: aig
+  domain: "\n            \n            .aig"
   type: generic
   organisation: 'American International Group, Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: airforce
+  domain: "\n            \n            .airforce"
   type: generic
   organisation: 'United TLD Holdco Ltd.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: airtel
+  domain: "\n            \n            .airtel"
   type: generic
   organisation: 'Bharti Airtel Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: al
+  domain: "\n            \n            .al"
   type: country-code
   organisation: 'Electronic and Postal Communications Authority - AKEP'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: allfinanz
+  domain: "\n            \n            .allfinanz"
   type: generic
   organisation: 'Allfinanz Deutsche Vermögensberatung Aktiengesellschaft'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: alsace
+  domain: "\n            \n            .alsace"
   type: generic
   organisation: 'REGION D ALSACE'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: am
+  domain: "\n            \n            .am"
   type: country-code
   organisation: '"Internet Society" Non-governmental Organization'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: amsterdam
+  domain: "\n            \n            .amsterdam"
   type: generic
   organisation: 'Gemeente Amsterdam'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: an
+  domain: "\n            \n            .an"
   type: country-code
   organisation: Retired
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: android
+  domain: "\n            \n            .android"
   type: generic
   organisation: 'Charleston Road Registry Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: ao
+  domain: "\n            \n            .ao"
   type: country-code
   organisation: 'Faculdade de Engenharia da Universidade Agostinho Neto'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: apartments
+  domain: "\n            \n            .apartments"
   type: generic
   organisation: 'June Maple, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: app
+  domain: "\n            \n            .app"
   type: generic
   organisation: 'Charleston Road Registry Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: aq
+  domain: "\n            \n            .aq"
   type: country-code
   organisation: 'Antarctica Network Information Centre Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: aquarelle
+  domain: "\n            \n            .aquarelle"
   type: generic
   organisation: Aquarelle.com
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: ar
+  domain: "\n            \n            .ar"
   type: country-code
   organisation: 'Presidencia de la Nación – Secretaría Legal y Técnica'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: archi
+  domain: "\n            \n            .archi"
   type: generic
   organisation: 'STARTING DOT LIMITED'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: army
+  domain: "\n            \n            .army"
   type: generic
   organisation: 'United TLD Holdco Ltd.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: arpa
+  domain: "\n            \n            .arpa"
   type: infrastructure
   organisation: 'Internet Architecture Board (IAB)'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: as
+  domain: "\n            \n            .as"
   type: country-code
   organisation: 'AS Domain Registry'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: asia
+  domain: "\n            \n            .asia"
   type: sponsored
   organisation: 'DotAsia Organisation Ltd.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: associates
+  domain: "\n            \n            .associates"
   type: generic
   organisation: 'Baxter Hill, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: at
+  domain: "\n            \n            .at"
   type: country-code
   organisation: 'nic.at GmbH'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: attorney
+  domain: "\n            \n            .attorney"
   type: generic
   organisation: 'United TLD Holdco, Ltd'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: au
+  domain: "\n            \n            .au"
   type: country-code
   organisation: '.au Domain Administration (auDA)'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: auction
+  domain: "\n            \n            .auction"
   type: generic
   organisation: 'United TLD HoldCo, Ltd.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: audio
+  domain: "\n            \n            .audio"
   type: generic
   organisation: 'Uniregistry, Corp.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: auto
+  domain: "\n            \n            .auto"
   type: generic
   organisation: 'Uniregistry, Corp.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: autos
+  domain: "\n            \n            .autos"
   type: generic
   organisation: 'DERAutos, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: aw
+  domain: "\n            \n            .aw"
   type: country-code
   organisation: SETAR
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: ax
+  domain: "\n            \n            .ax"
   type: country-code
   organisation: 'Ålands landskapsregering'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: axa
+  domain: "\n            \n            .axa"
   type: generic
   organisation: 'AXA SA'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: az
+  domain: "\n            \n            .az"
   type: country-code
   organisation: IntraNS
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: azure
+  domain: "\n            \n            .azure"
   type: generic
   organisation: 'Microsoft Corporation'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: ba
+  domain: "\n            \n            .ba"
   type: country-code
   organisation: 'Universtiy Telinformatic Centre (UTIC)'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: band
+  domain: "\n            \n            .band"
   type: generic
   organisation: 'United TLD Holdco, Ltd'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: bank
+  domain: "\n            \n            .bank"
   type: generic
   organisation: 'fTLD Registry Services, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: bar
+  domain: "\n            \n            .bar"
   type: generic
   organisation: 'Punto 2012 Sociedad Anonima Promotora de Inversion de Capital Variable'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: barcelona
+  domain: "\n            \n            .barcelona"
   type: generic
   organisation: 'Municipi de Barcelona'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: barclaycard
+  domain: "\n            \n            .barclaycard"
   type: generic
   organisation: 'Barclays Bank PLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: barclays
+  domain: "\n            \n            .barclays"
   type: generic
   organisation: 'Barclays Bank PLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: bargains
+  domain: "\n            \n            .bargains"
   type: generic
   organisation: 'Half Hallow, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: bauhaus
+  domain: "\n            \n            .bauhaus"
   type: generic
   organisation: 'Werkhaus GmbH'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: bayern
+  domain: "\n            \n            .bayern"
   type: generic
   organisation: 'Bayern Connect GmbH'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: bb
+  domain: "\n            \n            .bb"
   type: country-code
   organisation: "Government of Barbados\nMinistry of Economic Affairs and Development\nTelecommunications Unit"
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: bbc
+  domain: "\n            \n            .bbc"
   type: generic
   organisation: 'British Broadcasting Corporation'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: bbva
+  domain: "\n            \n            .bbva"
   type: generic
   organisation: 'BANCO BILBAO VIZCAYA ARGENTARIA, S.A.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: bcn
+  domain: "\n            \n            .bcn"
   type: generic
   organisation: 'Municipi de Barcelona'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: bd
+  domain: "\n            \n            .bd"
   type: country-code
   organisation: "Ministry of Post & Telecommunications\nBangladesh Secretariat"
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: be
+  domain: "\n            \n            .be"
   type: country-code
   organisation: 'DNS Belgium vzw/asbl'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: beer
+  domain: "\n            \n            .beer"
   type: generic
   organisation: 'Top Level Domain Holdings Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: bentley
+  domain: "\n            \n            .bentley"
   type: generic
   organisation: 'Bentley Motors Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: berlin
+  domain: "\n            \n            .berlin"
   type: generic
   organisation: 'dotBERLIN GmbH & Co. KG'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: best
+  domain: "\n            \n            .best"
   type: generic
   organisation: 'BestTLD Pty Ltd'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: bet
+  domain: "\n            \n            .bet"
   type: generic
   organisation: 'Afilias plc'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: bf
+  domain: "\n            \n            .bf"
   type: country-code
   organisation: 'ARCE-AutoritÈ de RÈgulation des Communications Electroniques'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: bg
+  domain: "\n            \n            .bg"
   type: country-code
   organisation: Register.BG
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: bh
+  domain: "\n            \n            .bh"
   type: country-code
   organisation: 'Telecommunications Regulatory Authority (TRA)'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: bharti
+  domain: "\n            \n            .bharti"
   type: generic
   organisation: 'Bharti Enterprises (Holding) Private Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: bi
+  domain: "\n            \n            .bi"
   type: country-code
   organisation: 'Centre National de l''Informatique'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: bible
+  domain: "\n            \n            .bible"
   type: generic
   organisation: 'American Bible Society'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: bid
+  domain: "\n            \n            .bid"
   type: generic
   organisation: 'dot Bid Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: bike
+  domain: "\n            \n            .bike"
   type: generic
   organisation: 'Grand Hollow, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: bing
+  domain: "\n            \n            .bing"
   type: generic
   organisation: 'Microsoft Corporation'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: bingo
+  domain: "\n            \n            .bingo"
   type: generic
   organisation: 'Sand Cedar, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: bio
+  domain: "\n            \n            .bio"
   type: generic
   organisation: 'STARTING DOT LIMITED'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: biz
+  domain: "\n            \n            .biz"
   type: generic-restricted
   organisation: 'Neustar, Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: bj
+  domain: "\n            \n            .bj"
   type: country-code
   organisation: 'Benin Telecoms S.A.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: bl
+  domain: "\n            \n            .bl"
   type: country-code
   organisation: 'Not assigned'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: black
+  domain: "\n            \n            .black"
   type: generic
   organisation: 'Afilias Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: blackfriday
+  domain: "\n            \n            .blackfriday"
   type: generic
   organisation: 'Uniregistry, Corp.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: bloomberg
+  domain: "\n            \n            .bloomberg"
   type: generic
   organisation: 'Bloomberg IP Holdings LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: blue
+  domain: "\n            \n            .blue"
   type: generic
   organisation: 'Afilias Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: bm
+  domain: "\n            \n            .bm"
   type: country-code
   organisation: "Registry General\nMinistry of Labour and Immigration"
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: bmw
+  domain: "\n            \n            .bmw"
   type: generic
   organisation: 'Bayerische Motoren Werke Aktiengesellschaft'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: bn
+  domain: "\n            \n            .bn"
   type: country-code
   organisation: 'Brunei Darussalam Network Information Centre Sdn Bhd (BNNIC)'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: bnl
+  domain: "\n            \n            .bnl"
   type: generic
   organisation: 'Banca Nazionale del Lavoro'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: bnpparibas
+  domain: "\n            \n            .bnpparibas"
   type: generic
   organisation: 'BNP Paribas'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: bo
+  domain: "\n            \n            .bo"
   type: country-code
   organisation: 'Agencia para el Desarrollo de la Información de la Sociedad en Bolivia'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: boats
+  domain: "\n            \n            .boats"
   type: generic
   organisation: 'DERBoats, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: bond
+  domain: "\n            \n            .bond"
   type: generic
   organisation: 'Bond University Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: boo
+  domain: "\n            \n            .boo"
   type: generic
   organisation: 'Charleston Road Registry Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: boots
+  domain: "\n            \n            .boots"
   type: generic
   organisation: 'THE BOOTS COMPANY PLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: boutique
+  domain: "\n            \n            .boutique"
   type: generic
   organisation: 'Over Galley, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: bq
+  domain: "\n            \n            .bq"
   type: country-code
   organisation: 'Not assigned'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: br
+  domain: "\n            \n            .br"
   type: country-code
   organisation: 'Comite Gestor da Internet no Brasil'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: bradesco
+  domain: "\n            \n            .bradesco"
   type: generic
   organisation: 'Banco Bradesco S.A.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: bridgestone
+  domain: "\n            \n            .bridgestone"
   type: generic
   organisation: 'Bridgestone Corporation'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: broker
+  domain: "\n            \n            .broker"
   type: generic
   organisation: 'DOTBROKER REGISTRY LTD'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: brother
+  domain: "\n            \n            .brother"
   type: generic
   organisation: 'Brother Industries, Ltd.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: brussels
+  domain: "\n            \n            .brussels"
   type: generic
   organisation: 'DNS.be vzw'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: bs
+  domain: "\n            \n            .bs"
   type: country-code
   organisation: 'The College of the Bahamas'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: bt
+  domain: "\n            \n            .bt"
   type: country-code
   organisation: 'Ministry of Information and Communications'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: budapest
+  domain: "\n            \n            .budapest"
   type: generic
   organisation: 'Top Level Domain Holdings Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: build
+  domain: "\n            \n            .build"
   type: generic
   organisation: 'Plan Bee LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: builders
+  domain: "\n            \n            .builders"
   type: generic
   organisation: 'Atomic Madison, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: business
+  domain: "\n            \n            .business"
   type: generic
   organisation: 'Spring Cross, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: buzz
+  domain: "\n            \n            .buzz"
   type: generic
   organisation: 'DOTSTRATEGY CO.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: bv
+  domain: "\n            \n            .bv"
   type: country-code
   organisation: 'UNINETT Norid A/S'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: bw
+  domain: "\n            \n            .bw"
   type: country-code
   organisation: 'Botswana Communications Regulatory Authority (BOCRA)'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: by
+  domain: "\n            \n            .by"
   type: country-code
   organisation: 'Reliable Software Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: bz
+  domain: "\n            \n            .bz"
   type: country-code
   organisation: 'University of Belize'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: bzh
+  domain: "\n            \n            .bzh"
   type: generic
   organisation: 'Association www.bzh'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: ca
+  domain: "\n            \n            .ca"
   type: country-code
   organisation: "Canadian Internet Registration Authority (CIRA)\nAutorite Canadienne pour les Enregistrements Internet (ACEI)"
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: cab
+  domain: "\n            \n            .cab"
   type: generic
   organisation: 'Half Sunset, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: cafe
+  domain: "\n            \n            .cafe"
   type: generic
   organisation: 'Pioneer Canyon, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: cal
+  domain: "\n            \n            .cal"
   type: generic
   organisation: 'Charleston Road Registry Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: camera
+  domain: "\n            \n            .camera"
   type: generic
   organisation: 'Atomic Maple, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: camp
+  domain: "\n            \n            .camp"
   type: generic
   organisation: 'Delta Dynamite, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: cancerresearch
+  domain: "\n            \n            .cancerresearch"
   type: generic
   organisation: 'Australian Cancer Research Foundation'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: canon
+  domain: "\n            \n            .canon"
   type: generic
   organisation: 'Canon Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: capetown
+  domain: "\n            \n            .capetown"
   type: generic
   organisation: 'ZA Central Registry NPC trading as ZA Central Registry'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: capital
+  domain: "\n            \n            .capital"
   type: generic
   organisation: 'Delta Mill, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: caravan
+  domain: "\n            \n            .caravan"
   type: generic
   organisation: 'Caravan International, Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: cards
+  domain: "\n            \n            .cards"
   type: generic
   organisation: 'Foggy Hollow, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: care
+  domain: "\n            \n            .care"
   type: generic
   organisation: 'Goose Cross, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: career
+  domain: "\n            \n            .career"
   type: generic
   organisation: 'dotCareer LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: careers
+  domain: "\n            \n            .careers"
   type: generic
   organisation: 'Wild Corner, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: cars
+  domain: "\n            \n            .cars"
   type: generic
   organisation: 'Uniregistry, Corp.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: cartier
+  domain: "\n            \n            .cartier"
   type: generic
   organisation: 'Richemont DNS Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: casa
+  domain: "\n            \n            .casa"
   type: generic
   organisation: 'Top Level Domain Holdings Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: cash
+  domain: "\n            \n            .cash"
   type: generic
   organisation: 'Delta Lake, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: casino
+  domain: "\n            \n            .casino"
   type: generic
   organisation: 'Binky Sky, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: cat
+  domain: "\n            \n            .cat"
   type: sponsored
   organisation: 'Fundacio puntCAT'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: catering
+  domain: "\n            \n            .catering"
   type: generic
   organisation: 'New Falls. LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: cba
+  domain: "\n            \n            .cba"
   type: generic
   organisation: 'COMMONWEALTH BANK OF AUSTRALIA'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: cbn
+  domain: "\n            \n            .cbn"
   type: generic
   organisation: 'The Christian Broadcasting Network, Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: cc
+  domain: "\n            \n            .cc"
   type: country-code
   organisation: "eNIC Cocos (Keeling) Islands Pty.\nLtd. d/b/a Island Internet Services"
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: cd
+  domain: "\n            \n            .cd"
   type: country-code
   organisation: 'Office Congolais des Postes et Télécommunications - OCPT'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: ceb
+  domain: "\n            \n            .ceb"
   type: generic
   organisation: 'The Corporate Executive Board Company'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: center
+  domain: "\n            \n            .center"
   type: generic
   organisation: 'Tin Mill, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: ceo
+  domain: "\n            \n            .ceo"
   type: generic
   organisation: 'CEOTLD Pty Ltd'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: cern
+  domain: "\n            \n            .cern"
   type: generic
   organisation: 'European Organization for Nuclear Research ("CERN")'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: cf
+  domain: "\n            \n            .cf"
   type: country-code
   organisation: 'Societe Centrafricaine de Telecommunications (SOCATEL)'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: cfa
+  domain: "\n            \n            .cfa"
   type: generic
   organisation: 'CFA Institute'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: cfd
+  domain: "\n            \n            .cfd"
   type: generic
   organisation: 'DOTCFD REGISTRY LTD'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: cg
+  domain: "\n            \n            .cg"
   type: country-code
   organisation: 'ONPT Congo and Interpoint Switzerland'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: ch
+  domain: "\n            \n            .ch"
   type: country-code
   organisation: 'SWITCH The Swiss Education & Research Network'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: chanel
+  domain: "\n            \n            .chanel"
   type: generic
   organisation: 'Chanel International B.V.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: channel
+  domain: "\n            \n            .channel"
   type: generic
   organisation: 'Charleston Road Registry Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: chat
+  domain: "\n            \n            .chat"
   type: generic
   organisation: 'Sand Fields, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: cheap
+  domain: "\n            \n            .cheap"
   type: generic
   organisation: 'Sand Cover, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: chloe
+  domain: "\n            \n            .chloe"
   type: generic
   organisation: 'Richemont DNS Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: christmas
+  domain: "\n            \n            .christmas"
   type: generic
   organisation: 'Uniregistry, Corp.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: chrome
+  domain: "\n            \n            .chrome"
   type: generic
   organisation: 'Charleston Road Registry Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: church
+  domain: "\n            \n            .church"
   type: generic
   organisation: 'Holly Fileds, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: ci
+  domain: "\n            \n            .ci"
   type: country-code
   organisation: 'INP-HB Institut National Polytechnique Felix Houphouet Boigny'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: cisco
+  domain: "\n            \n            .cisco"
   type: generic
   organisation: 'Cisco Technology, Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: citic
+  domain: "\n            \n            .citic"
   type: generic
   organisation: 'CITIC Group Corporation'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: city
+  domain: "\n            \n            .city"
   type: generic
   organisation: 'Snow Sky, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: ck
+  domain: "\n            \n            .ck"
   type: country-code
   organisation: 'Telecom Cook Islands Ltd.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: cl
+  domain: "\n            \n            .cl"
   type: country-code
   organisation: 'NIC Chile (University of Chile)'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: claims
+  domain: "\n            \n            .claims"
   type: generic
   organisation: 'Black Corner, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: cleaning
+  domain: "\n            \n            .cleaning"
   type: generic
   organisation: 'Fox Shadow, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: click
+  domain: "\n            \n            .click"
   type: generic
   organisation: 'Uniregistry, Corp.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: clinic
+  domain: "\n            \n            .clinic"
   type: generic
   organisation: 'Goose Park, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: clothing
+  domain: "\n            \n            .clothing"
   type: generic
   organisation: 'Steel Lake, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: cloud
+  domain: "\n            \n            .cloud"
   type: generic
   organisation: 'ARUBA S.p.A.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: club
+  domain: "\n            \n            .club"
   type: generic
   organisation: '.CLUB DOMAINS, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: cm
+  domain: "\n            \n            .cm"
   type: country-code
   organisation: 'Cameroon Telecommunications (CAMTEL)'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: cn
+  domain: "\n            \n            .cn"
   type: country-code
   organisation: 'China Internet Network Information Center (CNNIC)'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: co
+  domain: "\n            \n            .co"
   type: country-code
   organisation: '.CO Internet S.A.S.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: coach
+  domain: "\n            \n            .coach"
   type: generic
   organisation: 'Koko Island, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: codes
+  domain: "\n            \n            .codes"
   type: generic
   organisation: 'Puff Willow, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: coffee
+  domain: "\n            \n            .coffee"
   type: generic
   organisation: 'Trixy Cover, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: college
+  domain: "\n            \n            .college"
   type: generic
   organisation: 'XYZ.COM LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: cologne
+  domain: "\n            \n            .cologne"
   type: generic
   organisation: 'NetCologne Gesellschaft für Telekommunikation mbH'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: com
+  domain: "\n            \n            .com"
   type: generic
   organisation: 'VeriSign Global Registry Services'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: commbank
+  domain: "\n            \n            .commbank"
   type: generic
   organisation: 'COMMONWEALTH BANK OF AUSTRALIA'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: community
+  domain: "\n            \n            .community"
   type: generic
   organisation: 'Fox Orchard, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: company
+  domain: "\n            \n            .company"
   type: generic
   organisation: 'Silver Avenue, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: computer
+  domain: "\n            \n            .computer"
   type: generic
   organisation: 'Pine Mill, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: condos
+  domain: "\n            \n            .condos"
   type: generic
   organisation: 'Pine House, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: construction
+  domain: "\n            \n            .construction"
   type: generic
   organisation: 'Fox Dynamite, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: consulting
+  domain: "\n            \n            .consulting"
   type: generic
   organisation: 'United TLD Holdco, LTD.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: contractors
+  domain: "\n            \n            .contractors"
   type: generic
   organisation: 'Magic Woods, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: cooking
+  domain: "\n            \n            .cooking"
   type: generic
   organisation: 'Top Level Domain Holdings Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: cool
+  domain: "\n            \n            .cool"
   type: generic
   organisation: 'Koko Lake, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: coop
+  domain: "\n            \n            .coop"
   type: sponsored
   organisation: 'DotCooperation LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: corsica
+  domain: "\n            \n            .corsica"
   type: generic
   organisation: 'Collectivité Territoriale de Corse'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: country
+  domain: "\n            \n            .country"
   type: generic
   organisation: 'Top Level Domain Holdings Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: coupons
+  domain: "\n            \n            .coupons"
   type: generic
   organisation: 'Black Island, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: courses
+  domain: "\n            \n            .courses"
   type: generic
   organisation: 'OPEN UNIVERSITIES AUSTRALIA PTY LTD'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: cr
+  domain: "\n            \n            .cr"
   type: country-code
   organisation: "National Academy of Sciences\nAcademia Nacional de Ciencias"
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: credit
+  domain: "\n            \n            .credit"
   type: generic
   organisation: 'Snow Shadow, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: creditcard
+  domain: "\n            \n            .creditcard"
   type: generic
   organisation: 'Binky Frostbite, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: cricket
+  domain: "\n            \n            .cricket"
   type: generic
   organisation: 'dot Cricket Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: crown
+  domain: "\n            \n            .crown"
   type: generic
   organisation: 'Crown Equipment Corporation'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: crs
+  domain: "\n            \n            .crs"
   type: generic
   organisation: 'Federated Co-operatives Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: cruises
+  domain: "\n            \n            .cruises"
   type: generic
   organisation: 'Spring Way, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: cu
+  domain: "\n            \n            .cu"
   type: country-code
   organisation: "CENIAInternet\nIndustria y San Jose\nCapitolio Nacional"
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: cuisinella
+  domain: "\n            \n            .cuisinella"
   type: generic
   organisation: 'SALM S.A.S.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: cv
+  domain: "\n            \n            .cv"
   type: country-code
   organisation: 'Agência Nacional das Comunicações (ANAC)'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: cw
+  domain: "\n            \n            .cw"
   type: country-code
   organisation: 'University of Curacao'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: cx
+  domain: "\n            \n            .cx"
   type: country-code
   organisation: 'Christmas Island Internet Administration Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: cy
+  domain: "\n            \n            .cy"
   type: country-code
   organisation: 'University of Cyprus'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: cymru
+  domain: "\n            \n            .cymru"
   type: generic
   organisation: 'Nominet UK'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: cyou
+  domain: "\n            \n            .cyou"
   type: generic
   organisation: 'Beijing Gamease Age Digital Technology Co., Ltd.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: cz
+  domain: "\n            \n            .cz"
   type: country-code
   organisation: 'CZ.NIC, z.s.p.o'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: dabur
+  domain: "\n            \n            .dabur"
   type: generic
   organisation: 'Dabur India Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: dad
+  domain: "\n            \n            .dad"
   type: generic
   organisation: 'Charleston Road Registry Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: dance
+  domain: "\n            \n            .dance"
   type: generic
   organisation: 'United TLD Holdco Ltd.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: date
+  domain: "\n            \n            .date"
   type: generic
   organisation: 'dot Date Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: dating
+  domain: "\n            \n            .dating"
   type: generic
   organisation: 'Pine Fest, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: datsun
+  domain: "\n            \n            .datsun"
   type: generic
   organisation: 'NISSAN MOTOR CO., LTD.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: day
+  domain: "\n            \n            .day"
   type: generic
   organisation: 'Charleston Road Registry Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: dclk
+  domain: "\n            \n            .dclk"
   type: generic
   organisation: 'Charleston Road Registry Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: de
+  domain: "\n            \n            .de"
   type: country-code
   organisation: 'DENIC eG'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: deals
+  domain: "\n            \n            .deals"
   type: generic
   organisation: 'Sand Sunset, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: degree
+  domain: "\n            \n            .degree"
   type: generic
   organisation: 'United TLD Holdco, Ltd'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: delivery
+  domain: "\n            \n            .delivery"
   type: generic
   organisation: 'Steel Station, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: delta
+  domain: "\n            \n            .delta"
   type: generic
   organisation: 'Delta Air Lines, Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: democrat
+  domain: "\n            \n            .democrat"
   type: generic
   organisation: 'United TLD Holdco Ltd.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: dental
+  domain: "\n            \n            .dental"
   type: generic
   organisation: 'Tin Birch, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: dentist
+  domain: "\n            \n            .dentist"
   type: generic
   organisation: 'United TLD Holdco, Ltd'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: desi
+  domain: "\n            \n            .desi"
   type: generic
   organisation: 'Desi Networks LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: design
+  domain: "\n            \n            .design"
   type: generic
   organisation: 'Top Level Design, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: dev
+  domain: "\n            \n            .dev"
   type: generic
   organisation: 'Charleston Road Registry Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: diamonds
+  domain: "\n            \n            .diamonds"
   type: generic
   organisation: 'John Edge, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: diet
+  domain: "\n            \n            .diet"
   type: generic
   organisation: 'Uniregistry, Corp.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: digital
+  domain: "\n            \n            .digital"
   type: generic
   organisation: 'Dash Park, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: direct
+  domain: "\n            \n            .direct"
   type: generic
   organisation: 'Half Trail, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: directory
+  domain: "\n            \n            .directory"
   type: generic
   organisation: 'Extra Madison, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: discount
+  domain: "\n            \n            .discount"
   type: generic
   organisation: 'Holly Hill, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: dj
+  domain: "\n            \n            .dj"
   type: country-code
   organisation: 'Djibouti Telecom S.A'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: dk
+  domain: "\n            \n            .dk"
   type: country-code
   organisation: 'Dansk Internet Forum'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: dm
+  domain: "\n            \n            .dm"
   type: country-code
   organisation: 'DotDM Corporation'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: dnp
+  domain: "\n            \n            .dnp"
   type: generic
   organisation: 'Dai Nippon Printing Co., Ltd.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: do
+  domain: "\n            \n            .do"
   type: country-code
   organisation: "Pontificia Universidad Catolica Madre y Maestra\nRecinto Santo Tomas de Aquino"
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: docs
+  domain: "\n            \n            .docs"
   type: generic
   organisation: 'Charleston Road Registry Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: dog
+  domain: "\n            \n            .dog"
   type: generic
   organisation: 'Koko Mill, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: doha
+  domain: "\n            \n            .doha"
   type: generic
   organisation: 'Communications Regulatory Authority (CRA)'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: domains
+  domain: "\n            \n            .domains"
   type: generic
   organisation: 'Sugar Cross, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: doosan
+  domain: "\n            \n            .doosan"
   type: generic
   organisation: 'Doosan Corporation'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: download
+  domain: "\n            \n            .download"
   type: generic
   organisation: 'dot Support Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: drive
+  domain: "\n            \n            .drive"
   type: generic
   organisation: 'Charleston Road Registry Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: durban
+  domain: "\n            \n            .durban"
   type: generic
   organisation: 'ZA Central Registry NPC trading as ZA Central Registry'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: dvag
+  domain: "\n            \n            .dvag"
   type: generic
   organisation: 'Deutsche Vermögensberatung Aktiengesellschaft DVAG'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: dz
+  domain: "\n            \n            .dz"
   type: country-code
   organisation: CERIST
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: earth
+  domain: "\n            \n            .earth"
   type: generic
   organisation: 'Interlink Co., Ltd.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: eat
+  domain: "\n            \n            .eat"
   type: generic
   organisation: 'Charleston Road Registry Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: ec
+  domain: "\n            \n            .ec"
   type: country-code
   organisation: 'NIC.EC (NICEC) S.A.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: edu
+  domain: "\n            \n            .edu"
   type: sponsored
   organisation: EDUCAUSE
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: education
+  domain: "\n            \n            .education"
   type: generic
   organisation: 'Brice Way, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: ee
+  domain: "\n            \n            .ee"
   type: country-code
   organisation: 'Eesti Interneti Sihtasutus (EIS)'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: eg
+  domain: "\n            \n            .eg"
   type: country-code
   organisation: "Egyptian Universities Network (EUN)\nSupreme Council of Universities"
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: eh
+  domain: "\n            \n            .eh"
   type: country-code
   organisation: 'Not assigned'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: email
+  domain: "\n            \n            .email"
   type: generic
   organisation: 'Spring Madison, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: emerck
+  domain: "\n            \n            .emerck"
   type: generic
   organisation: 'Merck KGaA'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: energy
+  domain: "\n            \n            .energy"
   type: generic
   organisation: 'Binky Birch, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: engineer
+  domain: "\n            \n            .engineer"
   type: generic
   organisation: 'United TLD Holdco Ltd.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: engineering
+  domain: "\n            \n            .engineering"
   type: generic
   organisation: 'Romeo Canyon'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: enterprises
+  domain: "\n            \n            .enterprises"
   type: generic
   organisation: 'Snow Oaks, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: epson
+  domain: "\n            \n            .epson"
   type: generic
   organisation: 'Seiko Epson Corporation'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: equipment
+  domain: "\n            \n            .equipment"
   type: generic
   organisation: 'Corn Station, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: er
+  domain: "\n            \n            .er"
   type: country-code
   organisation: 'Eritrea Telecommunication Services Corporation (EriTel)'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: erni
+  domain: "\n            \n            .erni"
   type: generic
   organisation: 'ERNI Group Holding AG'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: es
+  domain: "\n            \n            .es"
   type: country-code
   organisation: Red.es
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: esq
+  domain: "\n            \n            .esq"
   type: generic
   organisation: 'Charleston Road Registry Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: estate
+  domain: "\n            \n            .estate"
   type: generic
   organisation: 'Trixy Park, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: et
+  domain: "\n            \n            .et"
   type: country-code
   organisation: 'Ethio telecom'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: eu
+  domain: "\n            \n            .eu"
   type: country-code
   organisation: 'EURid vzw/asbl'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: eurovision
+  domain: "\n            \n            .eurovision"
   type: generic
   organisation: 'European Broadcasting Union (EBU)'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: eus
+  domain: "\n            \n            .eus"
   type: generic
   organisation: 'Puntueus Fundazioa'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: events
+  domain: "\n            \n            .events"
   type: generic
   organisation: 'Pioneer Maple, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: everbank
+  domain: "\n            \n            .everbank"
   type: generic
   organisation: EverBank
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: exchange
+  domain: "\n            \n            .exchange"
   type: generic
   organisation: 'Spring Falls, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: expert
+  domain: "\n            \n            .expert"
   type: generic
   organisation: 'Magic Pass, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: exposed
+  domain: "\n            \n            .exposed"
   type: generic
   organisation: 'Victor Beach, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: express
+  domain: "\n            \n            .express"
   type: generic
   organisation: 'Sea Sunset, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: fage
+  domain: "\n            \n            .fage"
   type: generic
   organisation: 'Fage International S.A.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: fail
+  domain: "\n            \n            .fail"
   type: generic
   organisation: 'Atomic Pipe, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: faith
+  domain: "\n            \n            .faith"
   type: generic
   organisation: 'dot Faith Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: family
+  domain: "\n            \n            .family"
   type: generic
   organisation: 'United TLD Holdco Ltd.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: fan
+  domain: "\n            \n            .fan"
   type: generic
   organisation: 'Asiamix Digital Ltd'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: fans
+  domain: "\n            \n            .fans"
   type: generic
   organisation: 'Asiamix Digital Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: farm
+  domain: "\n            \n            .farm"
   type: generic
   organisation: 'Just Maple, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: fashion
+  domain: "\n            \n            .fashion"
   type: generic
   organisation: 'Top Level Domain Holdings Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: feedback
+  domain: "\n            \n            .feedback"
   type: generic
   organisation: 'Top Level Spectrum, Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: fi
+  domain: "\n            \n            .fi"
   type: country-code
   organisation: 'Finnish Communications Regulatory Authority'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: film
+  domain: "\n            \n            .film"
   type: generic
   organisation: 'Motion Picture Domain Registry Pty Ltd'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: finance
+  domain: "\n            \n            .finance"
   type: generic
   organisation: 'Cotton Cypress, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: financial
+  domain: "\n            \n            .financial"
   type: generic
   organisation: 'Just Cover, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: firmdale
+  domain: "\n            \n            .firmdale"
   type: generic
   organisation: 'Firmdale Holdings Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: fish
+  domain: "\n            \n            .fish"
   type: generic
   organisation: 'Fox Woods, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: fishing
+  domain: "\n            \n            .fishing"
   type: generic
   organisation: 'Top Level Domain Holdings Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: fit
+  domain: "\n            \n            .fit"
   type: generic
   organisation: 'Minds + Machines Group Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: fitness
+  domain: "\n            \n            .fitness"
   type: generic
   organisation: 'Brice Orchard, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: fj
+  domain: "\n            \n            .fj"
   type: country-code
   organisation: "The University of the South Pacific\nIT Services"
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: fk
+  domain: "\n            \n            .fk"
   type: country-code
   organisation: 'Falkland Islands Government'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: flights
+  domain: "\n            \n            .flights"
   type: generic
   organisation: 'Fox Station, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: florist
+  domain: "\n            \n            .florist"
   type: generic
   organisation: 'Half Cypress, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: flowers
+  domain: "\n            \n            .flowers"
   type: generic
   organisation: 'Uniregistry, Corp.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: flsmidth
+  domain: "\n            \n            .flsmidth"
   type: generic
   organisation: 'FLSmidth A/S'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: fly
+  domain: "\n            \n            .fly"
   type: generic
   organisation: 'Charleston Road Registry Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: fm
+  domain: "\n            \n            .fm"
   type: country-code
   organisation: 'FSM Telecommunications Corporation'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: fo
+  domain: "\n            \n            .fo"
   type: country-code
   organisation: 'FO Council'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: foo
+  domain: "\n            \n            .foo"
   type: generic
   organisation: 'Charleston Road Registry Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: football
+  domain: "\n            \n            .football"
   type: generic
   organisation: 'Foggy Farms, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: forex
+  domain: "\n            \n            .forex"
   type: generic
   organisation: 'DOTFOREX REGISTRY LTD'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: forsale
+  domain: "\n            \n            .forsale"
   type: generic
   organisation: 'United TLD Holdco, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: forum
+  domain: "\n            \n            .forum"
   type: generic
   organisation: 'Fegistry, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: foundation
+  domain: "\n            \n            .foundation"
   type: generic
   organisation: 'John Dale, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: fr
+  domain: "\n            \n            .fr"
   type: country-code
   organisation: 'Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: frl
+  domain: "\n            \n            .frl"
   type: generic
   organisation: 'FRLregistry B.V.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: frogans
+  domain: "\n            \n            .frogans"
   type: generic
   organisation: OP3FT
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: fund
+  domain: "\n            \n            .fund"
   type: generic
   organisation: 'John Castle, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: furniture
+  domain: "\n            \n            .furniture"
   type: generic
   organisation: 'Lone Fields, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: futbol
+  domain: "\n            \n            .futbol"
   type: generic
   organisation: 'United TLD Holdco, Ltd.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: fyi
+  domain: "\n            \n            .fyi"
   type: generic
   organisation: 'Silver Tigers, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: ga
+  domain: "\n            \n            .ga"
   type: country-code
   organisation: 'Agence Nationale des Infrastructures Numériques et des Fréquences (ANINF)'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: gal
+  domain: "\n            \n            .gal"
   type: generic
   organisation: 'Asociación puntoGAL'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: gallery
+  domain: "\n            \n            .gallery"
   type: generic
   organisation: 'Sugar House, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: game
+  domain: "\n            \n            .game"
   type: generic
   organisation: 'Uniregistry, Corp.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: garden
+  domain: "\n            \n            .garden"
   type: generic
   organisation: 'Top Level Domain Holdings Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: gb
+  domain: "\n            \n            .gb"
   type: country-code
   organisation: 'Reserved Domain - IANA'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: gbiz
+  domain: "\n            \n            .gbiz"
   type: generic
   organisation: 'Charleston Road Registry Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: gd
+  domain: "\n            \n            .gd"
   type: country-code
   organisation: 'The National Telecommunications Regulatory Commission (NTRC)'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: gdn
+  domain: "\n            \n            .gdn"
   type: generic
   organisation: 'Joint Stock Company "Navigation-information systems"'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: ge
+  domain: "\n            \n            .ge"
   type: country-code
   organisation: 'Caucasus Online'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: gent
+  domain: "\n            \n            .gea"
+  type: generic
+  organisation: 'GEA Group Aktiengesellschaft'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .gent"
   type: generic
   organisation: 'COMBELL GROUP NV/SA'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: genting
+  domain: "\n            \n            .genting"
   type: generic
   organisation: 'Resorts World Inc. Pte. Ltd.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: gf
+  domain: "\n            \n            .gf"
   type: country-code
   organisation: 'Net Plus'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: gg
+  domain: "\n            \n            .gg"
   type: country-code
   organisation: 'Island Networks Ltd.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: ggee
+  domain: "\n            \n            .ggee"
   type: generic
   organisation: 'GMO Internet, Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: gh
+  domain: "\n            \n            .gh"
   type: country-code
   organisation: 'Network Computer Systems Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: gi
+  domain: "\n            \n            .gi"
   type: country-code
   organisation: 'Sapphire Networks'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: gift
+  domain: "\n            \n            .gift"
   type: generic
   organisation: 'Uniregistry, Corp.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: gifts
+  domain: "\n            \n            .gifts"
   type: generic
   organisation: 'Goose Sky, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: gives
+  domain: "\n            \n            .gives"
   type: generic
   organisation: 'United TLD Holdco Ltd.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: giving
+  domain: "\n            \n            .giving"
   type: generic
   organisation: 'Giving Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: gl
+  domain: "\n            \n            .gl"
   type: country-code
   organisation: 'TELE Greenland A/S'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: glass
+  domain: "\n            \n            .glass"
   type: generic
   organisation: 'Black Cover, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: gle
+  domain: "\n            \n            .gle"
   type: generic
   organisation: 'Charleston Road Registry Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: global
+  domain: "\n            \n            .global"
   type: generic
   organisation: 'Dot Global Domain Registry Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: globo
+  domain: "\n            \n            .globo"
   type: generic
   organisation: 'Globo Comunicação e Participações S.A'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: gm
+  domain: "\n            \n            .gm"
   type: country-code
   organisation: GM-NIC
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: gmail
+  domain: "\n            \n            .gmail"
   type: generic
   organisation: 'Charleston Road Registry Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: gmo
+  domain: "\n            \n            .gmo"
   type: generic
   organisation: 'GMO Internet, Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: gmx
+  domain: "\n            \n            .gmx"
   type: generic
   organisation: '1&1 Mail & Media GmbH'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: gn
+  domain: "\n            \n            .gn"
   type: country-code
   organisation: 'Centre National des Sciences Halieutiques de Boussoura'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: gold
+  domain: "\n            \n            .gold"
   type: generic
   organisation: 'June Edge, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: goldpoint
+  domain: "\n            \n            .goldpoint"
   type: generic
   organisation: 'YODOBASHI CAMERA CO.,LTD.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: golf
+  domain: "\n            \n            .golf"
   type: generic
   organisation: 'Lone Falls, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: goo
+  domain: "\n            \n            .goo"
   type: generic
   organisation: 'NTT Resonant Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: goog
+  domain: "\n            \n            .goog"
   type: generic
   organisation: 'Charleston Road Registry Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: google
+  domain: "\n            \n            .google"
   type: generic
   organisation: 'Charleston Road Registry Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: gop
+  domain: "\n            \n            .gop"
   type: generic
   organisation: 'Republican State Leadership Committee, Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: gov
+  domain: "\n            \n            .gov"
   type: sponsored
   organisation: "General Services Administration\nAttn: QTDC, 2E08 (.gov Domain Registration)"
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: gp
+  domain: "\n            \n            .gp"
   type: country-code
   organisation: 'Networking Technologies Group'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: gq
+  domain: "\n            \n            .gq"
   type: country-code
   organisation: GETESA
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: gr
+  domain: "\n            \n            .gr"
   type: country-code
   organisation: 'ICS-FORTH GR'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: graphics
+  domain: "\n            \n            .graphics"
   type: generic
   organisation: 'Over Madison, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: gratis
+  domain: "\n            \n            .gratis"
   type: generic
   organisation: 'Pioneer Tigers, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: green
+  domain: "\n            \n            .green"
   type: generic
   organisation: 'Afilias Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: gripe
+  domain: "\n            \n            .gripe"
   type: generic
   organisation: 'Corn Sunset, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: group
+  domain: "\n            \n            .group"
   type: generic
   organisation: 'Romeo Town, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: gs
+  domain: "\n            \n            .gs"
   type: country-code
   organisation: 'Government of South Georgia and South Sandwich Islands (GSGSSI)'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: gt
+  domain: "\n            \n            .gt"
   type: country-code
   organisation: 'Universidad del Valle de Guatemala'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: gu
+  domain: "\n            \n            .gu"
   type: country-code
   organisation: "University of Guam\nComputer Center"
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: guge
+  domain: "\n            \n            .guge"
   type: generic
   organisation: 'Charleston Road Registry Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: guide
+  domain: "\n            \n            .guide"
   type: generic
   organisation: 'Snow Moon, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: guitars
+  domain: "\n            \n            .guitars"
   type: generic
   organisation: 'Uniregistry, Corp.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: guru
+  domain: "\n            \n            .guru"
   type: generic
   organisation: 'Pioneer Cypress, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: gw
+  domain: "\n            \n            .gw"
   type: country-code
   organisation: 'Autoridade Reguladora Nacional - Tecnologias de Informação e Comunicação da Guiné-Bissau'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: gy
+  domain: "\n            \n            .gy"
   type: country-code
   organisation: 'University of Guyana'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: hamburg
+  domain: "\n            \n            .hamburg"
   type: generic
   organisation: 'Hamburg Top-Level-Domain GmbH'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: hangout
+  domain: "\n            \n            .hangout"
   type: generic
   organisation: 'Charleston Road Registry Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: haus
+  domain: "\n            \n            .haus"
   type: generic
   organisation: 'United TLD Holdco, LTD.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: healthcare
+  domain: "\n            \n            .healthcare"
   type: generic
   organisation: 'Silver Glen, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: help
+  domain: "\n            \n            .help"
   type: generic
   organisation: 'Uniregistry, Corp.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: here
+  domain: "\n            \n            .here"
   type: generic
   organisation: 'Charleston Road Registry Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: hermes
+  domain: "\n            \n            .hermes"
   type: generic
   organisation: 'Hermes International'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: hiphop
+  domain: "\n            \n            .hiphop"
   type: generic
   organisation: 'Uniregistry, Corp.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: hitachi
+  domain: "\n            \n            .hitachi"
   type: generic
   organisation: 'Hitachi, Ltd.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: hiv
+  domain: "\n            \n            .hiv"
   type: generic
   organisation: 'dotHIV gemeinnuetziger e.V.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: hk
+  domain: "\n            \n            .hk"
   type: country-code
   organisation: 'Hong Kong Internet Registration Corporation Ltd.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: hm
+  domain: "\n            \n            .hm"
   type: country-code
   organisation: 'HM Domain Registry'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: hn
+  domain: "\n            \n            .hn"
   type: country-code
   organisation: 'Red de Desarrollo Sostenible Honduras'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: hockey
+  domain: "\n            \n            .hockey"
   type: generic
   organisation: 'Half Willow, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: holdings
+  domain: "\n            \n            .holdings"
   type: generic
   organisation: 'John Madison, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: holiday
+  domain: "\n            \n            .holiday"
   type: generic
   organisation: 'Goose Woods, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: homedepot
+  domain: "\n            \n            .homedepot"
   type: generic
   organisation: 'Homer TLC, Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: homes
+  domain: "\n            \n            .homes"
   type: generic
   organisation: 'DERHomes, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: honda
+  domain: "\n            \n            .honda"
   type: generic
   organisation: 'Honda Motor Co., Ltd.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: horse
+  domain: "\n            \n            .horse"
   type: generic
   organisation: 'Top Level Domain Holdings Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: host
+  domain: "\n            \n            .host"
   type: generic
   organisation: 'DotHost Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: hosting
+  domain: "\n            \n            .hosting"
   type: generic
   organisation: 'Uniregistry, Corp.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: hoteles
+  domain: "\n            \n            .hoteles"
   type: generic
   organisation: 'Travel Reservations SRL'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: hotmail
+  domain: "\n            \n            .hotmail"
   type: generic
   organisation: 'Microsoft Corporation'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: house
+  domain: "\n            \n            .house"
   type: generic
   organisation: 'Sugar Park, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: how
+  domain: "\n            \n            .how"
   type: generic
   organisation: 'Charleston Road Registry Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: hr
+  domain: "\n            \n            .hr"
   type: country-code
   organisation: 'CARNet - Croatian Academic and Research Network'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: hsbc
+  domain: "\n            \n            .hsbc"
   type: generic
   organisation: 'HSBC Holdings PLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: ht
+  domain: "\n            \n            .ht"
   type: country-code
   organisation: 'Consortium FDS/RDDH'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: hu
+  domain: "\n            \n            .hu"
   type: country-code
   organisation: 'Council of Hungarian Internet Providers (CHIP)'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: ibm
+  domain: "\n            \n            .ibm"
   type: generic
   organisation: 'International Business Machines Corporation'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: icbc
+  domain: "\n            \n            .icbc"
   type: generic
   organisation: 'Industrial and Commercial Bank of China Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: ice
+  domain: "\n            \n            .ice"
   type: generic
   organisation: 'IntercontinentalExchange, Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: icu
+  domain: "\n            \n            .icu"
   type: generic
   organisation: 'One.com A/S'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: id
+  domain: "\n            \n            .id"
   type: country-code
   organisation: 'Perkumpulan Pengelola Nama Domain Internet Indonesia (PANDI)'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: ie
+  domain: "\n            \n            .ie"
   type: country-code
   organisation: "University College Dublin\nComputing Services\nComputer Centre"
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: ifm
+  domain: "\n            \n            .ifm"
   type: generic
   organisation: 'ifm electronic gmbh'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: iinet
+  domain: "\n            \n            .iinet"
   type: generic
   organisation: 'Connect West Pty. Ltd.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: il
+  domain: "\n            \n            .il"
   type: country-code
   organisation: 'Internet Society of Israel'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: im
+  domain: "\n            \n            .im"
   type: country-code
   organisation: 'Isle of Man Government'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: immo
+  domain: "\n            \n            .immo"
   type: generic
   organisation: 'Auburn Bloom, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: immobilien
+  domain: "\n            \n            .immobilien"
   type: generic
   organisation: 'United TLD Holdco Ltd.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: in
+  domain: "\n            \n            .in"
   type: country-code
   organisation: 'National Internet Exchange of India'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: industries
+  domain: "\n            \n            .industries"
   type: generic
   organisation: 'Outer House, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: infiniti
+  domain: "\n            \n            .infiniti"
   type: generic
   organisation: 'NISSAN MOTOR CO., LTD.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: info
+  domain: "\n            \n            .info"
   type: generic
   organisation: 'Afilias Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: ing
+  domain: "\n            \n            .ing"
   type: generic
   organisation: 'Charleston Road Registry Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: ink
+  domain: "\n            \n            .ink"
   type: generic
   organisation: 'Top Level Design, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: institute
+  domain: "\n            \n            .institute"
   type: generic
   organisation: 'Outer Maple, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: insure
+  domain: "\n            \n            .insure"
   type: generic
   organisation: 'Pioneer Willow, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: int
+  domain: "\n            \n            .int"
   type: sponsored
   organisation: 'Internet Assigned Numbers Authority'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: international
+  domain: "\n            \n            .international"
   type: generic
   organisation: 'Wild Way, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: investments
+  domain: "\n            \n            .investments"
   type: generic
   organisation: 'Holly Glen, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: io
+  domain: "\n            \n            .io"
   type: country-code
   organisation: "IO Top Level Domain Registry\nCable and Wireless"
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: ipiranga
+  domain: "\n            \n            .ipiranga"
   type: generic
   organisation: 'Ipiranga Produtos de Petroleo S.A.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: iq
+  domain: "\n            \n            .iq"
   type: country-code
   organisation: 'Communications and Media Commission (CMC)'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: ir
+  domain: "\n            \n            .ir"
   type: country-code
   organisation: 'Institute for Research in Fundamental Sciences'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: irish
+  domain: "\n            \n            .irish"
   type: generic
   organisation: 'Dot-Irish LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: is
+  domain: "\n            \n            .is"
   type: country-code
   organisation: 'ISNIC - Internet Iceland ltd.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: ist
+  domain: "\n            \n            .ist"
   type: generic
   organisation: 'Istanbul Metropolitan Municipality'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: istanbul
+  domain: "\n            \n            .istanbul"
   type: generic
   organisation: 'Istanbul Metropolitan Municipality / Medya A.S.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: it
+  domain: "\n            \n            .it"
   type: country-code
   organisation: 'IIT - CNR'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: itau
+  domain: "\n            \n            .itau"
   type: generic
   organisation: 'Itau Unibanco Holding S.A.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: iwc
+  domain: "\n            \n            .iwc"
   type: generic
   organisation: 'Richemont DNS Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: java
+  domain: "\n            \n            .java"
   type: generic
   organisation: 'Oracle Corporation'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: jcb
+  domain: "\n            \n            .jcb"
   type: generic
   organisation: 'JCB Co., Ltd.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: je
+  domain: "\n            \n            .je"
   type: country-code
   organisation: 'Island Networks (Jersey) Ltd.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: jetzt
+  domain: "\n            \n            .jetzt"
   type: generic
   organisation: 'New TLD Company AB'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: jewelry
+  domain: "\n            \n            .jewelry"
   type: generic
   organisation: 'Wild Bloom, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: jlc
+  domain: "\n            \n            .jlc"
   type: generic
   organisation: 'Richemont DNS Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: jll
+  domain: "\n            \n            .jll"
   type: generic
   organisation: 'Jones Lang LaSalle Incorporated'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: jm
+  domain: "\n            \n            .jm"
   type: country-code
   organisation: 'University of West Indies'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: jo
+  domain: "\n            \n            .jo"
   type: country-code
   organisation: 'National Information Technology Center (NITC)'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: jobs
+  domain: "\n            \n            .jobs"
   type: sponsored
   organisation: 'Employ Media LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: joburg
+  domain: "\n            \n            .joburg"
   type: generic
   organisation: 'ZA Central Registry NPC trading as ZA Central Registry'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: jp
+  domain: "\n            \n            .jp"
   type: country-code
   organisation: 'Japan Registry Services Co., Ltd.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: jprs
+  domain: "\n            \n            .jprs"
   type: generic
   organisation: 'Japan Registry Services Co., Ltd.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: juegos
+  domain: "\n            \n            .juegos"
   type: generic
   organisation: 'Uniregistry, Corp.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: kaufen
+  domain: "\n            \n            .kaufen"
   type: generic
   organisation: 'United TLD Holdco Ltd.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: kddi
+  domain: "\n            \n            .kddi"
   type: generic
   organisation: 'KDDI CORPORATION'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: ke
+  domain: "\n            \n            .ke"
   type: country-code
   organisation: 'Kenya Network Information Center (KeNIC)'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: kg
+  domain: "\n            \n            .kg"
   type: country-code
   organisation: 'AsiaInfo Telecommunication Enterprise'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: kh
+  domain: "\n            \n            .kh"
   type: country-code
   organisation: 'Telecommunication Regulator of Cambodia (TRC)'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: ki
+  domain: "\n            \n            .ki"
   type: country-code
   organisation: 'Ministry of Communications, Transport, and Tourism Development'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: kim
+  domain: "\n            \n            .kim"
   type: generic
   organisation: 'Afilias Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: kitchen
+  domain: "\n            \n            .kitchen"
   type: generic
   organisation: 'Just Goodbye, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: kiwi
+  domain: "\n            \n            .kiwi"
   type: generic
   organisation: 'DOT KIWI LIMITED'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: km
+  domain: "\n            \n            .km"
   type: country-code
   organisation: 'Comores Telecom'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: kn
+  domain: "\n            \n            .kn"
   type: country-code
   organisation: 'Ministry of Finance, Sustainable Development Information & Technology'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: koeln
+  domain: "\n            \n            .koeln"
   type: generic
   organisation: 'NetCologne Gesellschaft für Telekommunikation mbH'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: komatsu
+  domain: "\n            \n            .komatsu"
   type: generic
   organisation: 'Komatsu Ltd.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: kp
+  domain: "\n            \n            .kp"
   type: country-code
   organisation: 'Star Joint Venture Company'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: kr
+  domain: "\n            \n            .kr"
   type: country-code
   organisation: 'Korea Internet & Security Agency (KISA)'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: krd
+  domain: "\n            \n            .krd"
   type: generic
   organisation: 'KRG Department of Information Technology'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: kred
+  domain: "\n            \n            .kred"
   type: generic
   organisation: 'KredTLD Pty Ltd'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: kw
+  domain: "\n            \n            .kw"
   type: country-code
   organisation: 'Ministry of Communications'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: ky
+  domain: "\n            \n            .ky"
   type: country-code
   organisation: 'The Information and Communications Technology Authority'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: kyoto
+  domain: "\n            \n            .kyoto"
   type: generic
   organisation: 'Academic Institution: Kyoto Jyoho Gakuen'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: kz
+  domain: "\n            \n            .kz"
   type: country-code
   organisation: 'Association of IT Companies of Kazakhstan'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: la
+  domain: "\n            \n            .la"
   type: country-code
   organisation: 'Lao National Internet Committee (LANIC), Ministry of Posts and Telecommunications'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: lacaixa
+  domain: "\n            \n            .lacaixa"
   type: generic
   organisation: 'CAIXA D''ESTALVIS I PENSIONS DE BARCELONA'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: lancaster
+  domain: "\n            \n            .lancaster"
   type: generic
   organisation: LANCASTER
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: land
+  domain: "\n            \n            .land"
   type: generic
   organisation: 'Pine Moon, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: lasalle
+  domain: "\n            \n            .lasalle"
   type: generic
   organisation: 'Jones Lang LaSalle Incorporated'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: lat
+  domain: "\n            \n            .lat"
   type: generic
   organisation: 'ECOM-LAC Federación de Latinoamérica y el Caribe para Internet y el Comercio Electrónico'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: latrobe
+  domain: "\n            \n            .latrobe"
   type: generic
   organisation: 'La Trobe University'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: law
+  domain: "\n            \n            .law"
   type: generic
   organisation: 'Minds + Machines Group Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: lawyer
+  domain: "\n            \n            .lawyer"
   type: generic
   organisation: 'United TLD Holdco, Ltd'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: lb
+  domain: "\n            \n            .lb"
   type: country-code
   organisation: "American University of Beirut\nComputing and Networking Services"
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: lc
+  domain: "\n            \n            .lc"
   type: country-code
   organisation: 'University of Puerto Rico'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: lds
+  domain: "\n            \n            .lds"
   type: generic
   organisation: 'IRI Domain Management, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: lease
+  domain: "\n            \n            .lease"
   type: generic
   organisation: 'Victor Trail, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: leclerc
+  domain: "\n            \n            .leclerc"
   type: generic
   organisation: 'A.C.D. LEC Association des Centres Distributeurs Edouard Leclerc'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: legal
+  domain: "\n            \n            .legal"
   type: generic
   organisation: 'Blue Falls, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: lexus
+  domain: "\n            \n            .lexus"
   type: generic
   organisation: 'TOYOTA MOTOR CORPORATION'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: lgbt
+  domain: "\n            \n            .lgbt"
   type: generic
   organisation: 'Afilias Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: li
+  domain: "\n            \n            .li"
   type: country-code
   organisation: 'Universitaet Liechtenstein'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: liaison
+  domain: "\n            \n            .liaison"
   type: generic
   organisation: 'Liaison Technologies, Incorporated'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: lidl
+  domain: "\n            \n            .lidl"
   type: generic
   organisation: 'Schwarz Domains und Services GmbH & Co. KG'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: life
+  domain: "\n            \n            .life"
   type: generic
   organisation: 'Trixy Oaks, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: lighting
+  domain: "\n            \n            .lighting"
   type: generic
   organisation: 'John McCook, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: limited
+  domain: "\n            \n            .limited"
   type: generic
   organisation: 'Big Fest, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: limo
+  domain: "\n            \n            .limo"
   type: generic
   organisation: 'Hidden Frostbite, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: link
+  domain: "\n            \n            .link"
   type: generic
   organisation: 'Uniregistry, Corp.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: live
+  domain: "\n            \n            .live"
   type: generic
   organisation: 'United TLD Holdco Ltd.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: lixil
+  domain: "\n            \n            .lixil"
   type: generic
   organisation: 'LIXIL Group Corporation'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: lk
+  domain: "\n            \n            .lk"
   type: country-code
   organisation: "Council for Information Technology\nLK Domain Registrar"
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: loan
+  domain: "\n            \n            .loan"
   type: generic
   organisation: 'dot Loan Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: loans
+  domain: "\n            \n            .loans"
   type: generic
   organisation: 'June Woods, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: lol
+  domain: "\n            \n            .lol"
   type: generic
   organisation: 'Uniregistry, Corp.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: london
+  domain: "\n            \n            .london"
   type: generic
   organisation: 'Dot London Domains Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: lotte
+  domain: "\n            \n            .lotte"
   type: generic
   organisation: 'Lotte Holdings Co., Ltd.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: lotto
+  domain: "\n            \n            .lotto"
   type: generic
   organisation: 'Afilias Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: love
+  domain: "\n            \n            .love"
   type: generic
   organisation: 'Merchant Law Group LLP'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: lr
+  domain: "\n            \n            .lr"
   type: country-code
   organisation: 'Data Technology Solutions, Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: ls
+  domain: "\n            \n            .ls"
   type: country-code
   organisation: 'National University of Lesotho'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: lt
+  domain: "\n            \n            .lt"
   type: country-code
   organisation: 'Kaunas University of Technology'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: ltda
+  domain: "\n            \n            .ltda"
   type: generic
   organisation: 'InterNetX Corp.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: lu
+  domain: "\n            \n            .lu"
   type: country-code
   organisation: RESTENA
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: lupin
+  domain: "\n            \n            .lupin"
   type: generic
   organisation: 'LUPIN LIMITED'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: luxe
+  domain: "\n            \n            .luxe"
   type: generic
   organisation: 'Top Level Domain Holdings Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: luxury
+  domain: "\n            \n            .luxury"
   type: generic
   organisation: 'Luxury Partners LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: lv
+  domain: "\n            \n            .lv"
   type: country-code
   organisation: "University of Latvia\nInstitute of Mathematics and Computer Science\nDepartment of Network Solutions (DNS)"
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: ly
+  domain: "\n            \n            .ly"
   type: country-code
   organisation: 'General Post and Telecommunication Company'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: ma
+  domain: "\n            \n            .ma"
   type: country-code
   organisation: 'Agence Nationale de Réglementation des Télécommunications (ANRT)'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: madrid
+  domain: "\n            \n            .madrid"
   type: generic
   organisation: 'Comunidad de Madrid'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: maif
+  domain: "\n            \n            .maif"
   type: generic
   organisation: 'Mutuelle Assurance Instituteur France (MAIF)'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: maison
+  domain: "\n            \n            .maison"
   type: generic
   organisation: 'Victor Frostbite, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: man
+  domain: "\n            \n            .man"
   type: generic
   organisation: 'MAN SE'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: management
+  domain: "\n            \n            .management"
   type: generic
   organisation: 'John Goodbye, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: mango
+  domain: "\n            \n            .mango"
   type: generic
   organisation: 'PUNTO FA S.L.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: market
+  domain: "\n            \n            .market"
   type: generic
   organisation: 'Unitied TLD Holdco, Ltd'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: marketing
+  domain: "\n            \n            .marketing"
   type: generic
   organisation: 'Fern Pass, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: markets
+  domain: "\n            \n            .markets"
   type: generic
   organisation: 'DOTMARKETS REGISTRY LTD'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: marriott
+  domain: "\n            \n            .marriott"
   type: generic
   organisation: 'Marriott Worldwide Corporation'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: mba
+  domain: "\n            \n            .mba"
   type: generic
   organisation: 'Lone Hollow, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: mc
+  domain: "\n            \n            .mc"
   type: country-code
   organisation: "Gouvernement de Monaco\nDirection des Communications Electroniques"
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: md
+  domain: "\n            \n            .md"
   type: country-code
   organisation: 'MoldData S.E.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: me
+  domain: "\n            \n            .me"
   type: country-code
   organisation: 'Government of Montenegro'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: media
+  domain: "\n            \n            .media"
   type: generic
   organisation: 'Grand Glen, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: meet
+  domain: "\n            \n            .meet"
   type: generic
   organisation: 'Afilias Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: melbourne
+  domain: "\n            \n            .melbourne"
   type: generic
   organisation: 'The Crown in right of the State of Victoria, represented by its Department of State Development, Business and Innovation'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: meme
+  domain: "\n            \n            .meme"
   type: generic
   organisation: 'Charleston Road Registry Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: memorial
+  domain: "\n            \n            .memorial"
   type: generic
   organisation: 'Dog Beach, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: men
+  domain: "\n            \n            .men"
   type: generic
   organisation: 'Exclusive Registry Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: menu
+  domain: "\n            \n            .menu"
   type: generic
   organisation: 'Wedding TLD2, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: mf
+  domain: "\n            \n            .mf"
   type: country-code
   organisation: 'Not assigned'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: mg
+  domain: "\n            \n            .mg"
   type: country-code
   organisation: 'NIC-MG (Network Information Center Madagascar)'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: mh
+  domain: "\n            \n            .mh"
   type: country-code
   organisation: 'Office of the Cabinet'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: miami
+  domain: "\n            \n            .miami"
   type: generic
   organisation: 'Top Level Domain Holdings Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: microsoft
+  domain: "\n            \n            .microsoft"
   type: generic
   organisation: 'Microsoft Corporation'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: mil
+  domain: "\n            \n            .mil"
   type: sponsored
   organisation: 'DoD Network Information Center'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: mini
+  domain: "\n            \n            .mini"
   type: generic
   organisation: 'Bayerische Motoren Werke Aktiengesellschaft'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: mk
+  domain: "\n            \n            .mk"
   type: country-code
   organisation: 'Macedonian Academic Research Network Skopje'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: ml
+  domain: "\n            \n            .ml"
   type: country-code
   organisation: 'Agence des Technologies de l’Information et de la Communication'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: mm
+  domain: "\n            \n            .mm"
   type: country-code
   organisation: 'Ministry of Communications, Posts & Telegraphs'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: mma
+  domain: "\n            \n            .mma"
   type: generic
   organisation: 'MMA IARD'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: mn
+  domain: "\n            \n            .mn"
   type: country-code
   organisation: 'Datacom Co., Ltd.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: mo
+  domain: "\n            \n            .mo"
   type: country-code
   organisation: 'Bureau of Telecommunications Regulation (DSRT)'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: mobi
+  domain: "\n            \n            .mobi"
   type: sponsored
   organisation: 'Afilias Technologies Limited dba dotMobi'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: moda
+  domain: "\n            \n            .moda"
   type: generic
   organisation: 'United TLD Holdco Ltd.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: moe
+  domain: "\n            \n            .moe"
   type: generic
   organisation: 'Interlink Co., Ltd.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: mom
+  domain: "\n            \n            .mom"
   type: generic
   organisation: 'Uniregistry, Corp.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: monash
+  domain: "\n            \n            .monash"
   type: generic
   organisation: 'Monash University'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: money
+  domain: "\n            \n            .money"
   type: generic
   organisation: 'Outer McCook, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: montblanc
+  domain: "\n            \n            .montblanc"
   type: generic
   organisation: 'Richemont DNS Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: mormon
+  domain: "\n            \n            .mormon"
   type: generic
   organisation: 'IRI Domain Management, LLC ("Applicant")'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: mortgage
+  domain: "\n            \n            .mortgage"
   type: generic
   organisation: 'United TLD Holdco, Ltd'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: moscow
+  domain: "\n            \n            .moscow"
   type: generic
   organisation: 'Foundation for Assistance for Internet Technologies and Infrastructure Development (FAITID)'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: motorcycles
+  domain: "\n            \n            .motorcycles"
   type: generic
   organisation: 'DERMotorcycles, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: mov
+  domain: "\n            \n            .mov"
   type: generic
   organisation: 'Charleston Road Registry Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: movie
+  domain: "\n            \n            .movie"
   type: generic
   organisation: 'New Frostbite, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: movistar
+  domain: "\n            \n            .movistar"
   type: generic
   organisation: 'Telefónica S.A.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: mp
+  domain: "\n            \n            .mp"
   type: country-code
   organisation: 'Saipan Datacom, Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: mq
+  domain: "\n            \n            .mq"
   type: country-code
   organisation: MEDIASERV
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: mr
+  domain: "\n            \n            .mr"
   type: country-code
   organisation: 'Université des Sciences, de Technologie et de Médecine'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: ms
+  domain: "\n            \n            .ms"
   type: country-code
   organisation: 'MNI Networks Ltd.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: mt
+  domain: "\n            \n            .mt"
   type: country-code
   organisation: 'NIC (Malta)'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: mtn
+  domain: "\n            \n            .mtn"
   type: generic
   organisation: 'MTN Dubai Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: mtpc
+  domain: "\n            \n            .mtpc"
   type: generic
   organisation: 'Mitsubishi Tanabe Pharma Corporation'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: mu
+  domain: "\n            \n            .mu"
   type: country-code
   organisation: 'Internet Direct Ltd'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: museum
+  domain: "\n            \n            .museum"
   type: sponsored
   organisation: 'Museum Domain Management Association'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: mv
+  domain: "\n            \n            .mv"
   type: country-code
   organisation: 'Dhiraagu Pvt. Ltd. (DHIVEHINET)'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: mw
+  domain: "\n            \n            .mw"
   type: country-code
   organisation: "Malawi Sustainable Development Network Programme\n(Malawi SDNP)"
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: mx
+  domain: "\n            \n            .mx"
   type: country-code
   organisation: "NIC-Mexico\nITESM - Campus Monterrey"
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: my
+  domain: "\n            \n            .my"
   type: country-code
   organisation: 'MYNIC Berhad'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: mz
+  domain: "\n            \n            .mz"
   type: country-code
   organisation: 'Centro de Informatica de Universidade Eduardo Mondlane'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: na
+  domain: "\n            \n            .na"
   type: country-code
   organisation: 'Namibian Network Information Center'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: nadex
+  domain: "\n            \n            .nadex"
   type: generic
   organisation: 'Nadex Domains, Inc'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: nagoya
+  domain: "\n            \n            .nagoya"
   type: generic
   organisation: 'GMO Registry, Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: name
+  domain: "\n            \n            .name"
   type: generic-restricted
   organisation: 'VeriSign Information Services, Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: navy
+  domain: "\n            \n            .navy"
   type: generic
   organisation: 'United TLD Holdco Ltd.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: nc
+  domain: "\n            \n            .nc"
   type: country-code
   organisation: 'Office des Postes et Telecommunications'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: ne
+  domain: "\n            \n            .ne"
   type: country-code
   organisation: SONITEL
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: nec
+  domain: "\n            \n            .nec"
   type: generic
   organisation: 'NEC Corporation'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: net
+  domain: "\n            \n            .net"
   type: generic
   organisation: 'VeriSign Global Registry Services'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: netbank
+  domain: "\n            \n            .netbank"
   type: generic
   organisation: 'COMMONWEALTH BANK OF AUSTRALIA'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: network
+  domain: "\n            \n            .network"
   type: generic
   organisation: 'Trixy Manor, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: neustar
+  domain: "\n            \n            .neustar"
   type: generic
   organisation: 'NeuStar, Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: new
+  domain: "\n            \n            .new"
   type: generic
   organisation: 'Charleston Road Registry Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: news
+  domain: "\n            \n            .news"
   type: generic
   organisation: 'United TLD Holdco Ltd.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: nexus
+  domain: "\n            \n            .nexus"
   type: generic
   organisation: 'Charleston Road Registry Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: nf
+  domain: "\n            \n            .nf"
   type: country-code
   organisation: 'Norfolk Island Data Services'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: ng
+  domain: "\n            \n            .ng"
   type: country-code
   organisation: 'Nigeria Internet Registration Association'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: ngo
+  domain: "\n            \n            .ngo"
   type: generic
   organisation: 'Public Interest Registry'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: nhk
+  domain: "\n            \n            .nhk"
   type: generic
   organisation: 'Japan Broadcasting Corporation (NHK)'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: ni
+  domain: "\n            \n            .ni"
   type: country-code
   organisation: "Universidad Nacional del Ingernieria\nCentro de Computo"
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: nico
+  domain: "\n            \n            .nico"
   type: generic
   organisation: 'DWANGO Co., Ltd.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: ninja
+  domain: "\n            \n            .ninja"
   type: generic
   organisation: 'United TLD Holdco Ltd.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: nissan
+  domain: "\n            \n            .nissan"
   type: generic
   organisation: 'NISSAN MOTOR CO., LTD.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: nl
+  domain: "\n            \n            .nl"
   type: country-code
   organisation: 'SIDN (Stichting Internet  Domeinregistratie Nederland)'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: no
+  domain: "\n            \n            .no"
   type: country-code
   organisation: 'UNINETT Norid A/S'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: nokia
+  domain: "\n            \n            .nokia"
   type: generic
   organisation: 'Nokia Corporation'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: np
+  domain: "\n            \n            .np"
   type: country-code
   organisation: 'Mercantile Communications Pvt. Ltd.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: nr
+  domain: "\n            \n            .nr"
   type: country-code
   organisation: 'CENPAC NET'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: nra
+  domain: "\n            \n            .nra"
   type: generic
   organisation: 'NRA Holdings Company, INC.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: nrw
+  domain: "\n            \n            .nrw"
   type: generic
   organisation: 'Minds + Machines GmbH'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: ntt
+  domain: "\n            \n            .ntt"
   type: generic
   organisation: 'NIPPON TELEGRAPH AND TELEPHONE CORPORATION'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: nu
+  domain: "\n            \n            .nu"
   type: country-code
   organisation: 'The IUSN Foundation'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: nyc
+  domain: "\n            \n            .nyc"
   type: generic
   organisation: 'The City of New York by and through the New York City Department of Information Technology & Telecommunications'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: nz
+  domain: "\n            \n            .nz"
   type: country-code
   organisation: InternetNZ
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: office
+  domain: "\n            \n            .office"
   type: generic
   organisation: 'Microsoft Corporation'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: okinawa
+  domain: "\n            \n            .okinawa"
   type: generic
   organisation: 'BusinessRalliart inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: om
+  domain: "\n            \n            .om"
   type: country-code
   organisation: 'Telecommunications Regulatory Authority (TRA)'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: omega
+  domain: "\n            \n            .omega"
   type: generic
   organisation: 'The Swatch Group Ltd'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: one
+  domain: "\n            \n            .one"
   type: generic
   organisation: 'One.com A/S'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: ong
+  domain: "\n            \n            .ong"
   type: generic
   organisation: 'Public Interest Registry'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: onl
+  domain: "\n            \n            .onl"
   type: generic
   organisation: 'I-REGISTRY Ltd., Niederlassung Deutschland'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: online
+  domain: "\n            \n            .online"
   type: generic
   organisation: 'DotOnline Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: ooo
+  domain: "\n            \n            .ooo"
   type: generic
   organisation: 'INFIBEAM INCORPORATION LIMITED'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: oracle
+  domain: "\n            \n            .oracle"
   type: generic
   organisation: 'Oracle Corporation'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: orange
+  domain: "\n            \n            .orange"
   type: generic
   organisation: 'Orange Brand Services Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: org
+  domain: "\n            \n            .org"
   type: generic
   organisation: 'Public Interest Registry (PIR)'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: organic
+  domain: "\n            \n            .organic"
   type: generic
   organisation: 'Afilias Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: osaka
+  domain: "\n            \n            .osaka"
   type: generic
   organisation: 'Interlink Co., Ltd.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: otsuka
+  domain: "\n            \n            .otsuka"
   type: generic
   organisation: 'Otsuka Holdings Co., Ltd.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: ovh
+  domain: "\n            \n            .ovh"
   type: generic
   organisation: 'OVH SAS'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: pa
+  domain: "\n            \n            .pa"
   type: country-code
   organisation: 'Universidad Tecnologica de Panama'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: page
+  domain: "\n            \n            .page"
   type: generic
   organisation: 'Charleston Road Registry Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: panerai
+  domain: "\n            \n            .panerai"
   type: generic
   organisation: 'Richemont DNS Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: paris
+  domain: "\n            \n            .paris"
   type: generic
   organisation: 'City of Paris'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: partners
+  domain: "\n            \n            .partners"
   type: generic
   organisation: 'Magic Glen, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: parts
+  domain: "\n            \n            .parts"
   type: generic
   organisation: 'Sea Goodbye, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: party
+  domain: "\n            \n            .party"
   type: generic
   organisation: 'Blue Sky Registry Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: pe
+  domain: "\n            \n            .pe"
   type: country-code
   organisation: 'Red Cientifica Peruana'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: pet
+  domain: "\n            \n            .pet"
   type: generic
   organisation: 'Afilias plc'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: pf
+  domain: "\n            \n            .pf"
   type: country-code
   organisation: 'Gouvernement de la Polynésie française'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: pg
+  domain: "\n            \n            .pg"
   type: country-code
   organisation: "PNG DNS Administration\nVice Chancellors Office\nThe Papua New Guinea University of Technology"
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: ph
+  domain: "\n            \n            .ph"
   type: country-code
   organisation: 'PH Domain Foundation'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: pharmacy
+  domain: "\n            \n            .pharmacy"
   type: generic
   organisation: 'National Association of Boards of Pharmacy'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: philips
+  domain: "\n            \n            .philips"
   type: generic
   organisation: 'Koninklijke Philips N.V.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: photo
+  domain: "\n            \n            .photo"
   type: generic
   organisation: 'Uniregistry, Corp.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: photography
+  domain: "\n            \n            .photography"
   type: generic
   organisation: 'Sugar Glen, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: photos
+  domain: "\n            \n            .photos"
   type: generic
   organisation: 'Sea Corner, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: physio
+  domain: "\n            \n            .physio"
   type: generic
   organisation: 'PhysBiz Pty Ltd'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: piaget
+  domain: "\n            \n            .piaget"
   type: generic
   organisation: 'Richemont DNS Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: pics
+  domain: "\n            \n            .pics"
   type: generic
   organisation: 'Uniregistry, Corp.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: pictet
+  domain: "\n            \n            .pictet"
   type: generic
   organisation: 'Pictet Europe S.A.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: pictures
+  domain: "\n            \n            .pictures"
   type: generic
   organisation: 'Foggy Sky, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: pink
+  domain: "\n            \n            .pink"
   type: generic
   organisation: 'Afilias Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: pizza
+  domain: "\n            \n            .pizza"
   type: generic
   organisation: 'Foggy Moon, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: pk
+  domain: "\n            \n            .pk"
   type: country-code
   organisation: PKNIC
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: pl
+  domain: "\n            \n            .pl"
   type: country-code
   organisation: 'Research and Academic Computer Network'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: place
+  domain: "\n            \n            .place"
   type: generic
   organisation: 'Snow Galley, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: play
+  domain: "\n            \n            .play"
   type: generic
   organisation: 'Charleston Road Registry Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: plumbing
+  domain: "\n            \n            .plumbing"
   type: generic
   organisation: 'Spring Tigers, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: plus
+  domain: "\n            \n            .plus"
   type: generic
   organisation: 'Sugar Mill, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: pm
+  domain: "\n            \n            .pm"
   type: country-code
   organisation: 'Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: pn
+  domain: "\n            \n            .pn"
   type: country-code
   organisation: 'Pitcairn Island Administration'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: pohl
+  domain: "\n            \n            .pohl"
   type: generic
   organisation: 'Deutsche Vermögensberatung Aktiengesellschaft DVAG'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: poker
+  domain: "\n            \n            .poker"
   type: generic
   organisation: 'Afilias Domains No. 5 Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: porn
+  domain: "\n            \n            .porn"
   type: generic
   organisation: 'ICM Registry PN LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: post
+  domain: "\n            \n            .post"
   type: sponsored
   organisation: 'Universal Postal Union'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: pr
+  domain: "\n            \n            .pr"
   type: country-code
   organisation: 'Gauss Research Laboratory Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: praxi
+  domain: "\n            \n            .praxi"
   type: generic
   organisation: 'Praxi S.p.A.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: press
+  domain: "\n            \n            .press"
   type: generic
   organisation: 'DotPress Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: pro
+  domain: "\n            \n            .pro"
   type: generic-restricted
   organisation: "Registry Services Corporation\ndba RegistryPro"
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: prod
+  domain: "\n            \n            .prod"
   type: generic
   organisation: 'Charleston Road Registry Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: productions
+  domain: "\n            \n            .productions"
   type: generic
   organisation: 'Magic Birch, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: prof
+  domain: "\n            \n            .prof"
   type: generic
   organisation: 'Charleston Road Registry Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: properties
+  domain: "\n            \n            .properties"
   type: generic
   organisation: 'Big Pass, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: property
+  domain: "\n            \n            .property"
   type: generic
   organisation: 'Uniregistry, Corp.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: ps
+  domain: "\n            \n            .ps"
   type: country-code
   organisation: "Ministry Of Telecommunications &\nInformation Technology,\nGovernment Computer Center."
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: pt
+  domain: "\n            \n            .pt"
   type: country-code
   organisation: 'Associação DNS.PT'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: pub
+  domain: "\n            \n            .pub"
   type: generic
   organisation: 'United TLD Holdco Ltd.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: pw
+  domain: "\n            \n            .pw"
   type: country-code
   organisation: 'Micronesia Investment and Development Corporation'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: py
+  domain: "\n            \n            .py"
   type: country-code
   organisation: NIC-PY
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: qa
+  domain: "\n            \n            .qa"
   type: country-code
   organisation: 'Communications Regulatory Authority'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: qpon
+  domain: "\n            \n            .qpon"
   type: generic
   organisation: 'dotCOOL, Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: quebec
+  domain: "\n            \n            .quebec"
   type: generic
   organisation: 'PointQuébec Inc'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: racing
+  domain: "\n            \n            .racing"
   type: generic
   organisation: 'Premier Registry Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: re
+  domain: "\n            \n            .re"
   type: country-code
   organisation: 'Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: realtor
+  domain: "\n            \n            .realtor"
   type: generic
   organisation: 'Real Estate Domains LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: realty
+  domain: "\n            \n            .realty"
   type: generic
   organisation: 'Fegistry, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: recipes
+  domain: "\n            \n            .recipes"
   type: generic
   organisation: 'Grand Island, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: red
+  domain: "\n            \n            .red"
   type: generic
   organisation: 'Afilias Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: redstone
+  domain: "\n            \n            .redstone"
   type: generic
   organisation: 'Redstone Haute Couture Co., Ltd.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: rehab
+  domain: "\n            \n            .rehab"
   type: generic
   organisation: 'United TLD Holdco Ltd.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: reise
+  domain: "\n            \n            .reise"
   type: generic
   organisation: 'Foggy Way, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: reisen
+  domain: "\n            \n            .reisen"
   type: generic
   organisation: 'New Cypress, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: reit
+  domain: "\n            \n            .reit"
   type: generic
   organisation: 'National Association of Real Estate Investment Trusts, Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: ren
+  domain: "\n            \n            .ren"
   type: generic
   organisation: 'Beijing Qianxiang Wangjing Technology Development Co., Ltd.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: rent
+  domain: "\n            \n            .rent"
   type: generic
   organisation: 'XYZ.COM LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: rentals
+  domain: "\n            \n            .rentals"
   type: generic
   organisation: 'Big Hollow,LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: repair
+  domain: "\n            \n            .repair"
   type: generic
   organisation: 'Lone Sunset, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: report
+  domain: "\n            \n            .report"
   type: generic
   organisation: 'Binky Glen, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: republican
+  domain: "\n            \n            .republican"
   type: generic
   organisation: 'United TLD Holdco Ltd.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: rest
+  domain: "\n            \n            .rest"
   type: generic
   organisation: 'Punto 2012 Sociedad Anonima Promotora de Inversion de Capital Variable'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: restaurant
+  domain: "\n            \n            .restaurant"
   type: generic
   organisation: 'Snow Avenue, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: review
+  domain: "\n            \n            .review"
   type: generic
   organisation: 'dot Review Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: reviews
+  domain: "\n            \n            .reviews"
   type: generic
   organisation: 'United TLD Holdco, Ltd.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: rich
+  domain: "\n            \n            .rich"
   type: generic
   organisation: 'I-REGISTRY Ltd., Niederlassung Deutschland'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: ricoh
+  domain: "\n            \n            .ricoh"
   type: generic
   organisation: 'Ricoh Company, Ltd.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: rio
+  domain: "\n            \n            .rio"
   type: generic
   organisation: 'Empresa Municipal de Informática SA - IPLANRIO'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: rip
+  domain: "\n            \n            .rip"
   type: generic
   organisation: 'United TLD Holdco Ltd.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: ro
+  domain: "\n            \n            .ro"
   type: country-code
   organisation: 'National Institute for R&D in Informatics'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: rocks
+  domain: "\n            \n            .rocks"
   type: generic
   organisation: 'United TLD Holdco, LTD.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: rodeo
+  domain: "\n            \n            .rodeo"
   type: generic
   organisation: 'Top Level Domain Holdings Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: rs
+  domain: "\n            \n            .rs"
   type: country-code
   organisation: 'Serbian National Internet Domain Registry (RNIDS)'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: rsvp
+  domain: "\n            \n            .rsvp"
   type: generic
   organisation: 'Charleston Road Registry Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: ru
+  domain: "\n            \n            .ru"
   type: country-code
   organisation: 'Coordination Center for TLD RU'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: ruhr
+  domain: "\n            \n            .ruhr"
   type: generic
   organisation: 'regiodot GmbH & Co. KG'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: run
+  domain: "\n            \n            .run"
   type: generic
   organisation: 'Snow Park, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: rw
+  domain: "\n            \n            .rw"
   type: country-code
   organisation: 'Rwanda Information Communication and Technology Association (RICTA)'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: ryukyu
+  domain: "\n            \n            .ryukyu"
   type: generic
   organisation: 'BusinessRalliart inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: sa
+  domain: "\n            \n            .sa"
   type: country-code
   organisation: 'Communications and Information Technology Commission'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: saarland
+  domain: "\n            \n            .saarland"
   type: generic
   organisation: 'dotSaarland GmbH'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: sakura
+  domain: "\n            \n            .sakura"
   type: generic
   organisation: 'SAKURA Internet Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: sale
+  domain: "\n            \n            .sale"
   type: generic
   organisation: 'United TLD Holdco, Ltd'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: samsung
+  domain: "\n            \n            .samsung"
   type: generic
   organisation: 'SAMSUNG SDS CO., LTD'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: sandvik
+  domain: "\n            \n            .sandvik"
   type: generic
   organisation: 'Sandvik AB'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: sandvikcoromant
+  domain: "\n            \n            .sandvikcoromant"
   type: generic
   organisation: 'Sandvik AB'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: sanofi
+  domain: "\n            \n            .sanofi"
   type: generic
   organisation: Sanofi
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: sap
+  domain: "\n            \n            .sap"
   type: generic
   organisation: 'SAP AG'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: sarl
+  domain: "\n            \n            .sarl"
   type: generic
   organisation: 'Delta Orchard, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: saxo
+  domain: "\n            \n            .saxo"
   type: generic
   organisation: 'Saxo Bank A/S'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: sb
+  domain: "\n            \n            .sb"
   type: country-code
   organisation: 'Solomon Telekom Company Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: sc
+  domain: "\n            \n            .sc"
   type: country-code
   organisation: 'VCS Pty Ltd'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: sca
+  domain: "\n            \n            .sca"
   type: generic
   organisation: 'SVENSKA CELLULOSA AKTIEBOLAGET SCA (publ)'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: scb
+  domain: "\n            \n            .scb"
   type: generic
   organisation: 'The Siam Commercial Bank Public Company Limited ("SCB")'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: schmidt
+  domain: "\n            \n            .schmidt"
   type: generic
   organisation: 'SALM S.A.S.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: scholarships
+  domain: "\n            \n            .scholarships"
   type: generic
   organisation: 'Scholarships.com, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: school
+  domain: "\n            \n            .school"
   type: generic
   organisation: 'Little Galley, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: schule
+  domain: "\n            \n            .schule"
   type: generic
   organisation: 'Outer Moon, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: schwarz
+  domain: "\n            \n            .schwarz"
   type: generic
   organisation: 'Schwarz Domains und Services GmbH & Co. KG'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: science
+  domain: "\n            \n            .science"
   type: generic
   organisation: 'dot Science Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: scor
+  domain: "\n            \n            .scor"
   type: generic
   organisation: 'SCOR SE'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: scot
+  domain: "\n            \n            .scot"
   type: generic
   organisation: 'Dot Scot Registry Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: sd
+  domain: "\n            \n            .sd"
   type: country-code
   organisation: 'Sudan Internet Society'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: se
+  domain: "\n            \n            .se"
   type: country-code
   organisation: 'The Internet Infrastructure Foundation'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: seat
+  domain: "\n            \n            .seat"
   type: generic
   organisation: 'SEAT, S.A. (Sociedad Unipersonal)'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: seek
+  domain: "\n            \n            .seek"
   type: generic
   organisation: 'Seek Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: sener
+  domain: "\n            \n            .sener"
   type: generic
   organisation: 'Sener Ingeniería y Sistemas, S.A.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: services
+  domain: "\n            \n            .services"
   type: generic
   organisation: 'Fox Castle, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: sew
+  domain: "\n            \n            .sew"
   type: generic
   organisation: 'SEW-EURODRIVE GmbH & Co KG'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: sex
+  domain: "\n            \n            .sex"
   type: generic
   organisation: 'ICM Registry SX LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: sexy
+  domain: "\n            \n            .sexy"
   type: generic
   organisation: 'Uniregistry, Corp.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: sg
+  domain: "\n            \n            .sg"
   type: country-code
   organisation: 'Singapore Network Information Centre (SGNIC) Pte Ltd'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: sh
+  domain: "\n            \n            .sh"
   type: country-code
   organisation: 'Government of St. Helena'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: shiksha
+  domain: "\n            \n            .shiksha"
   type: generic
   organisation: 'Afilias Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: shoes
+  domain: "\n            \n            .shoes"
   type: generic
   organisation: 'Binky Galley, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: show
+  domain: "\n            \n            .show"
   type: generic
   organisation: 'Snow Beach, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: shriram
+  domain: "\n            \n            .shriram"
   type: generic
   organisation: 'Shriram Capital Ltd.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: si
+  domain: "\n            \n            .si"
   type: country-code
   organisation: 'Academic and Research Network of Slovenia (ARNES)'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: singles
+  domain: "\n            \n            .singles"
   type: generic
   organisation: 'Fern Madison, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: site
+  domain: "\n            \n            .site"
   type: generic
   organisation: 'DotSite Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: sj
+  domain: "\n            \n            .sj"
   type: country-code
   organisation: 'UNINETT Norid A/S'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: sk
+  domain: "\n            \n            .sk"
   type: country-code
   organisation: 'SK-NIC, a.s.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: ski
+  domain: "\n            \n            .ski"
   type: generic
   organisation: 'STARTING DOT LIMITED'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: sky
+  domain: "\n            \n            .sky"
   type: generic
   organisation: 'Sky International AG'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: skype
+  domain: "\n            \n            .skype"
   type: generic
   organisation: 'Microsoft Corporation'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: sl
+  domain: "\n            \n            .sl"
   type: country-code
   organisation: Sierratel
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: sm
+  domain: "\n            \n            .sm"
   type: country-code
   organisation: 'Telecom Italia San Marino S.p.A.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: sn
+  domain: "\n            \n            .sn"
   type: country-code
   organisation: "Universite Cheikh Anta Diop\nNIC Senegal"
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: sncf
+  domain: "\n            \n            .sncf"
   type: generic
   organisation: 'SNCF (Société Nationale des Chemins de fer Francais)'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: so
+  domain: "\n            \n            .so"
   type: country-code
   organisation: 'Ministry of Post and Telecommunications'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: soccer
+  domain: "\n            \n            .soccer"
   type: generic
   organisation: 'Foggy Shadow, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: social
+  domain: "\n            \n            .social"
   type: generic
   organisation: 'United TLD Holdco Ltd.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: software
+  domain: "\n            \n            .software"
   type: generic
   organisation: 'United TLD Holdco, Ltd'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: sohu
+  domain: "\n            \n            .sohu"
   type: generic
   organisation: 'Sohu.com Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: solar
+  domain: "\n            \n            .solar"
   type: generic
   organisation: 'Ruby Town, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: solutions
+  domain: "\n            \n            .solutions"
   type: generic
   organisation: 'Silver Cover, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: sony
+  domain: "\n            \n            .sony"
   type: generic
   organisation: 'Sony Corporation'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: soy
+  domain: "\n            \n            .soy"
   type: generic
   organisation: 'Charleston Road Registry Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: space
+  domain: "\n            \n            .space"
   type: generic
   organisation: 'DotSpace Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: spiegel
+  domain: "\n            \n            .spiegel"
   type: generic
   organisation: 'SPIEGEL-Verlag Rudolf Augstein GmbH & Co. KG'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: spreadbetting
+  domain: "\n            \n            .spreadbetting"
   type: generic
   organisation: 'DOTSPREADBETTING REGISTRY LTD'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: sr
+  domain: "\n            \n            .sr"
   type: country-code
   organisation: Telesur
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: srl
+  domain: "\n            \n            .srl"
   type: generic
   organisation: 'InterNetX Corp.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: ss
+  domain: "\n            \n            .ss"
   type: country-code
   organisation: 'Not assigned'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: st
+  domain: "\n            \n            .st"
   type: country-code
   organisation: Tecnisys
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: starhub
+  domain: "\n            \n            .starhub"
   type: generic
   organisation: 'StarHub Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: statoil
+  domain: "\n            \n            .statoil"
   type: generic
   organisation: 'Statoil ASA'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: studio
+  domain: "\n            \n            .studio"
   type: generic
   organisation: 'United TLD Holdco Ltd.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: study
+  domain: "\n            \n            .study"
   type: generic
   organisation: 'OPEN UNIVERSITIES AUSTRALIA PTY LTD'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: style
+  domain: "\n            \n            .style"
   type: generic
   organisation: 'Binky Moon, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: su
+  domain: "\n            \n            .su"
   type: country-code
   organisation: "Russian Institute for Development of Public Networks\n(ROSNIIROS)"
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: sucks
+  domain: "\n            \n            .sucks"
   type: generic
   organisation: 'Vox Populi Registry Ltd.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: supplies
+  domain: "\n            \n            .supplies"
   type: generic
   organisation: 'Atomic Fields, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: supply
+  domain: "\n            \n            .supply"
   type: generic
   organisation: 'Half Falls, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: support
+  domain: "\n            \n            .support"
   type: generic
   organisation: 'Grand Orchard, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: surf
+  domain: "\n            \n            .surf"
   type: generic
   organisation: 'Top Level Domain Holdings Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: surgery
+  domain: "\n            \n            .surgery"
   type: generic
   organisation: 'Tin Avenue, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: suzuki
+  domain: "\n            \n            .suzuki"
   type: generic
   organisation: 'SUZUKI MOTOR CORPORATION'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: sv
+  domain: "\n            \n            .sv"
   type: country-code
   organisation: SVNet
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: swatch
+  domain: "\n            \n            .swatch"
   type: generic
   organisation: 'The Swatch Group Ltd'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: swiss
+  domain: "\n            \n            .swiss"
   type: generic
   organisation: 'Swiss Confederation'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: sx
+  domain: "\n            \n            .sx"
   type: country-code
   organisation: 'SX Registry SA B.V.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: sy
+  domain: "\n            \n            .sy"
   type: country-code
   organisation: 'National Agency for Network Services (NANS)'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: sydney
+  domain: "\n            \n            .sydney"
   type: generic
   organisation: 'State of New South Wales, Department of Premier and Cabinet'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: systems
+  domain: "\n            \n            .systems"
   type: generic
   organisation: 'Dash Cypress, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: sz
+  domain: "\n            \n            .sz"
   type: country-code
   organisation: "University of Swaziland\nDepartment of Computer Science"
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: taipei
+  domain: "\n            \n            .taipei"
   type: generic
   organisation: 'Taipei City Government'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: tatamotors
+  domain: "\n            \n            .tatamotors"
   type: generic
   organisation: 'Tata Motors Ltd'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: tatar
+  domain: "\n            \n            .tatar"
   type: generic
   organisation: 'Limited Liability Company "Coordination Center of Regional Domain of Tatarstan Republic"'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: tattoo
+  domain: "\n            \n            .tattoo"
   type: generic
   organisation: 'Uniregistry, Corp.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: tax
+  domain: "\n            \n            .tax"
   type: generic
   organisation: 'Storm Orchard, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: taxi
+  domain: "\n            \n            .taxi"
   type: generic
   organisation: 'Pine Falls, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: tc
+  domain: "\n            \n            .tc"
   type: country-code
   organisation: 'Melrex TC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: td
+  domain: "\n            \n            .td"
   type: country-code
   organisation: 'Société des télécommunications du Tchad (SOTEL TCHAD)'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: team
+  domain: "\n            \n            .team"
   type: generic
   organisation: 'Atomic Lake, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: tech
+  domain: "\n            \n            .tech"
   type: generic
   organisation: 'Dot Tech LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: technology
+  domain: "\n            \n            .technology"
   type: generic
   organisation: 'Auburn Falls, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: tel
+  domain: "\n            \n            .tel"
   type: sponsored
   organisation: 'Telnic Ltd.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: telefonica
+  domain: "\n            \n            .telefonica"
   type: generic
   organisation: 'Telefónica S.A.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: temasek
+  domain: "\n            \n            .temasek"
   type: generic
   organisation: 'Temasek Holdings (Private) Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: tennis
+  domain: "\n            \n            .tennis"
   type: generic
   organisation: 'Cotton Bloom, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: tf
+  domain: "\n            \n            .tf"
   type: country-code
   organisation: 'Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: tg
+  domain: "\n            \n            .tg"
   type: country-code
   organisation: 'Cafe Informatique et Telecommunications'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: th
+  domain: "\n            \n            .th"
   type: country-code
   organisation: 'Thai Network Information Center Foundation'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: thd
+  domain: "\n            \n            .thd"
   type: generic
   organisation: 'Homer TLC, Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: theater
+  domain: "\n            \n            .theater"
   type: generic
   organisation: 'Blue Tigers, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: tickets
+  domain: "\n            \n            .tickets"
   type: generic
   organisation: 'Accent Media Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: tienda
+  domain: "\n            \n            .tienda"
   type: generic
   organisation: 'Victor Manor, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: tips
+  domain: "\n            \n            .tips"
   type: generic
   organisation: 'Corn Willow, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: tires
+  domain: "\n            \n            .tires"
   type: generic
   organisation: 'Dog Edge, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: tirol
+  domain: "\n            \n            .tirol"
   type: generic
   organisation: 'punkt Tirol GmbH'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: tj
+  domain: "\n            \n            .tj"
   type: country-code
   organisation: 'Information Technology Center'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: tk
+  domain: "\n            \n            .tk"
   type: country-code
   organisation: 'Telecommunication Tokelau Corporation (Teletok)'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: tl
+  domain: "\n            \n            .tl"
   type: country-code
   organisation: 'Ministry of Transport and  Communications; National Division of  Information and Technology'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: tm
+  domain: "\n            \n            .tm"
   type: country-code
   organisation: 'TM Domain Registry Ltd'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: tn
+  domain: "\n            \n            .tn"
   type: country-code
   organisation: 'Agence Tunisienne d''Internet'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: to
+  domain: "\n            \n            .to"
   type: country-code
   organisation: "Government of the Kingdom of Tonga\nH.R.H. Crown Prince Tupouto'a\nc/o Consulate of Tonga"
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: today
+  domain: "\n            \n            .today"
   type: generic
   organisation: 'Pearl Woods, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: tokyo
+  domain: "\n            \n            .tokyo"
   type: generic
   organisation: 'GMO Registry, Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: tools
+  domain: "\n            \n            .tools"
   type: generic
   organisation: 'Pioneer North, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: top
+  domain: "\n            \n            .top"
   type: generic
   organisation: 'Jiangsu Bangning Science & Technology Co.,Ltd.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: toray
+  domain: "\n            \n            .toray"
   type: generic
   organisation: 'Toray Industries, Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: toshiba
+  domain: "\n            \n            .toshiba"
   type: generic
   organisation: 'TOSHIBA Corporation'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: tours
+  domain: "\n            \n            .tours"
   type: generic
   organisation: 'Sugar Station, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: town
+  domain: "\n            \n            .town"
   type: generic
   organisation: 'Koko Moon, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: toyota
+  domain: "\n            \n            .toyota"
   type: generic
   organisation: 'TOYOTA MOTOR CORPORATION'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: toys
+  domain: "\n            \n            .toys"
   type: generic
   organisation: 'Pioneer Orchard, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: tp
+  domain: "\n            \n            .tp"
   type: country-code
   organisation: Retired
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: tr
+  domain: "\n            \n            .tr"
   type: country-code
   organisation: "Middle East Technical University\nDepartment of Computer Engineering"
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: trade
+  domain: "\n            \n            .trade"
   type: generic
   organisation: 'Elite Registry Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: trading
+  domain: "\n            \n            .trading"
   type: generic
   organisation: 'DOTTRADING REGISTRY LTD'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: training
+  domain: "\n            \n            .training"
   type: generic
   organisation: 'Wild Willow, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: travel
+  domain: "\n            \n            .travel"
   type: sponsored
   organisation: 'Tralliance Registry Management Company, LLC.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: trust
+  domain: "\n            \n            .trust"
   type: generic
   organisation: 'Artemis Internet Inc'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: tt
+  domain: "\n            \n            .tt"
   type: country-code
   organisation: "University of the West Indies\nFaculty of Engineering"
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: tui
+  domain: "\n            \n            .tui"
   type: generic
   organisation: 'TUI AG'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: tv
+  domain: "\n            \n            .tv"
   type: country-code
   organisation: 'Ministry of Finance and Tourism'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: tw
+  domain: "\n            \n            .tw"
   type: country-code
   organisation: 'Taiwan Network Information Center (TWNIC)'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: tz
+  domain: "\n            \n            .tz"
   type: country-code
   organisation: 'Tanzania Network Information Centre (tzNIC)'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: ua
+  domain: "\n            \n            .ua"
   type: country-code
   organisation: 'Hostmaster Ltd.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: ubs
+  domain: "\n            \n            .ubs"
   type: generic
   organisation: 'UBS AG'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: ug
+  domain: "\n            \n            .ug"
   type: country-code
   organisation: 'Uganda Online Ltd.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: uk
+  domain: "\n            \n            .uk"
   type: country-code
   organisation: 'Nominet UK'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: um
+  domain: "\n            \n            .um"
   type: country-code
   organisation: 'Not assigned'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: university
+  domain: "\n            \n            .university"
   type: generic
   organisation: 'Little Station, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: uno
+  domain: "\n            \n            .uno"
   type: generic
   organisation: 'Dot Latin LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: uol
+  domain: "\n            \n            .uol"
   type: generic
   organisation: 'UBN INTERNET LTDA.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: us
+  domain: "\n            \n            .us"
   type: country-code
   organisation: 'NeuStar, Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: uy
+  domain: "\n            \n            .uy"
   type: country-code
   organisation: 'SeCIU - Universidad de la Republica'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: uz
+  domain: "\n            \n            .uz"
   type: country-code
   organisation: "Computerization and Information Technologies Developing Center\nUZINFOCOM"
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: va
+  domain: "\n            \n            .va"
   type: country-code
   organisation: 'Holy See Secretariat of State Department of Telecommunications'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: vacations
+  domain: "\n            \n            .vacations"
   type: generic
   organisation: 'Atomic Tigers, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: vc
+  domain: "\n            \n            .vc"
   type: country-code
   organisation: 'Ministry of Telecommunications, Science, Technology and Industry'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: ve
+  domain: "\n            \n            .ve"
   type: country-code
   organisation: 'Comisión Nacional de Telecomunicaciones (CONATEL)'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: vegas
+  domain: "\n            \n            .vegas"
   type: generic
   organisation: 'Dot Vegas, Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: ventures
+  domain: "\n            \n            .ventures"
   type: generic
   organisation: 'Binky Lake, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: versicherung
+  domain: "\n            \n            .versicherung"
   type: generic
   organisation: 'dotversicherung-registry GmbH'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: vet
+  domain: "\n            \n            .vet"
   type: generic
   organisation: 'United TLD Holdco, Ltd'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: vg
+  domain: "\n            \n            .vg"
   type: country-code
   organisation: 'Telecommunications Regulatory Commission of the Virgin Islands'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: vi
+  domain: "\n            \n            .vi"
   type: country-code
   organisation: "Virgin Islands Public Telcommunications System\nc/o COBEX Internet Services"
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: viajes
+  domain: "\n            \n            .viajes"
   type: generic
   organisation: 'Black Madison, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: video
+  domain: "\n            \n            .video"
   type: generic
   organisation: 'United TLD Holdco, Ltd'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: villas
+  domain: "\n            \n            .villas"
   type: generic
   organisation: 'New Sky, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: vin
+  domain: "\n            \n            .vin"
   type: generic
   organisation: 'Holly Shadow, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: vision
+  domain: "\n            \n            .vision"
   type: generic
   organisation: 'Koko Station, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: vista
+  domain: "\n            \n            .vista"
   type: generic
   organisation: 'Vistaprint Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: vistaprint
+  domain: "\n            \n            .vistaprint"
   type: generic
   organisation: 'Vistaprint Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: vlaanderen
+  domain: "\n            \n            .vlaanderen"
   type: generic
   organisation: 'DNS.be vzw'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: vn
+  domain: "\n            \n            .vn"
   type: country-code
   organisation: 'Ministry of Information and Communications of Socialist Republic of Viet Nam'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: vodka
+  domain: "\n            \n            .vodka"
   type: generic
   organisation: 'Top Level Domain Holdings Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: vote
+  domain: "\n            \n            .vote"
   type: generic
   organisation: 'Monolith Registry LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: voting
+  domain: "\n            \n            .voting"
   type: generic
   organisation: 'Valuetainment Corp.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: voto
+  domain: "\n            \n            .voto"
   type: generic
   organisation: 'Monolith Registry LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: voyage
+  domain: "\n            \n            .voyage"
   type: generic
   organisation: 'Ruby House, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: vu
+  domain: "\n            \n            .vu"
   type: country-code
   organisation: 'Telecom Vanuatu Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: wales
+  domain: "\n            \n            .wales"
   type: generic
   organisation: 'Nominet UK'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: walter
+  domain: "\n            \n            .walter"
   type: generic
   organisation: 'Sandvik AB'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: wang
+  domain: "\n            \n            .wang"
   type: generic
   organisation: 'Zodiac Registry Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: watch
+  domain: "\n            \n            .watch"
   type: generic
   organisation: 'Sand Shadow, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: webcam
+  domain: "\n            \n            .webcam"
   type: generic
   organisation: 'dot Webcam Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: website
+  domain: "\n            \n            .website"
   type: generic
   organisation: 'DotWebsite Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: wed
+  domain: "\n            \n            .wed"
   type: generic
   organisation: 'Atgron, Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: wedding
+  domain: "\n            \n            .wedding"
   type: generic
   organisation: 'Top Level Domain Holdings Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: weir
+  domain: "\n            \n            .weir"
   type: generic
   organisation: 'Weir Group IP Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: wf
+  domain: "\n            \n            .wf"
   type: country-code
   organisation: 'Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: whoswho
+  domain: "\n            \n            .whoswho"
   type: generic
   organisation: 'Who''s Who Registry'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: wien
+  domain: "\n            \n            .wien"
   type: generic
   organisation: 'punkt.wien GmbH'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: wiki
+  domain: "\n            \n            .wiki"
   type: generic
   organisation: 'Top Level Design, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: williamhill
+  domain: "\n            \n            .williamhill"
   type: generic
   organisation: 'William Hill Organization Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: win
+  domain: "\n            \n            .win"
   type: generic
   organisation: 'First Registry Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: windows
+  domain: "\n            \n            .windows"
   type: generic
   organisation: 'Microsoft Corporation'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: wine
+  domain: "\n            \n            .wine"
   type: generic
   organisation: 'June Station, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: wme
+  domain: "\n            \n            .wme"
   type: generic
   organisation: 'William Morris Endeavor Entertainment, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: work
+  domain: "\n            \n            .work"
   type: generic
   organisation: 'Top Level Domain Holdings Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: works
+  domain: "\n            \n            .works"
   type: generic
   organisation: 'Little Dynamite, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: world
+  domain: "\n            \n            .world"
   type: generic
   organisation: 'Bitter Fields, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: ws
+  domain: "\n            \n            .ws"
   type: country-code
   organisation: 'Government of Samoa Ministry of Foreign Affairs & Trade'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: wtc
+  domain: "\n            \n            .wtc"
   type: generic
   organisation: 'World Trade Centers Association, Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: wtf
+  domain: "\n            \n            .wtf"
   type: generic
   organisation: 'Hidden Way, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: xbox
+  domain: "\n            \n            .xbox"
   type: generic
   organisation: 'Microsoft Corporation'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: xerox
+  domain: "\n            \n            .xerox"
   type: generic
   organisation: 'Xerox DNHC LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: xin
+  domain: "\n            \n            .xin"
   type: generic
   organisation: 'Elegant Leader Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: 测试
+  domain: "\n            \n            .测试"
   type: test
   organisation: 'Internet Assigned Numbers Authority'
   isIDN: true
   punycode: null
 -
-  domain: कॉम
+  domain: "\n            \n            .कॉम"
   type: generic
   organisation: 'VeriSign Sarl'
   isIDN: true
   punycode: null
 -
-  domain: परीक्षा
+  domain: "\n            \n            .परीक्षा"
   type: test
   organisation: 'Internet Assigned Numbers Authority'
   isIDN: true
   punycode: null
 -
-  domain: 佛山
+  domain: "\n            \n            .佛山"
   type: generic
   organisation: 'Guangzhou YU Wei Information Technology Co., Ltd.'
   isIDN: true
   punycode: null
 -
-  domain: 慈善
+  domain: "\n            \n            .慈善"
   type: generic
   organisation: 'Excellent First Limited'
   isIDN: true
   punycode: null
 -
-  domain: 集团
+  domain: "\n            \n            .集团"
   type: generic
   organisation: 'Eagle Horizon Limited'
   isIDN: true
   punycode: null
 -
-  domain: 在线
+  domain: "\n            \n            .在线"
   type: generic
   organisation: 'TLD REGISTRY LIMITED'
   isIDN: true
   punycode: null
 -
-  domain: 한국
+  domain: "\n            \n            .한국"
   type: country-code
   organisation: 'KISA (Korea Internet & Security Agency)'
   isIDN: true
   punycode: null
 -
-  domain: 点看
+  domain: "\n            \n            .点看"
   type: generic
   organisation: 'VeriSign Sarl'
   isIDN: true
   punycode: null
 -
-  domain: คอม
+  domain: "\n            \n            .คอม"
   type: generic
   organisation: 'VeriSign Sarl'
   isIDN: true
   punycode: null
 -
-  domain: ভারত
+  domain: "\n            \n            .ভারত"
   type: country-code
   organisation: 'National Internet Exchange of India'
   isIDN: true
   punycode: null
 -
-  domain: 八卦
+  domain: "\n            \n            .八卦"
   type: generic
   organisation: 'Zodiac Scorpio Limited'
   isIDN: true
   punycode: null
 -
-  domain: موقع
+  domain: "\n            \n            .موقع"
   type: generic
   organisation: 'Suhub Electronic Establishment'
   isIDN: true
   punycode: null
 -
-  domain: বাংলা
+  domain: "\n            \n            .বাংলা"
   type: country-code
   organisation: 'Not assigned'
   isIDN: true
   punycode: null
 -
-  domain: 公益
+  domain: "\n            \n            .公益"
   type: generic
   organisation: 'China Organizational Name Administration Center'
   isIDN: true
   punycode: null
 -
-  domain: 公司
+  domain: "\n            \n            .公司"
   type: generic
   organisation: 'Computer Network Information Center of Chinese Academy of Sciences （China Internet Network Information Center）'
   isIDN: true
   punycode: null
 -
-  domain: 移动
+  domain: "\n            \n            .移动"
   type: generic
   organisation: 'Afilias Limited'
   isIDN: true
   punycode: null
 -
-  domain: 我爱你
+  domain: "\n            \n            .我爱你"
   type: generic
   organisation: 'Tycoon Treasure Limited'
   isIDN: true
   punycode: null
 -
-  domain: москва
+  domain: "\n            \n            .москва"
   type: generic
   organisation: 'Foundation for Assistance for Internet Technologies and Infrastructure Development (FAITID)'
   isIDN: true
   punycode: null
 -
-  domain: испытание
+  domain: "\n            \n            .испытание"
   type: test
   organisation: 'Internet Assigned Numbers Authority'
   isIDN: true
   punycode: null
 -
-  domain: қаз
+  domain: "\n            \n            .қаз"
   type: country-code
   organisation: 'Association of IT Companies of Kazakhstan'
   isIDN: true
   punycode: null
 -
-  domain: онлайн
+  domain: "\n            \n            .онлайн"
   type: generic
   organisation: 'CORE Association'
   isIDN: true
   punycode: null
 -
-  domain: сайт
+  domain: "\n            \n            .сайт"
   type: generic
   organisation: 'CORE Association'
   isIDN: true
   punycode: null
 -
-  domain: срб
+  domain: "\n            \n            .срб"
   type: country-code
   organisation: 'Serbian National Internet Domain Registry (RNIDS)'
   isIDN: true
   punycode: null
 -
-  domain: бел
+  domain: "\n            \n            .бел"
   type: country-code
   organisation: 'Reliable Software Inc.'
   isIDN: true
   punycode: null
 -
-  domain: קום
+  domain: "\n            \n            .קום"
   type: generic
   organisation: 'VeriSign Sarl'
   isIDN: true
   punycode: null
 -
-  domain: 时尚
+  domain: "\n            \n            .时尚"
   type: generic
   organisation: 'RISE VICTORY LIMITED'
   isIDN: true
   punycode: null
 -
-  domain: 테스트
+  domain: "\n            \n            .테스트"
   type: test
   organisation: 'Internet Assigned Numbers Authority'
   isIDN: true
   punycode: null
 -
-  domain: 淡马锡
+  domain: "\n            \n            .淡马锡"
   type: generic
   organisation: 'Temasek Holdings (Private) Limited'
   isIDN: true
   punycode: null
 -
-  domain: орг
+  domain: "\n            \n            .орг"
   type: generic
   organisation: 'Public Interest Registry'
   isIDN: true
   punycode: null
 -
-  domain: नेट
+  domain: "\n            \n            .नेट"
   type: generic
   organisation: 'VeriSign Sarl'
   isIDN: true
   punycode: null
 -
-  domain: 삼성
+  domain: "\n            \n            .삼성"
   type: generic
   organisation: 'SAMSUNG SDS CO., LTD'
   isIDN: true
   punycode: null
 -
-  domain: சிங்கப்பூர்
+  domain: "\n            \n            .சிங்கப்பூர்"
   type: country-code
   organisation: 'Singapore Network Information Centre (SGNIC) Pte Ltd'
   isIDN: true
   punycode: null
 -
-  domain: 商标
+  domain: "\n            \n            .商标"
   type: generic
   organisation: 'HU YI GLOBAL INFORMATION RESOURCES(HOLDING) COMPANY.HONGKONG LIMITED'
   isIDN: true
   punycode: null
 -
-  domain: 商店
+  domain: "\n            \n            .商店"
   type: generic
   organisation: 'Wild Island, LLC'
   isIDN: true
   punycode: null
 -
-  domain: 商城
+  domain: "\n            \n            .商城"
   type: generic
   organisation: 'Zodiac Aquarius Limited'
   isIDN: true
   punycode: null
 -
-  domain: дети
+  domain: "\n            \n            .дети"
   type: generic
   organisation: 'The Foundation for Network Initiatives “The Smart Internet”'
   isIDN: true
   punycode: null
 -
-  domain: мкд
+  domain: "\n            \n            .мкд"
   type: country-code
   organisation: 'Macedonian Academic Research Network Skopje'
   isIDN: true
   punycode: null
 -
-  domain: טעסט
+  domain: "\n            \n            .טעסט"
   type: test
   organisation: 'Internet Assigned Numbers Authority'
   isIDN: true
   punycode: null
 -
-  domain: 新闻
+  domain: "\n            \n            .新闻"
   type: generic
   organisation: 'Xinhua News Agency Guangdong Branch 新华通讯社广东分社'
   isIDN: true
   punycode: null
 -
-  domain: 工行
+  domain: "\n            \n            .工行"
   type: generic
   organisation: 'Industrial and Commercial Bank of China Limited'
   isIDN: true
   punycode: null
 -
-  domain: كوم
+  domain: "\n            \n            .كوم"
   type: generic
   organisation: 'VeriSign Sarl'
   isIDN: true
   punycode: null
 -
-  domain: 中文网
+  domain: "\n            \n            .中文网"
   type: generic
   organisation: 'TLD REGISTRY LIMITED'
   isIDN: true
   punycode: null
 -
-  domain: 中信
+  domain: "\n            \n            .中信"
   type: generic
   organisation: 'CITIC Group Corporation'
   isIDN: true
   punycode: null
 -
-  domain: 中国
+  domain: "\n            \n            .中国"
   type: country-code
   organisation: 'China Internet Network Information Center (CNNIC)'
   isIDN: true
   punycode: null
 -
-  domain: 中國
+  domain: "\n            \n            .中國"
   type: country-code
   organisation: 'China Internet Network Information Center (CNNIC)'
   isIDN: true
   punycode: null
 -
-  domain: 娱乐
+  domain: "\n            \n            .娱乐"
   type: generic
   organisation: 'Will Bloom, LLC'
   isIDN: true
   punycode: null
 -
-  domain: 谷歌
+  domain: "\n            \n            .谷歌"
   type: generic
   organisation: 'Charleston Road Registry Inc.'
   isIDN: true
   punycode: null
 -
-  domain: భారత్
+  domain: "\n            \n            .భారత్"
   type: country-code
   organisation: 'National Internet Exchange of India'
   isIDN: true
   punycode: null
 -
-  domain: ලංකා
+  domain: "\n            \n            .ලංකා"
   type: country-code
   organisation: 'LK Domain Registry'
   isIDN: true
   punycode: null
 -
-  domain: 測試
+  domain: "\n            \n            .測試"
   type: test
   organisation: 'Internet Assigned Numbers Authority'
   isIDN: true
   punycode: null
 -
-  domain: ભારત
+  domain: "\n            \n            .ભારત"
   type: country-code
   organisation: 'National Internet Exchange of India'
   isIDN: true
   punycode: null
 -
-  domain: भारत
+  domain: "\n            \n            .भारत"
   type: country-code
   organisation: 'National Internet Exchange of India'
   isIDN: true
   punycode: null
 -
-  domain: آزمایشی
+  domain: "\n            \n            .آزمایشی"
   type: test
   organisation: 'Internet Assigned Numbers Authority'
   isIDN: true
   punycode: null
 -
-  domain: பரிட்சை
+  domain: "\n            \n            .பரிட்சை"
   type: test
   organisation: 'Internet Assigned Numbers Authority'
   isIDN: true
   punycode: null
 -
-  domain: 网店
+  domain: "\n            \n            .网店"
   type: generic
   organisation: 'Zodiac Libra Limited'
   isIDN: true
   punycode: null
 -
-  domain: संगठन
+  domain: "\n            \n            .संगठन"
   type: generic
   organisation: 'Public Interest Registry'
   isIDN: true
   punycode: null
 -
-  domain: 餐厅
+  domain: "\n            \n            .餐厅"
   type: generic
   organisation: 'HU YI GLOBAL INFORMATION RESOURCES (HOLDING) COMPANY. HONGKONG LIMITED'
   isIDN: true
   punycode: null
 -
-  domain: 网络
+  domain: "\n            \n            .网络"
   type: generic
   organisation: 'Computer Network Information Center of Chinese Academy of Sciences （China Internet Network Information Center）'
   isIDN: true
   punycode: null
 -
-  domain: ком
+  domain: "\n            \n            .ком"
   type: generic
   organisation: 'VeriSign Sarl'
   isIDN: true
   punycode: null
 -
-  domain: укр
+  domain: "\n            \n            .укр"
   type: country-code
   organisation: 'Ukrainian Network Information Centre (UANIC), Inc.'
   isIDN: true
   punycode: null
 -
-  domain: 香港
+  domain: "\n            \n            .香港"
   type: country-code
   organisation: 'Hong Kong Internet Registration Corporation Ltd.'
   isIDN: true
   punycode: null
 -
-  domain: δοκιμή
+  domain: "\n            \n            .δοκιμή"
   type: test
   organisation: 'Internet Assigned Numbers Authority'
   isIDN: true
   punycode: null
 -
-  domain: 飞利浦
+  domain: "\n            \n            .飞利浦"
   type: generic
   organisation: 'Koninklijke Philips N.V.'
   isIDN: true
   punycode: null
 -
-  domain: إختبار
+  domain: "\n            \n            .إختبار"
   type: test
   organisation: 'Internet Assigned Numbers Authority'
   isIDN: true
   punycode: null
 -
-  domain: 台湾
+  domain: "\n            \n            .台湾"
   type: country-code
   organisation: 'Taiwan Network Information Center (TWNIC)'
   isIDN: true
   punycode: null
 -
-  domain: 台灣
+  domain: "\n            \n            .台灣"
   type: country-code
   organisation: 'Taiwan Network Information Center (TWNIC)'
   isIDN: true
   punycode: null
 -
-  domain: 手机
+  domain: "\n            \n            .手机"
   type: generic
   organisation: 'Beijing RITT-Net Technology Development Co., Ltd'
   isIDN: true
   punycode: null
 -
-  domain: мон
+  domain: "\n            \n            .мон"
   type: country-code
   organisation: 'Datacom Co.,Ltd'
   isIDN: true
   punycode: null
 -
-  domain: الجزائر
+  domain: "\n            \n            .الجزائر"
   type: country-code
   organisation: CERIST
   isIDN: true
   punycode: null
 -
-  domain: عمان
+  domain: "\n            \n            .عمان"
   type: country-code
   organisation: 'Telecommunications Regulatory Authority (TRA)'
   isIDN: true
   punycode: null
 -
-  domain: ایران
+  domain: "\n            \n            .ایران"
   type: country-code
   organisation: 'Institute for Research in Fundamental Sciences (IPM)'
   isIDN: true
   punycode: null
 -
-  domain: امارات
+  domain: "\n            \n            .امارات"
   type: country-code
   organisation: 'Telecommunications Regulatory Authority (TRA)'
   isIDN: true
   punycode: null
 -
-  domain: بازار
+  domain: "\n            \n            .بازار"
   type: generic
   organisation: 'CORE Association'
   isIDN: true
   punycode: null
 -
-  domain: پاکستان
+  domain: "\n            \n            .پاکستان"
   type: country-code
   organisation: 'Not assigned'
   isIDN: true
   punycode: null
 -
-  domain: الاردن
+  domain: "\n            \n            .الاردن"
   type: country-code
   organisation: 'National Information Technology Center (NITC)'
   isIDN: true
   punycode: null
 -
-  domain: بھارت
+  domain: "\n            \n            .بھارت"
   type: country-code
   organisation: 'National Internet Exchange of India'
   isIDN: true
   punycode: null
 -
-  domain: المغرب
+  domain: "\n            \n            .المغرب"
   type: country-code
   organisation: 'Agence Nationale de Réglementation des Télécommunications (ANRT)'
   isIDN: true
   punycode: null
 -
-  domain: السعودية
+  domain: "\n            \n            .السعودية"
   type: country-code
   organisation: 'Communications and Information Technology Commission'
   isIDN: true
   punycode: null
 -
-  domain: سودان
+  domain: "\n            \n            .سودان"
   type: country-code
   organisation: 'Sudan Internet Society'
   isIDN: true
   punycode: null
 -
-  domain: عراق
+  domain: "\n            \n            .عراق"
   type: country-code
   organisation: 'Not assigned'
   isIDN: true
   punycode: null
 -
-  domain: مليسيا
+  domain: "\n            \n            .مليسيا"
   type: country-code
   organisation: 'MYNIC Berhad'
   isIDN: true
   punycode: null
 -
-  domain: 澳門
+  domain: "\n            \n            .澳門"
   type: country-code
   organisation: 'Not assigned'
   isIDN: true
   punycode: null
 -
-  domain: 닷컴
+  domain: "\n            \n            .닷컴"
   type: generic
   organisation: 'VeriSign Sarl'
   isIDN: true
   punycode: null
 -
-  domain: 政府
+  domain: "\n            \n            .政府"
   type: generic
   organisation: 'Net-Chinese Co., Ltd.'
   isIDN: true
   punycode: null
 -
-  domain: شبكة
+  domain: "\n            \n            .شبكة"
   type: generic
   organisation: 'International Domain Registry Pty. Ltd.'
   isIDN: true
   punycode: null
 -
-  domain: გე
+  domain: "\n            \n            .გე"
   type: country-code
   organisation: 'Information Technologies Development Center (ITDC)'
   isIDN: true
   punycode: null
 -
-  domain: 机构
+  domain: "\n            \n            .机构"
   type: generic
   organisation: 'Public Interest Registry'
   isIDN: true
   punycode: null
 -
-  domain: 组织机构
+  domain: "\n            \n            .组织机构"
   type: generic
   organisation: 'Public Interest Registry'
   isIDN: true
   punycode: null
 -
-  domain: 健康
+  domain: "\n            \n            .健康"
   type: generic
   organisation: 'Stable Tone Limited'
   isIDN: true
   punycode: null
 -
-  domain: ไทย
+  domain: "\n            \n            .ไทย"
   type: country-code
   organisation: 'Thai Network Information Center Foundation'
   isIDN: true
   punycode: null
 -
-  domain: سورية
+  domain: "\n            \n            .سورية"
   type: country-code
   organisation: 'National Agency for Network Services (NANS)'
   isIDN: true
   punycode: null
 -
-  domain: рус
+  domain: "\n            \n            .рус"
   type: generic
   organisation: 'Rusnames Limited'
   isIDN: true
   punycode: null
 -
-  domain: рф
+  domain: "\n            \n            .рф"
   type: country-code
   organisation: 'Coordination Center for TLD RU'
   isIDN: true
   punycode: null
 -
-  domain: تونس
+  domain: "\n            \n            .تونس"
   type: country-code
   organisation: 'Agence Tunisienne d''Internet'
   isIDN: true
   punycode: null
 -
-  domain: 大拿
+  domain: "\n            \n            .大拿"
   type: generic
   organisation: 'VeriSign Sarl'
   isIDN: true
   punycode: null
 -
-  domain: みんな
+  domain: "\n            \n            .みんな"
   type: generic
   organisation: 'Charleston Road Registry Inc.'
   isIDN: true
   punycode: null
 -
-  domain: グーグル
+  domain: "\n            \n            .グーグル"
   type: generic
   organisation: 'Charleston Road Registry Inc.'
   isIDN: true
   punycode: null
 -
-  domain: ελ
+  domain: "\n            \n            .ελ"
   type: country-code
   organisation: 'Not assigned'
   isIDN: true
   punycode: null
 -
-  domain: 世界
+  domain: "\n            \n            .世界"
   type: generic
   organisation: 'Stable Tone Limited'
   isIDN: true
   punycode: null
 -
-  domain: ਭਾਰਤ
+  domain: "\n            \n            .ਭਾਰਤ"
   type: country-code
   organisation: 'National Internet Exchange of India'
   isIDN: true
   punycode: null
 -
-  domain: 网址
+  domain: "\n            \n            .网址"
   type: generic
   organisation: 'KNET Co., Ltd'
   isIDN: true
   punycode: null
 -
-  domain: 닷넷
+  domain: "\n            \n            .닷넷"
   type: generic
   organisation: 'VeriSign Sarl'
   isIDN: true
   punycode: null
 -
-  domain: コム
+  domain: "\n            \n            .コム"
   type: generic
   organisation: 'VeriSign Sarl'
   isIDN: true
   punycode: null
 -
-  domain: 游戏
+  domain: "\n            \n            .游戏"
   type: generic
   organisation: 'Spring Fields, LLC'
   isIDN: true
   punycode: null
 -
-  domain: vermögensberater
+  domain: "\n            \n            .vermögensberater"
   type: generic
   organisation: 'Deutsche Vermögensberatung Aktiengesellschaft DVAG'
   isIDN: true
   punycode: null
 -
-  domain: vermögensberatung
+  domain: "\n            \n            .vermögensberatung"
   type: generic
   organisation: 'Deutsche Vermögensberatung Aktiengesellschaft DVAG'
   isIDN: true
   punycode: null
 -
-  domain: 企业
+  domain: "\n            \n            .企业"
   type: generic
   organisation: 'Dash McCook, LLC'
   isIDN: true
   punycode: null
 -
-  domain: 信息
+  domain: "\n            \n            .信息"
   type: generic
   organisation: 'Beijing Tele-info Network Technology Co., Ltd.'
   isIDN: true
   punycode: null
 -
-  domain: مصر
+  domain: "\n            \n            .مصر"
   type: country-code
   organisation: 'National Telecommunication Regulatory Authority - NTRA'
   isIDN: true
   punycode: null
 -
-  domain: قطر
+  domain: "\n            \n            .قطر"
   type: country-code
   organisation: 'Communications Regulatory Authority'
   isIDN: true
   punycode: null
 -
-  domain: 广东
+  domain: "\n            \n            .广东"
   type: generic
   organisation: 'Guangzhou YU Wei Information Technology Co., Ltd.'
   isIDN: true
   punycode: null
 -
-  domain: இலங்கை
+  domain: "\n            \n            .இலங்கை"
   type: country-code
   organisation: 'LK Domain Registry'
   isIDN: true
   punycode: null
 -
-  domain: இந்தியா
+  domain: "\n            \n            .இந்தியா"
   type: country-code
   organisation: 'National Internet Exchange of India'
   isIDN: true
   punycode: null
 -
-  domain: հայ
+  domain: "\n            \n            .հայ"
   type: country-code
   organisation: '"Internet Society" Non-governmental Organization'
   isIDN: true
   punycode: null
 -
-  domain: 新加坡
+  domain: "\n            \n            .新加坡"
   type: country-code
   organisation: 'Singapore Network Information Centre (SGNIC) Pte Ltd'
   isIDN: true
   punycode: null
 -
-  domain: فلسطين
+  domain: "\n            \n            .فلسطين"
   type: country-code
   organisation: 'Ministry of Telecom & Information Technology (MTIT)'
   isIDN: true
   punycode: null
 -
-  domain: テスト
+  domain: "\n            \n            .テスト"
   type: test
   organisation: 'Internet Assigned Numbers Authority'
   isIDN: true
   punycode: null
 -
-  domain: 政务
+  domain: "\n            \n            .政务"
   type: generic
   organisation: 'China Organizational Name Administration Center'
   isIDN: true
   punycode: null
 -
-  domain: xperia
+  domain: "\n            \n            .xperia"
   type: generic
   organisation: 'Sony Mobile Communications AB'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: xxx
+  domain: "\n            \n            .xxx"
   type: sponsored
   organisation: 'ICM Registry LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: xyz
+  domain: "\n            \n            .xyz"
   type: generic
   organisation: 'XYZ.COM LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: yachts
+  domain: "\n            \n            .yachts"
   type: generic
   organisation: 'DERYachts, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: yandex
+  domain: "\n            \n            .yandex"
   type: generic
   organisation: 'YANDEX, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: ye
+  domain: "\n            \n            .ye"
   type: country-code
   organisation: TeleYemen
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: yodobashi
+  domain: "\n            \n            .yodobashi"
   type: generic
   organisation: 'YODOBASHI CAMERA CO.,LTD.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: yoga
+  domain: "\n            \n            .yoga"
   type: generic
   organisation: 'Top Level Domain Holdings Limited'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: yokohama
+  domain: "\n            \n            .yokohama"
   type: generic
   organisation: 'GMO Registry, Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: youtube
+  domain: "\n            \n            .youtube"
   type: generic
   organisation: 'Charleston Road Registry Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: yt
+  domain: "\n            \n            .yt"
   type: country-code
   organisation: 'Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: za
+  domain: "\n            \n            .za"
   type: country-code
   organisation: 'ZA Domain Name Authority'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: zip
+  domain: "\n            \n            .zip"
   type: generic
   organisation: 'Charleston Road Registry Inc.'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: zm
+  domain: "\n            \n            .zm"
   type: country-code
   organisation: 'Zambia Information and Communications Technology Authority (ZICTA)'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: zone
+  domain: "\n            \n            .zone"
   type: generic
   organisation: 'Outer Falls, LLC'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: zuerich
+  domain: "\n            \n            .zuerich"
   type: generic
   organisation: 'Kanton Zürich (Canton of Zurich)'
-  isIDN: false
+  isIDN: true
   punycode: null
 -
-  domain: zw
+  domain: "\n            \n            .zw"
   type: country-code
   organisation: 'Postal and Telecommunications Regulatory Authority of Zimbabwe (POTRAZ)'
-  isIDN: false
+  isIDN: true
   punycode: null
