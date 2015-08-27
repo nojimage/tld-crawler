@@ -4,6 +4,8 @@ $gTLD = "(?:)";
 $ccTLD = "(?:)";
 $gTLD_IDN = "(?:
             
+            .aaa|
+            
             .abb|
             
             .abbott|

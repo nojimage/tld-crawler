@@ -1,4 +1,10 @@
 -
+  domain: "\n            \n            .aaa"
+  type: generic
+  organisation: 'American Automobile Association, Inc.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .abb"
   type: generic
   organisation: 'ABB Ltd'
@@ -3241,7 +3247,7 @@
 -
   domain: "\n            \n            .market"
   type: generic
-  organisation: 'Unitied TLD Holdco, Ltd'
+  organisation: 'United TLD Holdco, Ltd'
   isIDN: true
   punycode: null
 -
