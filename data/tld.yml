@@ -179,6 +179,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .amica"
+  type: generic
+  organisation: 'Amica Mutual Insurance Company'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .amsterdam"
   type: generic
   organisation: 'Gemeente Amsterdam'
@@ -4817,6 +4823,18 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .stc"
+  type: generic
+  organisation: 'Saudi Telecom Company'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .stcgroup"
+  type: generic
+  organisation: 'Saudi Telecom Company'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .studio"
   type: generic
   organisation: 'United TLD Holdco Ltd.'
@@ -5414,6 +5432,12 @@
   domain: "\n            \n            .vistaprint"
   type: generic
   organisation: 'Vistaprint Limited'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .viva"
+  type: generic
+  organisation: 'Saudi Telecom Company'
   isIDN: true
   punycode: null
 -

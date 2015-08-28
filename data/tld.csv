@@ -91,6 +91,9 @@ c/o Cable and Wireless (Ascension Island)"
             .am",country-code,"""Internet Society"" Non-governmental Organization"
 "
             
+            .amica",generic,"Amica Mutual Insurance Company"
+"
+            
             .amsterdam",generic,"Gemeente Amsterdam"
 "
             
@@ -2441,6 +2444,12 @@ NIC Senegal"
             .statoil",generic,"Statoil ASA"
 "
             
+            .stc",generic,"Saudi Telecom Company"
+"
+            
+            .stcgroup",generic,"Saudi Telecom Company"
+"
+            
             .studio",generic,"United TLD Holdco Ltd."
 "
             
@@ -2747,6 +2756,9 @@ c/o COBEX Internet Services"
 "
             
             .vistaprint",generic,"Vistaprint Limited"
+"
+            
+            .viva",generic,"Saudi Telecom Company"
 "
             
             .vlaanderen",generic,"DNS.be vzw"

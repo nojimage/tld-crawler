@@ -48,6 +48,8 @@ $gTLD_IDN = "(?:
             
             .alsace|
             
+            .amica|
+            
             .amsterdam|
             
             .android|
@@ -1186,6 +1188,10 @@ $gTLD_IDN = "(?:
             
             .statoil|
             
+            .stc|
+            
+            .stcgroup|
+            
             .studio|
             
             .study|
@@ -1317,6 +1323,8 @@ $gTLD_IDN = "(?:
             .vista|
             
             .vistaprint|
+            
+            .viva|
             
             .vlaanderen|
             
