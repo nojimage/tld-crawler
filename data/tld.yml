@@ -1283,6 +1283,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .csc"
+  type: generic
+  organisation: 'Alliance-One Services, Inc.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .cu"
   type: country-code
   organisation: "CENIAInternet\nIndustria y San Jose\nCapitolio Nacional"
@@ -6092,6 +6098,12 @@
   domain: "\n            \n            .بازار"
   type: generic
   organisation: 'CORE Association'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .پاكستان"
+  type: country-code
+  organisation: 'Not assigned'
   isIDN: true
   punycode: null
 -

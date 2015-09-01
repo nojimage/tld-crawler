@@ -1498,6 +1498,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .csc",
+        "type": "generic",
+        "organisation": "Alliance-One Services, Inc.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .cu",
         "type": "country-code",
         "organisation": "CENIAInternet\nIndustria y San Jose\nCapitolio Nacional",
@@ -7108,6 +7115,13 @@
         "domain": "\n            \n            .\u0628\u0627\u0632\u0627\u0631",
         "type": "generic",
         "organisation": "CORE Association",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .\u067e\u0627\u0643\u0633\u062a\u0627\u0646",
+        "type": "country-code",
+        "organisation": "Not assigned",
         "isIDN": true,
         "punycode": null
     },
