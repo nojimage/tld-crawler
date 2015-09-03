@@ -959,6 +959,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .car",
+        "type": "generic",
+        "organisation": "Cars Registry Limited",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .caravan",
         "type": "generic",
         "organisation": "Caravan International, Inc.",

@@ -198,6 +198,8 @@ $gTLD_IDN = "(?:
             
             .capital|
             
+            .car|
+            
             .caravan|
             
             .cards|
