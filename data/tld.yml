@@ -307,7 +307,7 @@
 -
   domain: "\n            \n            .auto"
   type: generic
-  organisation: 'Uniregistry, Corp.'
+  organisation: 'Cars Registry Limited'
   isIDN: true
   punycode: null
 -
@@ -859,7 +859,7 @@
 -
   domain: "\n            \n            .cars"
   type: generic
-  organisation: 'Uniregistry, Corp.'
+  organisation: 'Cars Registry Limited'
   isIDN: true
   punycode: null
 -
