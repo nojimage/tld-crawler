@@ -1024,6 +1024,8 @@ $gTLD_IDN = "(?:
             
             .property|
             
+            .protection|
+            
             .pub|
             
             .qpon|
@@ -1188,6 +1190,8 @@ $gTLD_IDN = "(?:
             
             .srl|
             
+            .stada|
+            
             .starhub|
             
             .statoil|
@@ -1253,6 +1257,8 @@ $gTLD_IDN = "(?:
             .thd|
             
             .theater|
+            
+            .theatre|
             
             .tickets|
             

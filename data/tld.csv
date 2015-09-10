@@ -2114,6 +2114,9 @@ dba RegistryPro"
             .property",generic,"Uniregistry, Corp."
 "
             
+            .protection",generic,"XYZ.COM LLC"
+"
+            
             .ps",country-code,"Ministry Of Telecommunications &
 Information Technology,
 Government Computer Center."
@@ -2444,6 +2447,9 @@ NIC Senegal"
             .st",country-code,Tecnisys
 "
             
+            .stada",generic,"STADA Arzneimittel AG"
+"
+            
             .starhub",generic,"StarHub Limited"
 "
             
@@ -2573,6 +2579,9 @@ Department of Computer Science"
 "
             
             .theater",generic,"Blue Tigers, LLC"
+"
+            
+            .theatre",generic,"XYZ.COM LLC"
 "
             
             .tickets",generic,"Accent Media Limited"

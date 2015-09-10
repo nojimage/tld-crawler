@@ -4865,6 +4865,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .protection",
+        "type": "generic",
+        "organisation": "XYZ.COM LLC",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .ps",
         "type": "country-code",
         "organisation": "Ministry Of Telecommunications \u0026\nInformation Technology,\nGovernment Computer Center.",
@@ -5628,6 +5635,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .stada",
+        "type": "generic",
+        "organisation": "STADA Arzneimittel AG",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .starhub",
         "type": "generic",
         "organisation": "StarHub Limited",
@@ -5925,6 +5939,13 @@
         "domain": "\n            \n            .theater",
         "type": "generic",
         "organisation": "Blue Tigers, LLC",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .theatre",
+        "type": "generic",
+        "organisation": "XYZ.COM LLC",
         "isIDN": true,
         "punycode": null
     },
