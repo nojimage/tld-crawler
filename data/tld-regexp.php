@@ -792,6 +792,8 @@ $gTLD_IDN = "(?:
             
             .love|
             
+            .ltd|
+            
             .ltda|
             
             .lupin|

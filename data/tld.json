@@ -3710,6 +3710,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .ltd",
+        "type": "generic",
+        "organisation": "Over Corner, LLC",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .ltda",
         "type": "generic",
         "organisation": "InterNetX Corp.",
