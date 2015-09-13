@@ -1093,7 +1093,7 @@
 -
   domain: "\n            \n            .cloud"
   type: generic
-  organisation: 'ARUBA S.p.A.'
+  organisation: 'ARUBA PEC S.p.A.'
   isIDN: true
   punycode: null
 -
