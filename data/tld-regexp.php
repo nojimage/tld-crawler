@@ -772,6 +772,8 @@ $gTLD_IDN = "(?:
             
             .limo|
             
+            .linde|
+            
             .link|
             
             .live|

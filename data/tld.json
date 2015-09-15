@@ -3612,6 +3612,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .linde",
+        "type": "generic",
+        "organisation": "Linde Aktiengesellschaft",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .link",
         "type": "generic",
         "organisation": "Uniregistry, Corp.",
