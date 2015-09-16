@@ -5369,6 +5369,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .security",
+        "type": "generic",
+        "organisation": "XYZ.COM LLC",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .seek",
         "type": "generic",
         "organisation": "Seek Limited",

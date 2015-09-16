@@ -1138,6 +1138,8 @@ $gTLD_IDN = "(?:
             
             .seat|
             
+            .security|
+            
             .seek|
             
             .sener|
