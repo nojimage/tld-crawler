@@ -686,6 +686,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .bms",
+        "type": "generic",
+        "organisation": "Bristol-Myers Squibb Company",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .bmw",
         "type": "generic",
         "organisation": "Bayerische Motoren Werke Aktiengesellschaft",

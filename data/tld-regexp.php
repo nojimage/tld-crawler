@@ -142,6 +142,8 @@ $gTLD_IDN = "(?:
             
             .blue|
             
+            .bms|
+            
             .bmw|
             
             .bnl|
