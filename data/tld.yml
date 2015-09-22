@@ -3821,6 +3821,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .obi"
+  type: generic
+  organisation: 'OBI Group Holding SE & Co. KGaA'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .office"
   type: generic
   organisation: 'Microsoft Corporation'

@@ -930,6 +930,8 @@ $gTLD_IDN = "(?:
             
             .nyc|
             
+            .obi|
+            
             .office|
             
             .okinawa|
