@@ -2968,6 +2968,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .hyundai",
+        "type": "generic",
+        "organisation": "Hyundai Motor Company",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .ibm",
         "type": "generic",
         "organisation": "International Business Machines Corporation",
@@ -3342,6 +3349,13 @@
         "domain": "\n            \n            .ki",
         "type": "country-code",
         "organisation": "Ministry of Communications, Transport, and Tourism Development",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .kia",
+        "type": "generic",
+        "organisation": "KIA MOTORS CORPORATION",
         "isIDN": true,
         "punycode": null
     },

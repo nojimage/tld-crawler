@@ -646,6 +646,8 @@ $gTLD_IDN = "(?:
             
             .hsbc|
             
+            .hyundai|
+            
             .ibm|
             
             .icbc|
@@ -717,6 +719,8 @@ $gTLD_IDN = "(?:
             .kaufen|
             
             .kddi|
+            
+            .kia|
             
             .kim|
             
