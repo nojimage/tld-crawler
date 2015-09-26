@@ -152,6 +152,8 @@ $gTLD_IDN = "(?:
             
             .boats|
             
+            .bom|
+            
             .bond|
             
             .boo|
@@ -473,6 +475,8 @@ $gTLD_IDN = "(?:
             .feedback|
             
             .film|
+            
+            .final|
             
             .finance|
             
@@ -1154,6 +1158,8 @@ $gTLD_IDN = "(?:
             
             .services|
             
+            .seven|
+            
             .sew|
             
             .sex|
@@ -1213,6 +1219,8 @@ $gTLD_IDN = "(?:
             .stc|
             
             .stcgroup|
+            
+            .stockholm|
             
             .studio|
             

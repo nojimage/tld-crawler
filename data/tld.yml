@@ -629,6 +629,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .bom"
+  type: generic
+  organisation: 'Núcleo de Informação e Coordenação do Ponto BR - NIC.br'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .bond"
   type: generic
   organisation: 'Bond University Limited'
@@ -1844,6 +1850,12 @@
   domain: "\n            \n            .film"
   type: generic
   organisation: 'Motion Picture Domain Registry Pty Ltd'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .final"
+  type: generic
+  organisation: 'Núcleo de Informação e Coordenação do Ponto BR - NIC.br'
   isIDN: true
   punycode: null
 -
@@ -4649,6 +4661,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .seven"
+  type: generic
+  organisation: 'Seven West Media Ltd'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .sew"
   type: generic
   organisation: 'SEW-EURODRIVE GmbH & Co KG'
@@ -4898,6 +4916,12 @@
   domain: "\n            \n            .stcgroup"
   type: generic
   organisation: 'Saudi Telecom Company'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .stockholm"
+  type: generic
+  organisation: 'Stockholms kommun'
   isIDN: true
   punycode: null
 -
