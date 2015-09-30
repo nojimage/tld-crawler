@@ -280,6 +280,8 @@ $gTLD_IDN = "(?:
             
             .club|
             
+            .clubmed|
+            
             .coach|
             
             .codes|

@@ -1302,6 +1302,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .clubmed",
+        "type": "generic",
+        "organisation": "Club M\u00e9diterran\u00e9e S.A.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .cm",
         "type": "country-code",
         "organisation": "Cameroon Telecommunications (CAMTEL)",

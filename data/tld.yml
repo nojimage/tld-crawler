@@ -1115,6 +1115,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .clubmed"
+  type: generic
+  organisation: 'Club Méditerranée S.A.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .cm"
   type: country-code
   organisation: 'Cameroon Telecommunications (CAMTEL)'
