@@ -5825,7 +5825,7 @@
   isIDN: true
   punycode: null
 -
-  domain: "\n            \n            .موقع"
+  domain: "\n            \n            ‏.موقع‎"
   type: generic
   organisation: 'Suhub Electronic Establishment'
   isIDN: true
@@ -5903,7 +5903,7 @@
   isIDN: true
   punycode: null
 -
-  domain: "\n            \n            .קום"
+  domain: "\n            \n            ‏.קום‎"
   type: generic
   organisation: 'VeriSign Sarl'
   isIDN: true
@@ -5981,7 +5981,7 @@
   isIDN: true
   punycode: null
 -
-  domain: "\n            \n            .טעסט"
+  domain: "\n            \n            ‏.טעסט‎"
   type: test
   organisation: 'Internet Assigned Numbers Authority'
   isIDN: true
@@ -5999,7 +5999,7 @@
   isIDN: true
   punycode: null
 -
-  domain: "\n            \n            .كوم"
+  domain: "\n            \n            ‏.كوم‎"
   type: generic
   organisation: 'VeriSign Sarl'
   isIDN: true
@@ -6071,7 +6071,7 @@
   isIDN: true
   punycode: null
 -
-  domain: "\n            \n            .آزمایشی"
+  domain: "\n            \n            ‏.آزمایشی‎"
   type: test
   organisation: 'Internet Assigned Numbers Authority'
   isIDN: true
@@ -6137,7 +6137,7 @@
   isIDN: true
   punycode: null
 -
-  domain: "\n            \n            .إختبار"
+  domain: "\n            \n            ‏.إختبار‎"
   type: test
   organisation: 'Internet Assigned Numbers Authority'
   isIDN: true
@@ -6167,85 +6167,85 @@
   isIDN: true
   punycode: null
 -
-  domain: "\n            \n            .الجزائر"
+  domain: "\n            \n            ‏.الجزائر‎"
   type: country-code
   organisation: CERIST
   isIDN: true
   punycode: null
 -
-  domain: "\n            \n            .عمان"
+  domain: "\n            \n            ‏.عمان‎"
   type: country-code
   organisation: 'Telecommunications Regulatory Authority (TRA)'
   isIDN: true
   punycode: null
 -
-  domain: "\n            \n            .ایران"
+  domain: "\n            \n            ‏.ایران‎"
   type: country-code
   organisation: 'Institute for Research in Fundamental Sciences (IPM)'
   isIDN: true
   punycode: null
 -
-  domain: "\n            \n            .امارات"
+  domain: "\n            \n            ‏.امارات‎"
   type: country-code
   organisation: 'Telecommunications Regulatory Authority (TRA)'
   isIDN: true
   punycode: null
 -
-  domain: "\n            \n            .بازار"
+  domain: "\n            \n            ‏.بازار‎"
   type: generic
   organisation: 'CORE Association'
   isIDN: true
   punycode: null
 -
-  domain: "\n            \n            .پاكستان"
+  domain: "\n            \n            ‏.پاكستان‎"
   type: country-code
   organisation: 'Not assigned'
   isIDN: true
   punycode: null
 -
-  domain: "\n            \n            .پاکستان"
+  domain: "\n            \n            ‏.پاکستان‎"
   type: country-code
   organisation: 'Not assigned'
   isIDN: true
   punycode: null
 -
-  domain: "\n            \n            .الاردن"
+  domain: "\n            \n            ‏.الاردن‎"
   type: country-code
   organisation: 'National Information Technology Center (NITC)'
   isIDN: true
   punycode: null
 -
-  domain: "\n            \n            .بھارت"
+  domain: "\n            \n            ‏.بھارت‎"
   type: country-code
   organisation: 'National Internet Exchange of India'
   isIDN: true
   punycode: null
 -
-  domain: "\n            \n            .المغرب"
+  domain: "\n            \n            ‏.المغرب‎"
   type: country-code
   organisation: 'Agence Nationale de Réglementation des Télécommunications (ANRT)'
   isIDN: true
   punycode: null
 -
-  domain: "\n            \n            .السعودية"
+  domain: "\n            \n            ‏.السعودية‎"
   type: country-code
   organisation: 'Communications and Information Technology Commission'
   isIDN: true
   punycode: null
 -
-  domain: "\n            \n            .سودان"
+  domain: "\n            \n            ‏.سودان‎"
   type: country-code
   organisation: 'Sudan Internet Society'
   isIDN: true
   punycode: null
 -
-  domain: "\n            \n            .عراق"
+  domain: "\n            \n            ‏.عراق‎"
   type: country-code
   organisation: 'Not assigned'
   isIDN: true
   punycode: null
 -
-  domain: "\n            \n            .مليسيا"
+  domain: "\n            \n            ‏.مليسيا‎"
   type: country-code
   organisation: 'MYNIC Berhad'
   isIDN: true
@@ -6269,7 +6269,7 @@
   isIDN: true
   punycode: null
 -
-  domain: "\n            \n            .شبكة"
+  domain: "\n            \n            ‏.شبكة‎"
   type: generic
   organisation: 'International Domain Registry Pty. Ltd.'
   isIDN: true
@@ -6305,7 +6305,7 @@
   isIDN: true
   punycode: null
 -
-  domain: "\n            \n            .سورية"
+  domain: "\n            \n            ‏.سورية‎"
   type: country-code
   organisation: 'National Agency for Network Services (NANS)'
   isIDN: true
@@ -6323,7 +6323,7 @@
   isIDN: true
   punycode: null
 -
-  domain: "\n            \n            .تونس"
+  domain: "\n            \n            ‏.تونس‎"
   type: country-code
   organisation: 'Agence Tunisienne d''Internet'
   isIDN: true
@@ -6413,13 +6413,13 @@
   isIDN: true
   punycode: null
 -
-  domain: "\n            \n            .مصر"
+  domain: "\n            \n            ‏.مصر‎"
   type: country-code
   organisation: 'National Telecommunication Regulatory Authority - NTRA'
   isIDN: true
   punycode: null
 -
-  domain: "\n            \n            .قطر"
+  domain: "\n            \n            ‏.قطر‎"
   type: country-code
   organisation: 'Communications Regulatory Authority'
   isIDN: true
@@ -6455,7 +6455,7 @@
   isIDN: true
   punycode: null
 -
-  domain: "\n            \n            .فلسطين"
+  domain: "\n            \n            ‏.فلسطين‎"
   type: country-code
   organisation: 'Ministry of Telecom & Information Technology (MTIT)'
   isIDN: true
