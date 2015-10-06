@@ -1826,6 +1826,9 @@ Direction des Communications Electroniques"
             .mtpc",generic,"Mitsubishi Tanabe Pharma Corporation"
 "
             
+            .mtr",generic,"MTR Corporation Limited"
+"
+            
             .mu",country-code,"Internet Direct Ltd"
 "
             
@@ -2798,6 +2801,9 @@ c/o COBEX Internet Services"
 "
             
             .vin",generic,"Holly Shadow, LLC"
+"
+            
+            .virgin",generic,"Virgin Enterprises Limited"
 "
             
             .vision",generic,"Koko Station, LLC"

@@ -894,6 +894,8 @@ $gTLD_IDN = "(?:
             
             .mtpc|
             
+            .mtr|
+            
             .museum|
             
             .nadex|
@@ -1351,6 +1353,8 @@ $gTLD_IDN = "(?:
             .villas|
             
             .vin|
+            
+            .virgin|
             
             .vision|
             

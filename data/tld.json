@@ -4207,6 +4207,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .mtr",
+        "type": "generic",
+        "organisation": "MTR Corporation Limited",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .mu",
         "type": "country-code",
         "organisation": "Internet Direct Ltd",
@@ -6436,6 +6443,13 @@
         "domain": "\n            \n            .vin",
         "type": "generic",
         "organisation": "Holly Shadow, LLC",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .virgin",
+        "type": "generic",
+        "organisation": "Virgin Enterprises Limited",
         "isIDN": true,
         "punycode": null
     },
