@@ -3497,6 +3497,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .moi"
+  type: generic
+  organisation: 'Amazon EU S.à r.l.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .mom"
   type: generic
   organisation: 'Uniregistry, Corp.'
@@ -6506,6 +6512,12 @@
   domain: "\n            \n            .yachts"
   type: generic
   organisation: 'DERYachts, LLC'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .yamaxun"
+  type: generic
+  organisation: 'Amazon EU S.à r.l.'
   isIDN: true
   punycode: null
 -

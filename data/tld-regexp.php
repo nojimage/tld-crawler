@@ -868,6 +868,8 @@ $gTLD_IDN = "(?:
             
             .moe|
             
+            .moi|
+            
             .mom|
             
             .monash|
@@ -1579,6 +1581,8 @@ $gTLD_IDN = "(?:
             .xyz|
             
             .yachts|
+            
+            .yamaxun|
             
             .yandex|
             
