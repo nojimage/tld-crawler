@@ -1043,6 +1043,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .cipriani"
+  type: generic
+  organisation: 'Hotel Cipriani Srl'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .cisco"
   type: generic
   organisation: 'Cisco Technology, Inc.'
@@ -2903,6 +2909,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .kinder"
+  type: generic
+  organisation: 'Ferrero Trading Lux S.A.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .kitchen"
   type: generic
   organisation: 'Just Goodbye, LLC'
@@ -3499,7 +3511,7 @@
 -
   domain: "\n            \n            .moi"
   type: generic
-  organisation: 'Amazon EU S.à r.l.'
+  organisation: 'Amazon Registry Services, Inc.'
   isIDN: true
   punycode: null
 -
@@ -6517,7 +6529,7 @@
 -
   domain: "\n            \n            .yamaxun"
   type: generic
-  organisation: 'Amazon EU S.à r.l.'
+  organisation: 'Amazon Registry Services, Inc.'
   isIDN: true
   punycode: null
 -

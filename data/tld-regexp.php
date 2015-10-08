@@ -260,6 +260,8 @@ $gTLD_IDN = "(?:
             
             .church|
             
+            .cipriani|
+            
             .cisco|
             
             .citic|
@@ -729,6 +731,8 @@ $gTLD_IDN = "(?:
             .kia|
             
             .kim|
+            
+            .kinder|
             
             .kitchen|
             

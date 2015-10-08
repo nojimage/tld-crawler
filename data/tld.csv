@@ -529,6 +529,9 @@ Ltd. d/b/a Island Internet Services"
             .ci",country-code,"INP-HB Institut National Polytechnique Felix Houphouet Boigny"
 "
             
+            .cipriani",generic,"Hotel Cipriani Srl"
+"
+            
             .cisco",generic,"Cisco Technology, Inc."
 "
             
@@ -1470,6 +1473,9 @@ Cable and Wireless"
             .kim",generic,"Afilias Limited"
 "
             
+            .kinder",generic,"Ferrero Trading Lux S.A."
+"
+            
             .kitchen",generic,"Just Goodbye, LLC"
 "
             
@@ -1772,7 +1778,7 @@ Direction des Communications Electroniques"
             .moe",generic,"Interlink Co., Ltd."
 "
             
-            .moi",generic,"Amazon EU S.à r.l."
+            .moi",generic,"Amazon Registry Services, Inc."
 "
             
             .mom",generic,"Uniregistry, Corp."
@@ -3298,7 +3304,7 @@ c/o COBEX Internet Services"
             .yachts",generic,"DERYachts, LLC"
 "
             
-            .yamaxun",generic,"Amazon EU S.à r.l."
+            .yamaxun",generic,"Amazon Registry Services, Inc."
 "
             
             .yandex",generic,"YANDEX, LLC"
