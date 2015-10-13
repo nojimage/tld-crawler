@@ -1445,6 +1445,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .dell"
+  type: generic
+  organisation: 'Dell Inc.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .delta"
   type: generic
   organisation: 'Delta Air Lines, Inc.'

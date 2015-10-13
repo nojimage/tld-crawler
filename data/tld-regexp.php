@@ -368,6 +368,8 @@ $gTLD_IDN = "(?:
             
             .delivery|
             
+            .dell|
+            
             .delta|
             
             .democrat|
