@@ -280,6 +280,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .aramco",
+        "type": "generic",
+        "organisation": "Aramco Services Company",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .archi",
         "type": "generic",
         "organisation": "STARTING DOT LIMITED",
@@ -7248,6 +7255,13 @@
         "domain": "\n            \n            \u200f.\u0639\u0645\u0627\u0646\u200e",
         "type": "country-code",
         "organisation": "Telecommunications Regulatory Authority (TRA)",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            \u200f.\u0627\u0631\u0627\u0645\u0643\u0648\u200e",
+        "type": "generic",
+        "organisation": "Aramco Services Company",
         "isIDN": true,
         "punycode": null
     },

@@ -239,6 +239,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .aramco"
+  type: generic
+  organisation: 'Aramco Services Company'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .archi"
   type: generic
   organisation: 'STARTING DOT LIMITED'
@@ -6212,6 +6218,12 @@
   domain: "\n            \n            ‏.عمان‎"
   type: country-code
   organisation: 'Telecommunications Regulatory Authority (TRA)'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            ‏.ارامكو‎"
+  type: generic
+  organisation: 'Aramco Services Company'
   isIDN: true
   punycode: null
 -
