@@ -263,6 +263,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .arte"
+  type: generic
+  organisation: 'Association Relative à la Télévision Européenne G.E.I.E.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .as"
   type: country-code
   organisation: 'AS Domain Registry'

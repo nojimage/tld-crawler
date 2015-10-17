@@ -68,6 +68,8 @@ $gTLD_IDN = "(?:
             
             .arpa|
             
+            .arte|
+            
             .asia|
             
             .associates|

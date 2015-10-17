@@ -308,6 +308,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .arte",
+        "type": "generic",
+        "organisation": "Association Relative \u00e0 la T\u00e9l\u00e9vision Europ\u00e9enne G.E.I.E.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .as",
         "type": "country-code",
         "organisation": "AS Domain Registry",
