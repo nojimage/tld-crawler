@@ -910,6 +910,8 @@ $gTLD_IDN = "(?:
             
             .museum|
             
+            .mutuelle|
+            
             .nadex|
             
             .nagoya|

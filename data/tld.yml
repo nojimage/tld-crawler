@@ -3659,6 +3659,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .mutuelle"
+  type: generic
+  organisation: 'Fédération Nationale de la Mutualité Française'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .mv"
   type: country-code
   organisation: 'Dhiraagu Pvt. Ltd. (DHIVEHINET)'
