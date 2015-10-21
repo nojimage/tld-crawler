@@ -7714,6 +7714,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .zara",
+        "type": "generic",
+        "organisation": "Industria de Dise\u00f1o Textil, S.A. (INDITEX, S.A.)",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .zip",
         "type": "generic",
         "organisation": "Charleston Road Registry Inc.",

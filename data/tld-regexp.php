@@ -1608,6 +1608,8 @@ $gTLD_IDN = "(?:
             
             .youtube|
             
+            .zara|
+            
             .zip|
             
             .zone|
