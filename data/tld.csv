@@ -1416,6 +1416,9 @@ Cable and Wireless"
             .iwc",generic,"Richemont DNS Inc."
 "
             
+            .jaguar",generic,"Jaguar Land Rover Ltd"
+"
+            
             .java",generic,"Oracle Corporation"
 "
             
@@ -2294,6 +2297,9 @@ Government Computer Center."
 "
             
             .rw",country-code,"Rwanda Information Communication and Technology Association (RICTA)"
+"
+            
+            .rwe",generic,"RWE AG"
 "
             
             .ryukyu",generic,"BusinessRalliart inc."

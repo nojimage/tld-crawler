@@ -3262,6 +3262,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .jaguar",
+        "type": "generic",
+        "organisation": "Jaguar Land Rover Ltd",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .java",
         "type": "generic",
         "organisation": "Oracle Corporation",
@@ -5281,6 +5288,13 @@
         "domain": "\n            \n            .rw",
         "type": "country-code",
         "organisation": "Rwanda Information Communication and Technology Association (RICTA)",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .rwe",
+        "type": "generic",
+        "organisation": "RWE AG",
         "isIDN": true,
         "punycode": null
     },

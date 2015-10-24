@@ -710,6 +710,8 @@ $gTLD_IDN = "(?:
             
             .iwc|
             
+            .jaguar|
+            
             .java|
             
             .jcb|
@@ -1123,6 +1125,8 @@ $gTLD_IDN = "(?:
             .ruhr|
             
             .run|
+            
+            .rwe|
             
             .ryukyu|
             
