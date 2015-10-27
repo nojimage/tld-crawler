@@ -2765,6 +2765,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .gucci",
+        "type": "generic",
+        "organisation": "Guccio Gucci S.p.a.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .guge",
         "type": "generic",
         "organisation": "Charleston Road Registry Inc.",
@@ -3552,6 +3559,13 @@
         "domain": "\n            \n            .land",
         "type": "generic",
         "organisation": "Pine Moon, LLC",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .landrover",
+        "type": "generic",
+        "organisation": "Jaguar Land Rover Ltd",
         "isIDN": true,
         "punycode": null
     },

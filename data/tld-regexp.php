@@ -604,6 +604,8 @@ $gTLD_IDN = "(?:
             
             .group|
             
+            .gucci|
+            
             .guge|
             
             .guide|
@@ -761,6 +763,8 @@ $gTLD_IDN = "(?:
             .lancaster|
             
             .land|
+            
+            .landrover|
             
             .lasalle|
             
