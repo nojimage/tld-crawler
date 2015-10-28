@@ -259,6 +259,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .apple",
+        "type": "generic",
+        "organisation": "Apple Inc.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .aq",
         "type": "country-code",
         "organisation": "Antarctica Network Information Centre Limited",
@@ -528,6 +535,13 @@
         "domain": "\n            \n            .be",
         "type": "country-code",
         "organisation": "DNS Belgium vzw/asbl",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .beats",
+        "type": "generic",
+        "organisation": "Beats Electronics, LLC",
         "isIDN": true,
         "punycode": null
     },
@@ -5400,6 +5414,13 @@
         "domain": "\n            \n            .sb",
         "type": "country-code",
         "organisation": "Solomon Telekom Company Limited",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .sbs",
+        "type": "generic",
+        "organisation": "SPECIAL BROADCASTING SERVICE CORPORATION",
         "isIDN": true,
         "punycode": null
     },

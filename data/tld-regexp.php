@@ -58,6 +58,8 @@ $gTLD_IDN = "(?:
             
             .app|
             
+            .apple|
+            
             .aquarelle|
             
             .aramco|
@@ -111,6 +113,8 @@ $gTLD_IDN = "(?:
             .bbva|
             
             .bcn|
+            
+            .beats|
             
             .beer|
             
@@ -1153,6 +1157,8 @@ $gTLD_IDN = "(?:
             .sarl|
             
             .saxo|
+            
+            .sbs|
             
             .sca|
             
