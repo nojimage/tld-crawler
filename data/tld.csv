@@ -1754,6 +1754,9 @@ Direction des Communications Electroniques"
             .menu",generic,"Wedding TLD2, LLC"
 "
             
+            .meo",generic,"PT Comunicacoes S.A."
+"
+            
             .mf",country-code,"Not assigned"
 "
             
@@ -2110,6 +2113,9 @@ The Papua New Guinea University of Technology"
             .pictures",generic,"Foggy Sky, LLC"
 "
             
+            .ping",generic,"Ping Registry Provider, Inc."
+"
+            
             .pink",generic,"Afilias Limited"
 "
             
@@ -2342,6 +2348,9 @@ Government Computer Center."
 "
             
             .sap",generic,"SAP AG"
+"
+            
+            .sapo",generic,"PT Comunicacoes S.A."
 "
             
             .sarl",generic,"Delta Orchard, LLC"

@@ -4039,6 +4039,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .meo",
+        "type": "generic",
+        "organisation": "PT Comunicacoes S.A.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .mf",
         "type": "country-code",
         "organisation": "Not assigned",
@@ -4858,6 +4865,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .ping",
+        "type": "generic",
+        "organisation": "Ping Registry Provider, Inc.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .pink",
         "type": "generic",
         "organisation": "Afilias Limited",
@@ -5393,6 +5407,13 @@
         "domain": "\n            \n            .sap",
         "type": "generic",
         "organisation": "SAP AG",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .sapo",
+        "type": "generic",
+        "organisation": "PT Comunicacoes S.A.",
         "isIDN": true,
         "punycode": null
     },

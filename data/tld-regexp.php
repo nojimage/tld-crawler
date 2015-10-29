@@ -872,6 +872,8 @@ $gTLD_IDN = "(?:
             
             .menu|
             
+            .meo|
+            
             .miami|
             
             .microsoft|
@@ -1032,6 +1034,8 @@ $gTLD_IDN = "(?:
             
             .pictures|
             
+            .ping|
+            
             .pink|
             
             .pizza|
@@ -1153,6 +1157,8 @@ $gTLD_IDN = "(?:
             .sanofi|
             
             .sap|
+            
+            .sapo|
             
             .sarl|
             
