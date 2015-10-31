@@ -5,6 +5,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .aarp"
+  type: generic
+  organisation: AARP
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .abb"
   type: generic
   organisation: 'ABB Ltd'

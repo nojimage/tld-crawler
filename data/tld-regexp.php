@@ -6,6 +6,8 @@ $gTLD_IDN = "(?:
             
             .aaa|
             
+            .aarp|
+            
             .abb|
             
             .abbott|
