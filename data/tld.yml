@@ -6367,7 +6367,7 @@
 -
   domain: "\n            \n            ‏.عراق‎"
   type: country-code
-  organisation: 'Not assigned'
+  organisation: 'Communications and Media Commission (CMC)'
   isIDN: true
   punycode: null
 -
@@ -6475,7 +6475,7 @@
 -
   domain: "\n            \n            .ελ"
   type: country-code
-  organisation: 'Not assigned'
+  organisation: 'ICS-FORTH GR'
   isIDN: true
   punycode: null
 -
