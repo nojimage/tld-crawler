@@ -490,6 +490,8 @@ $gTLD_IDN = "(?:
             
             .feedback|
             
+            .ferrero|
+            
             .film|
             
             .final|
@@ -1046,6 +1048,8 @@ $gTLD_IDN = "(?:
             
             .play|
             
+            .playstation|
+            
             .plumbing|
             
             .plus|
@@ -1129,6 +1133,8 @@ $gTLD_IDN = "(?:
             .rio|
             
             .rip|
+            
+            .rocher|
             
             .rocks|
             

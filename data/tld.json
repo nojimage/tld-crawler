@@ -2205,6 +2205,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .ferrero",
+        "type": "generic",
+        "organisation": "Ferrero Trading Lux S.A.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .fi",
         "type": "country-code",
         "organisation": "Finnish Communications Regulatory Authority",
@@ -4921,6 +4928,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .playstation",
+        "type": "generic",
+        "organisation": "Sony Computer Entertainment Inc.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .plumbing",
         "type": "generic",
         "organisation": "Spring Tigers, LLC",
@@ -5281,6 +5295,13 @@
         "domain": "\n            \n            .ro",
         "type": "country-code",
         "organisation": "National Institute for R\u0026D in Informatics",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .rocher",
+        "type": "generic",
+        "organisation": "Ferrero Trading Lux S.A.",
         "isIDN": true,
         "punycode": null
     },
