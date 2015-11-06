@@ -805,7 +805,7 @@
 -
   domain: "\n            \n            .ca"
   type: country-code
-  organisation: "Canadian Internet Registration Authority (CIRA)\nAutorite Canadienne pour les Enregistrements Internet (ACEI)"
+  organisation: 'Canadian Internet Registration Authority (CIRA) Autorité Canadienne pour les enregistrements Internet (ACEI)'
   isIDN: true
   punycode: null
 -
