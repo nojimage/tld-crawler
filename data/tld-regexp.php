@@ -278,6 +278,8 @@ $gTLD_IDN = "(?:
             
             .city|
             
+            .cityeats|
+            
             .claims|
             
             .cleaning|
@@ -339,6 +341,8 @@ $gTLD_IDN = "(?:
             .credit|
             
             .creditcard|
+            
+            .creditunion|
             
             .cricket|
             
@@ -801,6 +805,8 @@ $gTLD_IDN = "(?:
             .lidl|
             
             .life|
+            
+            .lifestyle|
             
             .lighting|
             
@@ -1379,6 +1385,8 @@ $gTLD_IDN = "(?:
             .uol|
             
             .vacations|
+            
+            .vana|
             
             .vegas|
             

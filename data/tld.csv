@@ -555,6 +555,9 @@ Ltd. d/b/a Island Internet Services"
             .city",generic,"Snow Sky, LLC"
 "
             
+            .cityeats",generic,"Lifestyle Domain Holdings, Inc."
+"
+            
             .ck",country-code,"Telecom Cook Islands Ltd."
 "
             
@@ -665,6 +668,9 @@ Academia Nacional de Ciencias"
 "
             
             .creditcard",generic,"Binky Frostbite, LLC"
+"
+            
+            .creditunion",generic,"CUNA Performance Resources, LLC"
 "
             
             .cricket",generic,"dot Cricket Limited"
@@ -1609,6 +1615,9 @@ Computing and Networking Services"
 "
             
             .life",generic,"Trixy Oaks, LLC"
+"
+            
+            .lifestyle",generic,"Lifestyle Domain Holdings, Inc."
 "
             
             .lighting",generic,"John McCook, LLC"
@@ -2826,6 +2835,9 @@ UZINFOCOM"
 "
             
             .vacations",generic,"Atomic Tigers, LLC"
+"
+            
+            .vana",generic,"Lifestyle Domain Holdings, Inc."
 "
             
             .vc",country-code,"Ministry of Telecommunications, Science, Technology and Industry"

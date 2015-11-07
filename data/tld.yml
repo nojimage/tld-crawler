@@ -1097,6 +1097,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .cityeats"
+  type: generic
+  organisation: 'Lifestyle Domain Holdings, Inc.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .ck"
   type: country-code
   organisation: 'Telecom Cook Islands Ltd.'
@@ -1316,6 +1322,12 @@
   domain: "\n            \n            .creditcard"
   type: generic
   organisation: 'Binky Frostbite, LLC'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .creditunion"
+  type: generic
+  organisation: 'CUNA Performance Resources, LLC'
   isIDN: true
   punycode: null
 -
@@ -3182,6 +3194,12 @@
   domain: "\n            \n            .life"
   type: generic
   organisation: 'Trixy Oaks, LLC'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .lifestyle"
+  type: generic
+  organisation: 'Lifestyle Domain Holdings, Inc.'
   isIDN: true
   punycode: null
 -
@@ -5576,6 +5594,12 @@
   domain: "\n            \n            .vacations"
   type: generic
   organisation: 'Atomic Tigers, LLC'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .vana"
+  type: generic
+  organisation: 'Lifestyle Domain Holdings, Inc.'
   isIDN: true
   punycode: null
 -
