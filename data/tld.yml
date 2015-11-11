@@ -1859,6 +1859,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .fairwinds"
+  type: generic
+  organisation: 'FairWinds Partners, LLC'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .faith"
   type: generic
   organisation: 'dot Faith Limited'
@@ -2354,6 +2360,12 @@
   domain: "\n            \n            .gr"
   type: country-code
   organisation: 'ICS-FORTH GR'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .grainger"
+  type: generic
+  organisation: 'Grainger Registry Services, LLC'
   isIDN: true
   punycode: null
 -
@@ -5192,6 +5204,12 @@
   domain: "\n            \n            .sz"
   type: country-code
   organisation: "University of Swaziland\nDepartment of Computer Science"
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .tab"
+  type: generic
+  organisation: 'Tabcorp Holdings Limited'
   isIDN: true
   punycode: null
 -

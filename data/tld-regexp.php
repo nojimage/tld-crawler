@@ -480,6 +480,8 @@ $gTLD_IDN = "(?:
             
             .fail|
             
+            .fairwinds|
+            
             .faith|
             
             .family|
@@ -605,6 +607,8 @@ $gTLD_IDN = "(?:
             .gop|
             
             .gov|
+            
+            .grainger|
             
             .graphics|
             
@@ -1301,6 +1305,8 @@ $gTLD_IDN = "(?:
             .sydney|
             
             .systems|
+            
+            .tab|
             
             .taipei|
             
