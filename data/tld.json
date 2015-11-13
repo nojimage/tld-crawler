@@ -1449,6 +1449,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .comsec",
+        "type": "generic",
+        "organisation": "VeriSign, Inc.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .condos",
         "type": "generic",
         "organisation": "Pine House, LLC",

@@ -316,6 +316,8 @@ $gTLD_IDN = "(?:
             
             .computer|
             
+            .comsec|
+            
             .condos|
             
             .construction|
