@@ -82,6 +82,8 @@ $gTLD_IDN = "(?:
             
             .auction|
             
+            .audi|
+            
             .audio|
             
             .auto|
@@ -162,6 +164,8 @@ $gTLD_IDN = "(?:
             
             .boats|
             
+            .boehringer|
+            
             .bom|
             
             .bond|
@@ -176,6 +180,8 @@ $gTLD_IDN = "(?:
             
             .bridgestone|
             
+            .broadway|
+            
             .broker|
             
             .brother|
@@ -183,6 +189,8 @@ $gTLD_IDN = "(?:
             .brussels|
             
             .budapest|
+            
+            .bugatti|
             
             .build|
             
@@ -777,6 +785,8 @@ $gTLD_IDN = "(?:
             .kyoto|
             
             .lacaixa|
+            
+            .lamborghini|
             
             .lancaster|
             
@@ -1411,6 +1421,8 @@ $gTLD_IDN = "(?:
             .villas|
             
             .vin|
+            
+            .vip|
             
             .virgin|
             

@@ -323,6 +323,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .audi"
+  type: generic
+  organisation: 'AUDI Aktiengesellschaft'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .audio"
   type: generic
   organisation: 'Uniregistry, Corp.'
@@ -659,6 +665,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .boehringer"
+  type: generic
+  organisation: 'Boehringer Ingelheim International GmbH'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .bom"
   type: generic
   organisation: 'Núcleo de Informação e Coordenação do Ponto BR - NIC.br'
@@ -713,6 +725,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .broadway"
+  type: generic
+  organisation: 'Celebrate Broadway, Inc.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .broker"
   type: generic
   organisation: 'DOTBROKER REGISTRY LTD'
@@ -746,6 +764,12 @@
   domain: "\n            \n            .budapest"
   type: generic
   organisation: 'Top Level Domain Holdings Limited'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .bugatti"
+  type: generic
+  organisation: 'Bugatti International SA'
   isIDN: true
   punycode: null
 -
@@ -3092,6 +3116,12 @@
   domain: "\n            \n            .lacaixa"
   type: generic
   organisation: 'CAIXA D''ESTALVIS I PENSIONS DE BARCELONA'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .lamborghini"
+  type: generic
+  organisation: 'Automobili Lamborghini S.p.A.'
   isIDN: true
   punycode: null
 -
@@ -5696,6 +5726,12 @@
   domain: "\n            \n            .vin"
   type: generic
   organisation: 'Holly Shadow, LLC'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .vip"
+  type: generic
+  organisation: 'Minds + Machines Group Limited'
   isIDN: true
   punycode: null
 -
