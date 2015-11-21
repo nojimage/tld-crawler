@@ -174,6 +174,8 @@ $gTLD_IDN = "(?:
             
             .boots|
             
+            .bostik|
+            
             .boutique|
             
             .bradesco|
@@ -1409,6 +1411,8 @@ $gTLD_IDN = "(?:
             .vegas|
             
             .ventures|
+            
+            .verisign|
             
             .versicherung|
             

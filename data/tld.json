@@ -812,6 +812,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .bostik",
+        "type": "generic",
+        "organisation": "Bostik SA",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .boutique",
         "type": "generic",
         "organisation": "Over Galley, LLC",
@@ -6625,6 +6632,13 @@
         "domain": "\n            \n            .ventures",
         "type": "generic",
         "organisation": "Binky Lake, LLC",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .verisign",
+        "type": "generic",
+        "organisation": "VeriSign, Inc.",
         "isIDN": true,
         "punycode": null
     },
