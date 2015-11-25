@@ -2863,7 +2863,7 @@
 -
   domain: "\n            \n            .istanbul"
   type: generic
-  organisation: 'Istanbul Metropolitan Municipality / Medya A.S.'
+  organisation: 'Istanbul Metropolitan Municipality'
   isIDN: true
   punycode: null
 -
@@ -4892,6 +4892,12 @@
   domain: "\n            \n            .sexy"
   type: generic
   organisation: 'Uniregistry, Corp.'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .sfr"
+  type: generic
+  organisation: 'Societe Francaise du Radiotelephone - SFR'
   isIDN: true
   punycode: null
 -

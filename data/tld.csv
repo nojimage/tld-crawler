@@ -1448,7 +1448,7 @@ Cable and Wireless"
             .ist",generic,"Istanbul Metropolitan Municipality"
 "
             
-            .istanbul",generic,"Istanbul Metropolitan Municipality / Medya A.S."
+            .istanbul",generic,"Istanbul Metropolitan Municipality"
 "
             
             .it",country-code,"IIT - CNR"
@@ -2476,6 +2476,9 @@ Government Computer Center."
 "
             
             .sexy",generic,"Uniregistry, Corp."
+"
+            
+            .sfr",generic,"Societe Francaise du Radiotelephone - SFR"
 "
             
             .sg",country-code,"Singapore Network Information Centre (SGNIC) Pte Ltd"

@@ -1236,6 +1236,8 @@ $gTLD_IDN = "(?:
             
             .sexy|
             
+            .sfr|
+            
             .shiksha|
             
             .shoes|
