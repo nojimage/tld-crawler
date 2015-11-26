@@ -3262,6 +3262,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .insurance",
+        "type": "generic",
+        "organisation": "fTLD Registry Services LLC",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .insure",
         "type": "generic",
         "organisation": "Pioneer Willow, LLC",
@@ -4084,6 +4091,13 @@
         "domain": "\n            \n            .me",
         "type": "country-code",
         "organisation": "Government of Montenegro",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .med",
+        "type": "generic",
+        "organisation": "Medistry LLC",
         "isIDN": true,
         "punycode": null
     },

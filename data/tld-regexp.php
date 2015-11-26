@@ -720,6 +720,8 @@ $gTLD_IDN = "(?:
             
             .institute|
             
+            .insurance|
+            
             .insure|
             
             .int|
@@ -885,6 +887,8 @@ $gTLD_IDN = "(?:
             .marriott|
             
             .mba|
+            
+            .med|
             
             .media|
             
