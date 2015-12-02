@@ -992,6 +992,8 @@ $gTLD_IDN = "(?:
             
             .nokia|
             
+            .norton|
+            
             .nra|
             
             .nrw|
@@ -1323,6 +1325,8 @@ $gTLD_IDN = "(?:
             .swiss|
             
             .sydney|
+            
+            .symantec|
             
             .systems|
             

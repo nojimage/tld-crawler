@@ -3983,6 +3983,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .norton"
+  type: generic
+  organisation: 'Symantec Corporation'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .np"
   type: country-code
   organisation: 'Mercantile Communications Pvt. Ltd.'
@@ -5252,6 +5258,12 @@
   domain: "\n            \n            .sydney"
   type: generic
   organisation: 'State of New South Wales, Department of Premier and Cabinet'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .symantec"
+  type: generic
+  organisation: 'Symantec Corporation'
   isIDN: true
   punycode: null
 -

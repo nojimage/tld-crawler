@@ -2017,6 +2017,9 @@ Centro de Computo"
             .nokia",generic,"Nokia Corporation"
 "
             
+            .norton",generic,"Symantec Corporation"
+"
+            
             .np",country-code,"Mercantile Communications Pvt. Ltd."
 "
             
@@ -2658,6 +2661,9 @@ NIC Senegal"
 "
             
             .sydney",generic,"State of New South Wales, Department of Premier and Cabinet"
+"
+            
+            .symantec",generic,"Symantec Corporation"
 "
             
             .systems",generic,"Dash Cypress, LLC"
