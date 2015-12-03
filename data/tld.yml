@@ -335,6 +335,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .author"
+  type: generic
+  organisation: 'Amazon EU S.à r.l.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .auto"
   type: generic
   organisation: 'Cars Registry Limited'
@@ -689,6 +695,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .book"
+  type: generic
+  organisation: 'Amazon EU S.à r.l.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .boots"
   type: generic
   organisation: 'THE BOOTS COMPANY PLC'
@@ -698,6 +710,12 @@
   domain: "\n            \n            .bostik"
   type: generic
   organisation: 'Bostik SA'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .bot"
+  type: generic
+  organisation: 'Amazon EU S.à r.l.'
   isIDN: true
   punycode: null
 -
@@ -817,7 +835,7 @@
 -
   domain: "\n            \n            .by"
   type: country-code
-  organisation: 'Reliable Software Inc.'
+  organisation: 'Reliable Software, Ltd.'
   isIDN: true
   punycode: null
 -
@@ -854,6 +872,12 @@
   domain: "\n            \n            .cal"
   type: generic
   organisation: 'Charleston Road Registry Inc.'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .call"
+  type: generic
+  organisation: 'Amazon EU S.à r.l.'
   isIDN: true
   punycode: null
 -
@@ -1106,6 +1130,12 @@
   domain: "\n            \n            .cipriani"
   type: generic
   organisation: 'Hotel Cipriani Srl'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .circle"
+  type: generic
+  organisation: 'Amazon EU S.à r.l.'
   isIDN: true
   punycode: null
 -
@@ -1937,6 +1967,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .fast"
+  type: generic
+  organisation: 'Amazon EU S.à r.l.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .feedback"
   type: generic
   organisation: 'Top Level Spectrum, Inc.'
@@ -1976,6 +2012,12 @@
   domain: "\n            \n            .financial"
   type: generic
   organisation: 'Just Cover, LLC'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .firestone"
+  type: generic
+  organisation: 'Bridgestone Corporation'
   isIDN: true
   punycode: null
 -
@@ -2372,6 +2414,12 @@
   domain: "\n            \n            .gop"
   type: generic
   organisation: 'Republican State Leadership Committee, Inc.'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .got"
+  type: generic
+  organisation: 'Amazon EU S.à r.l.'
   isIDN: true
   punycode: null
 -
@@ -2960,6 +3008,12 @@
   domain: "\n            \n            .joburg"
   type: generic
   organisation: 'ZA Central Registry NPC trading as ZA Central Registry'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .jot"
+  type: generic
+  organisation: 'Amazon EU S.à r.l.'
   isIDN: true
   punycode: null
 -
@@ -3989,6 +4043,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .nowruz"
+  type: generic
+  organisation: 'Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .np"
   type: country-code
   organisation: 'Mercantile Communications Pvt. Ltd.'
@@ -4721,6 +4781,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .salon"
+  type: generic
+  organisation: 'Outer Orchard, LLC'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .samsung"
   type: generic
   organisation: 'SAMSUNG SDS CO., LTD'
@@ -4928,6 +4994,18 @@
   domain: "\n            \n            .sh"
   type: country-code
   organisation: 'Government of St. Helena'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .sharp"
+  type: generic
+  organisation: 'Sharp Corporation'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .shia"
+  type: generic
+  organisation: 'Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.'
   isIDN: true
   punycode: null
 -
@@ -5327,6 +5405,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .tci"
+  type: generic
+  organisation: 'Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .td"
   type: country-code
   organisation: 'Société des télécommunications du Tchad (SOTEL TCHAD)'
@@ -5570,6 +5654,12 @@
   domain: "\n            \n            .travel"
   type: sponsored
   organisation: 'Tralliance Registry Management Company, LLC.'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .travelers"
+  type: generic
+  organisation: 'Travelers TLD, LLC'
   isIDN: true
   punycode: null
 -
@@ -6163,7 +6253,7 @@
 -
   domain: "\n            \n            .бел"
   type: country-code
-  organisation: 'Reliable Software Inc.'
+  organisation: 'Reliable Software, Ltd.'
   isIDN: true
   punycode: null
 -

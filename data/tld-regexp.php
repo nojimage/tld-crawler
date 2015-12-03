@@ -86,6 +86,8 @@ $gTLD_IDN = "(?:
             
             .audio|
             
+            .author|
+            
             .auto|
             
             .autos|
@@ -172,9 +174,13 @@ $gTLD_IDN = "(?:
             
             .boo|
             
+            .book|
+            
             .boots|
             
             .bostik|
+            
+            .bot|
             
             .boutique|
             
@@ -209,6 +215,8 @@ $gTLD_IDN = "(?:
             .cafe|
             
             .cal|
+            
+            .call|
             
             .camera|
             
@@ -281,6 +289,8 @@ $gTLD_IDN = "(?:
             .church|
             
             .cipriani|
+            
+            .circle|
             
             .cisco|
             
@@ -506,6 +516,8 @@ $gTLD_IDN = "(?:
             
             .fashion|
             
+            .fast|
+            
             .feedback|
             
             .ferrero|
@@ -517,6 +529,8 @@ $gTLD_IDN = "(?:
             .finance|
             
             .financial|
+            
+            .firestone|
             
             .firmdale|
             
@@ -617,6 +631,8 @@ $gTLD_IDN = "(?:
             .google|
             
             .gop|
+            
+            .got|
             
             .gov|
             
@@ -759,6 +775,8 @@ $gTLD_IDN = "(?:
             .jobs|
             
             .joburg|
+            
+            .jot|
             
             .jprs|
             
@@ -994,6 +1012,8 @@ $gTLD_IDN = "(?:
             
             .norton|
             
+            .nowruz|
+            
             .nra|
             
             .nrw|
@@ -1186,6 +1206,8 @@ $gTLD_IDN = "(?:
             
             .sale|
             
+            .salon|
+            
             .samsung|
             
             .sandvik|
@@ -1243,6 +1265,10 @@ $gTLD_IDN = "(?:
             .sexy|
             
             .sfr|
+            
+            .sharp|
+            
+            .shia|
             
             .shiksha|
             
@@ -1344,6 +1370,8 @@ $gTLD_IDN = "(?:
             
             .taxi|
             
+            .tci|
+            
             .team|
             
             .tech|
@@ -1401,6 +1429,8 @@ $gTLD_IDN = "(?:
             .training|
             
             .travel|
+            
+            .travelers|
             
             .trust|
             
