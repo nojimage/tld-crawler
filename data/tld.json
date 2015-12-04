@@ -952,6 +952,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .buy",
+        "type": "generic",
+        "organisation": "Amazon EU S.\u00e0 r.l.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .buzz",
         "type": "generic",
         "organisation": "DOTSTRATEGY CO.",
@@ -3521,6 +3528,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .joy",
+        "type": "generic",
+        "organisation": "Amazon EU S.\u00e0 r.l.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .jp",
         "type": "country-code",
         "organisation": "Japan Registry Services Co., Ltd.",
@@ -3874,6 +3888,13 @@
         "domain": "\n            \n            .lighting",
         "type": "generic",
         "organisation": "John McCook, LLC",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .like",
+        "type": "generic",
+        "organisation": "Amazon EU S.\u00e0 r.l.",
         "isIDN": true,
         "punycode": null
     },
@@ -5054,6 +5075,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .pin",
+        "type": "generic",
+        "organisation": "Amazon EU S.\u00e0 r.l.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .ping",
         "type": "generic",
         "organisation": "Ping Registry Provider, Inc.",
@@ -5306,6 +5334,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .read",
+        "type": "generic",
+        "organisation": "Amazon EU S.\u00e0 r.l.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .realtor",
         "type": "generic",
         "organisation": "Real Estate Domains LLC",
@@ -5495,6 +5530,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .room",
+        "type": "generic",
+        "organisation": "Amazon EU S.\u00e0 r.l.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .rs",
         "type": "country-code",
         "organisation": "Serbian National Internet Domain Registry (RNIDS)",
@@ -5561,6 +5603,13 @@
         "domain": "\n            \n            .saarland",
         "type": "generic",
         "organisation": "dotSaarland GmbH",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .safe",
+        "type": "generic",
+        "organisation": "Amazon EU S.\u00e0 r.l.",
         "isIDN": true,
         "punycode": null
     },
@@ -5939,6 +5988,13 @@
         "domain": "\n            \n            .sm",
         "type": "country-code",
         "organisation": "Telecom Italia San Marino S.p.A.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .smile",
+        "type": "generic",
+        "organisation": "Amazon EU S.\u00e0 r.l.",
         "isIDN": true,
         "punycode": null
     },
@@ -8067,6 +8123,13 @@
         "domain": "\n            \n            .zara",
         "type": "generic",
         "organisation": "Industria de Dise\u00f1o Textil, S.A. (INDITEX, S.A.)",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .zero",
+        "type": "generic",
+        "organisation": "Amazon EU S.\u00e0 r.l.",
         "isIDN": true,
         "punycode": null
     },

@@ -206,6 +206,8 @@ $gTLD_IDN = "(?:
             
             .business|
             
+            .buy|
+            
             .buzz|
             
             .bzh|
@@ -778,6 +780,8 @@ $gTLD_IDN = "(?:
             
             .jot|
             
+            .joy|
+            
             .jprs|
             
             .juegos|
@@ -847,6 +851,8 @@ $gTLD_IDN = "(?:
             .lifestyle|
             
             .lighting|
+            
+            .like|
             
             .limited|
             
@@ -1088,6 +1094,8 @@ $gTLD_IDN = "(?:
             
             .pictures|
             
+            .pin|
+            
             .ping|
             
             .pink|
@@ -1137,6 +1145,8 @@ $gTLD_IDN = "(?:
             .quebec|
             
             .racing|
+            
+            .read|
             
             .realtor|
             
@@ -1190,6 +1200,8 @@ $gTLD_IDN = "(?:
             
             .rodeo|
             
+            .room|
+            
             .rsvp|
             
             .ruhr|
@@ -1201,6 +1213,8 @@ $gTLD_IDN = "(?:
             .ryukyu|
             
             .saarland|
+            
+            .safe|
             
             .sakura|
             
@@ -1287,6 +1301,8 @@ $gTLD_IDN = "(?:
             .sky|
             
             .skype|
+            
+            .smile|
             
             .sncf|
             
@@ -1709,6 +1725,8 @@ $gTLD_IDN = "(?:
             .youtube|
             
             .zara|
+            
+            .zero|
             
             .zip|
             
