@@ -4241,6 +4241,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .pars"
+  type: generic
+  organisation: 'Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .partners"
   type: generic
   organisation: 'Magic Glen, LLC'
@@ -6644,6 +6650,12 @@
   domain: "\n            \n            ‏.سودان‎"
   type: country-code
   organisation: 'Sudan Internet Society'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            ‏.همراه‎"
+  type: generic
+  organisation: 'Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.'
   isIDN: true
   punycode: null
 -
