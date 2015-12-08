@@ -5143,7 +5143,7 @@
 -
   domain: "\n            \n            .smile"
   type: generic
-  organisation: 'Amazon EU S.à r.l.'
+  organisation: 'Amazon Registry Services, Inc.'
   isIDN: true
   punycode: null
 -
@@ -6979,7 +6979,7 @@
 -
   domain: "\n            \n            .zero"
   type: generic
-  organisation: 'Amazon EU S.à r.l.'
+  organisation: 'Amazon Registry Services, Inc.'
   isIDN: true
   punycode: null
 -

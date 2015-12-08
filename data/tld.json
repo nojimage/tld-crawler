@@ -6001,7 +6001,7 @@
     {
         "domain": "\n            \n            .smile",
         "type": "generic",
-        "organisation": "Amazon EU S.\u00e0 r.l.",
+        "organisation": "Amazon Registry Services, Inc.",
         "isIDN": true,
         "punycode": null
     },
@@ -8143,7 +8143,7 @@
     {
         "domain": "\n            \n            .zero",
         "type": "generic",
-        "organisation": "Amazon EU S.\u00e0 r.l.",
+        "organisation": "Amazon Registry Services, Inc.",
         "isIDN": true,
         "punycode": null
     },
