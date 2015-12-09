@@ -2337,6 +2337,9 @@ Government Computer Center."
             .redstone",generic,"Redstone Haute Couture Co., Ltd."
 "
             
+            .redumbrella",generic,"Travelers TLD, LLC"
+"
+            
             .rehab",generic,"United TLD Holdco Ltd."
 "
             
@@ -2895,7 +2898,13 @@ Department of Computer Engineering"
             .travelers",generic,"Travelers TLD, LLC"
 "
             
+            .travelersinsurance",generic,"Travelers TLD, LLC"
+"
+            
             .trust",generic,"Artemis Internet Inc"
+"
+            
+            .trv",generic,"Travelers TLD, LLC"
 "
             
             .tt",country-code,"University of the West Indies
@@ -2903,6 +2912,9 @@ Faculty of Engineering"
 "
             
             .tui",generic,"TUI AG"
+"
+            
+            .tushu",generic,"Amazon EU S.à r.l."
 "
             
             .tv",country-code,"Ministry of Finance and Tourism"
@@ -3235,6 +3247,9 @@ c/o COBEX Internet Services"
 "
             
             ‏.טעסט‎",test,"Internet Assigned Numbers Authority"
+"
+            
+            .ポイント",generic,"Amazon EU S.à r.l."
 "
             
             .新闻",generic,"Xinhua News Agency Guangdong Branch 新华通讯社广东分社"

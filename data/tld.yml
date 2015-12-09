@@ -4613,6 +4613,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .redumbrella"
+  type: generic
+  organisation: 'Travelers TLD, LLC'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .rehab"
   type: generic
   organisation: 'United TLD Holdco Ltd.'
@@ -5717,9 +5723,21 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .travelersinsurance"
+  type: generic
+  organisation: 'Travelers TLD, LLC'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .trust"
   type: generic
   organisation: 'Artemis Internet Inc'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .trv"
+  type: generic
+  organisation: 'Travelers TLD, LLC'
   isIDN: true
   punycode: null
 -
@@ -5732,6 +5750,12 @@
   domain: "\n            \n            .tui"
   type: generic
   organisation: 'TUI AG'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .tushu"
+  type: generic
+  organisation: 'Amazon EU S.à r.l.'
   isIDN: true
   punycode: null
 -
@@ -6392,6 +6416,12 @@
   domain: "\n            \n            ‏.טעסט‎"
   type: test
   organisation: 'Internet Assigned Numbers Authority'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .ポイント"
+  type: generic
+  organisation: 'Amazon EU S.à r.l.'
   isIDN: true
   punycode: null
 -

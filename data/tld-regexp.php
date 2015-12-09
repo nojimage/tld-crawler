@@ -1160,6 +1160,8 @@ $gTLD_IDN = "(?:
             
             .redstone|
             
+            .redumbrella|
+            
             .rehab|
             
             .reise|
@@ -1450,9 +1452,15 @@ $gTLD_IDN = "(?:
             
             .travelers|
             
+            .travelersinsurance|
+            
             .trust|
             
+            .trv|
+            
             .tui|
+            
+            .tushu|
             
             .ubs|
             
@@ -1619,6 +1627,8 @@ $gTLD_IDN = "(?:
             .дети|
             
             ‏.טעסט‎|
+            
+            .ポイント|
             
             .新闻|
             
