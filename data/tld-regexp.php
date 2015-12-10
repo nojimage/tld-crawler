@@ -1286,6 +1286,8 @@ $gTLD_IDN = "(?:
             
             .sharp|
             
+            .shell|
+            
             .shia|
             
             .shiksha|
@@ -1522,7 +1524,11 @@ $gTLD_IDN = "(?:
             
             .wang|
             
+            .wanggou|
+            
             .watch|
+            
+            .watches|
             
             .webcam|
             
@@ -1666,6 +1672,8 @@ $gTLD_IDN = "(?:
             
             ‏.إختبار‎|
             
+            .手表|
+            
             .手机|
             
             ‏.ارامكو‎|
@@ -1687,6 +1695,8 @@ $gTLD_IDN = "(?:
             .健康|
             
             .рус|
+            
+            .珠宝|
             
             .大拿|
             

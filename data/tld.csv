@@ -2559,6 +2559,9 @@ Government Computer Center."
             .sharp",generic,"Sharp Corporation"
 "
             
+            .shell",generic,"Shell Information Technology International Inc"
+"
+            
             .shia",generic,"Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti."
 "
             
@@ -3060,7 +3063,13 @@ c/o COBEX Internet Services"
             .wang",generic,"Zodiac Registry Limited"
 "
             
+            .wanggou",generic,"Amazon EU S.à r.l."
+"
+            
             .watch",generic,"Sand Shadow, LLC"
+"
+            
+            .watches",generic,"Richemont DNS Inc."
 "
             
             .webcam",generic,"dot Webcam Limited"
@@ -3336,6 +3345,9 @@ c/o COBEX Internet Services"
             .台灣",country-code,"Taiwan Network Information Center (TWNIC)"
 "
             
+            .手表",generic,"Richemont DNS Inc."
+"
+            
             .手机",generic,"Beijing RITT-Net Technology Development Co., Ltd"
 "
             
@@ -3424,6 +3436,9 @@ c/o COBEX Internet Services"
 "
             
             .рф",country-code,"Coordination Center for TLD RU"
+"
+            
+            .珠宝",generic,"Richemont DNS Inc."
 "
             
             ‏.تونس‎",country-code,"Agence Tunisienne d'Internet"

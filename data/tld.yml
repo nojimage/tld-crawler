@@ -5057,6 +5057,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .shell"
+  type: generic
+  organisation: 'Shell Information Technology International Inc'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .shia"
   type: generic
   organisation: 'Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.'
@@ -6041,9 +6047,21 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .wanggou"
+  type: generic
+  organisation: 'Amazon EU S.à r.l.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .watch"
   type: generic
   organisation: 'Sand Shadow, LLC'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .watches"
+  type: generic
+  organisation: 'Richemont DNS Inc.'
   isIDN: true
   punycode: null
 -
@@ -6593,6 +6611,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .手表"
+  type: generic
+  organisation: 'Richemont DNS Inc.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .手机"
   type: generic
   organisation: 'Beijing RITT-Net Technology Development Co., Ltd'
@@ -6770,6 +6794,12 @@
   domain: "\n            \n            .рф"
   type: country-code
   organisation: 'Coordination Center for TLD RU'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .珠宝"
+  type: generic
+  organisation: 'Richemont DNS Inc.'
   isIDN: true
   punycode: null
 -

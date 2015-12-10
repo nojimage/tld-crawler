@@ -5901,6 +5901,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .shell",
+        "type": "generic",
+        "organisation": "Shell Information Technology International Inc",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .shia",
         "type": "generic",
         "organisation": "Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.",
@@ -7049,9 +7056,23 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .wanggou",
+        "type": "generic",
+        "organisation": "Amazon EU S.\u00e0 r.l.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .watch",
         "type": "generic",
         "organisation": "Sand Shadow, LLC",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .watches",
+        "type": "generic",
+        "organisation": "Richemont DNS Inc.",
         "isIDN": true,
         "punycode": null
     },
@@ -7693,6 +7714,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .\u624b\u8868",
+        "type": "generic",
+        "organisation": "Richemont DNS Inc.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .\u624b\u673a",
         "type": "generic",
         "organisation": "Beijing RITT-Net Technology Development Co., Ltd",
@@ -7899,6 +7927,13 @@
         "domain": "\n            \n            .\u0440\u0444",
         "type": "country-code",
         "organisation": "Coordination Center for TLD RU",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .\u73e0\u5b9d",
+        "type": "generic",
+        "organisation": "Richemont DNS Inc.",
         "isIDN": true,
         "punycode": null
     },
