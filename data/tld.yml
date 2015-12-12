@@ -3065,6 +3065,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .kfh"
+  type: generic
+  organisation: 'Kuwait Finance House'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .kg"
   type: country-code
   organisation: 'AsiaInfo Telecommunication Enterprise'
@@ -3140,6 +3146,12 @@
   domain: "\n            \n            .kp"
   type: country-code
   organisation: 'Star Joint Venture Company'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .kpn"
+  type: generic
+  organisation: 'Koninklijke KPN N.V.'
   isIDN: true
   punycode: null
 -
@@ -6746,6 +6758,12 @@
   domain: "\n            \n            ‏.شبكة‎"
   type: generic
   organisation: 'International Domain Registry Pty. Ltd.'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            ‏.بيتك‎"
+  type: generic
+  organisation: 'Kuwait Finance House'
   isIDN: true
   punycode: null
 -

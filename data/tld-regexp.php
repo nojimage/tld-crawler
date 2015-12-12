@@ -790,6 +790,8 @@ $gTLD_IDN = "(?:
             
             .kddi|
             
+            .kfh|
+            
             .kia|
             
             .kim|
@@ -803,6 +805,8 @@ $gTLD_IDN = "(?:
             .koeln|
             
             .komatsu|
+            
+            .kpn|
             
             .krd|
             
@@ -1687,6 +1691,8 @@ $gTLD_IDN = "(?:
             .政府|
             
             ‏.شبكة‎|
+            
+            ‏.بيتك‎|
             
             .机构|
             
