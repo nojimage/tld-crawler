@@ -6736,7 +6736,7 @@
     {
         "domain": "\n            \n            .tushu",
         "type": "generic",
-        "organisation": "Amazon EU S.\u00e0 r.l.",
+        "organisation": "Amazon Registry Services, Inc.",
         "isIDN": true,
         "punycode": null
     },
@@ -7527,7 +7527,7 @@
     {
         "domain": "\n            \n            .\u30dd\u30a4\u30f3\u30c8",
         "type": "generic",
-        "organisation": "Amazon EU S.\u00e0 r.l.",
+        "organisation": "Amazon Registry Services, Inc.",
         "isIDN": true,
         "punycode": null
     },
@@ -7689,6 +7689,13 @@
         "domain": "\n            \n            .\u9999\u6e2f",
         "type": "country-code",
         "organisation": "Hong Kong Internet Registration Corporation Ltd.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .\u8bfa\u57fa\u4e9a",
+        "type": "generic",
+        "organisation": "Nokia Corporation",
         "isIDN": true,
         "punycode": null
     },

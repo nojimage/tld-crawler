@@ -2923,7 +2923,7 @@ Faculty of Engineering"
             .tui",generic,"TUI AG"
 "
             
-            .tushu",generic,"Amazon EU S.à r.l."
+            .tushu",generic,"Amazon Registry Services, Inc."
 "
             
             .tv",country-code,"Ministry of Finance and Tourism"
@@ -3264,7 +3264,7 @@ c/o COBEX Internet Services"
             ‏.טעסט‎",test,"Internet Assigned Numbers Authority"
 "
             
-            .ポイント",generic,"Amazon EU S.à r.l."
+            .ポイント",generic,"Amazon Registry Services, Inc."
 "
             
             .新闻",generic,"Xinhua News Agency Guangdong Branch 新华通讯社广东分社"
@@ -3334,6 +3334,9 @@ c/o COBEX Internet Services"
 "
             
             .香港",country-code,"Hong Kong Internet Registration Corporation Ltd."
+"
+            
+            .诺基亚",generic,"Nokia Corporation"
 "
             
             .δοκιμή",test,"Internet Assigned Numbers Authority"

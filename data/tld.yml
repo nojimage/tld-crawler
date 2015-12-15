@@ -5773,7 +5773,7 @@
 -
   domain: "\n            \n            .tushu"
   type: generic
-  organisation: 'Amazon EU S.à r.l.'
+  organisation: 'Amazon Registry Services, Inc.'
   isIDN: true
   punycode: null
 -
@@ -6451,7 +6451,7 @@
 -
   domain: "\n            \n            .ポイント"
   type: generic
-  organisation: 'Amazon EU S.à r.l.'
+  organisation: 'Amazon Registry Services, Inc.'
   isIDN: true
   punycode: null
 -
@@ -6590,6 +6590,12 @@
   domain: "\n            \n            .香港"
   type: country-code
   organisation: 'Hong Kong Internet Registration Corporation Ltd.'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .诺基亚"
+  type: generic
+  organisation: 'Nokia Corporation'
   isIDN: true
   punycode: null
 -
