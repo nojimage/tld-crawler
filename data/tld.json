@@ -2478,6 +2478,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .ford",
+        "type": "generic",
+        "organisation": "Ford Motor Company",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .forex",
         "type": "generic",
         "organisation": "DOTFOREX REGISTRY LTD",
@@ -3923,6 +3930,13 @@
         "domain": "\n            \n            .limo",
         "type": "generic",
         "organisation": "Hidden Frostbite, LLC",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .lincoln",
+        "type": "generic",
+        "organisation": "Ford Motor Company",
         "isIDN": true,
         "punycode": null
     },
@@ -6202,6 +6216,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .storage",
+        "type": "generic",
+        "organisation": "Self Storage Company LLC",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .studio",
         "type": "generic",
         "organisation": "United TLD Holdco Ltd.",
@@ -7072,7 +7093,7 @@
     {
         "domain": "\n            \n            .wanggou",
         "type": "generic",
-        "organisation": "Amazon EU S.\u00e0 r.l.",
+        "organisation": "Amazon Registry Services, Inc.",
         "isIDN": true,
         "punycode": null
     },

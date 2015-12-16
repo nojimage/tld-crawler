@@ -558,6 +558,8 @@ $gTLD_IDN = "(?:
             
             .football|
             
+            .ford|
+            
             .forex|
             
             .forsale|
@@ -861,6 +863,8 @@ $gTLD_IDN = "(?:
             .limited|
             
             .limo|
+            
+            .lincoln|
             
             .linde|
             
@@ -1351,6 +1355,8 @@ $gTLD_IDN = "(?:
             .stcgroup|
             
             .stockholm|
+            
+            .storage|
             
             .studio|
             
