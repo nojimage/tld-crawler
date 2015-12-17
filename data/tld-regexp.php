@@ -54,6 +54,8 @@ $gTLD_IDN = "(?:
             
             .amsterdam|
             
+            .analytics|
+            
             .android|
             
             .apartments|
@@ -345,6 +347,8 @@ $gTLD_IDN = "(?:
             .construction|
             
             .consulting|
+            
+            .contact|
             
             .contractors|
             
@@ -775,6 +779,8 @@ $gTLD_IDN = "(?:
             .jlc|
             
             .jll|
+            
+            .jmp|
             
             .jobs|
             
@@ -1247,6 +1253,8 @@ $gTLD_IDN = "(?:
             .sapo|
             
             .sarl|
+            
+            .sas|
             
             .saxo|
             

@@ -203,6 +203,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .analytics"
+  type: generic
+  organisation: 'Campus IP LLC'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .android"
   type: generic
   organisation: 'Charleston Road Registry Inc.'
@@ -1328,6 +1334,12 @@
   domain: "\n            \n            .consulting"
   type: generic
   organisation: 'United TLD Holdco, LTD.'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .contact"
+  type: generic
+  organisation: 'Top Level Spectrum, Inc.'
   isIDN: true
   punycode: null
 -
@@ -3002,6 +3014,12 @@
   domain: "\n            \n            .jm"
   type: country-code
   organisation: 'University of West Indies'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .jmp"
+  type: generic
+  organisation: 'Matrix IP LLC'
   isIDN: true
   punycode: null
 -
@@ -4904,6 +4922,12 @@
   domain: "\n            \n            .sarl"
   type: generic
   organisation: 'Delta Orchard, LLC'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .sas"
+  type: generic
+  organisation: 'Research IP LLC'
   isIDN: true
   punycode: null
 -
