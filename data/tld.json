@@ -5131,6 +5131,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .pid",
+        "type": "generic",
+        "organisation": "Top Level Spectrum, Inc.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .pin",
         "type": "generic",
         "organisation": "Amazon Registry Services, Inc.",

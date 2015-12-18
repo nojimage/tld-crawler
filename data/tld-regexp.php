@@ -1110,6 +1110,8 @@ $gTLD_IDN = "(?:
             
             .pictures|
             
+            .pid|
+            
             .pin|
             
             .ping|
