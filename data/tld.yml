@@ -3761,6 +3761,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .mobily"
+  type: generic
+  organisation: 'GreenTech Consultancy Company W.L.L.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .moda"
   type: generic
   organisation: 'United TLD Holdco Ltd.'
@@ -5327,6 +5333,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .star"
+  type: generic
+  organisation: 'Star India Private Limited'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .starhub"
   type: generic
   organisation: 'StarHub Limited'
@@ -6131,6 +6143,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .weber"
+  type: generic
+  organisation: 'Saint-Gobain Weber SA'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .website"
   type: generic
   organisation: 'DotWebsite Inc.'
@@ -6746,6 +6764,12 @@
   domain: "\n            \n            ‏.الاردن‎"
   type: country-code
   organisation: 'National Information Technology Center (NITC)'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            ‏.موبايلي‎"
+  type: generic
+  organisation: 'GreenTech Consultancy Company W.L.L.'
   isIDN: true
   punycode: null
 -

@@ -956,6 +956,8 @@ $gTLD_IDN = "(?:
             
             .mobi|
             
+            .mobily|
+            
             .moda|
             
             .moe|
@@ -1356,6 +1358,8 @@ $gTLD_IDN = "(?:
             
             .stada|
             
+            .star|
+            
             .starhub|
             
             .statoil|
@@ -1552,6 +1556,8 @@ $gTLD_IDN = "(?:
             
             .webcam|
             
+            .weber|
+            
             .website|
             
             .wed|
@@ -1701,6 +1707,8 @@ $gTLD_IDN = "(?:
             ‏.ارامكو‎|
             
             ‏.بازار‎|
+            
+            ‏.موبايلي‎|
             
             ‏.همراه‎|
             
