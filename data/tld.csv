@@ -362,6 +362,9 @@ Ministry of Labour and Immigration"
             .boots",generic,"THE BOOTS COMPANY PLC"
 "
             
+            .bosch",generic,"Robert Bosch GMBH"
+"
+            
             .bostik",generic,"Bostik SA"
 "
             
@@ -786,6 +789,9 @@ Capitolio Nacional"
             .de",country-code,"DENIC eG"
 "
             
+            .dealer",generic,"Dealer Dot Com, Inc."
+"
+            
             .deals",generic,"Sand Sunset, LLC"
 "
             
@@ -1093,6 +1099,9 @@ IT Services"
 "
             
             .foundation",generic,"John Dale, LLC"
+"
+            
+            .fox",generic,"FOX Registry, LLC"
 "
             
             .fr",country-code,"Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)"
@@ -1637,6 +1646,9 @@ Cable and Wireless"
             .lamborghini",generic,"Automobili Lamborghini S.p.A."
 "
             
+            .lamer",generic,"The Estée Lauder Companies Inc."
+"
+            
             .lancaster",generic,LANCASTER
 "
             
@@ -2149,6 +2161,9 @@ Centro de Computo"
             .organic",generic,"Afilias Limited"
 "
             
+            .origins",generic,"The Estée Lauder Companies Inc."
+"
+            
             .osaka",generic,"Interlink Co., Ltd."
 "
             
@@ -2409,6 +2424,9 @@ Government Computer Center."
             .reviews",generic,"United TLD Holdco, Ltd."
 "
             
+            .rexroth",generic,"Robert Bosch GMBH"
+"
+            
             .rich",generic,"I-REGISTRY Ltd., Niederlassung Deutschland"
 "
             
@@ -2469,6 +2487,9 @@ Government Computer Center."
             .safe",generic,"Amazon Registry Services, Inc."
 "
             
+            .safety",generic,"Safety Registry Services, LLC."
+"
+            
             .sakura",generic,"SAKURA Internet Inc."
 "
             
@@ -2518,6 +2539,9 @@ Government Computer Center."
 "
             
             .scb",generic,"The Siam Commercial Bank Public Company Limited (""SCB"")"
+"
+            
+            .schaeffler",generic,"Schaeffler Technologies AG & Co. KG"
 "
             
             .schmidt",generic,"SALM S.A.S."
@@ -2702,6 +2726,9 @@ NIC Senegal"
 "
             
             .starhub",generic,"StarHub Limited"
+"
+            
+            .statefarm",generic,"State Farm Mutual Automobile Insurance Company"
 "
             
             .statoil",generic,"Statoil ASA"

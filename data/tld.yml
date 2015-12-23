@@ -713,6 +713,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .bosch"
+  type: generic
+  organisation: 'Robert Bosch GMBH'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .bostik"
   type: generic
   organisation: 'Bostik SA'
@@ -1553,6 +1559,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .dealer"
+  type: generic
+  organisation: 'Dealer Dot Com, Inc.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .deals"
   type: generic
   organisation: 'Sand Sunset, LLC'
@@ -2162,6 +2174,12 @@
   domain: "\n            \n            .foundation"
   type: generic
   organisation: 'John Dale, LLC'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .fox"
+  type: generic
+  organisation: 'FOX Registry, LLC'
   isIDN: true
   punycode: null
 -
@@ -3239,6 +3257,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .lamer"
+  type: generic
+  organisation: 'The Estée Lauder Companies Inc.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .lancaster"
   type: generic
   organisation: LANCASTER
@@ -4247,6 +4271,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .origins"
+  type: generic
+  organisation: 'The Estée Lauder Companies Inc.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .osaka"
   type: generic
   organisation: 'Interlink Co., Ltd.'
@@ -4757,6 +4787,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .rexroth"
+  type: generic
+  organisation: 'Robert Bosch GMBH'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .rich"
   type: generic
   organisation: 'I-REGISTRY Ltd., Niederlassung Deutschland'
@@ -4877,6 +4913,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .safety"
+  type: generic
+  organisation: 'Safety Registry Services, LLC.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .sakura"
   type: generic
   organisation: 'SAKURA Internet Inc.'
@@ -4976,6 +5018,12 @@
   domain: "\n            \n            .scb"
   type: generic
   organisation: 'The Siam Commercial Bank Public Company Limited ("SCB")'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .schaeffler"
+  type: generic
+  organisation: 'Schaeffler Technologies AG & Co. KG'
   isIDN: true
   punycode: null
 -
@@ -5342,6 +5390,12 @@
   domain: "\n            \n            .starhub"
   type: generic
   organisation: 'StarHub Limited'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .statefarm"
+  type: generic
+  organisation: 'State Farm Mutual Automobile Insurance Company'
   isIDN: true
   punycode: null
 -

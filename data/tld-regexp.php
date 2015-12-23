@@ -180,6 +180,8 @@ $gTLD_IDN = "(?:
             
             .boots|
             
+            .bosch|
+            
             .bostik|
             
             .bot|
@@ -404,6 +406,8 @@ $gTLD_IDN = "(?:
             
             .dclk|
             
+            .dealer|
+            
             .deals|
             
             .degree|
@@ -571,6 +575,8 @@ $gTLD_IDN = "(?:
             .forum|
             
             .foundation|
+            
+            .fox|
             
             .frl|
             
@@ -826,6 +832,8 @@ $gTLD_IDN = "(?:
             
             .lamborghini|
             
+            .lamer|
+            
             .lancaster|
             
             .land|
@@ -1070,6 +1078,8 @@ $gTLD_IDN = "(?:
             
             .organic|
             
+            .origins|
+            
             .osaka|
             
             .otsuka|
@@ -1208,6 +1218,8 @@ $gTLD_IDN = "(?:
             
             .reviews|
             
+            .rexroth|
+            
             .rich|
             
             .ricoh|
@@ -1238,6 +1250,8 @@ $gTLD_IDN = "(?:
             
             .safe|
             
+            .safety|
+            
             .sakura|
             
             .sale|
@@ -1267,6 +1281,8 @@ $gTLD_IDN = "(?:
             .sca|
             
             .scb|
+            
+            .schaeffler|
             
             .schmidt|
             
@@ -1361,6 +1377,8 @@ $gTLD_IDN = "(?:
             .star|
             
             .starhub|
+            
+            .statefarm|
             
             .statoil|
             
