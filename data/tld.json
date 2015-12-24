@@ -4011,6 +4011,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .living",
+        "type": "generic",
+        "organisation": "Lifestyle Domain Holdings, Inc.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .lixil",
         "type": "generic",
         "organisation": "LIXIL Group Corporation",

@@ -886,6 +886,8 @@ $gTLD_IDN = "(?:
             
             .live|
             
+            .living|
+            
             .lixil|
             
             .loan|
