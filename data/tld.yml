@@ -1217,6 +1217,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .clinique"
+  type: generic
+  organisation: 'The Estée Lauder Companies Inc.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .clothing"
   type: generic
   organisation: 'Steel Lake, LLC'

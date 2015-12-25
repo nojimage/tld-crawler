@@ -1421,6 +1421,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .clinique",
+        "type": "generic",
+        "organisation": "The Est\u00e9e Lauder Companies Inc.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .clothing",
         "type": "generic",
         "organisation": "Steel Lake, LLC",

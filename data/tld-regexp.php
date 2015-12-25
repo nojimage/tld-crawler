@@ -314,6 +314,8 @@ $gTLD_IDN = "(?:
             
             .clinic|
             
+            .clinique|
+            
             .clothing|
             
             .cloud|
