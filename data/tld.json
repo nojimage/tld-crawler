@@ -462,6 +462,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .baidu",
+        "type": "generic",
+        "organisation": "Baidu, Inc.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .band",
         "type": "generic",
         "organisation": "United TLD Holdco, Ltd",
@@ -5358,6 +5365,13 @@
         "domain": "\n            \n            .prof",
         "type": "generic",
         "organisation": "Charleston Road Registry Inc.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .promo",
+        "type": "generic",
+        "organisation": "Afilias plc",
         "isIDN": true,
         "punycode": null
     },

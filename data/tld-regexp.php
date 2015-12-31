@@ -98,6 +98,8 @@ $gTLD_IDN = "(?:
             
             .azure|
             
+            .baidu|
+            
             .band|
             
             .bank|
@@ -1165,6 +1167,8 @@ $gTLD_IDN = "(?:
             .productions|
             
             .prof|
+            
+            .promo|
             
             .properties|
             

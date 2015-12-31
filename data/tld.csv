@@ -199,6 +199,9 @@ c/o Cable and Wireless (Ascension Island)"
             .ba",country-code,"Universtiy Telinformatic Centre (UTIC)"
 "
             
+            .baidu",generic,"Baidu, Inc."
+"
+            
             .band",generic,"United TLD Holdco, Ltd"
 "
             
@@ -2324,6 +2327,9 @@ dba RegistryPro"
 "
             
             .prof",generic,"Charleston Road Registry Inc."
+"
+            
+            .promo",generic,"Afilias plc"
 "
             
             .properties",generic,"Big Pass, LLC"
