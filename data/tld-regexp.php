@@ -462,6 +462,8 @@ $gTLD_IDN = "(?:
             
             .drive|
             
+            .dubai|
+            
             .durban|
             
             .dvag|
@@ -581,6 +583,8 @@ $gTLD_IDN = "(?:
             .foundation|
             
             .fox|
+            
+            .fresenius|
             
             .frl|
             

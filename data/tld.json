@@ -2044,6 +2044,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .dubai",
+        "type": "generic",
+        "organisation": "Dubai Smart Government Department",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .durban",
         "type": "generic",
         "organisation": "ZA Central Registry NPC trading as ZA Central Registry",
@@ -2565,6 +2572,13 @@
         "domain": "\n            \n            .fr",
         "type": "country-code",
         "organisation": "Association Fran\u00e7aise pour le Nommage Internet en Coop\u00e9ration (A.F.N.I.C.)",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .fresenius",
+        "type": "generic",
+        "organisation": "Fresenius Immobilien-Verwaltungs-GmbH",
         "isIDN": true,
         "punycode": null
     },
