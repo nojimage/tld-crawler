@@ -1564,6 +1564,8 @@ $gTLD_IDN = "(?:
             
             .vodka|
             
+            .volkswagen|
+            
             .vote|
             
             .voting|

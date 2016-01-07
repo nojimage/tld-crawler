@@ -6161,6 +6161,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .volkswagen"
+  type: generic
+  organisation: 'Volkswagen Group of America Inc.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .vote"
   type: generic
   organisation: 'Monolith Registry LLC'
