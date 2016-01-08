@@ -6902,6 +6902,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .tube",
+        "type": "generic",
+        "organisation": "Latin American Telecom LLC",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .tui",
         "type": "generic",
         "organisation": "TUI AG",
@@ -7269,6 +7276,13 @@
         "domain": "\n            \n            .watches",
         "type": "generic",
         "organisation": "Richemont DNS Inc.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .weather",
+        "type": "generic",
+        "organisation": "The Weather Channel, LLC",
         "isIDN": true,
         "punycode": null
     },

@@ -1514,6 +1514,8 @@ $gTLD_IDN = "(?:
             
             .trv|
             
+            .tube|
+            
             .tui|
             
             .tushu|
@@ -1585,6 +1587,8 @@ $gTLD_IDN = "(?:
             .watch|
             
             .watches|
+            
+            .weather|
             
             .webcam|
             
