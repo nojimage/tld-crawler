@@ -772,6 +772,8 @@ $gTLD_IDN = "(?:
             
             .irish|
             
+            .iselect|
+            
             .ist|
             
             .istanbul|
@@ -927,6 +929,8 @@ $gTLD_IDN = "(?:
             .maif|
             
             .maison|
+            
+            .makeup|
             
             .man|
             
@@ -1351,6 +1355,8 @@ $gTLD_IDN = "(?:
             .site|
             
             .ski|
+            
+            .skin|
             
             .sky|
             

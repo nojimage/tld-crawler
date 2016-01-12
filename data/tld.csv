@@ -1505,6 +1505,9 @@ Cable and Wireless"
             .is",country-code,"ISNIC - Internet Iceland ltd."
 "
             
+            .iselect",generic,"iSelect Ltd"
+"
+            
             .ist",generic,"Istanbul Metropolitan Municipality"
 "
             
@@ -1825,6 +1828,9 @@ Department of Network Solutions (DNS)"
 "
             
             .maison",generic,"Victor Frostbite, LLC"
+"
+            
+            .makeup",generic,L'Oréal
 "
             
             .man",generic,"MAN SE"
@@ -2665,6 +2671,9 @@ Government Computer Center."
 "
             
             .ski",generic,"STARTING DOT LIMITED"
+"
+            
+            .skin",generic,L'Oréal
 "
             
             .sky",generic,"Sky International AG"

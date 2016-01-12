@@ -2975,6 +2975,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .iselect"
+  type: generic
+  organisation: 'iSelect Ltd'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .ist"
   type: generic
   organisation: 'Istanbul Metropolitan Municipality'
@@ -3608,6 +3614,12 @@
   domain: "\n            \n            .maison"
   type: generic
   organisation: 'Victor Frostbite, LLC'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .makeup"
+  type: generic
+  organisation: 'L''Oréal'
   isIDN: true
   punycode: null
 -
@@ -5270,6 +5282,12 @@
   domain: "\n            \n            .ski"
   type: generic
   organisation: 'STARTING DOT LIMITED'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .skin"
+  type: generic
+  organisation: 'L''Oréal'
   isIDN: true
   punycode: null
 -
