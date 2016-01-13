@@ -344,6 +344,8 @@ $gTLD_IDN = "(?:
             
             .company|
             
+            .compare|
+            
             .computer|
             
             .comsec|
@@ -1321,6 +1323,8 @@ $gTLD_IDN = "(?:
             .security|
             
             .seek|
+            
+            .select|
             
             .sener|
             

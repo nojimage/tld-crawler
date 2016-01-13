@@ -1325,6 +1325,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .compare"
+  type: generic
+  organisation: 'iSelect Ltd'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .computer"
   type: generic
   organisation: 'Pine Mill, LLC'
@@ -5150,6 +5156,12 @@
   domain: "\n            \n            .seek"
   type: generic
   organisation: 'Seek Limited'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .select"
+  type: generic
+  organisation: 'iSelect Ltd'
   isIDN: true
   punycode: null
 -

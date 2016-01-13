@@ -669,6 +669,9 @@ Ltd. d/b/a Island Internet Services"
             .company",generic,"Silver Avenue, LLC"
 "
             
+            .compare",generic,"iSelect Ltd"
+"
+            
             .computer",generic,"Pine Mill, LLC"
 "
             
@@ -2605,6 +2608,9 @@ Government Computer Center."
 "
             
             .seek",generic,"Seek Limited"
+"
+            
+            .select",generic,"iSelect Ltd"
 "
             
             .sener",generic,"Sener Ingeniería y Sistemas, S.A."
