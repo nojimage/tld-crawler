@@ -196,6 +196,20 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .alibaba",
+        "type": "generic",
+        "organisation": "Alibaba Group Holding Limited",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .alipay",
+        "type": "generic",
+        "organisation": "Alibaba Group Holding Limited",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .allfinanz",
         "type": "generic",
         "organisation": "Allfinanz Deutsche Verm\u00f6gensberatung Aktiengesellschaft",
@@ -3990,6 +4004,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .lifeinsurance",
+        "type": "generic",
+        "organisation": "American Council of Life Insurers",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .lifestyle",
         "type": "generic",
         "organisation": "Lifestyle Domain Holdings, Inc.",
@@ -6258,6 +6279,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .softbank",
+        "type": "generic",
+        "organisation": "SoftBank Corp.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .software",
         "type": "generic",
         "organisation": "United TLD Holdco, Ltd",
@@ -7843,6 +7871,13 @@
         "domain": "\n            \n            .\u0dbd\u0d82\u0d9a\u0dcf",
         "type": "country-code",
         "organisation": "LK Domain Registry",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .\u8d2d\u7269",
+        "type": "generic",
+        "organisation": "Minds + Machines Group Limited",
         "isIDN": true,
         "punycode": null
     },

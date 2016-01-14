@@ -167,6 +167,18 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .alibaba"
+  type: generic
+  organisation: 'Alibaba Group Holding Limited'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .alipay"
+  type: generic
+  organisation: 'Alibaba Group Holding Limited'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .allfinanz"
   type: generic
   organisation: 'Allfinanz Deutsche Vermögensberatung Aktiengesellschaft'
@@ -3419,6 +3431,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .lifeinsurance"
+  type: generic
+  organisation: 'American Council of Life Insurers'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .lifestyle"
   type: generic
   organisation: 'Lifestyle Domain Holdings, Inc.'
@@ -5363,6 +5381,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .softbank"
+  type: generic
+  organisation: 'SoftBank Corp.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .software"
   type: generic
   organisation: 'United TLD Holdco, Ltd'
@@ -6722,6 +6746,12 @@
   domain: "\n            \n            .ලංකා"
   type: country-code
   organisation: 'LK Domain Registry'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .购物"
+  type: generic
+  organisation: 'Minds + Machines Group Limited'
   isIDN: true
   punycode: null
 -

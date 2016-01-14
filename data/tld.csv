@@ -85,6 +85,12 @@ c/o Cable and Wireless (Ascension Island)"
             .al",country-code,"Electronic and Postal Communications Authority - AKEP"
 "
             
+            .alibaba",generic,"Alibaba Group Holding Limited"
+"
+            
+            .alipay",generic,"Alibaba Group Holding Limited"
+"
+            
             .allfinanz",generic,"Allfinanz Deutsche Vermögensberatung Aktiengesellschaft"
 "
             
@@ -1728,6 +1734,9 @@ Computing and Networking Services"
             .life",generic,"Trixy Oaks, LLC"
 "
             
+            .lifeinsurance",generic,"American Council of Life Insurers"
+"
+            
             .lifestyle",generic,"Lifestyle Domain Holdings, Inc."
 "
             
@@ -2713,6 +2722,9 @@ NIC Senegal"
             .social",generic,"United TLD Holdco Ltd."
 "
             
+            .softbank",generic,"SoftBank Corp."
+"
+            
             .software",generic,"United TLD Holdco, Ltd"
 "
             
@@ -3400,6 +3412,9 @@ c/o COBEX Internet Services"
 "
             
             .ලංකා",country-code,"LK Domain Registry"
+"
+            
+            .购物",generic,"Minds + Machines Group Limited"
 "
             
             .測試",test,"Internet Assigned Numbers Authority"

@@ -46,6 +46,10 @@ $gTLD_IDN = "(?:
             
             .airtel|
             
+            .alibaba|
+            
+            .alipay|
+            
             .allfinanz|
             
             .alsace|
@@ -880,6 +884,8 @@ $gTLD_IDN = "(?:
             
             .life|
             
+            .lifeinsurance|
+            
             .lifestyle|
             
             .lighting|
@@ -1374,6 +1380,8 @@ $gTLD_IDN = "(?:
             
             .social|
             
+            .softbank|
+            
             .software|
             
             .sohu|
@@ -1721,6 +1729,8 @@ $gTLD_IDN = "(?:
             .娱乐|
             
             .谷歌|
+            
+            .购物|
             
             .測試|
             
