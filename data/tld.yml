@@ -1811,6 +1811,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .edeka"
+  type: generic
+  organisation: 'EDEKA Verband kaufmännischer Genossenschaften e.V.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .edu"
   type: sponsored
   organisation: EDUCAUSE

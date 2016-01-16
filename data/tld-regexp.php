@@ -478,6 +478,8 @@ $gTLD_IDN = "(?:
             
             .eat|
             
+            .edeka|
+            
             .edu|
             
             .education|

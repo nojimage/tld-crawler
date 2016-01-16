@@ -2114,6 +2114,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .edeka",
+        "type": "generic",
+        "organisation": "EDEKA Verband kaufm\u00e4nnischer Genossenschaften e.V.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .edu",
         "type": "sponsored",
         "organisation": "EDUCAUSE",
