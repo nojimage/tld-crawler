@@ -5389,7 +5389,7 @@
 -
   domain: "\n            \n            .softbank"
   type: generic
-  organisation: 'SoftBank Corp.'
+  organisation: 'SoftBank Group Corp.'
   isIDN: true
   punycode: null
 -
