@@ -1112,6 +1112,8 @@ $gTLD_IDN = "(?:
             
             .page|
             
+            .pamperedchef|
+            
             .panerai|
             
             .paris|
@@ -1456,6 +1458,8 @@ $gTLD_IDN = "(?:
             
             .taipei|
             
+            .taobao|
+            
             .tatamotors|
             
             .tatar|
@@ -1492,11 +1496,15 @@ $gTLD_IDN = "(?:
             
             .tienda|
             
+            .tiffany|
+            
             .tips|
             
             .tires|
             
             .tirol|
+            
+            .tmall|
             
             .today|
             

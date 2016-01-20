@@ -4379,6 +4379,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .pamperedchef"
+  type: generic
+  organisation: 'The Pampered Chef, Ltd.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .panerai"
   type: generic
   organisation: 'Richemont DNS Inc.'
@@ -5657,6 +5663,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .taobao"
+  type: generic
+  organisation: 'Alibaba Group Holding Limited'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .tatamotors"
   type: generic
   organisation: 'Tata Motors Ltd'
@@ -5795,6 +5807,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .tiffany"
+  type: generic
+  organisation: 'Tiffany and Company'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .tips"
   type: generic
   organisation: 'Corn Willow, LLC'
@@ -5834,6 +5852,12 @@
   domain: "\n            \n            .tm"
   type: country-code
   organisation: 'TM Domain Registry Ltd'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .tmall"
+  type: generic
+  organisation: 'Alibaba Group Holding Limited'
   isIDN: true
   punycode: null
 -
