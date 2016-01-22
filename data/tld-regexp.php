@@ -28,6 +28,8 @@ $gTLD_IDN = "(?:
             
             .actor|
             
+            .adac|
+            
             .ads|
             
             .adult|
@@ -694,9 +696,13 @@ $gTLD_IDN = "(?:
             
             .haus|
             
+            .health|
+            
             .healthcare|
             
             .help|
+            
+            .helsinki|
             
             .here|
             

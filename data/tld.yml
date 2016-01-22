@@ -83,6 +83,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .adac"
+  type: generic
+  organisation: 'Allgemeiner Deutscher Automobil-Club e.V. (ADAC)'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .ads"
   type: generic
   organisation: 'Charleston Road Registry Inc.'
@@ -2651,6 +2657,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .health"
+  type: generic
+  organisation: 'DotHealth, LLC'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .healthcare"
   type: generic
   organisation: 'Silver Glen, LLC'
@@ -2660,6 +2672,12 @@
   domain: "\n            \n            .help"
   type: generic
   organisation: 'Uniregistry, Corp.'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .helsinki"
+  type: generic
+  organisation: 'City of Helsinki'
   isIDN: true
   punycode: null
 -

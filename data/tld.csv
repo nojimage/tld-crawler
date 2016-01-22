@@ -43,6 +43,9 @@ c/o Cable and Wireless (Ascension Island)"
             .ad",country-code,"Andorra Telecom"
 "
             
+            .adac",generic,"Allgemeiner Deutscher Automobil-Club e.V. (ADAC)"
+"
+            
             .ads",generic,"Charleston Road Registry Inc."
 "
             
@@ -1340,10 +1343,16 @@ Computer Center"
             .haus",generic,"United TLD Holdco, LTD."
 "
             
+            .health",generic,"DotHealth, LLC"
+"
+            
             .healthcare",generic,"Silver Glen, LLC"
 "
             
             .help",generic,"Uniregistry, Corp."
+"
+            
+            .helsinki",generic,"City of Helsinki"
 "
             
             .here",generic,"Charleston Road Registry Inc."
