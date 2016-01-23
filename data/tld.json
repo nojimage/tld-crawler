@@ -1897,6 +1897,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .deloitte",
+        "type": "generic",
+        "organisation": "Deloitte Touche Tohmatsu",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .delta",
         "type": "generic",
         "organisation": "Delta Air Lines, Inc.",
@@ -3909,6 +3916,13 @@
         "domain": "\n            \n            .landrover",
         "type": "generic",
         "organisation": "Jaguar Land Rover Ltd",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .lanxess",
+        "type": "generic",
+        "organisation": "LANXESS Corporation",
         "isIDN": true,
         "punycode": null
     },

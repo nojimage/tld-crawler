@@ -428,6 +428,8 @@ $gTLD_IDN = "(?:
             
             .dell|
             
+            .deloitte|
+            
             .delta|
             
             .democrat|
@@ -863,6 +865,8 @@ $gTLD_IDN = "(?:
             .land|
             
             .landrover|
+            
+            .lanxess|
             
             .lasalle|
             
