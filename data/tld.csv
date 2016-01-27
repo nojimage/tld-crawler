@@ -892,7 +892,7 @@ Recinto Santo Tomas de Aquino"
             .domains",generic,"Sugar Cross, LLC"
 "
             
-            .doosan",generic,"Doosan Corporation"
+            .doosan",generic,"Emergency Back-End Registry Operator Program - ICANN"
 "
             
             .download",generic,"dot Support Limited"
@@ -2125,6 +2125,9 @@ Centro de Computo"
             .nico",generic,"DWANGO Co., Ltd."
 "
             
+            .nikon",generic,"NIKON CORPORATION"
+"
+            
             .ninja",generic,"United TLD Holdco Ltd."
 "
             
@@ -3219,6 +3222,9 @@ c/o COBEX Internet Services"
             .weather",generic,"The Weather Channel, LLC"
 "
             
+            .weatherchannel",generic,"The Weather Channel, LLC"
+"
+            
             .webcam",generic,"dot Webcam Limited"
 "
             
@@ -3406,6 +3412,9 @@ c/o COBEX Internet Services"
 "
             
             ‏.טעסט‎",test,"Internet Assigned Numbers Authority"
+"
+            
+            .ею",country-code,"Not assigned"
 "
             
             .ポイント",generic,"Amazon Registry Services, Inc."

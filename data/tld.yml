@@ -1765,7 +1765,7 @@
 -
   domain: "\n            \n            .doosan"
   type: generic
-  organisation: 'Doosan Corporation'
+  organisation: 'Emergency Back-End Registry Operator Program - ICANN'
   isIDN: true
   punycode: null
 -
@@ -4199,6 +4199,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .nikon"
+  type: generic
+  organisation: 'NIKON CORPORATION'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .ninja"
   type: generic
   organisation: 'United TLD Holdco Ltd.'
@@ -6359,6 +6365,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .weatherchannel"
+  type: generic
+  organisation: 'The Weather Channel, LLC'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .webcam"
   type: generic
   organisation: 'dot Webcam Limited'
@@ -6734,6 +6746,12 @@
   domain: "\n            \n            ‏.טעסט‎"
   type: test
   organisation: 'Internet Assigned Numbers Authority'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .ею"
+  type: country-code
+  organisation: 'Not assigned'
   isIDN: true
   punycode: null
 -

@@ -1068,6 +1068,8 @@ $gTLD_IDN = "(?:
             
             .nico|
             
+            .nikon|
+            
             .ninja|
             
             .nissan|
@@ -1627,6 +1629,8 @@ $gTLD_IDN = "(?:
             .watches|
             
             .weather|
+            
+            .weatherchannel|
             
             .webcam|
             
@@ -2382,6 +2386,8 @@ $ccTLD_IDN = "(?:
             .சிங்கப்பூர்|
             
             .мкд|
+            
+            .ею|
             
             .中国|
             
