@@ -7119,6 +7119,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .unicom",
+        "type": "generic",
+        "organisation": "China United Network Communications Corporation Limited",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .university",
         "type": "generic",
         "organisation": "Little Station, LLC",

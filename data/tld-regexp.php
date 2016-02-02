@@ -1562,6 +1562,8 @@ $gTLD_IDN = "(?:
             
             .ubs|
             
+            .unicom|
+            
             .university|
             
             .uno|
