@@ -7770,6 +7770,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .\u8054\u901a",
+        "type": "generic",
+        "organisation": "China United Network Communications Corporation Limited",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .\u0441\u0440\u0431",
         "type": "country-code",
         "organisation": "Serbian National Internet Domain Registry (RNIDS)",
