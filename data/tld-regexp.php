@@ -602,6 +602,8 @@ $gTLD_IDN = "(?:
             
             .frogans|
             
+            .frontier|
+            
             .fund|
             
             .furniture|
@@ -1213,6 +1215,8 @@ $gTLD_IDN = "(?:
             .qpon|
             
             .quebec|
+            
+            .quest|
             
             .racing|
             

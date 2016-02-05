@@ -2639,6 +2639,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .frontier",
+        "type": "generic",
+        "organisation": "Frontier Communications Corporation",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .fund",
         "type": "generic",
         "organisation": "John Castle, LLC",
@@ -5561,6 +5568,13 @@
         "domain": "\n            \n            .quebec",
         "type": "generic",
         "organisation": "PointQu\u00e9bec Inc",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .quest",
+        "type": "generic",
+        "organisation": "Quest ION Limited",
         "isIDN": true,
         "punycode": null
     },
