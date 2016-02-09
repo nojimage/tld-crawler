@@ -1167,6 +1167,9 @@ IT Services"
             .gallery",generic,"Sugar House, LLC"
 "
             
+            .gallup",generic,"Gallup, Inc."
+"
+            
             .game",generic,"Uniregistry, Corp."
 "
             
@@ -2076,6 +2079,9 @@ ITESM - Campus Monterrey"
             .name",generic-restricted,"VeriSign Information Services, Inc."
 "
             
+            .natura",generic,"NATURA COSMÉTICOS S.A."
+"
+            
             .navy",generic,"United TLD Holdco Ltd."
 "
             
@@ -2404,6 +2410,9 @@ Government Computer Center."
 "
             
             .pw",country-code,"Micronesia Investment and Development Corporation"
+"
+            
+            .pwc",generic,"PricewaterhouseCoopers LLP"
 "
             
             .py",country-code,NIC-PY

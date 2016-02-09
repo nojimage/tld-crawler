@@ -616,6 +616,8 @@ $gTLD_IDN = "(?:
             
             .gallery|
             
+            .gallup|
+            
             .game|
             
             .garden|
@@ -1046,6 +1048,8 @@ $gTLD_IDN = "(?:
             
             .name|
             
+            .natura|
+            
             .navy|
             
             .nec|
@@ -1211,6 +1215,8 @@ $gTLD_IDN = "(?:
             .protection|
             
             .pub|
+            
+            .pwc|
             
             .qpon|
             

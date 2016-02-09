@@ -2309,6 +2309,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .gallup"
+  type: generic
+  organisation: 'Gallup, Inc.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .game"
   type: generic
   organisation: 'Uniregistry, Corp.'
@@ -4103,6 +4109,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .natura"
+  type: generic
+  organisation: 'NATURA COSMÉTICOS S.A.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .navy"
   type: generic
   organisation: 'United TLD Holdco Ltd.'
@@ -4748,6 +4760,12 @@
   domain: "\n            \n            .pw"
   type: country-code
   organisation: 'Micronesia Investment and Development Corporation'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .pwc"
+  type: generic
+  organisation: 'PricewaterhouseCoopers LLP'
   isIDN: true
   punycode: null
 -
