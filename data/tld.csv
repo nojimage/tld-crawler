@@ -1086,6 +1086,9 @@ IT Services"
             .fk",country-code,"Falkland Islands Government"
 "
             
+            .flickr",generic,"Yahoo! Domain Services Inc."
+"
+            
             .flights",generic,"Fox Station, LLC"
 "
             
@@ -1350,6 +1353,9 @@ Computer Center"
 "
             
             .haus",generic,"United TLD Holdco, LTD."
+"
+            
+            .hdfcbank",generic,"HDFC Bank Limited"
 "
             
             .health",generic,"DotHealth, LLC"
@@ -3082,6 +3088,9 @@ Faculty of Engineering"
             .tv",country-code,"Ministry of Finance and Tourism"
 "
             
+            .tvs",generic,"T V SUNDRAM IYENGAR  & SONS LIMITED"
+"
+            
             .tw",country-code,"Taiwan Network Information Center (TWNIC)"
 "
             
@@ -3286,6 +3295,9 @@ c/o COBEX Internet Services"
 "
             
             .wme",generic,"William Morris Endeavor Entertainment, LLC"
+"
+            
+            .wolterskluwer",generic,"Wolters Kluwer N.V."
 "
             
             .work",generic,"Top Level Domain Holdings Limited"
@@ -3718,6 +3730,9 @@ c/o COBEX Internet Services"
 "
             
             .yachts",generic,"DERYachts, LLC"
+"
+            
+            .yahoo",generic,"Yahoo! Domain Services Inc."
 "
             
             .yamaxun",generic,"Amazon Registry Services, Inc."

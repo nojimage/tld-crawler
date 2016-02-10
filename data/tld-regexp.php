@@ -570,6 +570,8 @@ $gTLD_IDN = "(?:
             
             .fitness|
             
+            .flickr|
+            
             .flights|
             
             .florist|
@@ -701,6 +703,8 @@ $gTLD_IDN = "(?:
             .hangout|
             
             .haus|
+            
+            .hdfcbank|
             
             .health|
             
@@ -1570,6 +1574,8 @@ $gTLD_IDN = "(?:
             
             .tushu|
             
+            .tvs|
+            
             .ubs|
             
             .unicom|
@@ -1671,6 +1677,8 @@ $gTLD_IDN = "(?:
             .wine|
             
             .wme|
+            
+            .wolterskluwer|
             
             .work|
             
@@ -1861,6 +1869,8 @@ $gTLD_IDN = "(?:
             .xyz|
             
             .yachts|
+            
+            .yahoo|
             
             .yamaxun|
             

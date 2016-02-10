@@ -2506,6 +2506,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .flickr",
+        "type": "generic",
+        "organisation": "Yahoo! Domain Services Inc.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .flights",
         "type": "generic",
         "organisation": "Fox Station, LLC",
@@ -3118,6 +3125,13 @@
         "domain": "\n            \n            .haus",
         "type": "generic",
         "organisation": "United TLD Holdco, LTD.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .hdfcbank",
+        "type": "generic",
+        "organisation": "HDFC Bank Limited",
         "isIDN": true,
         "punycode": null
     },
@@ -7105,6 +7119,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .tvs",
+        "type": "generic",
+        "organisation": "T V SUNDRAM IYENGAR  \u0026 SONS LIMITED",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .tw",
         "type": "country-code",
         "organisation": "Taiwan Network Information Center (TWNIC)",
@@ -7577,6 +7598,13 @@
         "domain": "\n            \n            .wme",
         "type": "generic",
         "organisation": "William Morris Endeavor Entertainment, LLC",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .wolterskluwer",
+        "type": "generic",
+        "organisation": "Wolters Kluwer N.V.",
         "isIDN": true,
         "punycode": null
     },
@@ -8585,6 +8613,13 @@
         "domain": "\n            \n            .yachts",
         "type": "generic",
         "organisation": "DERYachts, LLC",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .yahoo",
+        "type": "generic",
+        "organisation": "Yahoo! Domain Services Inc.",
         "isIDN": true,
         "punycode": null
     },
