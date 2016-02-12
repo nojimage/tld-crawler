@@ -7061,12 +7061,6 @@
   isIDN: true
   punycode: null
 -
-  domain: "\n            \n            ‏.پاكستان‎"
-  type: country-code
-  organisation: 'Not assigned'
-  isIDN: true
-  punycode: null
--
   domain: "\n            \n            ‏.پاکستان‎"
   type: country-code
   organisation: 'Not assigned'
@@ -7129,7 +7123,7 @@
 -
   domain: "\n            \n            .澳門"
   type: country-code
-  organisation: 'Not assigned'
+  organisation: 'Bureau of Telecommunications Regulation (DSRT)'
   isIDN: true
   punycode: null
 -
