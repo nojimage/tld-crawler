@@ -1659,6 +1659,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .coupon",
+        "type": "generic",
+        "organisation": "Amazon EU S.\u00e0 r.l.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .coupons",
         "type": "generic",
         "organisation": "Black Island, LLC",
@@ -6419,6 +6426,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .song",
+        "type": "generic",
+        "organisation": "Amazon EU S.\u00e0 r.l.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .sony",
         "type": "generic",
         "organisation": "Sony Corporation",
@@ -6443,6 +6457,13 @@
         "domain": "\n            \n            .spiegel",
         "type": "generic",
         "organisation": "SPIEGEL-Verlag Rudolf Augstein GmbH \u0026 Co. KG",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .spot",
+        "type": "generic",
+        "organisation": "Amazon EU S.\u00e0 r.l.",
         "isIDN": true,
         "punycode": null
     },
@@ -6541,6 +6562,13 @@
         "domain": "\n            \n            .storage",
         "type": "generic",
         "organisation": "Self Storage Company LLC",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .store",
+        "type": "generic",
+        "organisation": "DotStore Inc.",
         "isIDN": true,
         "punycode": null
     },
@@ -7105,6 +7133,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .tunes",
+        "type": "generic",
+        "organisation": "Amazon EU S.\u00e0 r.l.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .tushu",
         "type": "generic",
         "organisation": "Amazon Registry Services, Inc.",
@@ -7318,6 +7353,13 @@
         "domain": "\n            \n            .video",
         "type": "generic",
         "organisation": "United TLD Holdco, Ltd",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .viking",
+        "type": "generic",
+        "organisation": "Viking River Cruises (Bermuda) Ltd.",
         "isIDN": true,
         "punycode": null
     },
@@ -7693,6 +7735,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .\u30bb\u30fc\u30eb",
+        "type": "generic",
+        "organisation": "Amazon EU S.\u00e0 r.l.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .\u4f5b\u5c71",
         "type": "generic",
         "organisation": "Guangzhou YU Wei Information Technology Co., Ltd.",
@@ -7882,6 +7931,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .\u30d5\u30a1\u30c3\u30b7\u30e7\u30f3",
+        "type": "generic",
+        "organisation": "Amazon EU S.\u00e0 r.l.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .\u043e\u0440\u0433",
         "type": "generic",
         "organisation": "Public Interest Registry",
@@ -7892,6 +7948,13 @@
         "domain": "\n            \n            .\u0928\u0947\u091f",
         "type": "generic",
         "organisation": "VeriSign Sarl",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .\u30b9\u30c8\u30a2",
+        "type": "generic",
+        "organisation": "Amazon EU S.\u00e0 r.l.",
         "isIDN": true,
         "punycode": null
     },
@@ -8057,6 +8120,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .\u30af\u30e9\u30a6\u30c9",
+        "type": "generic",
+        "organisation": "Amazon EU S.\u00e0 r.l.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .\u0aad\u0abe\u0ab0\u0aa4",
         "type": "country-code",
         "organisation": "National Internet Exchange of India",
@@ -8137,6 +8207,13 @@
         "domain": "\n            \n            .\u8bfa\u57fa\u4e9a",
         "type": "generic",
         "organisation": "Nokia Corporation",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .\u98df\u54c1",
+        "type": "generic",
+        "organisation": "Amazon EU S.\u00e0 r.l.",
         "isIDN": true,
         "punycode": null
     },
@@ -8445,6 +8522,13 @@
         "domain": "\n            \n            .\u4e16\u754c",
         "type": "generic",
         "organisation": "Stable Tone Limited",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .\u66f8\u7c4d",
+        "type": "generic",
+        "organisation": "Amazon EU S.\u00e0 r.l.",
         "isIDN": true,
         "punycode": null
     },

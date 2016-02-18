@@ -717,6 +717,9 @@ Ltd. d/b/a Island Internet Services"
             .country",generic,"Top Level Domain Holdings Limited"
 "
             
+            .coupon",generic,"Amazon EU S.à r.l."
+"
+            
             .coupons",generic,"Black Island, LLC"
 "
             
@@ -2782,6 +2785,9 @@ NIC Senegal"
             .solutions",generic,"Silver Cover, LLC"
 "
             
+            .song",generic,"Amazon EU S.à r.l."
+"
+            
             .sony",generic,"Sony Corporation"
 "
             
@@ -2792,6 +2798,9 @@ NIC Senegal"
 "
             
             .spiegel",generic,"SPIEGEL-Verlag Rudolf Augstein GmbH & Co. KG"
+"
+            
+            .spot",generic,"Amazon EU S.à r.l."
 "
             
             .spreadbetting",generic,"DOTSPREADBETTING REGISTRY LTD"
@@ -2834,6 +2843,9 @@ NIC Senegal"
 "
             
             .storage",generic,"Self Storage Company LLC"
+"
+            
+            .store",generic,"DotStore Inc."
 "
             
             .studio",generic,"United TLD Holdco Ltd."
@@ -3082,6 +3094,9 @@ Faculty of Engineering"
             .tui",generic,"TUI AG"
 "
             
+            .tunes",generic,"Amazon EU S.à r.l."
+"
+            
             .tushu",generic,"Amazon Registry Services, Inc."
 "
             
@@ -3175,6 +3190,9 @@ c/o COBEX Internet Services"
 "
             
             .video",generic,"United TLD Holdco, Ltd"
+"
+            
+            .viking",generic,"Viking River Cruises (Bermuda) Ltd."
 "
             
             .villas",generic,"New Sky, LLC"
@@ -3336,6 +3354,9 @@ c/o COBEX Internet Services"
             .परीक्षा",test,"Internet Assigned Numbers Authority"
 "
             
+            .セール",generic,"Amazon EU S.à r.l."
+"
+            
             .佛山",generic,"Guangzhou YU Wei Information Technology Co., Ltd."
 "
             
@@ -3417,10 +3438,16 @@ c/o COBEX Internet Services"
             .淡马锡",generic,"Temasek Holdings (Private) Limited"
 "
             
+            .ファッション",generic,"Amazon EU S.à r.l."
+"
+            
             .орг",generic,"Public Interest Registry"
 "
             
             .नेट",generic,"VeriSign Sarl"
+"
+            
+            .ストア",generic,"Amazon EU S.à r.l."
 "
             
             .삼성",generic,"SAMSUNG SDS CO., LTD"
@@ -3492,6 +3519,9 @@ c/o COBEX Internet Services"
             .測試",test,"Internet Assigned Numbers Authority"
 "
             
+            .クラウド",generic,"Amazon EU S.à r.l."
+"
+            
             .ભારત",country-code,"National Internet Exchange of India"
 "
             
@@ -3526,6 +3556,9 @@ c/o COBEX Internet Services"
 "
             
             .诺基亚",generic,"Nokia Corporation"
+"
+            
+            .食品",generic,"Amazon EU S.à r.l."
 "
             
             .δοκιμή",test,"Internet Assigned Numbers Authority"
@@ -3658,6 +3691,9 @@ c/o COBEX Internet Services"
 "
             
             .世界",generic,"Stable Tone Limited"
+"
+            
+            .書籍",generic,"Amazon EU S.à r.l."
 "
             
             .ਭਾਰਤ",country-code,"National Internet Exchange of India"

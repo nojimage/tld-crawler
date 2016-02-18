@@ -376,6 +376,8 @@ $gTLD_IDN = "(?:
             
             .country|
             
+            .coupon|
+            
             .coupons|
             
             .courses|
@@ -1420,6 +1422,8 @@ $gTLD_IDN = "(?:
             
             .solutions|
             
+            .song|
+            
             .sony|
             
             .soy|
@@ -1427,6 +1431,8 @@ $gTLD_IDN = "(?:
             .space|
             
             .spiegel|
+            
+            .spot|
             
             .spreadbetting|
             
@@ -1449,6 +1455,8 @@ $gTLD_IDN = "(?:
             .stockholm|
             
             .storage|
+            
+            .store|
             
             .studio|
             
@@ -1572,6 +1580,8 @@ $gTLD_IDN = "(?:
             
             .tui|
             
+            .tunes|
+            
             .tushu|
             
             .tvs|
@@ -1603,6 +1613,8 @@ $gTLD_IDN = "(?:
             .viajes|
             
             .video|
+            
+            .viking|
             
             .villas|
             
@@ -1702,6 +1714,8 @@ $gTLD_IDN = "(?:
             
             .परीक्षा|
             
+            .セール|
+            
             .佛山|
             
             .慈善|
@@ -1744,9 +1758,13 @@ $gTLD_IDN = "(?:
             
             .淡马锡|
             
+            .ファッション|
+            
             .орг|
             
             .नेट|
+            
+            .ストア|
             
             .삼성|
             
@@ -1780,6 +1798,8 @@ $gTLD_IDN = "(?:
             
             .測試|
             
+            .クラウド|
+            
             ‏.آزمایشی‎|
             
             .பரிட்சை|
@@ -1795,6 +1815,8 @@ $gTLD_IDN = "(?:
             .ком|
             
             .诺基亚|
+            
+            .食品|
             
             .δοκιμή|
             
@@ -1839,6 +1861,8 @@ $gTLD_IDN = "(?:
             .グーグル|
             
             .世界|
+            
+            .書籍|
             
             .网址|
             

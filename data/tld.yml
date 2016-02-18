@@ -1421,6 +1421,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .coupon"
+  type: generic
+  organisation: 'Amazon EU S.à r.l.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .coupons"
   type: generic
   organisation: 'Black Island, LLC'
@@ -5501,6 +5507,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .song"
+  type: generic
+  organisation: 'Amazon EU S.à r.l.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .sony"
   type: generic
   organisation: 'Sony Corporation'
@@ -5522,6 +5534,12 @@
   domain: "\n            \n            .spiegel"
   type: generic
   organisation: 'SPIEGEL-Verlag Rudolf Augstein GmbH & Co. KG'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .spot"
+  type: generic
+  organisation: 'Amazon EU S.à r.l.'
   isIDN: true
   punycode: null
 -
@@ -5606,6 +5624,12 @@
   domain: "\n            \n            .storage"
   type: generic
   organisation: 'Self Storage Company LLC'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .store"
+  type: generic
+  organisation: 'DotStore Inc.'
   isIDN: true
   punycode: null
 -
@@ -6089,6 +6113,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .tunes"
+  type: generic
+  organisation: 'Amazon EU S.à r.l.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .tushu"
   type: generic
   organisation: 'Amazon Registry Services, Inc.'
@@ -6272,6 +6302,12 @@
   domain: "\n            \n            .video"
   type: generic
   organisation: 'United TLD Holdco, Ltd'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .viking"
+  type: generic
+  organisation: 'Viking River Cruises (Bermuda) Ltd.'
   isIDN: true
   punycode: null
 -
@@ -6593,6 +6629,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .セール"
+  type: generic
+  organisation: 'Amazon EU S.à r.l.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .佛山"
   type: generic
   organisation: 'Guangzhou YU Wei Information Technology Co., Ltd.'
@@ -6755,6 +6797,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .ファッション"
+  type: generic
+  organisation: 'Amazon EU S.à r.l.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .орг"
   type: generic
   organisation: 'Public Interest Registry'
@@ -6764,6 +6812,12 @@
   domain: "\n            \n            .नेट"
   type: generic
   organisation: 'VeriSign Sarl'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .ストア"
+  type: generic
+  organisation: 'Amazon EU S.à r.l.'
   isIDN: true
   punycode: null
 -
@@ -6905,6 +6959,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .クラウド"
+  type: generic
+  organisation: 'Amazon EU S.à r.l.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .ભારત"
   type: country-code
   organisation: 'National Internet Exchange of India'
@@ -6974,6 +7034,12 @@
   domain: "\n            \n            .诺基亚"
   type: generic
   organisation: 'Nokia Corporation'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .食品"
+  type: generic
+  organisation: 'Amazon EU S.à r.l.'
   isIDN: true
   punycode: null
 -
@@ -7238,6 +7304,12 @@
   domain: "\n            \n            .世界"
   type: generic
   organisation: 'Stable Tone Limited'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .書籍"
+  type: generic
+  organisation: 'Amazon EU S.à r.l.'
   isIDN: true
   punycode: null
 -
