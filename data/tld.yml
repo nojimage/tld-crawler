@@ -1423,7 +1423,7 @@
 -
   domain: "\n            \n            .coupon"
   type: generic
-  organisation: 'Amazon EU S.à r.l.'
+  organisation: 'Amazon Registry Services, Inc.'
   isIDN: true
   punycode: null
 -
@@ -2743,7 +2743,7 @@
 -
   domain: "\n            \n            .hiv"
   type: generic
-  organisation: 'dotHIV gemeinnuetziger e.V.'
+  organisation: 'Uniregistry, Corp.'
   isIDN: true
   punycode: null
 -
@@ -5539,7 +5539,7 @@
 -
   domain: "\n            \n            .spot"
   type: generic
-  organisation: 'Amazon EU S.à r.l.'
+  organisation: 'Amazon Registry Services, Inc.'
   isIDN: true
   punycode: null
 -
@@ -6631,7 +6631,7 @@
 -
   domain: "\n            \n            .セール"
   type: generic
-  organisation: 'Amazon EU S.à r.l.'
+  organisation: 'Amazon Registry Services, Inc.'
   isIDN: true
   punycode: null
 -
@@ -6817,7 +6817,7 @@
 -
   domain: "\n            \n            .ストア"
   type: generic
-  organisation: 'Amazon EU S.à r.l.'
+  organisation: 'Amazon Registry Services, Inc.'
   isIDN: true
   punycode: null
 -
@@ -6961,7 +6961,7 @@
 -
   domain: "\n            \n            .クラウド"
   type: generic
-  organisation: 'Amazon EU S.à r.l.'
+  organisation: 'Amazon Registry Services, Inc.'
   isIDN: true
   punycode: null
 -

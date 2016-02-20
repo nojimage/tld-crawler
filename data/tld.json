@@ -1661,7 +1661,7 @@
     {
         "domain": "\n            \n            .coupon",
         "type": "generic",
-        "organisation": "Amazon EU S.\u00e0 r.l.",
+        "organisation": "Amazon Registry Services, Inc.",
         "isIDN": true,
         "punycode": null
     },
@@ -3201,7 +3201,7 @@
     {
         "domain": "\n            \n            .hiv",
         "type": "generic",
-        "organisation": "dotHIV gemeinnuetziger e.V.",
+        "organisation": "Uniregistry, Corp.",
         "isIDN": true,
         "punycode": null
     },
@@ -6463,7 +6463,7 @@
     {
         "domain": "\n            \n            .spot",
         "type": "generic",
-        "organisation": "Amazon EU S.\u00e0 r.l.",
+        "organisation": "Amazon Registry Services, Inc.",
         "isIDN": true,
         "punycode": null
     },
@@ -7737,7 +7737,7 @@
     {
         "domain": "\n            \n            .\u30bb\u30fc\u30eb",
         "type": "generic",
-        "organisation": "Amazon EU S.\u00e0 r.l.",
+        "organisation": "Amazon Registry Services, Inc.",
         "isIDN": true,
         "punycode": null
     },
@@ -7954,7 +7954,7 @@
     {
         "domain": "\n            \n            .\u30b9\u30c8\u30a2",
         "type": "generic",
-        "organisation": "Amazon EU S.\u00e0 r.l.",
+        "organisation": "Amazon Registry Services, Inc.",
         "isIDN": true,
         "punycode": null
     },
@@ -8122,7 +8122,7 @@
     {
         "domain": "\n            \n            .\u30af\u30e9\u30a6\u30c9",
         "type": "generic",
-        "organisation": "Amazon EU S.\u00e0 r.l.",
+        "organisation": "Amazon Registry Services, Inc.",
         "isIDN": true,
         "punycode": null
     },
