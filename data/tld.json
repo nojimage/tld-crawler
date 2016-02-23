@@ -7933,7 +7933,7 @@
     {
         "domain": "\n            \n            .\u30d5\u30a1\u30c3\u30b7\u30e7\u30f3",
         "type": "generic",
-        "organisation": "Amazon EU S.\u00e0 r.l.",
+        "organisation": "Amazon Registry Services, Inc.",
         "isIDN": true,
         "punycode": null
     },
@@ -8213,7 +8213,7 @@
     {
         "domain": "\n            \n            .\u98df\u54c1",
         "type": "generic",
-        "organisation": "Amazon EU S.\u00e0 r.l.",
+        "organisation": "Amazon Registry Services, Inc.",
         "isIDN": true,
         "punycode": null
     },
