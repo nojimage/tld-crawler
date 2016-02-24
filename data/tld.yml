@@ -5843,6 +5843,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .telecity"
+  type: generic
+  organisation: 'TelecityGroup International Limited'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .telefonica"
   type: generic
   organisation: 'Telefónica S.A.'

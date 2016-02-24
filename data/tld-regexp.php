@@ -1514,6 +1514,8 @@ $gTLD_IDN = "(?:
             
             .tel|
             
+            .telecity|
+            
             .telefonica|
             
             .temasek|
