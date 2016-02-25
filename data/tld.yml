@@ -1771,7 +1771,7 @@
 -
   domain: "\n            \n            .doosan"
   type: generic
-  organisation: 'Emergency Back-End Registry Operator Program - ICANN'
+  organisation: Retired
   isIDN: true
   punycode: null
 -
@@ -5509,7 +5509,7 @@
 -
   domain: "\n            \n            .song"
   type: generic
-  organisation: 'Amazon EU S.à r.l.'
+  organisation: 'Amazon Registry Services, Inc.'
   isIDN: true
   punycode: null
 -
