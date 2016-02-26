@@ -290,6 +290,8 @@ $gTLD_IDN = "(?:
             
             .channel|
             
+            .chase|
+            
             .chat|
             
             .cheap|
@@ -831,6 +833,8 @@ $gTLD_IDN = "(?:
             .jot|
             
             .joy|
+            
+            .jpmorgan|
             
             .jprs|
             
@@ -1553,6 +1557,8 @@ $gTLD_IDN = "(?:
             .toray|
             
             .toshiba|
+            
+            .total|
             
             .tours|
             

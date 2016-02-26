@@ -1316,6 +1316,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .chase",
+        "type": "generic",
+        "organisation": "JPMorgan Chase \u0026 Co.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .chat",
         "type": "generic",
         "organisation": "Sand Fields, LLC",
@@ -3713,6 +3720,13 @@
         "domain": "\n            \n            .jp",
         "type": "country-code",
         "organisation": "Japan Registry Services Co., Ltd.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .jpmorgan",
+        "type": "generic",
+        "organisation": "JPMorgan Chase \u0026 Co.",
         "isIDN": true,
         "punycode": null
     },
@@ -7021,6 +7035,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .total",
+        "type": "generic",
+        "organisation": "Total SA",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .tours",
         "type": "generic",
         "organisation": "Sugar Station, LLC",
@@ -7142,7 +7163,7 @@
     {
         "domain": "\n            \n            .tunes",
         "type": "generic",
-        "organisation": "Amazon EU S.\u00e0 r.l.",
+        "organisation": "Amazon Registry Services, Inc.",
         "isIDN": true,
         "punycode": null
     },
