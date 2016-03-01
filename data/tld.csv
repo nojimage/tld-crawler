@@ -2278,6 +2278,9 @@ Centro de Computo"
             .party",generic,"Blue Sky Registry Limited"
 "
             
+            .passagens",generic,"Travel Reservations SRL"
+"
+            
             .pe",country-code,"Red Cientifica Peruana"
 "
             
@@ -3256,6 +3259,9 @@ c/o COBEX Internet Services"
 "
             
             .vu",country-code,"Telecom Vanuatu Limited"
+"
+            
+            .vuelos",generic,"Travel Reservations SRL"
 "
             
             .wales",generic,"Nominet UK"

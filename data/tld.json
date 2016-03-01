@@ -5257,6 +5257,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .passagens",
+        "type": "generic",
+        "organisation": "Travel Reservations SRL",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .pe",
         "type": "country-code",
         "organisation": "Red Cientifica Peruana",
@@ -7507,6 +7514,13 @@
         "domain": "\n            \n            .vu",
         "type": "country-code",
         "organisation": "Telecom Vanuatu Limited",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .vuelos",
+        "type": "generic",
+        "organisation": "Travel Reservations SRL",
         "isIDN": true,
         "punycode": null
     },

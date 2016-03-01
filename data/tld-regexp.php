@@ -1154,6 +1154,8 @@ $gTLD_IDN = "(?:
             
             .party|
             
+            .passagens|
+            
             .pet|
             
             .pharmacy|
@@ -1653,6 +1655,8 @@ $gTLD_IDN = "(?:
             .voto|
             
             .voyage|
+            
+            .vuelos|
             
             .wales|
             
