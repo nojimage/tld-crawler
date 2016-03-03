@@ -3227,6 +3227,24 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .kerryhotels"
+  type: generic
+  organisation: 'Kerry Trading Co. Limited'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .kerrylogistics"
+  type: generic
+  organisation: 'Kerry Trading Co. Limited'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .kerryproperties"
+  type: generic
+  organisation: 'Kerry Trading Co. Limited'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .kfh"
   type: generic
   organisation: 'Kuwait Finance House'
@@ -3332,6 +3350,12 @@
   domain: "\n            \n            .kred"
   type: generic
   organisation: 'KredTLD Pty Ltd'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .kuokgroup"
+  type: generic
+  organisation: 'Kerry Trading Co. Limited'
   isIDN: true
   punycode: null
 -
@@ -7400,6 +7424,12 @@
   domain: "\n            \n            .信息"
   type: generic
   organisation: 'Beijing Tele-info Network Technology Co., Ltd.'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .嘉里大酒店"
+  type: generic
+  organisation: 'Kerry Trading Co. Limited'
   isIDN: true
   punycode: null
 -

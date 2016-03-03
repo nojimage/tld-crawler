@@ -844,6 +844,12 @@ $gTLD_IDN = "(?:
             
             .kddi|
             
+            .kerryhotels|
+            
+            .kerrylogistics|
+            
+            .kerryproperties|
+            
             .kfh|
             
             .kia|
@@ -865,6 +871,8 @@ $gTLD_IDN = "(?:
             .krd|
             
             .kred|
+            
+            .kuokgroup|
             
             .kyoto|
             
@@ -1891,6 +1899,8 @@ $gTLD_IDN = "(?:
             .企业|
             
             .信息|
+            
+            .嘉里大酒店|
             
             .广东|
             

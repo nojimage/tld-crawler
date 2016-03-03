@@ -3766,6 +3766,27 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .kerryhotels",
+        "type": "generic",
+        "organisation": "Kerry Trading Co. Limited",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .kerrylogistics",
+        "type": "generic",
+        "organisation": "Kerry Trading Co. Limited",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .kerryproperties",
+        "type": "generic",
+        "organisation": "Kerry Trading Co. Limited",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .kfh",
         "type": "generic",
         "organisation": "Kuwait Finance House",
@@ -3888,6 +3909,13 @@
         "domain": "\n            \n            .kred",
         "type": "generic",
         "organisation": "KredTLD Pty Ltd",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .kuokgroup",
+        "type": "generic",
+        "organisation": "Kerry Trading Co. Limited",
         "isIDN": true,
         "punycode": null
     },
@@ -8634,6 +8662,13 @@
         "domain": "\n            \n            .\u4fe1\u606f",
         "type": "generic",
         "organisation": "Beijing Tele-info Network Technology Co., Ltd.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .\u5609\u91cc\u5927\u9152\u5e97",
+        "type": "generic",
+        "organisation": "Kerry Trading Co. Limited",
         "isIDN": true,
         "punycode": null
     },
