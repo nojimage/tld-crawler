@@ -6827,6 +6827,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .бг"
+  type: country-code
+  organisation: 'Not assigned'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .бел"
   type: country-code
   organisation: 'Reliable Software, Ltd.'

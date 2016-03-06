@@ -7966,6 +7966,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .\u0431\u0433",
+        "type": "country-code",
+        "organisation": "Not assigned",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .\u0431\u0435\u043b",
         "type": "country-code",
         "organisation": "Reliable Software, Ltd.",
