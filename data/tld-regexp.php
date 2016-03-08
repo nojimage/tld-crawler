@@ -100,6 +100,8 @@ $gTLD_IDN = "(?:
             
             .autos|
             
+            .avianca|
+            
             .axa|
             
             .azure|
@@ -127,6 +129,8 @@ $gTLD_IDN = "(?:
             .bbc|
             
             .bbva|
+            
+            .bcg|
             
             .bcn|
             
@@ -658,6 +662,8 @@ $gTLD_IDN = "(?:
             
             .gmail|
             
+            .gmbh|
+            
             .gmo|
             
             .gmx|
@@ -945,6 +951,8 @@ $gTLD_IDN = "(?:
             .loan|
             
             .loans|
+            
+            .locus|
             
             .lol|
             

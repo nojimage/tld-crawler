@@ -377,6 +377,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .avianca"
+  type: generic
+  organisation: 'Aerovias del Continente Americano S.A. Avianca'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .aw"
   type: country-code
   organisation: SETAR
@@ -488,6 +494,12 @@
   domain: "\n            \n            .bbva"
   type: generic
   organisation: 'BANCO BILBAO VIZCAYA ARGENTARIA, S.A.'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .bcg"
+  type: generic
+  organisation: 'The Boston Consulting Group, Inc.'
   isIDN: true
   punycode: null
 -
@@ -2489,6 +2501,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .gmbh"
+  type: generic
+  organisation: 'Extra Dynamite, LLC'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .gmo"
   type: generic
   organisation: 'GMO Internet, Inc.'
@@ -3620,6 +3638,12 @@
   domain: "\n            \n            .loans"
   type: generic
   organisation: 'June Woods, LLC'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .locus"
+  type: generic
+  organisation: 'Locus Analytics LLC'
   isIDN: true
   punycode: null
 -

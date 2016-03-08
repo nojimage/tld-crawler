@@ -190,6 +190,9 @@ c/o Cable and Wireless (Ascension Island)"
             .autos",generic,"DERAutos, LLC"
 "
             
+            .avianca",generic,"Aerovias del Continente Americano S.A. Avianca"
+"
+            
             .aw",country-code,SETAR
 "
             
@@ -247,6 +250,9 @@ Telecommunications Unit"
 "
             
             .bbva",generic,"BANCO BILBAO VIZCAYA ARGENTARIA, S.A."
+"
+            
+            .bcg",generic,"The Boston Consulting Group, Inc."
 "
             
             .bcn",generic,"Municipi de Barcelona"
@@ -1257,6 +1263,9 @@ IT Services"
             .gmail",generic,"Charleston Road Registry Inc."
 "
             
+            .gmbh",generic,"Extra Dynamite, LLC"
+"
+            
             .gmo",generic,"GMO Internet, Inc."
 "
             
@@ -1829,6 +1838,9 @@ LK Domain Registrar"
 "
             
             .loans",generic,"June Woods, LLC"
+"
+            
+            .locus",generic,"Locus Analytics LLC"
 "
             
             .lol",generic,"Uniregistry, Corp."
