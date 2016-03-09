@@ -1537,7 +1537,7 @@
 -
   domain: "\n            \n            .cx"
   type: country-code
-  organisation: 'Christmas Island Internet Administration Limited'
+  organisation: 'Christmas Island Domain Administration Limited'
   isIDN: true
   punycode: null
 -
