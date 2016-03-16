@@ -626,6 +626,8 @@ $gTLD_IDN = "(?:
             
             .gallery|
             
+            .gallo|
+            
             .gallup|
             
             .game|
@@ -1401,6 +1403,8 @@ $gTLD_IDN = "(?:
             .sfr|
             
             .sharp|
+            
+            .shaw|
             
             .shell|
             

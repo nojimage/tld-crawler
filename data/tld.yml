@@ -2339,6 +2339,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .gallo"
+  type: generic
+  organisation: 'Gallo Vineyards, Inc.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .gallup"
   type: generic
   organisation: 'Gallup, Inc.'
@@ -5402,6 +5408,12 @@
   domain: "\n            \n            .sharp"
   type: generic
   organisation: 'Sharp Corporation'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .shaw"
+  type: generic
+  organisation: 'Shaw Cablesystems G.P.'
   isIDN: true
   punycode: null
 -
