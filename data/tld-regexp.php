@@ -1484,6 +1484,8 @@ $gTLD_IDN = "(?:
             
             .store|
             
+            .stream|
+            
             .studio|
             
             .study|

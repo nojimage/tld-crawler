@@ -5711,6 +5711,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .stream"
+  type: generic
+  organisation: 'dot Stream Limited'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .studio"
   type: generic
   organisation: 'United TLD Holdco Ltd.'
