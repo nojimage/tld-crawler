@@ -191,6 +191,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .ally"
+  type: generic
+  organisation: 'Ally Financial Inc.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .alsace"
   type: generic
   organisation: 'REGION D ALSACE'
@@ -458,6 +464,12 @@
   domain: "\n            \n            .barclays"
   type: generic
   organisation: 'Barclays Bank PLC'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .barefoot"
+  type: generic
+  organisation: 'Gallo Vineyards, Inc.'
   isIDN: true
   punycode: null
 -
@@ -2018,6 +2030,12 @@
   domain: "\n            \n            .express"
   type: generic
   organisation: 'Sea Sunset, LLC'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .extraspace"
+  type: generic
+  organisation: 'Extra Space Storage LLC'
   isIDN: true
   punycode: null
 -

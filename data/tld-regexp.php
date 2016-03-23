@@ -54,6 +54,8 @@ $gTLD_IDN = "(?:
             
             .allfinanz|
             
+            .ally|
+            
             .alsace|
             
             .amica|
@@ -119,6 +121,8 @@ $gTLD_IDN = "(?:
             .barclaycard|
             
             .barclays|
+            
+            .barefoot|
             
             .bargains|
             
@@ -533,6 +537,8 @@ $gTLD_IDN = "(?:
             .exposed|
             
             .express|
+            
+            .extraspace|
             
             .fage|
             
