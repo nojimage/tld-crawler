@@ -395,6 +395,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .aws"
+  type: generic
+  organisation: 'Amazon EU S.à r.l.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .ax"
   type: country-code
   organisation: 'Ålands landskapsregering'
@@ -5867,6 +5873,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .talk"
+  type: generic
+  organisation: 'Amazon EU S.à r.l.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .taobao"
   type: generic
   organisation: 'Alibaba Group Holding Limited'
@@ -7019,6 +7031,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .家電"
+  type: generic
+  organisation: 'Amazon EU S.à r.l.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            ‏.كوم‎"
   type: generic
   organisation: 'VeriSign Sarl'
@@ -7622,6 +7640,12 @@
   domain: "\n            \n            .yokohama"
   type: generic
   organisation: 'GMO Registry, Inc.'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .you"
+  type: generic
+  organisation: 'Amazon EU S.à r.l.'
   isIDN: true
   punycode: null
 -

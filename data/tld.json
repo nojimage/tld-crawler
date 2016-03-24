@@ -462,6 +462,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .aws",
+        "type": "generic",
+        "organisation": "Amazon EU S.\u00e0 r.l.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .ax",
         "type": "country-code",
         "organisation": "\u00c5lands landskapsregering",
@@ -6846,6 +6853,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .talk",
+        "type": "generic",
+        "organisation": "Amazon EU S.\u00e0 r.l.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .taobao",
         "type": "generic",
         "organisation": "Alibaba Group Holding Limited",
@@ -8190,6 +8204,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .\u5bb6\u96fb",
+        "type": "generic",
+        "organisation": "Amazon EU S.\u00e0 r.l.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            \u200f.\u0643\u0648\u0645\u200e",
         "type": "generic",
         "organisation": "VeriSign Sarl",
@@ -8893,6 +8914,13 @@
         "domain": "\n            \n            .yokohama",
         "type": "generic",
         "organisation": "GMO Registry, Inc.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .you",
+        "type": "generic",
+        "organisation": "Amazon EU S.\u00e0 r.l.",
         "isIDN": true,
         "punycode": null
     },

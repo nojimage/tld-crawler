@@ -199,6 +199,9 @@ c/o Cable and Wireless (Ascension Island)"
             .aw",country-code,SETAR
 "
             
+            .aws",generic,"Amazon EU S.à r.l."
+"
+            
             .ax",country-code,"Ålands landskapsregering"
 "
             
@@ -2967,6 +2970,9 @@ Department of Computer Science"
             .taipei",generic,"Taipei City Government"
 "
             
+            .talk",generic,"Amazon EU S.à r.l."
+"
+            
             .taobao",generic,"Alibaba Group Holding Limited"
 "
             
@@ -3549,6 +3555,9 @@ c/o COBEX Internet Services"
             .工行",generic,"Industrial and Commercial Bank of China Limited"
 "
             
+            .家電",generic,"Amazon EU S.à r.l."
+"
+            
             ‏.كوم‎",generic,"VeriSign Sarl"
 "
             
@@ -3850,6 +3859,9 @@ c/o COBEX Internet Services"
 "
             
             .yokohama",generic,"GMO Registry, Inc."
+"
+            
+            .you",generic,"Amazon EU S.à r.l."
 "
             
             .youtube",generic,"Charleston Road Registry Inc."

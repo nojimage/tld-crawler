@@ -104,6 +104,8 @@ $gTLD_IDN = "(?:
             
             .avianca|
             
+            .aws|
+            
             .axa|
             
             .azure|
@@ -1526,6 +1528,8 @@ $gTLD_IDN = "(?:
             
             .taipei|
             
+            .talk|
+            
             .taobao|
             
             .tatamotors|
@@ -1824,6 +1828,8 @@ $gTLD_IDN = "(?:
             
             .工行|
             
+            .家電|
+            
             ‏.كوم‎|
             
             .中文网|
@@ -1947,6 +1953,8 @@ $gTLD_IDN = "(?:
             .yoga|
             
             .yokohama|
+            
+            .you|
             
             .youtube|
             
