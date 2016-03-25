@@ -3161,6 +3161,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .jcp"
+  type: generic
+  organisation: 'JCP Media, Inc.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .je"
   type: country-code
   organisation: 'Island Networks (Jersey) Ltd.'

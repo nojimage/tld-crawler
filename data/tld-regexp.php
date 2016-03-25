@@ -832,6 +832,8 @@ $gTLD_IDN = "(?:
             
             .jcb|
             
+            .jcp|
+            
             .jetzt|
             
             .jewelry|
