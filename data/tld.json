@@ -280,6 +280,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .anquan",
+        "type": "generic",
+        "organisation": "QIHOO 360 TECHNOLOGY CO. LTD.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .ao",
         "type": "country-code",
         "organisation": "Faculdade de Engenharia da Universidade Agostinho Neto",
@@ -464,7 +471,7 @@
     {
         "domain": "\n            \n            .aws",
         "type": "generic",
-        "organisation": "Amazon EU S.\u00e0 r.l.",
+        "organisation": "Amazon Registry Services, Inc.",
         "isIDN": true,
         "punycode": null
     },
@@ -5075,6 +5082,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .nissay",
+        "type": "generic",
+        "organisation": "Nippon Life Insurance Company",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .nl",
         "type": "country-code",
         "organisation": "SIDN (Stichting Internet  Domeinregistratie Nederland)",
@@ -6384,6 +6398,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .shouji",
+        "type": "generic",
+        "organisation": "QIHOO 360 TECHNOLOGY CO. LTD.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .show",
         "type": "generic",
         "organisation": "Snow Beach, LLC",
@@ -6862,7 +6883,7 @@
     {
         "domain": "\n            \n            .talk",
         "type": "generic",
-        "organisation": "Amazon EU S.\u00e0 r.l.",
+        "organisation": "Amazon Registry Services, Inc.",
         "isIDN": true,
         "punycode": null
     },
@@ -7735,6 +7756,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .weibo",
+        "type": "generic",
+        "organisation": "Sina Corporation",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .weir",
         "type": "generic",
         "organisation": "Weir Group IP Limited",
@@ -7864,6 +7892,13 @@
         "domain": "\n            \n            .xerox",
         "type": "generic",
         "organisation": "Xerox DNHC LLC",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .xihuan",
+        "type": "generic",
+        "organisation": "QIHOO 360 TECHNOLOGY CO. LTD.",
         "isIDN": true,
         "punycode": null
     },
@@ -8213,7 +8248,7 @@
     {
         "domain": "\n            \n            .\u5bb6\u96fb",
         "type": "generic",
-        "organisation": "Amazon EU S.\u00e0 r.l.",
+        "organisation": "Amazon Registry Services, Inc.",
         "isIDN": true,
         "punycode": null
     },
@@ -8927,7 +8962,7 @@
     {
         "domain": "\n            \n            .you",
         "type": "generic",
-        "organisation": "Amazon EU S.\u00e0 r.l.",
+        "organisation": "Amazon Registry Services, Inc.",
         "isIDN": true,
         "punycode": null
     },
@@ -8942,6 +8977,13 @@
         "domain": "\n            \n            .yt",
         "type": "country-code",
         "organisation": "Association Fran\u00e7aise pour le Nommage Internet en Coop\u00e9ration (A.F.N.I.C.)",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .yun",
+        "type": "generic",
+        "organisation": "QIHOO 360 TECHNOLOGY CO. LTD.",
         "isIDN": true,
         "punycode": null
     },

@@ -121,6 +121,9 @@ c/o Cable and Wireless (Ascension Island)"
             .android",generic,"Charleston Road Registry Inc."
 "
             
+            .anquan",generic,"QIHOO 360 TECHNOLOGY CO. LTD."
+"
+            
             .ao",country-code,"Faculdade de Engenharia da Universidade Agostinho Neto"
 "
             
@@ -199,7 +202,7 @@ c/o Cable and Wireless (Ascension Island)"
             .aw",country-code,SETAR
 "
             
-            .aws",generic,"Amazon EU S.à r.l."
+            .aws",generic,"Amazon Registry Services, Inc."
 "
             
             .ax",country-code,"Ålands landskapsregering"
@@ -2200,6 +2203,9 @@ Centro de Computo"
             .nissan",generic,"NISSAN MOTOR CO., LTD."
 "
             
+            .nissay",generic,"Nippon Life Insurance Company"
+"
+            
             .nl",country-code,"SIDN (Stichting Internet  Domeinregistratie Nederland)"
 "
             
@@ -2766,6 +2772,9 @@ Government Computer Center."
             .shoes",generic,"Binky Galley, LLC"
 "
             
+            .shouji",generic,"QIHOO 360 TECHNOLOGY CO. LTD."
+"
+            
             .show",generic,"Snow Beach, LLC"
 "
             
@@ -2973,7 +2982,7 @@ Department of Computer Science"
             .taipei",generic,"Taipei City Government"
 "
             
-            .talk",generic,"Amazon EU S.à r.l."
+            .talk",generic,"Amazon Registry Services, Inc."
 "
             
             .taobao",generic,"Alibaba Group Holding Limited"
@@ -3354,6 +3363,9 @@ c/o COBEX Internet Services"
             .wedding",generic,"Top Level Domain Holdings Limited"
 "
             
+            .weibo",generic,"Sina Corporation"
+"
+            
             .weir",generic,"Weir Group IP Limited"
 "
             
@@ -3409,6 +3421,9 @@ c/o COBEX Internet Services"
 "
             
             .xerox",generic,"Xerox DNHC LLC"
+"
+            
+            .xihuan",generic,"QIHOO 360 TECHNOLOGY CO. LTD."
 "
             
             .xin",generic,"Elegant Leader Limited"
@@ -3558,7 +3573,7 @@ c/o COBEX Internet Services"
             .工行",generic,"Industrial and Commercial Bank of China Limited"
 "
             
-            .家電",generic,"Amazon EU S.à r.l."
+            .家電",generic,"Amazon Registry Services, Inc."
 "
             
             ‏.كوم‎",generic,"VeriSign Sarl"
@@ -3864,13 +3879,16 @@ c/o COBEX Internet Services"
             .yokohama",generic,"GMO Registry, Inc."
 "
             
-            .you",generic,"Amazon EU S.à r.l."
+            .you",generic,"Amazon Registry Services, Inc."
 "
             
             .youtube",generic,"Charleston Road Registry Inc."
 "
             
             .yt",country-code,"Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)"
+"
+            
+            .yun",generic,"QIHOO 360 TECHNOLOGY CO. LTD."
 "
             
             .za",country-code,"ZA Domain Name Authority"

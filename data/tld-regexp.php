@@ -66,6 +66,8 @@ $gTLD_IDN = "(?:
             
             .android|
             
+            .anquan|
+            
             .apartments|
             
             .app|
@@ -1118,6 +1120,8 @@ $gTLD_IDN = "(?:
             
             .nissan|
             
+            .nissay|
+            
             .nokia|
             
             .norton|
@@ -1424,6 +1428,8 @@ $gTLD_IDN = "(?:
             
             .shoes|
             
+            .shouji|
+            
             .show|
             
             .shriram|
@@ -1718,6 +1724,8 @@ $gTLD_IDN = "(?:
             
             .wedding|
             
+            .weibo|
+            
             .weir|
             
             .whoswho|
@@ -1751,6 +1759,8 @@ $gTLD_IDN = "(?:
             .xbox|
             
             .xerox|
+            
+            .xihuan|
             
             .xin|
             
@@ -1959,6 +1969,8 @@ $gTLD_IDN = "(?:
             .you|
             
             .youtube|
+            
+            .yun|
             
             .zara|
             
