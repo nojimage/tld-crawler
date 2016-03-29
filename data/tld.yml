@@ -5507,6 +5507,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .sina"
+  type: generic
+  organisation: 'Sina Corporation'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .singles"
   type: generic
   organisation: 'Fern Madison, LLC'
@@ -6956,6 +6962,12 @@
   domain: "\n            \n            .时尚"
   type: generic
   organisation: 'RISE VICTORY LIMITED'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .微博"
+  type: generic
+  organisation: 'Sina Corporation'
   isIDN: true
   punycode: null
 -

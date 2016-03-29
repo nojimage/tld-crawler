@@ -1434,6 +1434,8 @@ $gTLD_IDN = "(?:
             
             .shriram|
             
+            .sina|
+            
             .singles|
             
             .site|
@@ -1809,6 +1811,8 @@ $gTLD_IDN = "(?:
             ‏.קום‎|
             
             .时尚|
+            
+            .微博|
             
             .테스트|
             

@@ -6426,6 +6426,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .sina",
+        "type": "generic",
+        "organisation": "Sina Corporation",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .singles",
         "type": "generic",
         "organisation": "Fern Madison, LLC",
@@ -8116,6 +8123,13 @@
         "domain": "\n            \n            .\u65f6\u5c1a",
         "type": "generic",
         "organisation": "RISE VICTORY LIMITED",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .\u5fae\u535a",
+        "type": "generic",
+        "organisation": "Sina Corporation",
         "isIDN": true,
         "punycode": null
     },
