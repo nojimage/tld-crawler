@@ -774,6 +774,8 @@ $gTLD_IDN = "(?:
             
             .hsbc|
             
+            .htc|
+            
             .hyundai|
             
             .ibm|
@@ -1079,6 +1081,8 @@ $gTLD_IDN = "(?:
             .mtr|
             
             .museum|
+            
+            .mutual|
             
             .mutuelle|
             

@@ -1475,6 +1475,9 @@ Computer Center"
             .ht",country-code,"Consortium FDS/RDDH"
 "
             
+            .htc",generic,"HTC corporation"
+"
+            
             .hu",country-code,"Council of Hungarian Internet Providers (CHIP)"
 "
             
@@ -2105,6 +2108,9 @@ Direction des Communications Electroniques"
 "
             
             .museum",sponsored,"Museum Domain Management Association"
+"
+            
+            .mutual",generic,"Northwestern Mutual MU TLD Registry, LLC"
 "
             
             .mutuelle",generic,"Fédération Nationale de la Mutualité Française"

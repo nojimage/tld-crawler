@@ -3409,6 +3409,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .htc",
+        "type": "generic",
+        "organisation": "HTC corporation",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .hu",
         "type": "country-code",
         "organisation": "Council of Hungarian Internet Providers (CHIP)",
@@ -4861,6 +4868,13 @@
         "domain": "\n            \n            .museum",
         "type": "sponsored",
         "organisation": "Museum Domain Management Association",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .mutual",
+        "type": "generic",
+        "organisation": "Northwestern Mutual MU TLD Registry, LLC",
         "isIDN": true,
         "punycode": null
     },
