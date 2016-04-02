@@ -3962,6 +3962,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .kpmg",
+        "type": "generic",
+        "organisation": "KPMG International Cooperative (KPMG International Genossenschaft)",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .kpn",
         "type": "generic",
         "organisation": "Koninklijke KPN N.V.",
@@ -5120,6 +5127,13 @@
         "domain": "\n            \n            .nokia",
         "type": "generic",
         "organisation": "Nokia Corporation",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .northwesternmutual",
+        "type": "generic",
+        "organisation": "Northwestern Mutual Registry, LLC",
         "isIDN": true,
         "punycode": null
     },
@@ -7549,6 +7563,13 @@
         "domain": "\n            \n            .video",
         "type": "generic",
         "organisation": "United TLD Holdco, Ltd",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .vig",
+        "type": "generic",
+        "organisation": "VIENNA INSURANCE GROUP AG Wiener Versicherung Gruppe",
         "isIDN": true,
         "punycode": null
     },

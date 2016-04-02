@@ -888,6 +888,8 @@ $gTLD_IDN = "(?:
             
             .komatsu|
             
+            .kpmg|
+            
             .kpn|
             
             .krd|
@@ -1127,6 +1129,8 @@ $gTLD_IDN = "(?:
             .nissay|
             
             .nokia|
+            
+            .northwesternmutual|
             
             .norton|
             
@@ -1669,6 +1673,8 @@ $gTLD_IDN = "(?:
             .viajes|
             
             .video|
+            
+            .vig|
             
             .viking|
             

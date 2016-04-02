@@ -1715,6 +1715,9 @@ Cable and Wireless"
             .kp",country-code,"Star Joint Venture Company"
 "
             
+            .kpmg",generic,"KPMG International Cooperative (KPMG International Genossenschaft)"
+"
+            
             .kpn",generic,"Koninklijke KPN N.V."
 "
             
@@ -2219,6 +2222,9 @@ Centro de Computo"
 "
             
             .nokia",generic,"Nokia Corporation"
+"
+            
+            .northwesternmutual",generic,"Northwestern Mutual Registry, LLC"
 "
             
             .norton",generic,"Symantec Corporation"
@@ -3274,6 +3280,9 @@ c/o COBEX Internet Services"
 "
             
             .video",generic,"United TLD Holdco, Ltd"
+"
+            
+            .vig",generic,"VIENNA INSURANCE GROUP AG Wiener Versicherung Gruppe"
 "
             
             .viking",generic,"Viking River Cruises (Bermuda) Ltd."
