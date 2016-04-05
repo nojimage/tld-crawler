@@ -12,6 +12,8 @@ $gTLD_IDN = "(?:
             
             .abbott|
             
+            .abbvie|
+            
             .abogado|
             
             .academy|

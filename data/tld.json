@@ -28,6 +28,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .abbvie",
+        "type": "generic",
+        "organisation": "AbbVie Inc.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .abogado",
         "type": "generic",
         "organisation": "Top Level Domain Holdings Limited",
