@@ -16,6 +16,8 @@ $gTLD_IDN = "(?:
             
             .abogado|
             
+            .abudhabi|
+            
             .academy|
             
             .accenture|
@@ -1907,6 +1909,8 @@ $gTLD_IDN = "(?:
             ‏.بازار‎|
             
             ‏.موبايلي‎|
+            
+            ‏.ابوظبي‎|
             
             ‏.همراه‎|
             

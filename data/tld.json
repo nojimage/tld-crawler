@@ -42,6 +42,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .abudhabi",
+        "type": "generic",
+        "organisation": "Abu Dhabi Systems and Information Centre",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .ac",
         "type": "country-code",
         "organisation": "Network Information Center (AC Domain Registry)\nc/o Cable and Wireless (Ascension Island)",
@@ -8613,6 +8620,13 @@
         "domain": "\n            \n            \u200f.\u0627\u0644\u0645\u063a\u0631\u0628\u200e",
         "type": "country-code",
         "organisation": "Agence Nationale de R\u00e9glementation des T\u00e9l\u00e9communications (ANRT)",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            \u200f.\u0627\u0628\u0648\u0638\u0628\u064a\u200e",
+        "type": "generic",
+        "organisation": "Abu Dhabi Systems and Information Centre",
         "isIDN": true,
         "punycode": null
     },

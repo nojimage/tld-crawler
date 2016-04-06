@@ -35,6 +35,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .abudhabi"
+  type: generic
+  organisation: 'Abu Dhabi Systems and Information Centre'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .ac"
   type: country-code
   organisation: "Network Information Center (AC Domain Registry)\nc/o Cable and Wireless (Ascension Island)"
@@ -7382,6 +7388,12 @@
   domain: "\n            \n            ‏.المغرب‎"
   type: country-code
   organisation: 'Agence Nationale de Réglementation des Télécommunications (ANRT)'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            ‏.ابوظبي‎"
+  type: generic
+  organisation: 'Abu Dhabi Systems and Information Centre'
   isIDN: true
   punycode: null
 -
