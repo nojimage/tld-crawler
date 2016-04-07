@@ -226,6 +226,9 @@ c/o Cable and Wireless (Ascension Island)"
             .ba",country-code,"Universtiy Telinformatic Centre (UTIC)"
 "
             
+            .baby",generic,"Johnson & Johnson Services, Inc."
+"
+            
             .baidu",generic,"Baidu, Inc."
 "
             
@@ -1632,6 +1635,9 @@ Cable and Wireless"
 "
             
             .jmp",generic,"Matrix IP LLC"
+"
+            
+            .jnj",generic,"Johnson & Johnson Services, Inc."
 "
             
             .jo",country-code,"National Information Technology Center (NITC)"

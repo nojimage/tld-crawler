@@ -525,6 +525,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .baby",
+        "type": "generic",
+        "organisation": "Johnson \u0026 Johnson Services, Inc.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .baidu",
         "type": "generic",
         "organisation": "Baidu, Inc.",
@@ -3769,6 +3776,13 @@
         "domain": "\n            \n            .jmp",
         "type": "generic",
         "organisation": "Matrix IP LLC",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .jnj",
+        "type": "generic",
+        "organisation": "Johnson \u0026 Johnson Services, Inc.",
         "isIDN": true,
         "punycode": null
     },

@@ -116,6 +116,8 @@ $gTLD_IDN = "(?:
             
             .azure|
             
+            .baby|
+            
             .baidu|
             
             .band|
@@ -851,6 +853,8 @@ $gTLD_IDN = "(?:
             .jll|
             
             .jmp|
+            
+            .jnj|
             
             .jobs|
             
