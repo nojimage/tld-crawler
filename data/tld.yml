@@ -5327,6 +5327,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .sbi"
+  type: generic
+  organisation: 'STATE BANK OF INDIA'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .sbs"
   type: generic
   organisation: 'SPECIAL BROADCASTING SERVICE CORPORATION'
@@ -5771,6 +5777,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .statebank"
+  type: generic
+  organisation: 'STATE BANK OF INDIA'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .statefarm"
   type: generic
   organisation: 'State Farm Mutual Automobile Insurance Company'
@@ -6056,6 +6068,12 @@
   domain: "\n            \n            .tennis"
   type: generic
   organisation: 'Cotton Bloom, LLC'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .teva"
+  type: generic
+  organisation: 'Teva Pharmaceutical Industries Limited'
   isIDN: true
   punycode: null
 -

@@ -1386,6 +1386,8 @@ $gTLD_IDN = "(?:
             
             .saxo|
             
+            .sbi|
+            
             .sbs|
             
             .sca|
@@ -1504,6 +1506,8 @@ $gTLD_IDN = "(?:
             
             .starhub|
             
+            .statebank|
+            
             .statefarm|
             
             .statoil|
@@ -1585,6 +1589,8 @@ $gTLD_IDN = "(?:
             .temasek|
             
             .tennis|
+            
+            .teva|
             
             .thd|
             

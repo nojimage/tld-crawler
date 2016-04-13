@@ -2694,6 +2694,9 @@ Government Computer Center."
             .sb",country-code,"Solomon Telekom Company Limited"
 "
             
+            .sbi",generic,"STATE BANK OF INDIA"
+"
+            
             .sbs",generic,"SPECIAL BROADCASTING SERVICE CORPORATION"
 "
             
@@ -2917,6 +2920,9 @@ NIC Senegal"
             .starhub",generic,"StarHub Limited"
 "
             
+            .statebank",generic,"STATE BANK OF INDIA"
+"
+            
             .statefarm",generic,"State Farm Mutual Automobile Insurance Company"
 "
             
@@ -3061,6 +3067,9 @@ Department of Computer Science"
 "
             
             .tennis",generic,"Cotton Bloom, LLC"
+"
+            
+            .teva",generic,"Teva Pharmaceutical Industries Limited"
 "
             
             .tf",country-code,"Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)"
