@@ -76,6 +76,9 @@ c/o Cable and Wireless (Ascension Island)"
             .ag",country-code,"UHSA School of Medicine"
 "
             
+            .agakhan",generic,"Fondation Aga Khan (Aga Khan Foundation)"
+"
+            
             .agency",generic,"Steel Falls, LLC"
 "
             
@@ -89,6 +92,9 @@ c/o Cable and Wireless (Ascension Island)"
 "
             
             .airtel",generic,"Bharti Airtel Limited"
+"
+            
+            .akdn",generic,"Fondation Aga Khan (Aga Khan Foundation)"
 "
             
             .al",country-code,"Electronic and Postal Communications Authority - AKEP"
@@ -1525,6 +1531,9 @@ Computer Centre"
             .im",country-code,"Isle of Man Government"
 "
             
+            .imamat",generic,"Fondation Aga Khan (Aga Khan Foundation)"
+"
+            
             .immo",generic,"Auburn Bloom, LLC"
 "
             
@@ -1587,6 +1596,9 @@ Cable and Wireless"
 "
             
             .iselect",generic,"iSelect Ltd"
+"
+            
+            .ismaili",generic,"Fondation Aga Khan (Aga Khan Foundation)"
 "
             
             .ist",generic,"Istanbul Metropolitan Municipality"
@@ -3517,6 +3529,9 @@ c/o COBEX Internet Services"
 "
             
             .公司",generic,"Computer Network Information Center of Chinese Academy of Sciences （China Internet Network Information Center）"
+"
+            
+            .网站",generic,"Global Website TLD Asia Limited"
 "
             
             .移动",generic,"Afilias Limited"

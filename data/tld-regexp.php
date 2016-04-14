@@ -44,6 +44,8 @@ $gTLD_IDN = "(?:
             
             .afl|
             
+            .agakhan|
+            
             .agency|
             
             .aig|
@@ -51,6 +53,8 @@ $gTLD_IDN = "(?:
             .airforce|
             
             .airtel|
+            
+            .akdn|
             
             .alibaba|
             
@@ -796,6 +800,8 @@ $gTLD_IDN = "(?:
             
             .iinet|
             
+            .imamat|
+            
             .immo|
             
             .immobilien|
@@ -827,6 +833,8 @@ $gTLD_IDN = "(?:
             .irish|
             
             .iselect|
+            
+            .ismaili|
             
             .ist|
             
@@ -1817,6 +1825,8 @@ $gTLD_IDN = "(?:
             .公益|
             
             .公司|
+            
+            .网站|
             
             .移动|
             

@@ -175,6 +175,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .agakhan",
+        "type": "generic",
+        "organisation": "Fondation Aga Khan (Aga Khan Foundation)",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .agency",
         "type": "generic",
         "organisation": "Steel Falls, LLC",
@@ -206,6 +213,13 @@
         "domain": "\n            \n            .airtel",
         "type": "generic",
         "organisation": "Bharti Airtel Limited",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .akdn",
+        "type": "generic",
+        "organisation": "Fondation Aga Khan (Aga Khan Foundation)",
         "isIDN": true,
         "punycode": null
     },
@@ -3521,6 +3535,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .imamat",
+        "type": "generic",
+        "organisation": "Fondation Aga Khan (Aga Khan Foundation)",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .immo",
         "type": "generic",
         "organisation": "Auburn Bloom, LLC",
@@ -3664,6 +3685,13 @@
         "domain": "\n            \n            .iselect",
         "type": "generic",
         "organisation": "iSelect Ltd",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .ismaili",
+        "type": "generic",
+        "organisation": "Fondation Aga Khan (Aga Khan Foundation)",
         "isIDN": true,
         "punycode": null
     },
@@ -8116,6 +8144,13 @@
         "domain": "\n            \n            .\u516c\u53f8",
         "type": "generic",
         "organisation": "Computer Network Information Center of Chinese Academy of Sciences \uff08China Internet Network Information Center\uff09",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .\u7f51\u7ad9",
+        "type": "generic",
+        "organisation": "Global Website TLD Asia Limited",
         "isIDN": true,
         "punycode": null
     },
