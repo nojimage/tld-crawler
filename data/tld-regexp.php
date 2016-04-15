@@ -634,6 +634,8 @@ $gTLD_IDN = "(?:
             
             .frontier|
             
+            .ftr|
+            
             .fund|
             
             .furniture|

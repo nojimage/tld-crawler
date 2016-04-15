@@ -2357,6 +2357,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .ftr"
+  type: generic
+  organisation: 'Frontier Communications Corporation'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .fund"
   type: generic
   organisation: 'John Castle, LLC'
