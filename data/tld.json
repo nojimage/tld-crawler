@@ -5747,6 +5747,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .progressive",
+        "type": "generic",
+        "organisation": "Progressive Casualty Insurance Company",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .promo",
         "type": "generic",
         "organisation": "Afilias plc",
@@ -8071,6 +8078,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .\u0cad\u0cbe\u0cb0\u0ca4",
+        "type": "country-code",
+        "organisation": "Not assigned",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .\u6148\u5584",
         "type": "generic",
         "organisation": "Excellent First Limited",
@@ -8099,6 +8113,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .\u0b2d\u0b3e\u0b30\u0b24",
+        "type": "country-code",
+        "organisation": "Not assigned",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .\u70b9\u770b",
         "type": "generic",
         "organisation": "VeriSign Sarl",
@@ -8109,6 +8130,13 @@
         "domain": "\n            \n            .\u0e04\u0e2d\u0e21",
         "type": "generic",
         "organisation": "VeriSign Sarl",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .\u09ad\u09be\u09f0\u09a4",
+        "type": "country-code",
+        "organisation": "Not assigned",
         "isIDN": true,
         "punycode": null
     },
@@ -8886,6 +8914,13 @@
         "domain": "\n            \n            .\u66f8\u7c4d",
         "type": "generic",
         "organisation": "Amazon EU S.\u00e0 r.l.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .\u0d2d\u0d3e\u0d30\u0d24\u0d02",
+        "type": "country-code",
+        "organisation": "Not assigned",
         "isIDN": true,
         "punycode": null
     },

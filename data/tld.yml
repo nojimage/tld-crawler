@@ -4925,6 +4925,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .progressive"
+  type: generic
+  organisation: 'Progressive Casualty Insurance Company'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .promo"
   type: generic
   organisation: 'Afilias plc'
@@ -6917,6 +6923,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .ಭಾರತ"
+  type: country-code
+  organisation: 'Not assigned'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .慈善"
   type: generic
   organisation: 'Excellent First Limited'
@@ -6941,6 +6953,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .ଭାରତ"
+  type: country-code
+  organisation: 'Not assigned'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .点看"
   type: generic
   organisation: 'VeriSign Sarl'
@@ -6950,6 +6968,12 @@
   domain: "\n            \n            .คอม"
   type: generic
   organisation: 'VeriSign Sarl'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .ভাৰত"
+  type: country-code
+  organisation: 'Not assigned'
   isIDN: true
   punycode: null
 -
@@ -7616,6 +7640,12 @@
   domain: "\n            \n            .書籍"
   type: generic
   organisation: 'Amazon EU S.à r.l.'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .ഭാരതം"
+  type: country-code
+  organisation: 'Not assigned'
   isIDN: true
   punycode: null
 -
