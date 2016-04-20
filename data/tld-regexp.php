@@ -1060,6 +1060,8 @@ $gTLD_IDN = "(?:
             
             .mini|
             
+            .mls|
+            
             .mma|
             
             .mobi|

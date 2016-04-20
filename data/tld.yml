@@ -4055,6 +4055,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .mls"
+  type: generic
+  organisation: 'The Canadian Real Estate Association'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .mm"
   type: country-code
   organisation: 'Ministry of Communications, Posts & Telegraphs'
