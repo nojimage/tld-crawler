@@ -758,6 +758,8 @@ $gTLD_IDN = "(?:
             
             .hiv|
             
+            .hkt|
+            
             .hockey|
             
             .holdings|
@@ -978,6 +980,8 @@ $gTLD_IDN = "(?:
             
             .link|
             
+            .lipsy|
+            
             .live|
             
             .living|
@@ -1132,6 +1136,10 @@ $gTLD_IDN = "(?:
             
             .news|
             
+            .next|
+            
+            .nextdirect|
+            
             .nexus|
             
             .ngo|
@@ -1156,6 +1164,8 @@ $gTLD_IDN = "(?:
             
             .nowruz|
             
+            .nowtv|
+            
             .nra|
             
             .nrw|
@@ -1169,6 +1179,10 @@ $gTLD_IDN = "(?:
             .office|
             
             .okinawa|
+            
+            .olayan|
+            
+            .olayangroup|
             
             .omega|
             
@@ -1746,6 +1760,8 @@ $gTLD_IDN = "(?:
             
             .wanggou|
             
+            .warman|
+            
             .watch|
             
             .watches|
@@ -1931,6 +1947,8 @@ $gTLD_IDN = "(?:
             .手机|
             
             ‏.ارامكو‎|
+            
+            ‏.العليان‎|
             
             ‏.بازار‎|
             

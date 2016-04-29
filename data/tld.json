@@ -3325,6 +3325,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .hkt",
+        "type": "generic",
+        "organisation": "PCCW-HKT DataCom Services Limited",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .hm",
         "type": "country-code",
         "organisation": "HM Domain Registry",
@@ -4333,6 +4340,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .lipsy",
+        "type": "generic",
+        "organisation": "Lipsy Ltd",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .live",
         "type": "generic",
         "organisation": "United TLD Holdco Ltd.",
@@ -5103,6 +5117,20 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .next",
+        "type": "generic",
+        "organisation": "Next plc",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .nextdirect",
+        "type": "generic",
+        "organisation": "Next plc",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .nexus",
         "type": "generic",
         "organisation": "Charleston Road Registry Inc.",
@@ -5222,6 +5250,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .nowtv",
+        "type": "generic",
+        "organisation": "Starbucks (HK) Limited",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .np",
         "type": "country-code",
         "organisation": "Mercantile Communications Pvt. Ltd.",
@@ -5295,6 +5330,20 @@
         "domain": "\n            \n            .okinawa",
         "type": "generic",
         "organisation": "BusinessRalliart inc.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .olayan",
+        "type": "generic",
+        "organisation": "Crescent Holding GmbH",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .olayangroup",
+        "type": "generic",
+        "organisation": "Crescent Holding GmbH",
         "isIDN": true,
         "punycode": null
     },
@@ -7833,6 +7882,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .warman",
+        "type": "generic",
+        "organisation": "Weir Group IP Limited",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .watch",
         "type": "generic",
         "organisation": "Sand Shadow, LLC",
@@ -8683,6 +8739,13 @@
         "domain": "\n            \n            \u200f.\u0627\u06cc\u0631\u0627\u0646\u200e",
         "type": "country-code",
         "organisation": "Institute for Research in Fundamental Sciences (IPM)",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            \u200f.\u0627\u0644\u0639\u0644\u064a\u0627\u0646\u200e",
+        "type": "generic",
+        "organisation": "Crescent Holding GmbH",
         "isIDN": true,
         "punycode": null
     },

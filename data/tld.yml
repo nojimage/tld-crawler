@@ -2849,6 +2849,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .hkt"
+  type: generic
+  organisation: 'PCCW-HKT DataCom Services Limited'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .hm"
   type: country-code
   organisation: 'HM Domain Registry'
@@ -3713,6 +3719,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .lipsy"
+  type: generic
+  organisation: 'Lipsy Ltd'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .live"
   type: generic
   organisation: 'United TLD Holdco Ltd.'
@@ -4373,6 +4385,18 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .next"
+  type: generic
+  organisation: 'Next plc'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .nextdirect"
+  type: generic
+  organisation: 'Next plc'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .nexus"
   type: generic
   organisation: 'Charleston Road Registry Inc.'
@@ -4475,6 +4499,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .nowtv"
+  type: generic
+  organisation: 'Starbucks (HK) Limited'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .np"
   type: country-code
   organisation: 'Mercantile Communications Pvt. Ltd.'
@@ -4538,6 +4568,18 @@
   domain: "\n            \n            .okinawa"
   type: generic
   organisation: 'BusinessRalliart inc.'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .olayan"
+  type: generic
+  organisation: 'Crescent Holding GmbH'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .olayangroup"
+  type: generic
+  organisation: 'Crescent Holding GmbH'
   isIDN: true
   punycode: null
 -
@@ -6713,6 +6755,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .warman"
+  type: generic
+  organisation: 'Weir Group IP Limited'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .watch"
   type: generic
   organisation: 'Sand Shadow, LLC'
@@ -7442,6 +7490,12 @@
   domain: "\n            \n            ‏.ایران‎"
   type: country-code
   organisation: 'Institute for Research in Fundamental Sciences (IPM)'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            ‏.العليان‎"
+  type: generic
+  organisation: 'Crescent Holding GmbH'
   isIDN: true
   punycode: null
 -

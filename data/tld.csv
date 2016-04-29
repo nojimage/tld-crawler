@@ -1439,6 +1439,9 @@ Computer Center"
             .hk",country-code,"Hong Kong Internet Registration Corporation Ltd."
 "
             
+            .hkt",generic,"PCCW-HKT DataCom Services Limited"
+"
+            
             .hm",country-code,"HM Domain Registry"
 "
             
@@ -1875,6 +1878,9 @@ Computing and Networking Services"
             .link",generic,"Uniregistry, Corp."
 "
             
+            .lipsy",generic,"Lipsy Ltd"
+"
+            
             .live",generic,"United TLD Holdco Ltd."
 "
             
@@ -2211,6 +2217,12 @@ ITESM - Campus Monterrey"
             .news",generic,"United TLD Holdco Ltd."
 "
             
+            .next",generic,"Next plc"
+"
+            
+            .nextdirect",generic,"Next plc"
+"
+            
             .nexus",generic,"Charleston Road Registry Inc."
 "
             
@@ -2263,6 +2275,9 @@ Centro de Computo"
             .nowruz",generic,"Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti."
 "
             
+            .nowtv",generic,"Starbucks (HK) Limited"
+"
+            
             .np",country-code,"Mercantile Communications Pvt. Ltd."
 "
             
@@ -2294,6 +2309,12 @@ Centro de Computo"
 "
             
             .okinawa",generic,"BusinessRalliart inc."
+"
+            
+            .olayan",generic,"Crescent Holding GmbH"
+"
+            
+            .olayangroup",generic,"Crescent Holding GmbH"
 "
             
             .om",country-code,"Telecommunications Regulatory Authority (TRA)"
@@ -3396,6 +3417,9 @@ c/o COBEX Internet Services"
             .wanggou",generic,"Amazon Registry Services, Inc."
 "
             
+            .warman",generic,"Weir Group IP Limited"
+"
+            
             .watch",generic,"Sand Shadow, LLC"
 "
             
@@ -3760,6 +3784,9 @@ c/o COBEX Internet Services"
 "
             
             ‏.ایران‎",country-code,"Institute for Research in Fundamental Sciences (IPM)"
+"
+            
+            ‏.العليان‎",generic,"Crescent Holding GmbH"
 "
             
             ‏.امارات‎",country-code,"Telecommunications Regulatory Authority (TRA)"
