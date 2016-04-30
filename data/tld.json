@@ -1946,6 +1946,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .dds",
+        "type": "generic",
+        "organisation": "Minds + Machines Group Limited",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .de",
         "type": "country-code",
         "organisation": "DENIC eG",

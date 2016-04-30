@@ -444,6 +444,8 @@ $gTLD_IDN = "(?:
             
             .dclk|
             
+            .dds|
+            
             .dealer|
             
             .deals|
