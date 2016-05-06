@@ -604,6 +604,8 @@ $gTLD_IDN = "(?:
             
             .flights|
             
+            .flir|
+            
             .florist|
             
             .flowers|
@@ -1057,6 +1059,8 @@ $gTLD_IDN = "(?:
             .menu|
             
             .meo|
+            
+            .metlife|
             
             .miami|
             

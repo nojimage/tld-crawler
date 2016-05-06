@@ -2625,6 +2625,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .flir",
+        "type": "generic",
+        "organisation": "FLIR Systems, Inc.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .florist",
         "type": "generic",
         "organisation": "Half Cypress, LLC",
@@ -4686,6 +4693,13 @@
         "domain": "\n            \n            .meo",
         "type": "generic",
         "organisation": "PT Comunicacoes S.A.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .metlife",
+        "type": "generic",
+        "organisation": "MetLife Services and Solutions, LLC",
         "isIDN": true,
         "punycode": null
     },
