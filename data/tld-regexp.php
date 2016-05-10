@@ -1480,6 +1480,8 @@ $gTLD_IDN = "(?:
             
             .shoes|
             
+            .shop|
+            
             .shouji|
             
             .show|

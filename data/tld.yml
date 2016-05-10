@@ -5639,6 +5639,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .shop"
+  type: generic
+  organisation: 'GMO Registry, Inc.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .shouji"
   type: generic
   organisation: 'QIHOO 360 TECHNOLOGY CO. LTD.'
