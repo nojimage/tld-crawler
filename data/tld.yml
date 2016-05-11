@@ -4751,6 +4751,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .pccw"
+  type: generic
+  organisation: 'PCCW Enterprises Limited'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .pe"
   type: country-code
   organisation: 'Red Cientifica Peruana'
@@ -5228,6 +5234,12 @@
   domain: "\n            \n            .rich"
   type: generic
   organisation: 'I-REGISTRY Ltd., Niederlassung Deutschland'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .richardli"
+  type: generic
+  organisation: 'Pacific Century Asset Management (HK) Limited'
   isIDN: true
   punycode: null
 -
@@ -7346,6 +7358,12 @@
   domain: "\n            \n            .ලංකා"
   type: country-code
   organisation: 'LK Domain Registry'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .電訊盈科"
+  type: generic
+  organisation: 'PCCW Enterprises Limited'
   isIDN: true
   punycode: null
 -

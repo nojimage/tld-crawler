@@ -1236,6 +1236,8 @@ $gTLD_IDN = "(?:
             
             .passagens|
             
+            .pccw|
+            
             .pet|
             
             .pharmacy|
@@ -1365,6 +1367,8 @@ $gTLD_IDN = "(?:
             .rexroth|
             
             .rich|
+            
+            .richardli|
             
             .ricoh|
             
@@ -1919,6 +1923,8 @@ $gTLD_IDN = "(?:
             .娱乐|
             
             .谷歌|
+            
+            .電訊盈科|
             
             .购物|
             
