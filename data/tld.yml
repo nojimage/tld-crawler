@@ -2735,6 +2735,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .guardian"
+  type: generic
+  organisation: 'The Guardian Life Insurance Company of America'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .gucci"
   type: generic
   organisation: 'Guccio Gucci S.p.a.'

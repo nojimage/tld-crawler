@@ -726,6 +726,8 @@ $gTLD_IDN = "(?:
             
             .group|
             
+            .guardian|
+            
             .gucci|
             
             .guge|
