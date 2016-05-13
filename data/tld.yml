@@ -7817,6 +7817,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .嘉里"
+  type: generic
+  organisation: 'Kerry Trading Co. Limited'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            ‏.مصر‎"
   type: country-code
   organisation: 'National Telecommunication Regulatory Authority - NTRA'

@@ -9121,6 +9121,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .\u5609\u91cc",
+        "type": "generic",
+        "organisation": "Kerry Trading Co. Limited",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            \u200f.\u0645\u0635\u0631\u200e",
         "type": "country-code",
         "organisation": "National Telecommunication Regulatory Authority - NTRA",
