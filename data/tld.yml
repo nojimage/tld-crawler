@@ -3259,7 +3259,7 @@
 -
   domain: "\n            \n            .jetzt"
   type: generic
-  organisation: 'New TLD Company AB'
+  organisation: 'Wild Frostbite, LLC'
   isIDN: true
   punycode: null
 -
@@ -7747,7 +7747,7 @@
 -
   domain: "\n            \n            .書籍"
   type: generic
-  organisation: 'Amazon EU S.à r.l.'
+  organisation: 'Amazon Registry Services, Inc.'
   isIDN: true
   punycode: null
 -

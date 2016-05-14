@@ -3803,7 +3803,7 @@
     {
         "domain": "\n            \n            .jetzt",
         "type": "generic",
-        "organisation": "New TLD Company AB",
+        "organisation": "Wild Frostbite, LLC",
         "isIDN": true,
         "punycode": null
     },
@@ -9039,7 +9039,7 @@
     {
         "domain": "\n            \n            .\u66f8\u7c4d",
         "type": "generic",
-        "organisation": "Amazon EU S.\u00e0 r.l.",
+        "organisation": "Amazon Registry Services, Inc.",
         "isIDN": true,
         "punycode": null
     },
