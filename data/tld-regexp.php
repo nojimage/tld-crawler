@@ -184,6 +184,8 @@ $gTLD_IDN = "(?:
             
             .blackfriday|
             
+            .blog|
+            
             .bloomberg|
             
             .blue|
@@ -495,6 +497,8 @@ $gTLD_IDN = "(?:
             .domains|
             
             .doosan|
+            
+            .dot|
             
             .download|
             

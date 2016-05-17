@@ -826,6 +826,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .blog",
+        "type": "generic",
+        "organisation": "Knock Knock WHOIS There, LLC",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .bloomberg",
         "type": "generic",
         "organisation": "Bloomberg IP Holdings LLC",
@@ -2159,6 +2166,13 @@
         "domain": "\n            \n            .doosan",
         "type": "generic",
         "organisation": "Retired",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .dot",
+        "type": "generic",
+        "organisation": "Dish DBS Corporation",
         "isIDN": true,
         "punycode": null
     },
