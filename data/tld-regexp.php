@@ -42,6 +42,8 @@ $gTLD_IDN = "(?:
             
             .aero|
             
+            .aetna|
+            
             .afl|
             
             .agakhan|

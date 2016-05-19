@@ -131,6 +131,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .aetna"
+  type: generic
+  organisation: 'Aetna Life Insurance Company'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .af"
   type: country-code
   organisation: 'Ministry of Communications and IT'
