@@ -1332,6 +1332,8 @@ $gTLD_IDN = "(?:
             
             .read|
             
+            .realestate|
+            
             .realtor|
             
             .realty|

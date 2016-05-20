@@ -5129,6 +5129,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .realestate"
+  type: generic
+  organisation: 'dotRealEstate LLC'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .realtor"
   type: generic
   organisation: 'Real Estate Domains LLC'
