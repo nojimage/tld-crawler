@@ -2198,6 +2198,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .dtv",
+        "type": "generic",
+        "organisation": "Dish DBS Corporation",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .dubai",
         "type": "generic",
         "organisation": "Dubai Smart Government Department",
@@ -4431,6 +4438,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .locker",
+        "type": "generic",
+        "organisation": "Dish DBS Corporation",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .locus",
         "type": "generic",
         "organisation": "Locus Analytics LLC",
@@ -5404,6 +5418,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .ollo",
+        "type": "generic",
+        "organisation": "Dish DBS Corporation",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .om",
         "type": "country-code",
         "organisation": "Telecommunications Regulatory Authority (TRA)",
@@ -5498,6 +5519,13 @@
         "domain": "\n            \n            .otsuka",
         "type": "generic",
         "organisation": "Otsuka Holdings Co., Ltd.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .ott",
+        "type": "generic",
+        "organisation": "Dish DBS Corporation",
         "isIDN": true,
         "punycode": null
     },

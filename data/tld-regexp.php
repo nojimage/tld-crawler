@@ -506,6 +506,8 @@ $gTLD_IDN = "(?:
             
             .drive|
             
+            .dtv|
+            
             .dubai|
             
             .durban|
@@ -1004,6 +1006,8 @@ $gTLD_IDN = "(?:
             
             .loans|
             
+            .locker|
+            
             .locus|
             
             .lol|
@@ -1200,6 +1204,8 @@ $gTLD_IDN = "(?:
             
             .olayangroup|
             
+            .ollo|
+            
             .omega|
             
             .one|
@@ -1225,6 +1231,8 @@ $gTLD_IDN = "(?:
             .osaka|
             
             .otsuka|
+            
+            .ott|
             
             .ovh|
             
