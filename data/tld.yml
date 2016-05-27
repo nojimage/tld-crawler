@@ -3983,6 +3983,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .mattel"
+  type: generic
+  organisation: 'Mattel Sites, Inc.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .mba"
   type: generic
   organisation: 'Lone Hollow, LLC'
@@ -4418,6 +4424,12 @@
   domain: "\n            \n            .netbank"
   type: generic
   organisation: 'COMMONWEALTH BANK OF AUSTRALIA'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .netflix"
+  type: generic
+  organisation: 'Netflix, Inc.'
   isIDN: true
   punycode: null
 -
@@ -6602,6 +6614,12 @@
   domain: "\n            \n            .uol"
   type: generic
   organisation: 'UBN INTERNET LTDA.'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .ups"
+  type: generic
+  organisation: 'UPS Market Driver, Inc.'
   isIDN: true
   punycode: null
 -

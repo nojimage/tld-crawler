@@ -1052,6 +1052,8 @@ $gTLD_IDN = "(?:
             
             .marriott|
             
+            .mattel|
+            
             .mba|
             
             .med|
@@ -1147,6 +1149,8 @@ $gTLD_IDN = "(?:
             .net|
             
             .netbank|
+            
+            .netflix|
             
             .network|
             
@@ -1729,6 +1733,8 @@ $gTLD_IDN = "(?:
             .uno|
             
             .uol|
+            
+            .ups|
             
             .vacations|
             

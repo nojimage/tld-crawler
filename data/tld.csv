@@ -2013,6 +2013,9 @@ Department of Network Solutions (DNS)"
             .marriott",generic,"Marriott Worldwide Corporation"
 "
             
+            .mattel",generic,"Mattel Sites, Inc."
+"
+            
             .mba",generic,"Lone Hollow, LLC"
 "
             
@@ -2233,6 +2236,9 @@ ITESM - Campus Monterrey"
 "
             
             .netbank",generic,"COMMONWEALTH BANK OF AUSTRALIA"
+"
+            
+            .netflix",generic,"Netflix, Inc."
 "
             
             .network",generic,"Trixy Manor, LLC"
@@ -3338,6 +3344,9 @@ Faculty of Engineering"
 "
             
             .uol",generic,"UBN INTERNET LTDA."
+"
+            
+            .ups",generic,"UPS Market Driver, Inc."
 "
             
             .us",country-code,"NeuStar, Inc."
