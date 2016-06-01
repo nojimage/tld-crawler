@@ -476,6 +476,8 @@ $gTLD_IDN = "(?:
             
             .dev|
             
+            .dhl|
+            
             .diamonds|
             
             .diet|
@@ -665,6 +667,8 @@ $gTLD_IDN = "(?:
             .gallup|
             
             .game|
+            
+            .games|
             
             .garden|
             
@@ -2077,6 +2081,8 @@ $gTLD_IDN = "(?:
             .youtube|
             
             .yun|
+            
+            .zappos|
             
             .zara|
             

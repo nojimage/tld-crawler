@@ -2065,6 +2065,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .dhl",
+        "type": "generic",
+        "organisation": "Deutsche Post AG",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .diamonds",
         "type": "generic",
         "organisation": "John Edge, LLC",
@@ -2866,6 +2873,13 @@
         "domain": "\n            \n            .game",
         "type": "generic",
         "organisation": "Uniregistry, Corp.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .games",
+        "type": "generic",
+        "organisation": "United TLD Holdco Ltd.",
         "isIDN": true,
         "punycode": null
     },
@@ -9390,6 +9404,13 @@
         "domain": "\n            \n            .za",
         "type": "country-code",
         "organisation": "ZA Domain Name Authority",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .zappos",
+        "type": "generic",
+        "organisation": "Amazon EU S.\u00e0 r.l.",
         "isIDN": true,
         "punycode": null
     },
