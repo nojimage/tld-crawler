@@ -3367,6 +3367,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .hisamitsu",
+        "type": "generic",
+        "organisation": "Hisamitsu Pharmaceutical Co.,Inc.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .hitachi",
         "type": "generic",
         "organisation": "Hitachi, Ltd.",
@@ -5771,6 +5778,13 @@
         "domain": "\n            \n            .pink",
         "type": "generic",
         "organisation": "Afilias Limited",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .pioneer",
+        "type": "generic",
+        "organisation": "Pioneer Corporation",
         "isIDN": true,
         "punycode": null
     },

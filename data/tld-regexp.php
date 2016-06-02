@@ -772,6 +772,8 @@ $gTLD_IDN = "(?:
             
             .hiphop|
             
+            .hisamitsu|
+            
             .hitachi|
             
             .hiv|
@@ -1293,6 +1295,8 @@ $gTLD_IDN = "(?:
             .ping|
             
             .pink|
+            
+            .pioneer|
             
             .pizza|
             
