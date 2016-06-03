@@ -855,6 +855,9 @@ Capitolio Nacional"
             .de",country-code,"DENIC eG"
 "
             
+            .deal",generic,"Amazon EU S.à r.l."
+"
+            
             .dealer",generic,"Dealer Dot Com, Inc."
 "
             
@@ -1016,6 +1019,9 @@ Supreme Council of Universities"
             .enterprises",generic,"Snow Oaks, LLC"
 "
             
+            .epost",generic,"Deutsche Post AG"
+"
+            
             .epson",generic,"Seiko Epson Corporation"
 "
             
@@ -1119,6 +1125,9 @@ Supreme Council of Universities"
 "
             
             .financial",generic,"Just Cover, LLC"
+"
+            
+            .fire",generic,"Amazon EU S.à r.l."
 "
             
             .firestone",generic,"Bridgestone Corporation"
@@ -1570,6 +1579,9 @@ Computer Centre"
             .imamat",generic,"Fondation Aga Khan (Aga Khan Foundation)"
 "
             
+            .imdb",generic,"Amazon EU S.à r.l."
+"
+            
             .immo",generic,"Auburn Bloom, LLC"
 "
             
@@ -1752,6 +1764,9 @@ Cable and Wireless"
 "
             
             .kinder",generic,"Ferrero Trading Lux S.A."
+"
+            
+            .kindle",generic,"Amazon EU S.à r.l."
 "
             
             .kitchen",generic,"Just Goodbye, LLC"
@@ -2317,6 +2332,9 @@ Centro de Computo"
             .norton",generic,"Symantec Corporation"
 "
             
+            .now",generic,"Amazon EU S.à r.l."
+"
+            
             .nowruz",generic,"Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti."
 "
             
@@ -2559,6 +2577,9 @@ The Papua New Guinea University of Technology"
             .press",generic,"DotPress Inc."
 "
             
+            .prime",generic,"Amazon EU S.à r.l."
+"
+            
             .pro",generic-restricted,"Registry Services Corporation
 dba RegistryPro"
 "
@@ -2793,6 +2814,9 @@ Government Computer Center."
             .sas",generic,"Research IP LLC"
 "
             
+            .save",generic,"Amazon EU S.à r.l."
+"
+            
             .saxo",generic,"Saxo Bank A/S"
 "
             
@@ -2917,6 +2941,9 @@ Government Computer Center."
 "
             
             .si",country-code,"Academic and Research Network of Slovenia (ARNES)"
+"
+            
+            .silk",generic,"Amazon EU S.à r.l."
 "
             
             .sina",generic,"Sina Corporation"
@@ -3151,6 +3178,9 @@ Department of Computer Science"
 "
             
             .td",country-code,"Société des télécommunications du Tchad (SOTEL TCHAD)"
+"
+            
+            .tdk",generic,"TDK Corporation"
 "
             
             .team",generic,"Atomic Lake, LLC"
@@ -4077,7 +4107,7 @@ c/o COBEX Internet Services"
             .za",country-code,"ZA Domain Name Authority"
 "
             
-            .zappos",generic,"Amazon EU S.à r.l."
+            .zappos",generic,"Amazon Registry Service, Inc."
 "
             
             .zara",generic,"Industria de Diseño Textil, S.A. (INDITEX, S.A.)"

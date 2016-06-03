@@ -450,6 +450,8 @@ $gTLD_IDN = "(?:
             
             .dds|
             
+            .deal|
+            
             .dealer|
             
             .deals|
@@ -538,6 +540,8 @@ $gTLD_IDN = "(?:
             
             .enterprises|
             
+            .epost|
+            
             .epson|
             
             .equipment|
@@ -597,6 +601,8 @@ $gTLD_IDN = "(?:
             .finance|
             
             .financial|
+            
+            .fire|
             
             .firestone|
             
@@ -826,6 +832,8 @@ $gTLD_IDN = "(?:
             
             .imamat|
             
+            .imdb|
+            
             .immo|
             
             .immobilien|
@@ -919,6 +927,8 @@ $gTLD_IDN = "(?:
             .kim|
             
             .kinder|
+            
+            .kindle|
             
             .kitchen|
             
@@ -1192,6 +1202,8 @@ $gTLD_IDN = "(?:
             
             .norton|
             
+            .now|
+            
             .nowruz|
             
             .nowtv|
@@ -1321,6 +1333,8 @@ $gTLD_IDN = "(?:
             .praxi|
             
             .press|
+            
+            .prime|
             
             .pro|
             
@@ -1454,6 +1468,8 @@ $gTLD_IDN = "(?:
             
             .sas|
             
+            .save|
+            
             .saxo|
             
             .sbi|
@@ -1523,6 +1539,8 @@ $gTLD_IDN = "(?:
             .show|
             
             .shriram|
+            
+            .silk|
             
             .sina|
             
@@ -1645,6 +1663,8 @@ $gTLD_IDN = "(?:
             .taxi|
             
             .tci|
+            
+            .tdk|
             
             .team|
             

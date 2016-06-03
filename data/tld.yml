@@ -1691,6 +1691,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .deal"
+  type: generic
+  organisation: 'Amazon EU S.à r.l.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .dealer"
   type: generic
   organisation: 'Dealer Dot Com, Inc.'
@@ -2009,6 +2015,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .epost"
+  type: generic
+  organisation: 'Deutsche Post AG'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .epson"
   type: generic
   organisation: 'Seiko Epson Corporation'
@@ -2216,6 +2228,12 @@
   domain: "\n            \n            .financial"
   type: generic
   organisation: 'Just Cover, LLC'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .fire"
+  type: generic
+  organisation: 'Amazon EU S.à r.l.'
   isIDN: true
   punycode: null
 -
@@ -3107,6 +3125,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .imdb"
+  type: generic
+  organisation: 'Amazon EU S.à r.l.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .immo"
   type: generic
   organisation: 'Auburn Bloom, LLC'
@@ -3470,6 +3494,12 @@
   domain: "\n            \n            .kinder"
   type: generic
   organisation: 'Ferrero Trading Lux S.A.'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .kindle"
+  type: generic
+  organisation: 'Amazon EU S.à r.l.'
   isIDN: true
   punycode: null
 -
@@ -4583,6 +4613,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .now"
+  type: generic
+  organisation: 'Amazon EU S.à r.l.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .nowruz"
   type: generic
   organisation: 'Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.'
@@ -5063,6 +5099,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .prime"
+  type: generic
+  organisation: 'Amazon EU S.à r.l.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .pro"
   type: generic-restricted
   organisation: "Registry Services Corporation\ndba RegistryPro"
@@ -5525,6 +5567,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .save"
+  type: generic
+  organisation: 'Amazon EU S.à r.l.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .saxo"
   type: generic
   organisation: 'Saxo Bank A/S'
@@ -5774,6 +5822,12 @@
   domain: "\n            \n            .si"
   type: country-code
   organisation: 'Academic and Research Network of Slovenia (ARNES)'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .silk"
+  type: generic
+  organisation: 'Amazon EU S.à r.l.'
   isIDN: true
   punycode: null
 -
@@ -6236,6 +6290,12 @@
   domain: "\n            \n            .td"
   type: country-code
   organisation: 'Société des télécommunications du Tchad (SOTEL TCHAD)'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .tdk"
+  type: generic
+  organisation: 'TDK Corporation'
   isIDN: true
   punycode: null
 -
@@ -8077,7 +8137,7 @@
 -
   domain: "\n            \n            .zappos"
   type: generic
-  organisation: 'Amazon EU S.à r.l.'
+  organisation: 'Amazon Registry Service, Inc.'
   isIDN: true
   punycode: null
 -
