@@ -395,6 +395,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .audible"
+  type: generic
+  organisation: 'Amazon EU S.à r.l.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .audio"
   type: generic
   organisation: 'Uniregistry, Corp.'
@@ -1220,6 +1226,12 @@
   domain: "\n            \n            .cheap"
   type: generic
   organisation: 'Sand Cover, LLC'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .chintai"
+  type: generic
+  organisation: 'CHINTAI Corporation'
   isIDN: true
   punycode: null
 -

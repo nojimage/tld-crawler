@@ -106,6 +106,8 @@ $gTLD_IDN = "(?:
             
             .audi|
             
+            .audible|
+            
             .audio|
             
             .author|
@@ -321,6 +323,8 @@ $gTLD_IDN = "(?:
             .chat|
             
             .cheap|
+            
+            .chintai|
             
             .chloe|
             
