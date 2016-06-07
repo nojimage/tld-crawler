@@ -2240,6 +2240,20 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .dunlop",
+        "type": "generic",
+        "organisation": "The Goodyear Tire \u0026 Rubber Company",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .dupont",
+        "type": "generic",
+        "organisation": "E. I. du Pont de Nemours and Company",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .durban",
         "type": "generic",
         "organisation": "ZA Central Registry NPC trading as ZA Central Registry",
@@ -3146,6 +3160,13 @@
         "domain": "\n            \n            .goo",
         "type": "generic",
         "organisation": "NTT Resonant Inc.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .goodyear",
+        "type": "generic",
+        "organisation": "The Goodyear Tire \u0026 Rubber Company",
         "isIDN": true,
         "punycode": null
     },

@@ -518,6 +518,10 @@ $gTLD_IDN = "(?:
             
             .dubai|
             
+            .dunlop|
+            
+            .dupont|
+            
             .durban|
             
             .dvag|
@@ -725,6 +729,8 @@ $gTLD_IDN = "(?:
             .golf|
             
             .goo|
+            
+            .goodyear|
             
             .goog|
             
