@@ -91,6 +91,9 @@ c/o Cable and Wireless (Ascension Island)"
             .aig",generic,"American International Group, Inc."
 "
             
+            .airbus",generic,"Airbus S.A.S."
+"
+            
             .airforce",generic,"United TLD Holdco Ltd."
 "
             
@@ -199,7 +202,7 @@ c/o Cable and Wireless (Ascension Island)"
             .audi",generic,"AUDI Aktiengesellschaft"
 "
             
-            .audible",generic,"Amazon EU S.à r.l."
+            .audible",generic,"Amazon Registry Service, Inc."
 "
             
             .audio",generic,"Uniregistry, Corp."
@@ -861,7 +864,7 @@ Capitolio Nacional"
             .de",country-code,"DENIC eG"
 "
             
-            .deal",generic,"Amazon EU S.à r.l."
+            .deal",generic,"Amazon Registry Service, Inc."
 "
             
             .dealer",generic,"Dealer Dot Com, Inc."
@@ -1043,6 +1046,9 @@ Supreme Council of Universities"
             .er",country-code,"Eritrea Telecommunication Services Corporation (EriTel)"
 "
             
+            .ericsson",generic,"Telefonaktiebolaget L M Ericsson"
+"
+            
             .erni",generic,"ERNI Group Holding AG"
 "
             
@@ -1139,7 +1145,7 @@ Supreme Council of Universities"
             .financial",generic,"Just Cover, LLC"
 "
             
-            .fire",generic,"Amazon EU S.à r.l."
+            .fire",generic,"Amazon Registry Service, Inc."
 "
             
             .firestone",generic,"Bridgestone Corporation"
@@ -1594,7 +1600,7 @@ Computer Centre"
             .imamat",generic,"Fondation Aga Khan (Aga Khan Foundation)"
 "
             
-            .imdb",generic,"Amazon EU S.à r.l."
+            .imdb",generic,"Amazon Registry Service, Inc."
 "
             
             .immo",generic,"Auburn Bloom, LLC"
@@ -1781,7 +1787,7 @@ Cable and Wireless"
             .kinder",generic,"Ferrero Trading Lux S.A."
 "
             
-            .kindle",generic,"Amazon EU S.à r.l."
+            .kindle",generic,"Amazon Registry Service, Inc."
 "
             
             .kitchen",generic,"Just Goodbye, LLC"
@@ -2347,7 +2353,7 @@ Centro de Computo"
             .norton",generic,"Symantec Corporation"
 "
             
-            .now",generic,"Amazon EU S.à r.l."
+            .now",generic,"Amazon Registry Service, Inc."
 "
             
             .nowruz",generic,"Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti."
@@ -2592,7 +2598,7 @@ The Papua New Guinea University of Technology"
             .press",generic,"DotPress Inc."
 "
             
-            .prime",generic,"Amazon EU S.à r.l."
+            .prime",generic,"Amazon Registry Service, Inc."
 "
             
             .pro",generic-restricted,"Registry Services Corporation
@@ -2829,7 +2835,7 @@ Government Computer Center."
             .sas",generic,"Research IP LLC"
 "
             
-            .save",generic,"Amazon EU S.à r.l."
+            .save",generic,"Amazon Registry Service, Inc."
 "
             
             .saxo",generic,"Saxo Bank A/S"
@@ -2958,7 +2964,7 @@ Government Computer Center."
             .si",country-code,"Academic and Research Network of Slovenia (ARNES)"
 "
             
-            .silk",generic,"Amazon EU S.à r.l."
+            .silk",generic,"Amazon Registry Service, Inc."
 "
             
             .sina",generic,"Sina Corporation"

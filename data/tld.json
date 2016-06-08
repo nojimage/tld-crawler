@@ -210,6 +210,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .airbus",
+        "type": "generic",
+        "organisation": "Airbus S.A.S.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .airforce",
         "type": "generic",
         "organisation": "United TLD Holdco Ltd.",
@@ -464,7 +471,7 @@
     {
         "domain": "\n            \n            .audible",
         "type": "generic",
-        "organisation": "Amazon EU S.\u00e0 r.l.",
+        "organisation": "Amazon Registry Service, Inc.",
         "isIDN": true,
         "punycode": null
     },
@@ -1990,7 +1997,7 @@
     {
         "domain": "\n            \n            .deal",
         "type": "generic",
-        "organisation": "Amazon EU S.\u00e0 r.l.",
+        "organisation": "Amazon Registry Service, Inc.",
         "isIDN": true,
         "punycode": null
     },
@@ -2408,6 +2415,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .ericsson",
+        "type": "generic",
+        "organisation": "Telefonaktiebolaget L M Ericsson",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .erni",
         "type": "generic",
         "organisation": "ERNI Group Holding AG",
@@ -2634,7 +2648,7 @@
     {
         "domain": "\n            \n            .fire",
         "type": "generic",
-        "organisation": "Amazon EU S.\u00e0 r.l.",
+        "organisation": "Amazon Registry Service, Inc.",
         "isIDN": true,
         "punycode": null
     },
@@ -3684,7 +3698,7 @@
     {
         "domain": "\n            \n            .imdb",
         "type": "generic",
-        "organisation": "Amazon EU S.\u00e0 r.l.",
+        "organisation": "Amazon Registry Service, Inc.",
         "isIDN": true,
         "punycode": null
     },
@@ -4118,7 +4132,7 @@
     {
         "domain": "\n            \n            .kindle",
         "type": "generic",
-        "organisation": "Amazon EU S.\u00e0 r.l.",
+        "organisation": "Amazon Registry Service, Inc.",
         "isIDN": true,
         "punycode": null
     },
@@ -5420,7 +5434,7 @@
     {
         "domain": "\n            \n            .now",
         "type": "generic",
-        "organisation": "Amazon EU S.\u00e0 r.l.",
+        "organisation": "Amazon Registry Service, Inc.",
         "isIDN": true,
         "punycode": null
     },
@@ -5987,7 +6001,7 @@
     {
         "domain": "\n            \n            .prime",
         "type": "generic",
-        "organisation": "Amazon EU S.\u00e0 r.l.",
+        "organisation": "Amazon Registry Service, Inc.",
         "isIDN": true,
         "punycode": null
     },
@@ -6533,7 +6547,7 @@
     {
         "domain": "\n            \n            .save",
         "type": "generic",
-        "organisation": "Amazon EU S.\u00e0 r.l.",
+        "organisation": "Amazon Registry Service, Inc.",
         "isIDN": true,
         "punycode": null
     },
@@ -6834,7 +6848,7 @@
     {
         "domain": "\n            \n            .silk",
         "type": "generic",
-        "organisation": "Amazon EU S.\u00e0 r.l.",
+        "organisation": "Amazon Registry Service, Inc.",
         "isIDN": true,
         "punycode": null
     },

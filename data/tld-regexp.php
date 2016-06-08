@@ -52,6 +52,8 @@ $gTLD_IDN = "(?:
             
             .aig|
             
+            .airbus|
+            
             .airforce|
             
             .airtel|
@@ -553,6 +555,8 @@ $gTLD_IDN = "(?:
             .epson|
             
             .equipment|
+            
+            .ericsson|
             
             .erni|
             
