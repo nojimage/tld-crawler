@@ -70,6 +70,8 @@ $gTLD_IDN = "(?:
             
             .alsace|
             
+            .alstom|
+            
             .amica|
             
             .amsterdam|
@@ -951,6 +953,8 @@ $gTLD_IDN = "(?:
             .koeln|
             
             .komatsu|
+            
+            .kosher|
             
             .kpmg|
             

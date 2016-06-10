@@ -239,6 +239,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .alstom"
+  type: generic
+  organisation: ALSTOM
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .am"
   type: country-code
   organisation: '"Internet Society" Non-governmental Organization'
@@ -3578,6 +3584,12 @@
   domain: "\n            \n            .komatsu"
   type: generic
   organisation: 'Komatsu Ltd.'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .kosher"
+  type: generic
+  organisation: 'Kosher Marketing Assets LLC'
   isIDN: true
   punycode: null
 -

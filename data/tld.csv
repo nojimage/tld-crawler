@@ -121,6 +121,9 @@ c/o Cable and Wireless (Ascension Island)"
             .alsace",generic,"REGION D ALSACE"
 "
             
+            .alstom",generic,ALSTOM
+"
+            
             .am",country-code,"""Internet Society"" Non-governmental Organization"
 "
             
@@ -1806,6 +1809,9 @@ Cable and Wireless"
 "
             
             .komatsu",generic,"Komatsu Ltd."
+"
+            
+            .kosher",generic,"Kosher Marketing Assets LLC"
 "
             
             .kp",country-code,"Star Joint Venture Company"
