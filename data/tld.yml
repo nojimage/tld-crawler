@@ -1019,6 +1019,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .cam"
+  type: generic
+  organisation: 'AC Webconnecting Holding B.V.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .camera"
   type: generic
   organisation: 'Atomic Maple, LLC'
@@ -3773,6 +3779,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .lego"
+  type: generic
+  organisation: 'LEGO Juris A/S'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .lexus"
   type: generic
   organisation: 'TOYOTA MOTOR CORPORATION'
@@ -5852,6 +5864,12 @@
   domain: "\n            \n            .shop"
   type: generic
   organisation: 'GMO Registry, Inc.'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .shopping"
+  type: generic
+  organisation: 'Over Keep, LLC'
   isIDN: true
   punycode: null
 -

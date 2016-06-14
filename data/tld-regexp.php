@@ -264,6 +264,8 @@ $gTLD_IDN = "(?:
             
             .call|
             
+            .cam|
+            
             .camera|
             
             .camp|
@@ -1000,6 +1002,8 @@ $gTLD_IDN = "(?:
             
             .legal|
             
+            .lego|
+            
             .lexus|
             
             .lgbt|
@@ -1551,6 +1555,8 @@ $gTLD_IDN = "(?:
             .shoes|
             
             .shop|
+            
+            .shopping|
             
             .shouji|
             
