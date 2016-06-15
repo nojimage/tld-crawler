@@ -478,7 +478,7 @@
     {
         "domain": "\n            \n            .audible",
         "type": "generic",
-        "organisation": "Amazon Registry Service, Inc.",
+        "organisation": "Amazon Registry Services, Inc.",
         "isIDN": true,
         "punycode": null
     },
@@ -2011,7 +2011,7 @@
     {
         "domain": "\n            \n            .deal",
         "type": "generic",
-        "organisation": "Amazon Registry Service, Inc.",
+        "organisation": "Amazon Registry Services, Inc.",
         "isIDN": true,
         "punycode": null
     },
@@ -2662,7 +2662,7 @@
     {
         "domain": "\n            \n            .fire",
         "type": "generic",
-        "organisation": "Amazon Registry Service, Inc.",
+        "organisation": "Amazon Registry Services, Inc.",
         "isIDN": true,
         "punycode": null
     },
@@ -3712,7 +3712,7 @@
     {
         "domain": "\n            \n            .imdb",
         "type": "generic",
-        "organisation": "Amazon Registry Service, Inc.",
+        "organisation": "Amazon Registry Services, Inc.",
         "isIDN": true,
         "punycode": null
     },
@@ -4146,7 +4146,7 @@
     {
         "domain": "\n            \n            .kindle",
         "type": "generic",
-        "organisation": "Amazon Registry Service, Inc.",
+        "organisation": "Amazon Registry Services, Inc.",
         "isIDN": true,
         "punycode": null
     },
@@ -5462,7 +5462,7 @@
     {
         "domain": "\n            \n            .now",
         "type": "generic",
-        "organisation": "Amazon Registry Service, Inc.",
+        "organisation": "Amazon Registry Services, Inc.",
         "isIDN": true,
         "punycode": null
     },
@@ -6029,7 +6029,7 @@
     {
         "domain": "\n            \n            .prime",
         "type": "generic",
-        "organisation": "Amazon Registry Service, Inc.",
+        "organisation": "Amazon Registry Services, Inc.",
         "isIDN": true,
         "punycode": null
     },
@@ -6575,7 +6575,7 @@
     {
         "domain": "\n            \n            .save",
         "type": "generic",
-        "organisation": "Amazon Registry Service, Inc.",
+        "organisation": "Amazon Registry Services, Inc.",
         "isIDN": true,
         "punycode": null
     },
@@ -6883,7 +6883,7 @@
     {
         "domain": "\n            \n            .silk",
         "type": "generic",
-        "organisation": "Amazon Registry Service, Inc.",
+        "organisation": "Amazon Registry Services, Inc.",
         "isIDN": true,
         "punycode": null
     },
@@ -9578,7 +9578,7 @@
     {
         "domain": "\n            \n            .zappos",
         "type": "generic",
-        "organisation": "Amazon Registry Service, Inc.",
+        "organisation": "Amazon Registry Services, Inc.",
         "isIDN": true,
         "punycode": null
     },
