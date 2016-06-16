@@ -35,6 +35,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .able",
+        "type": "generic",
+        "organisation": "Able Inc.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .abogado",
         "type": "generic",
         "organisation": "Top Level Domain Holdings Limited",
@@ -332,6 +339,13 @@
         "domain": "\n            \n            .anquan",
         "type": "generic",
         "organisation": "QIHOO 360 TECHNOLOGY CO. LTD.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .anz",
+        "type": "generic",
+        "organisation": "Australia and New Zealand Banking Group Limited",
         "isIDN": true,
         "punycode": null
     },
@@ -5553,7 +5567,7 @@
     {
         "domain": "\n            \n            .okinawa",
         "type": "generic",
-        "organisation": "BusinessRalliart inc.",
+        "organisation": "BRregistry, Inc.",
         "isIDN": true,
         "punycode": null
     },
@@ -6463,7 +6477,7 @@
     {
         "domain": "\n            \n            .ryukyu",
         "type": "generic",
-        "organisation": "BusinessRalliart inc.",
+        "organisation": "BRregistry, Inc.",
         "isIDN": true,
         "punycode": null
     },

@@ -14,6 +14,8 @@ $gTLD_IDN = "(?:
             
             .abbvie|
             
+            .able|
+            
             .abogado|
             
             .abudhabi|
@@ -81,6 +83,8 @@ $gTLD_IDN = "(?:
             .android|
             
             .anquan|
+            
+            .anz|
             
             .apartments|
             

@@ -15,6 +15,9 @@
             .abbvie",generic,"AbbVie Inc."
 "
             
+            .able",generic,"Able Inc."
+"
+            
             .abogado",generic,"Top Level Domain Holdings Limited"
 "
             
@@ -143,6 +146,9 @@ c/o Cable and Wireless (Ascension Island)"
 "
             
             .anquan",generic,"QIHOO 360 TECHNOLOGY CO. LTD."
+"
+            
+            .anz",generic,"Australia and New Zealand Banking Group Limited"
 "
             
             .ao",country-code,"Faculdade de Engenharia da Universidade Agostinho Neto"
@@ -2404,7 +2410,7 @@ Centro de Computo"
             .office",generic,"Microsoft Corporation"
 "
             
-            .okinawa",generic,"BusinessRalliart inc."
+            .okinawa",generic,"BRregistry, Inc."
 "
             
             .olayan",generic,"Crescent Holding GmbH"
@@ -2799,7 +2805,7 @@ Government Computer Center."
             .rwe",generic,"RWE AG"
 "
             
-            .ryukyu",generic,"BusinessRalliart inc."
+            .ryukyu",generic,"BRregistry, Inc."
 "
             
             .sa",country-code,"Communications and Information Technology Commission"
