@@ -196,6 +196,8 @@ $gTLD_IDN = "(?:
             
             .blackfriday|
             
+            .blanco|
+            
             .blog|
             
             .bloomberg|
@@ -895,6 +897,8 @@ $gTLD_IDN = "(?:
             .istanbul|
             
             .itau|
+            
+            .itv|
             
             .iwc|
             

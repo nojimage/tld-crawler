@@ -868,6 +868,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .blanco",
+        "type": "generic",
+        "organisation": "BLANCO GmbH + Co KG",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .blog",
         "type": "generic",
         "organisation": "Knock Knock WHOIS There, LLC",
@@ -3909,6 +3916,13 @@
         "domain": "\n            \n            .itau",
         "type": "generic",
         "organisation": "Itau Unibanco Holding S.A.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .itv",
+        "type": "generic",
+        "organisation": "ITV Services Limited",
         "isIDN": true,
         "punycode": null
     },
