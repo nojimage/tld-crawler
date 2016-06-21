@@ -608,6 +608,8 @@ $gTLD_IDN = "(?:
             
             .farm|
             
+            .farmers|
+            
             .fashion|
             
             .fast|
@@ -1212,6 +1214,8 @@ $gTLD_IDN = "(?:
             
             .nexus|
             
+            .nfl|
+            
             .ngo|
             
             .nhk|
@@ -1277,6 +1281,8 @@ $gTLD_IDN = "(?:
             .org|
             
             .organic|
+            
+            .orientexpress|
             
             .origins|
             
@@ -1355,6 +1361,8 @@ $gTLD_IDN = "(?:
             .pohl|
             
             .poker|
+            
+            .politie|
             
             .porn|
             
@@ -1899,6 +1907,8 @@ $gTLD_IDN = "(?:
             .wme|
             
             .wolterskluwer|
+            
+            .woodside|
             
             .work|
             

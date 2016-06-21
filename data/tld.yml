@@ -2243,6 +2243,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .farmers"
+  type: generic
+  organisation: 'Farmers Insurance Exchange'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .fashion"
   type: generic
   organisation: 'Top Level Domain Holdings Limited'
@@ -4619,6 +4625,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .nfl"
+  type: generic
+  organisation: 'NFL Reg Ops LLC'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .ng"
   type: country-code
   organisation: 'Nigeria Internet Registration Association'
@@ -4868,6 +4880,12 @@
   domain: "\n            \n            .organic"
   type: generic
   organisation: 'Afilias Limited'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .orientexpress"
+  type: generic
+  organisation: 'Orient Express'
   isIDN: true
   punycode: null
 -
@@ -5156,6 +5174,12 @@
   domain: "\n            \n            .poker"
   type: generic
   organisation: 'Afilias Domains No. 5 Limited'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .politie"
+  type: generic
+  organisation: 'Politie Nederland'
   isIDN: true
   punycode: null
 -
@@ -7178,6 +7202,12 @@
   domain: "\n            \n            .wolterskluwer"
   type: generic
   organisation: 'Wolters Kluwer N.V.'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .woodside"
+  type: generic
+  organisation: 'Woodside Petroleum Limited'
   isIDN: true
   punycode: null
 -
