@@ -102,6 +102,8 @@ $gTLD_IDN = "(?:
             
             .arpa|
             
+            .art|
+            
             .arte|
             
             .asia|
@@ -412,6 +414,8 @@ $gTLD_IDN = "(?:
             
             .cooking|
             
+            .cookingchannel|
+            
             .cool|
             
             .coop|
@@ -656,6 +660,8 @@ $gTLD_IDN = "(?:
             
             .foo|
             
+            .foodnetwork|
+            
             .football|
             
             .ford|
@@ -675,6 +681,8 @@ $gTLD_IDN = "(?:
             .frl|
             
             .frogans|
+            
+            .frontdoor|
             
             .frontier|
             
@@ -801,6 +809,8 @@ $gTLD_IDN = "(?:
             .here|
             
             .hermes|
+            
+            .hgtv|
             
             .hiphop|
             
@@ -1773,6 +1783,8 @@ $gTLD_IDN = "(?:
             .training|
             
             .travel|
+            
+            .travelchannel|
             
             .travelers|
             

@@ -427,6 +427,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .art",
+        "type": "generic",
+        "organisation": "UK Creative Ideas Limited",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .arte",
         "type": "generic",
         "organisation": "Association Relative \u00e0 la T\u00e9l\u00e9vision Europ\u00e9enne G.E.I.E.",
@@ -1785,6 +1792,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .cookingchannel",
+        "type": "generic",
+        "organisation": "Lifestyle Domain Holdings, Inc.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .cool",
         "type": "generic",
         "organisation": "Koko Lake, LLC",
@@ -2821,6 +2835,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .foodnetwork",
+        "type": "generic",
+        "organisation": "Lifestyle Domain Holdings, Inc.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .football",
         "type": "generic",
         "organisation": "Foggy Farms, LLC",
@@ -2894,6 +2915,13 @@
         "domain": "\n            \n            .frogans",
         "type": "generic",
         "organisation": "OP3FT",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .frontdoor",
+        "type": "generic",
+        "organisation": "Lifestyle Domain Holdings, Inc.",
         "isIDN": true,
         "punycode": null
     },
@@ -3468,6 +3496,13 @@
         "domain": "\n            \n            .hermes",
         "type": "generic",
         "organisation": "Hermes International",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .hgtv",
+        "type": "generic",
+        "organisation": "Lifestyle Domain Holdings, Inc.",
         "isIDN": true,
         "punycode": null
     },
@@ -7801,6 +7836,13 @@
         "domain": "\n            \n            .travel",
         "type": "sponsored",
         "organisation": "Tralliance Registry Management Company, LLC.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .travelchannel",
+        "type": "generic",
+        "organisation": "Lifestyle Domain Holdings, Inc.",
         "isIDN": true,
         "punycode": null
     },
