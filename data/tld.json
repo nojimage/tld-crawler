@@ -2653,6 +2653,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .fedex",
+        "type": "generic",
+        "organisation": "Federal Express Corporation",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .feedback",
         "type": "generic",
         "organisation": "Top Level Spectrum, Inc.",

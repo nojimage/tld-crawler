@@ -618,6 +618,8 @@ $gTLD_IDN = "(?:
             
             .fast|
             
+            .fedex|
+            
             .feedback|
             
             .ferrero|
