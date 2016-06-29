@@ -3759,6 +3759,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .ikano",
+        "type": "generic",
+        "organisation": "Ikano S.A.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .il",
         "type": "country-code",
         "organisation": "Internet Society of Israel",
@@ -6065,6 +6072,13 @@
         "domain": "\n            \n            .pn",
         "type": "country-code",
         "organisation": "Pitcairn Island Administration",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .pnc",
+        "type": "generic",
+        "organisation": "PNC Domain Co., LLC",
         "isIDN": true,
         "punycode": null
     },

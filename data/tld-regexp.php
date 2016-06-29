@@ -868,6 +868,8 @@ $gTLD_IDN = "(?:
             
             .iinet|
             
+            .ikano|
+            
             .imamat|
             
             .imdb|
@@ -1369,6 +1371,8 @@ $gTLD_IDN = "(?:
             .plumbing|
             
             .plus|
+            
+            .pnc|
             
             .pohl|
             
