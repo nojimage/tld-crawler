@@ -1372,6 +1372,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .cbre",
+        "type": "generic",
+        "organisation": "CBRE, Inc.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .cc",
         "type": "country-code",
         "organisation": "eNIC Cocos (Keeling) Islands Pty.\nLtd. d/b/a Island Internet Services",
@@ -5019,6 +5026,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .mit",
+        "type": "generic",
+        "organisation": "Massachusetts Institute of Technology",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .mk",
         "type": "country-code",
         "organisation": "Macedonian Academic Research Network Skopje",
@@ -6909,6 +6923,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .shangrila",
+        "type": "generic",
+        "organisation": "Shangri\u2010La International Hotel Management Limited",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .sharp",
         "type": "generic",
         "organisation": "Sharp Corporation",
@@ -8687,6 +8708,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .\u9999\u683c\u91cc\u62c9",
+        "type": "generic",
+        "organisation": "Shangri\u2010La International Hotel Management Limited",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .\u7f51\u7ad9",
         "type": "generic",
         "organisation": "Global Website TLD Asia Limited",
@@ -9726,6 +9754,13 @@
         "domain": "\n            \n            .zip",
         "type": "generic",
         "organisation": "Charleston Road Registry Inc.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .zippo",
+        "type": "generic",
+        "organisation": "Zadco Company",
         "isIDN": true,
         "punycode": null
     },

@@ -593,6 +593,9 @@ Ministry of Labour and Immigration"
             .cbn",generic,"The Christian Broadcasting Network, Inc."
 "
             
+            .cbre",generic,"CBRE, Inc."
+"
+            
             .cc",country-code,"eNIC Cocos (Keeling) Islands Pty.
 Ltd. d/b/a Island Internet Services"
 "
@@ -2173,6 +2176,9 @@ Direction des Communications Electroniques"
             .mini",generic,"Bayerische Motoren Werke Aktiengesellschaft"
 "
             
+            .mit",generic,"Massachusetts Institute of Technology"
+"
+            
             .mk",country-code,"Macedonian Academic Research Network Skopje"
 "
             
@@ -2991,6 +2997,9 @@ Government Computer Center."
             .sh",country-code,"Government of St. Helena"
 "
             
+            .shangrila",generic,"Shangri‐La International Hotel Management Limited"
+"
+            
             .sharp",generic,"Sharp Corporation"
 "
             
@@ -3762,6 +3771,9 @@ c/o COBEX Internet Services"
             .公司",generic,"Computer Network Information Center of Chinese Academy of Sciences （China Internet Network Information Center）"
 "
             
+            .香格里拉",generic,"Shangri‐La International Hotel Management Limited"
+"
+            
             .网站",generic,"Global Website TLD Asia Limited"
 "
             
@@ -4207,6 +4219,9 @@ c/o COBEX Internet Services"
 "
             
             .zip",generic,"Charleston Road Registry Inc."
+"
+            
+            .zippo",generic,"Zadco Company"
 "
             
             .zm",country-code,"Zambia Information and Communications Technology Authority (ZICTA)"

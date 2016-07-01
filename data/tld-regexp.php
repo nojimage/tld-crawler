@@ -316,6 +316,8 @@ $gTLD_IDN = "(?:
             
             .cbn|
             
+            .cbre|
+            
             .ceb|
             
             .center|
@@ -1146,6 +1148,8 @@ $gTLD_IDN = "(?:
             
             .mini|
             
+            .mit|
+            
             .mlb|
             
             .mls|
@@ -1574,6 +1578,8 @@ $gTLD_IDN = "(?:
             
             .sfr|
             
+            .shangrila|
+            
             .sharp|
             
             .shaw|
@@ -1974,6 +1980,8 @@ $gTLD_IDN = "(?:
             
             .公司|
             
+            .香格里拉|
+            
             .网站|
             
             .移动|
@@ -2173,6 +2181,8 @@ $gTLD_IDN = "(?:
             .zero|
             
             .zip|
+            
+            .zippo|
             
             .zone|
             
