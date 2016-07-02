@@ -2771,6 +2771,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .godaddy"
+  type: generic
+  organisation: 'Go Daddy East, LLC'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .gold"
   type: generic
   organisation: 'June Edge, LLC'

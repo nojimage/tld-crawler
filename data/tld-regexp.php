@@ -750,6 +750,8 @@ $gTLD_IDN = "(?:
             
             .gmx|
             
+            .godaddy|
+            
             .gold|
             
             .goldpoint|
