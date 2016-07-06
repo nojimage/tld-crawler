@@ -392,6 +392,8 @@ $gTLD_IDN = "(?:
             
             .com|
             
+            .comcast|
+            
             .commbank|
             
             .community|
@@ -691,6 +693,8 @@ $gTLD_IDN = "(?:
             .frontier|
             
             .ftr|
+            
+            .fujitsu|
             
             .fund|
             
@@ -1151,6 +1155,8 @@ $gTLD_IDN = "(?:
             .mini|
             
             .mit|
+            
+            .mitsubishi|
             
             .mlb|
             
@@ -1949,6 +1955,8 @@ $gTLD_IDN = "(?:
             .xbox|
             
             .xerox|
+            
+            .xfinity|
             
             .xihuan|
             

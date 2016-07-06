@@ -741,6 +741,9 @@ Ltd. d/b/a Island Internet Services"
             .com",generic,"VeriSign Global Registry Services"
 "
             
+            .comcast",generic,"Comcast IP Holdings I, LLC"
+"
+            
             .commbank",generic,"COMMONWEALTH BANK OF AUSTRALIA"
 "
             
@@ -1276,6 +1279,9 @@ IT Services"
 "
             
             .ftr",generic,"Frontier Communications Corporation"
+"
+            
+            .fujitsu",generic,"Fujitsu Limited"
 "
             
             .fund",generic,"John Castle, LLC"
@@ -2180,6 +2186,9 @@ Direction des Communications Electroniques"
 "
             
             .mit",generic,"Massachusetts Institute of Technology"
+"
+            
+            .mitsubishi",generic,"Mitsubishi Corporation"
 "
             
             .mk",country-code,"Macedonian Academic Research Network Skopje"
@@ -3706,6 +3715,9 @@ c/o COBEX Internet Services"
 "
             
             .xerox",generic,"Xerox DNHC LLC"
+"
+            
+            .xfinity",generic,"Comcast IP Holdings I, LLC"
 "
             
             .xihuan",generic,"QIHOO 360 TECHNOLOGY CO. LTD."

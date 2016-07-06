@@ -1469,6 +1469,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .comcast"
+  type: generic
+  organisation: 'Comcast IP Holdings I, LLC'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .commbank"
   type: generic
   organisation: 'COMMONWEALTH BANK OF AUSTRALIA'
@@ -2528,6 +2534,12 @@
   domain: "\n            \n            .ftr"
   type: generic
   organisation: 'Frontier Communications Corporation'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .fujitsu"
+  type: generic
+  organisation: 'Fujitsu Limited'
   isIDN: true
   punycode: null
 -
@@ -4316,6 +4328,12 @@
   domain: "\n            \n            .mit"
   type: generic
   organisation: 'Massachusetts Institute of Technology'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .mitsubishi"
+  type: generic
+  organisation: 'Mitsubishi Corporation'
   isIDN: true
   punycode: null
 -
@@ -7334,6 +7352,12 @@
   domain: "\n            \n            .xerox"
   type: generic
   organisation: 'Xerox DNHC LLC'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .xfinity"
+  type: generic
+  organisation: 'Comcast IP Holdings I, LLC'
   isIDN: true
   punycode: null
 -
