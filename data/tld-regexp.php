@@ -1248,6 +1248,8 @@ $gTLD_IDN = "(?:
             
             .nico|
             
+            .nike|
+            
             .nikon|
             
             .ninja|
@@ -1575,6 +1577,8 @@ $gTLD_IDN = "(?:
             .sener|
             
             .services|
+            
+            .ses|
             
             .seven|
             

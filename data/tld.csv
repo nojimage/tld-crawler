@@ -2395,6 +2395,9 @@ Centro de Computo"
             .nico",generic,"DWANGO Co., Ltd."
 "
             
+            .nike",generic,"NIKE, Inc."
+"
+            
             .nikon",generic,"NIKON CORPORATION"
 "
             
@@ -2986,6 +2989,9 @@ Government Computer Center."
 "
             
             .services",generic,"Fox Castle, LLC"
+"
+            
+            .ses",generic,SES
 "
             
             .seven",generic,"Seven West Media Ltd"

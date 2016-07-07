@@ -4739,6 +4739,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .nike"
+  type: generic
+  organisation: 'NIKE, Inc.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .nikon"
   type: generic
   organisation: 'NIKON CORPORATION'
@@ -5912,6 +5918,12 @@
   domain: "\n            \n            .services"
   type: generic
   organisation: 'Fox Castle, LLC'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .ses"
+  type: generic
+  organisation: SES
   isIDN: true
   punycode: null
 -
