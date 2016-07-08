@@ -1568,7 +1568,13 @@ Computer Center"
             .homedepot",generic,"Homer TLC, Inc."
 "
             
+            .homegoods",generic,"The TJX Companies, Inc."
+"
+            
             .homes",generic,"DERHomes, LLC"
+"
+            
+            .homesense",generic,"The TJX Companies, Inc."
 "
             
             .honda",generic,"Honda Motor Co., Ltd."
@@ -1691,6 +1697,9 @@ Computer Centre"
 "
             
             .international",generic,"Wild Way, LLC"
+"
+            
+            .intuit",generic,"Intuit Administrative Services, Inc."
 "
             
             .investments",generic,"Holly Glen, LLC"
@@ -2085,6 +2094,9 @@ Department of Network Solutions (DNS)"
             .ma",country-code,"Agence Nationale de Réglementation des Télécommunications (ANRT)"
 "
             
+            .macys",generic,"Macys, Inc."
+"
+            
             .madrid",generic,"Comunidad de Madrid"
 "
             
@@ -2116,6 +2128,9 @@ Department of Network Solutions (DNS)"
 "
             
             .marriott",generic,"Marriott Worldwide Corporation"
+"
+            
+            .marshalls",generic,"The TJX Companies, Inc."
 "
             
             .mattel",generic,"Mattel Sites, Inc."
@@ -2183,6 +2198,9 @@ Direction des Communications Electroniques"
 "
             
             .mini",generic,"Bayerische Motoren Werke Aktiengesellschaft"
+"
+            
+            .mint",generic,"Intuit Administrative Services, Inc."
 "
             
             .mit",generic,"Massachusetts Institute of Technology"
@@ -3360,7 +3378,16 @@ Department of Computer Science"
             .tj",country-code,"Information Technology Center"
 "
             
+            .tjmaxx",generic,"The TJX Companies, Inc."
+"
+            
+            .tjx",generic,"The TJX Companies, Inc."
+"
+            
             .tk",country-code,"Telecommunication Tokelau Corporation (Teletok)"
+"
+            
+            .tkmaxx",generic,"The TJX Companies, Inc."
 "
             
             .tl",country-code,"Ministry of Transport and  Communications; National Division of  Information and Technology"
@@ -3688,6 +3715,9 @@ c/o COBEX Internet Services"
 "
             
             .wine",generic,"June Station, LLC"
+"
+            
+            .winners",generic,"The TJX Companies, Inc."
 "
             
             .wme",generic,"William Morris Endeavor Entertainment, LLC"

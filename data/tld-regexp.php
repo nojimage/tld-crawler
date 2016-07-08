@@ -840,7 +840,11 @@ $gTLD_IDN = "(?:
             
             .homedepot|
             
+            .homegoods|
+            
             .homes|
+            
+            .homesense|
             
             .honda|
             
@@ -905,6 +909,8 @@ $gTLD_IDN = "(?:
             .int|
             
             .international|
+            
+            .intuit|
             
             .investments|
             
@@ -1100,6 +1106,8 @@ $gTLD_IDN = "(?:
             
             .luxury|
             
+            .macys|
+            
             .madrid|
             
             .maif|
@@ -1121,6 +1129,8 @@ $gTLD_IDN = "(?:
             .markets|
             
             .marriott|
+            
+            .marshalls|
             
             .mattel|
             
@@ -1153,6 +1163,8 @@ $gTLD_IDN = "(?:
             .mil|
             
             .mini|
+            
+            .mint|
             
             .mit|
             
@@ -1776,6 +1788,12 @@ $gTLD_IDN = "(?:
             
             .tirol|
             
+            .tjmaxx|
+            
+            .tjx|
+            
+            .tkmaxx|
+            
             .tmall|
             
             .today|
@@ -1939,6 +1957,8 @@ $gTLD_IDN = "(?:
             .windows|
             
             .wine|
+            
+            .winners|
             
             .wme|
             

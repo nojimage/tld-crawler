@@ -3107,9 +3107,21 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .homegoods"
+  type: generic
+  organisation: 'The TJX Companies, Inc.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .homes"
   type: generic
   organisation: 'DERHomes, LLC'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .homesense"
+  type: generic
+  organisation: 'The TJX Companies, Inc.'
   isIDN: true
   punycode: null
 -
@@ -3350,6 +3362,12 @@
   domain: "\n            \n            .international"
   type: generic
   organisation: 'Wild Way, LLC'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .intuit"
+  type: generic
+  organisation: 'Intuit Administrative Services, Inc.'
   isIDN: true
   punycode: null
 -
@@ -4127,6 +4145,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .macys"
+  type: generic
+  organisation: 'Macys, Inc.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .madrid"
   type: generic
   organisation: 'Comunidad de Madrid'
@@ -4190,6 +4214,12 @@
   domain: "\n            \n            .marriott"
   type: generic
   organisation: 'Marriott Worldwide Corporation'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .marshalls"
+  type: generic
+  organisation: 'The TJX Companies, Inc.'
   isIDN: true
   punycode: null
 -
@@ -4322,6 +4352,12 @@
   domain: "\n            \n            .mini"
   type: generic
   organisation: 'Bayerische Motoren Werke Aktiengesellschaft'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .mint"
+  type: generic
+  organisation: 'Intuit Administrative Services, Inc.'
   isIDN: true
   punycode: null
 -
@@ -6653,9 +6689,27 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .tjmaxx"
+  type: generic
+  organisation: 'The TJX Companies, Inc.'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .tjx"
+  type: generic
+  organisation: 'The TJX Companies, Inc.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .tk"
   type: country-code
   organisation: 'Telecommunication Tokelau Corporation (Teletok)'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .tkmaxx"
+  type: generic
+  organisation: 'The TJX Companies, Inc.'
   isIDN: true
   punycode: null
 -
@@ -7298,6 +7352,12 @@
   domain: "\n            \n            .wine"
   type: generic
   organisation: 'June Station, LLC'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .winners"
+  type: generic
+  organisation: 'The TJX Companies, Inc.'
   isIDN: true
   punycode: null
 -
