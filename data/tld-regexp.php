@@ -1226,6 +1226,8 @@ $gTLD_IDN = "(?:
             
             .name|
             
+            .nationwide|
+            
             .natura|
             
             .navy|
@@ -1337,6 +1339,8 @@ $gTLD_IDN = "(?:
             .page|
             
             .pamperedchef|
+            
+            .panasonic|
             
             .panerai|
             

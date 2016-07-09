@@ -5418,6 +5418,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .nationwide",
+        "type": "generic",
+        "organisation": "Nationwide Mutual Insurance Company",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .natura",
         "type": "generic",
         "organisation": "NATURA COSM\u00c9TICOS S.A.",
@@ -5897,6 +5904,13 @@
         "domain": "\n            \n            .pamperedchef",
         "type": "generic",
         "organisation": "The Pampered Chef, Ltd.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .panasonic",
+        "type": "generic",
+        "organisation": "Panasonic Corporation",
         "isIDN": true,
         "punycode": null
     },
