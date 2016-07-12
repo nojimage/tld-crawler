@@ -68,6 +68,8 @@ $gTLD_IDN = "(?:
             
             .allfinanz|
             
+            .allstate|
+            
             .ally|
             
             .alsace|
@@ -764,6 +766,8 @@ $gTLD_IDN = "(?:
             
             .goo|
             
+            .goodhands|
+            
             .goodyear|
             
             .goog|
@@ -1037,6 +1041,8 @@ $gTLD_IDN = "(?:
             .lease|
             
             .leclerc|
+            
+            .lefrak|
             
             .legal|
             

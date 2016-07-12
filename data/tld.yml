@@ -233,6 +233,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .allstate"
+  type: generic
+  organisation: 'Allstate Fire and Casualty Insurance Company'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .ally"
   type: generic
   organisation: 'Ally Financial Inc.'
@@ -2813,6 +2819,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .goodhands"
+  type: generic
+  organisation: 'Allstate Fire and Casualty Insurance Company'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .goodyear"
   type: generic
   organisation: 'The Goodyear Tire & Rubber Company'
@@ -3884,6 +3896,12 @@
   domain: "\n            \n            .leclerc"
   type: generic
   organisation: 'A.C.D. LEC Association des Centres Distributeurs Edouard Leclerc'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .lefrak"
+  type: generic
+  organisation: 'LeFrak Organization, Inc.'
   isIDN: true
   punycode: null
 -
