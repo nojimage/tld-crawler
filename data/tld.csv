@@ -2602,6 +2602,9 @@ Centro de Computo"
             .pf",country-code,"Gouvernement de la Polynésie française"
 "
             
+            .pfizer",generic,"Pfizer Inc."
+"
+            
             .pg",country-code,"PNG DNS Administration
 Vice Chancellors Office
 The Papua New Guinea University of Technology"
@@ -3123,6 +3126,9 @@ Government Computer Center."
             .sm",country-code,"Telecom Italia San Marino S.p.A."
 "
             
+            .smart",generic,"Smart Communications, Inc. (SMART)"
+"
+            
             .smile",generic,"Amazon Registry Services, Inc."
 "
             
@@ -3191,6 +3197,9 @@ NIC Senegal"
 "
             
             .stada",generic,"STADA Arzneimittel AG"
+"
+            
+            .staples",generic,"Staples, Inc."
 "
             
             .star",generic,"Star India Private Limited"
@@ -3628,6 +3637,9 @@ c/o COBEX Internet Services"
 "
             
             .viva",generic,"Saudi Telecom Company"
+"
+            
+            .vivo",generic,"Telefonica Brasil S.A."
 "
             
             .vlaanderen",generic,"DNS.be vzw"

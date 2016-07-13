@@ -5153,6 +5153,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .pfizer"
+  type: generic
+  organisation: 'Pfizer Inc.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .pg"
   type: country-code
   organisation: "PNG DNS Administration\nVice Chancellors Office\nThe Papua New Guinea University of Technology"
@@ -6185,6 +6191,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .smart"
+  type: generic
+  organisation: 'Smart Communications, Inc. (SMART)'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .smile"
   type: generic
   organisation: 'Amazon Registry Services, Inc.'
@@ -6320,6 +6332,12 @@
   domain: "\n            \n            .stada"
   type: generic
   organisation: 'STADA Arzneimittel AG'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .staples"
+  type: generic
+  organisation: 'Staples, Inc.'
   isIDN: true
   punycode: null
 -
@@ -7178,6 +7196,12 @@
   domain: "\n            \n            .viva"
   type: generic
   organisation: 'Saudi Telecom Company'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .vivo"
+  type: generic
+  organisation: 'Telefonica Brasil S.A.'
   isIDN: true
   punycode: null
 -

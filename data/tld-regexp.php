@@ -1366,6 +1366,8 @@ $gTLD_IDN = "(?:
             
             .pet|
             
+            .pfizer|
+            
             .pharmacy|
             
             .philips|
@@ -1652,6 +1654,8 @@ $gTLD_IDN = "(?:
             
             .skype|
             
+            .smart|
+            
             .smile|
             
             .sncf|
@@ -1687,6 +1691,8 @@ $gTLD_IDN = "(?:
             .srl|
             
             .stada|
+            
+            .staples|
             
             .star|
             
@@ -1905,6 +1911,8 @@ $gTLD_IDN = "(?:
             .vistaprint|
             
             .viva|
+            
+            .vivo|
             
             .vlaanderen|
             
