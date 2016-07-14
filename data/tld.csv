@@ -300,6 +300,9 @@ Telecommunications Unit"
             .bbc",generic,"British Broadcasting Corporation"
 "
             
+            .bbt",generic,"BB&T Corporation"
+"
+            
             .bbva",generic,"BANCO BILBAO VIZCAYA ARGENTARIA, S.A."
 "
             
@@ -317,6 +320,9 @@ Bangladesh Secretariat"
 "
             
             .beats",generic,"Beats Electronics, LLC"
+"
+            
+            .beauty",generic,L'Oréal
 "
             
             .beer",generic,"Top Level Domain Holdings Limited"
@@ -1287,6 +1293,9 @@ IT Services"
             .fujitsu",generic,"Fujitsu Limited"
 "
             
+            .fujixerox",generic,"Xerox DNHC LLC"
+"
+            
             .fund",generic,"John Castle, LLC"
 "
             
@@ -1928,6 +1937,9 @@ Cable and Wireless"
             .lancaster",generic,LANCASTER
 "
             
+            .lancome",generic,L'Oréal
+"
+            
             .land",generic,"Pine Moon, LLC"
 "
             
@@ -2081,6 +2093,9 @@ LK Domain Registrar"
 "
             
             .lu",country-code,RESTENA
+"
+            
+            .lundbeck",generic,"H. Lundbeck A/S"
 "
             
             .lupin",generic,"LUPIN LIMITED"
@@ -2522,6 +2537,9 @@ Centro de Computo"
 "
             
             .online",generic,"DotOnline Inc."
+"
+            
+            .onyourside",generic,"Nationwide Mutual Insurance Company"
 "
             
             .ooo",generic,"INFIBEAM INCORPORATION LIMITED"

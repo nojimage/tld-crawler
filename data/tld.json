@@ -693,6 +693,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .bbt",
+        "type": "generic",
+        "organisation": "BB\u0026T Corporation",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .bbva",
         "type": "generic",
         "organisation": "BANCO BILBAO VIZCAYA ARGENTARIA, S.A.",
@@ -731,6 +738,13 @@
         "domain": "\n            \n            .beats",
         "type": "generic",
         "organisation": "Beats Electronics, LLC",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .beauty",
+        "type": "generic",
+        "organisation": "L\u0027Or\u00e9al",
         "isIDN": true,
         "punycode": null
     },
@@ -2975,6 +2989,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .fujixerox",
+        "type": "generic",
+        "organisation": "Xerox DNHC LLC",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .fund",
         "type": "generic",
         "organisation": "John Castle, LLC",
@@ -4459,6 +4480,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .lancome",
+        "type": "generic",
+        "organisation": "L\u0027Or\u00e9al",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .land",
         "type": "generic",
         "organisation": "Pine Moon, LLC",
@@ -4812,6 +4840,13 @@
         "domain": "\n            \n            .lu",
         "type": "country-code",
         "organisation": "RESTENA",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .lundbeck",
+        "type": "generic",
+        "organisation": "H. Lundbeck A/S",
         "isIDN": true,
         "punycode": null
     },
@@ -5827,6 +5862,13 @@
         "domain": "\n            \n            .online",
         "type": "generic",
         "organisation": "DotOnline Inc.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .onyourside",
+        "type": "generic",
+        "organisation": "Nationwide Mutual Insurance Company",
         "isIDN": true,
         "punycode": null
     },

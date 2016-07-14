@@ -162,6 +162,8 @@ $gTLD_IDN = "(?:
             
             .bbc|
             
+            .bbt|
+            
             .bbva|
             
             .bcg|
@@ -169,6 +171,8 @@ $gTLD_IDN = "(?:
             .bcn|
             
             .beats|
+            
+            .beauty|
             
             .beer|
             
@@ -698,6 +702,8 @@ $gTLD_IDN = "(?:
             
             .fujitsu|
             
+            .fujixerox|
+            
             .fund|
             
             .furniture|
@@ -1020,6 +1026,8 @@ $gTLD_IDN = "(?:
             
             .lancaster|
             
+            .lancome|
+            
             .land|
             
             .landrover|
@@ -1105,6 +1113,8 @@ $gTLD_IDN = "(?:
             .ltd|
             
             .ltda|
+            
+            .lundbeck|
             
             .lupin|
             
@@ -1319,6 +1329,8 @@ $gTLD_IDN = "(?:
             .onl|
             
             .online|
+            
+            .onyourside|
             
             .ooo|
             
