@@ -665,6 +665,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .bestbuy"
+  type: generic
+  organisation: 'BBY Solutions, Inc.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .bet"
   type: generic
   organisation: 'Afilias plc'
@@ -1943,6 +1949,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .doctor"
+  type: generic
+  organisation: 'Brice Trail, LLC'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .dog"
   type: generic
   organisation: 'Koko Mill, LLC'
@@ -1994,6 +2006,12 @@
   domain: "\n            \n            .dubai"
   type: generic
   organisation: 'Dubai Smart Government Department'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .duck"
+  type: generic
+  organisation: 'Johnson Shareholdings, Inc.'
   isIDN: true
   punycode: null
 -
@@ -3275,6 +3293,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .ieee"
+  type: generic
+  organisation: 'IEEE Global LLC'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .ifm"
   type: generic
   organisation: 'ifm electronic gmbh'
@@ -4112,6 +4136,18 @@
   domain: "\n            \n            .love"
   type: generic
   organisation: 'Merchant Law Group LLP'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .lpl"
+  type: generic
+  organisation: 'LPL Holdings, Inc.'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .lplfinancial"
+  type: generic
+  organisation: 'LPL Holdings, Inc.'
   isIDN: true
   punycode: null
 -
@@ -4961,6 +4997,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .off"
+  type: generic
+  organisation: 'Johnson Shareholdings, Inc.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .office"
   type: generic
   organisation: 'Microsoft Corporation'
@@ -5537,6 +5579,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .raid"
+  type: generic
+  organisation: 'Johnson Shareholdings, Inc.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .re"
   type: country-code
   organisation: 'Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)'
@@ -5696,6 +5744,12 @@
   domain: "\n            \n            .ricoh"
   type: generic
   organisation: 'Ricoh Company, Ltd.'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .rightathome"
+  type: generic
+  organisation: 'Johnson Shareholdings, Inc.'
   isIDN: true
   punycode: null
 -
@@ -5966,6 +6020,12 @@
   domain: "\n            \n            .science"
   type: generic
   organisation: 'dot Science Limited'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .scjohnson"
+  type: generic
+  organisation: 'Johnson Shareholdings, Inc.'
   isIDN: true
   punycode: null
 -
@@ -6521,6 +6581,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .swiftcover"
+  type: generic
+  organisation: 'Swiftcover Insurance Services Limited'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .swiss"
   type: generic
   organisation: 'Swiss Confederation'
@@ -6728,6 +6794,12 @@
   domain: "\n            \n            .theatre"
   type: generic
   organisation: 'XYZ.COM LLC'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .tiaa"
+  type: generic
+  organisation: 'Teachers Insurance and Annuity Association of America'
   isIDN: true
   punycode: null
 -

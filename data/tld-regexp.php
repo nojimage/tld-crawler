@@ -182,6 +182,8 @@ $gTLD_IDN = "(?:
             
             .best|
             
+            .bestbuy|
+            
             .bet|
             
             .bharti|
@@ -526,6 +528,8 @@ $gTLD_IDN = "(?:
             
             .docs|
             
+            .doctor|
+            
             .dog|
             
             .doha|
@@ -543,6 +547,8 @@ $gTLD_IDN = "(?:
             .dtv|
             
             .dubai|
+            
+            .duck|
             
             .dunlop|
             
@@ -886,6 +892,8 @@ $gTLD_IDN = "(?:
             
             .icu|
             
+            .ieee|
+            
             .ifm|
             
             .iinet|
@@ -1110,6 +1118,10 @@ $gTLD_IDN = "(?:
             
             .love|
             
+            .lpl|
+            
+            .lplfinancial|
+            
             .ltd|
             
             .ltda|
@@ -1310,6 +1322,8 @@ $gTLD_IDN = "(?:
             
             .obi|
             
+            .off|
+            
             .office|
             
             .okinawa|
@@ -1470,6 +1484,8 @@ $gTLD_IDN = "(?:
             
             .racing|
             
+            .raid|
+            
             .read|
             
             .realestate|
@@ -1521,6 +1537,8 @@ $gTLD_IDN = "(?:
             .richardli|
             
             .ricoh|
+            
+            .rightathome|
             
             .rio|
             
@@ -1597,6 +1615,8 @@ $gTLD_IDN = "(?:
             .schwarz|
             
             .science|
+            
+            .scjohnson|
             
             .scor|
             
@@ -1750,6 +1770,8 @@ $gTLD_IDN = "(?:
             
             .swatch|
             
+            .swiftcover|
+            
             .swiss|
             
             .sydney|
@@ -1803,6 +1825,8 @@ $gTLD_IDN = "(?:
             .theater|
             
             .theatre|
+            
+            .tiaa|
             
             .tickets|
             
