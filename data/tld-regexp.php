@@ -364,6 +364,8 @@ $gTLD_IDN = "(?:
             
             .cisco|
             
+            .citadel|
+            
             .citic|
             
             .city|
@@ -593,6 +595,8 @@ $gTLD_IDN = "(?:
             .esq|
             
             .estate|
+            
+            .esurance|
             
             .eurovision|
             

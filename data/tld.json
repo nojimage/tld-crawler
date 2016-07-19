@@ -1582,6 +1582,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .citadel",
+        "type": "generic",
+        "organisation": "Citadel Domain LLC",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .citic",
         "type": "generic",
         "organisation": "CITIC Group Corporation",
@@ -2551,6 +2558,13 @@
         "domain": "\n            \n            .estate",
         "type": "generic",
         "organisation": "Trixy Park, LLC",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .esurance",
+        "type": "generic",
+        "organisation": "Esurance Insurance Company",
         "isIDN": true,
         "punycode": null
     },
