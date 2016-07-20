@@ -234,6 +234,8 @@ $gTLD_IDN = "(?:
             
             .book|
             
+            .booking|
+            
             .boots|
             
             .bosch|

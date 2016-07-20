@@ -875,6 +875,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .booking"
+  type: generic
+  organisation: 'Booking.com B.V.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .boots"
   type: generic
   organisation: 'THE BOOTS COMPANY PLC'
