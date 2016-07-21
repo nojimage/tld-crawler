@@ -76,6 +76,10 @@ $gTLD_IDN = "(?:
             
             .alstom|
             
+            .americanfamily|
+            
+            .amfam|
+            
             .amica|
             
             .amsterdam|
@@ -758,6 +762,8 @@ $gTLD_IDN = "(?:
             
             .giving|
             
+            .glade|
+            
             .glass|
             
             .gle|
@@ -1241,6 +1247,8 @@ $gTLD_IDN = "(?:
             .movie|
             
             .movistar|
+            
+            .msd|
             
             .mtn|
             

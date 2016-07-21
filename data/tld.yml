@@ -263,6 +263,18 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .americanfamily"
+  type: generic
+  organisation: 'AmFam, Inc.'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .amfam"
+  type: generic
+  organisation: 'AmFam, Inc.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .amica"
   type: generic
   organisation: 'Amica Mutual Insurance Company'
@@ -2783,6 +2795,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .glade"
+  type: generic
+  organisation: 'Johnson Shareholdings, Inc.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .glass"
   type: generic
   organisation: 'Black Cover, LLC'
@@ -4640,6 +4658,12 @@
   domain: "\n            \n            .ms"
   type: country-code
   organisation: 'MNI Networks Ltd.'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .msd"
+  type: generic
+  organisation: 'MSD Registry Holdings, Inc.'
   isIDN: true
   punycode: null
 -

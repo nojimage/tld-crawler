@@ -133,6 +133,12 @@ c/o Cable and Wireless (Ascension Island)"
             .am",country-code,"""Internet Society"" Non-governmental Organization"
 "
             
+            .americanfamily",generic,"AmFam, Inc."
+"
+            
+            .amfam",generic,"AmFam, Inc."
+"
+            
             .amica",generic,"Amica Mutual Insurance Company"
 "
             
@@ -1404,6 +1410,9 @@ IT Services"
             .gl",country-code,"TELE Greenland A/S"
 "
             
+            .glade",generic,"Johnson Shareholdings, Inc."
+"
+            
             .glass",generic,"Black Cover, LLC"
 "
             
@@ -2342,6 +2351,9 @@ Direction des Communications Electroniques"
 "
             
             .ms",country-code,"MNI Networks Ltd."
+"
+            
+            .msd",generic,"MSD Registry Holdings, Inc."
 "
             
             .mt",country-code,"NIC (Malta)"
