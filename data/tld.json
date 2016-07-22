@@ -2387,6 +2387,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .duns",
+        "type": "generic",
+        "organisation": "The Dun \u0026 Bradstreet Corporation",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .dupont",
         "type": "generic",
         "organisation": "E. I. du Pont de Nemours and Company",

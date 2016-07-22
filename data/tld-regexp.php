@@ -560,6 +560,8 @@ $gTLD_IDN = "(?:
             
             .dunlop|
             
+            .duns|
+            
             .dupont|
             
             .durban|
