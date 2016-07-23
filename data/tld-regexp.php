@@ -878,6 +878,8 @@ $gTLD_IDN = "(?:
             
             .honda|
             
+            .honeywell|
+            
             .horse|
             
             .host|
@@ -1955,6 +1957,8 @@ $gTLD_IDN = "(?:
             .vip|
             
             .virgin|
+            
+            .visa|
             
             .vision|
             

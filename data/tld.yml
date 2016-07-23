@@ -1303,7 +1303,7 @@
 -
   domain: "\n            \n            .chase"
   type: generic
-  organisation: 'JPMorgan Chase & Co.'
+  organisation: 'JPMorgan Chase Bank, National Association'
   isIDN: true
   punycode: null
 -
@@ -3221,6 +3221,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .honeywell"
+  type: generic
+  organisation: 'Honeywell GTLD LLC'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .horse"
   type: generic
   organisation: 'Top Level Domain Holdings Limited'
@@ -3667,7 +3673,7 @@
 -
   domain: "\n            \n            .jpmorgan"
   type: generic
-  organisation: 'JPMorgan Chase & Co.'
+  organisation: 'JPMorgan Chase Bank, National Association'
   isIDN: true
   punycode: null
 -
@@ -7328,6 +7334,12 @@
   domain: "\n            \n            .virgin"
   type: generic
   organisation: 'Virgin Enterprises Limited'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .visa"
+  type: generic
+  organisation: 'Visa Worldwide Pte. Limited'
   isIDN: true
   punycode: null
 -

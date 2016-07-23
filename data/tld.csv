@@ -657,7 +657,7 @@ Ltd. d/b/a Island Internet Services"
             .channel",generic,"Charleston Road Registry Inc."
 "
             
-            .chase",generic,"JPMorgan Chase & Co."
+            .chase",generic,"JPMorgan Chase Bank, National Association"
 "
             
             .chat",generic,"Sand Fields, LLC"
@@ -1625,6 +1625,9 @@ Computer Center"
             .honda",generic,"Honda Motor Co., Ltd."
 "
             
+            .honeywell",generic,"Honeywell GTLD LLC"
+"
+            
             .horse",generic,"Top Level Domain Holdings Limited"
 "
             
@@ -1850,7 +1853,7 @@ Cable and Wireless"
             .jp",country-code,"Japan Registry Services Co., Ltd."
 "
             
-            .jpmorgan",generic,"JPMorgan Chase & Co."
+            .jpmorgan",generic,"JPMorgan Chase Bank, National Association"
 "
             
             .jprs",generic,"Japan Registry Services Co., Ltd."
@@ -3703,6 +3706,9 @@ c/o COBEX Internet Services"
 "
             
             .virgin",generic,"Virgin Enterprises Limited"
+"
+            
+            .visa",generic,"Visa Worldwide Pte. Limited"
 "
             
             .vision",generic,"Koko Station, LLC"
