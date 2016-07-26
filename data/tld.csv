@@ -15,6 +15,9 @@
             .abbvie",generic,"AbbVie Inc."
 "
             
+            .abc",generic,"Disney Enterprises, Inc."
+"
+            
             .able",generic,"Able Inc."
 "
             
@@ -678,6 +681,9 @@ Ltd. d/b/a Island Internet Services"
             .chrome",generic,"Charleston Road Registry Inc."
 "
             
+            .chrysler",generic,"FCA US LLC."
+"
+            
             .church",generic,"Holly Fileds, LLC"
 "
             
@@ -978,6 +984,9 @@ Capitolio Nacional"
             .discount",generic,"Holly Hill, LLC"
 "
             
+            .discover",generic,"Discover Financial Services"
+"
+            
             .dj",country-code,"Djibouti Telecom S.A"
 "
             
@@ -998,6 +1007,9 @@ Recinto Santo Tomas de Aquino"
 "
             
             .doctor",generic,"Brice Trail, LLC"
+"
+            
+            .dodge",generic,"FCA US LLC."
 "
             
             .dog",generic,"Koko Mill, LLC"
@@ -1814,6 +1826,9 @@ Cable and Wireless"
             .je",country-code,"Island Networks (Jersey) Ltd."
 "
             
+            .jeep",generic,"FCA US LLC."
+"
+            
             .jetzt",generic,"Wild Frostbite, LLC"
 "
             
@@ -1860,6 +1875,9 @@ Cable and Wireless"
 "
             
             .juegos",generic,"Uniregistry, Corp."
+"
+            
+            .juniper",generic,"JUNIPER NETWORKS, INC."
 "
             
             .kaufen",generic,"United TLD Holdco Ltd."
@@ -2326,6 +2344,9 @@ Direction des Communications Electroniques"
             .montblanc",generic,"Richemont DNS Inc."
 "
             
+            .mopar",generic,"FCA US LLC."
+"
+            
             .mormon",generic,"IRI Domain Management, LLC (""Applicant"")"
 "
             
@@ -2775,6 +2796,9 @@ The Papua New Guinea University of Technology"
             .pr",country-code,"Gauss Research Laboratory Inc."
 "
             
+            .pramerica",generic,"Prudential Financial, Inc."
+"
+            
             .praxi",generic,"Praxi S.p.A."
 "
             
@@ -2810,6 +2834,12 @@ dba RegistryPro"
 "
             
             .protection",generic,"XYZ.COM LLC"
+"
+            
+            .pru",generic,"Prudential Financial, Inc."
+"
+            
+            .prudential",generic,"Prudential Financial, Inc."
 "
             
             .ps",country-code,"Ministry Of Telecommunications &
@@ -3265,6 +3295,9 @@ NIC Senegal"
             .srl",generic,"InterNetX Corp."
 "
             
+            .srt",generic,"FCA US LLC."
+"
+            
             .ss",country-code,"Not assigned"
 "
             
@@ -3611,6 +3644,9 @@ Faculty of Engineering"
 "
             
             .ubs",generic,"UBS AG"
+"
+            
+            .uconnect",generic,"FCA US LLC."
 "
             
             .ug",country-code,"Uganda Online Ltd."

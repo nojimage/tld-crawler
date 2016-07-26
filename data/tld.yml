@@ -29,6 +29,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .abc"
+  type: generic
+  organisation: 'Disney Enterprises, Inc.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .able"
   type: generic
   organisation: 'Able Inc.'
@@ -1343,6 +1349,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .chrysler"
+  type: generic
+  organisation: 'FCA US LLC.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .church"
   type: generic
   organisation: 'Holly Fileds, LLC'
@@ -1937,6 +1949,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .discover"
+  type: generic
+  organisation: 'Discover Financial Services'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .dj"
   type: country-code
   organisation: 'Djibouti Telecom S.A'
@@ -1976,6 +1994,12 @@
   domain: "\n            \n            .doctor"
   type: generic
   organisation: 'Brice Trail, LLC'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .dodge"
+  type: generic
+  organisation: 'FCA US LLC.'
   isIDN: true
   punycode: null
 -
@@ -3593,6 +3617,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .jeep"
+  type: generic
+  organisation: 'FCA US LLC.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .jetzt"
   type: generic
   organisation: 'Wild Frostbite, LLC'
@@ -3686,6 +3716,12 @@
   domain: "\n            \n            .juegos"
   type: generic
   organisation: 'Uniregistry, Corp.'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .juniper"
+  type: generic
+  organisation: 'JUNIPER NETWORKS, INC.'
   isIDN: true
   punycode: null
 -
@@ -4607,6 +4643,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .mopar"
+  type: generic
+  organisation: 'FCA US LLC.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .mormon"
   type: generic
   organisation: 'IRI Domain Management, LLC ("Applicant")'
@@ -5495,6 +5537,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .pramerica"
+  type: generic
+  organisation: 'Prudential Financial, Inc.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .praxi"
   type: generic
   organisation: 'Praxi S.p.A.'
@@ -5564,6 +5612,18 @@
   domain: "\n            \n            .protection"
   type: generic
   organisation: 'XYZ.COM LLC'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .pru"
+  type: generic
+  organisation: 'Prudential Financial, Inc.'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .prudential"
+  type: generic
+  organisation: 'Prudential Financial, Inc.'
   isIDN: true
   punycode: null
 -
@@ -6467,6 +6527,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .srt"
+  type: generic
+  organisation: 'FCA US LLC.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .ss"
   type: country-code
   organisation: 'Not assigned'
@@ -7148,6 +7214,12 @@
   domain: "\n            \n            .ubs"
   type: generic
   organisation: 'UBS AG'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .uconnect"
+  type: generic
+  organisation: 'FCA US LLC.'
   isIDN: true
   punycode: null
 -

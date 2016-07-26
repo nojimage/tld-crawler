@@ -14,6 +14,8 @@ $gTLD_IDN = "(?:
             
             .abbvie|
             
+            .abc|
+            
             .able|
             
             .abogado|
@@ -362,6 +364,8 @@ $gTLD_IDN = "(?:
             
             .chrome|
             
+            .chrysler|
+            
             .church|
             
             .cipriani|
@@ -532,11 +536,15 @@ $gTLD_IDN = "(?:
             
             .discount|
             
+            .discover|
+            
             .dnp|
             
             .docs|
             
             .doctor|
+            
+            .dodge|
             
             .dog|
             
@@ -974,6 +982,8 @@ $gTLD_IDN = "(?:
             
             .jcp|
             
+            .jeep|
+            
             .jetzt|
             
             .jewelry|
@@ -999,6 +1009,8 @@ $gTLD_IDN = "(?:
             .jprs|
             
             .juegos|
+            
+            .juniper|
             
             .kaufen|
             
@@ -1238,6 +1250,8 @@ $gTLD_IDN = "(?:
             
             .montblanc|
             
+            .mopar|
+            
             .mormon|
             
             .mortgage|
@@ -1466,6 +1480,8 @@ $gTLD_IDN = "(?:
             
             .post|
             
+            .pramerica|
+            
             .praxi|
             
             .press|
@@ -1489,6 +1505,10 @@ $gTLD_IDN = "(?:
             .property|
             
             .protection|
+            
+            .pru|
+            
+            .prudential|
             
             .pub|
             
@@ -1740,6 +1760,8 @@ $gTLD_IDN = "(?:
             
             .srl|
             
+            .srt|
+            
             .stada|
             
             .staples|
@@ -1917,6 +1939,8 @@ $gTLD_IDN = "(?:
             .tvs|
             
             .ubs|
+            
+            .uconnect|
             
             .unicom|
             
