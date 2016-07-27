@@ -79,6 +79,9 @@ c/o Cable and Wireless (Ascension Island)"
             .af",country-code,"Ministry of Communications and IT"
 "
             
+            .afamilycompany",generic,"Johnson Shareholdings, Inc."
+"
+            
             .afl",generic,"Australian Football League"
 "
             
@@ -269,6 +272,9 @@ c/o Cable and Wireless (Ascension Island)"
 "
             
             .baidu",generic,"Baidu, Inc."
+"
+            
+            .banamex",generic,"Citigroup Inc."
 "
             
             .band",generic,"United TLD Holdco, Ltd"
@@ -700,6 +706,9 @@ Ltd. d/b/a Island Internet Services"
 "
             
             .citadel",generic,"Citadel Domain LLC"
+"
+            
+            .citi",generic,"Citigroup Inc."
 "
             
             .citic",generic,"CITIC Group Corporation"
@@ -1676,6 +1685,9 @@ Computer Center"
             .hu",country-code,"Council of Hungarian Internet Providers (CHIP)"
 "
             
+            .hyatt",generic,"Hyatt GTLD, L.L.C."
+"
+            
             .hyundai",generic,"Hyundai Motor Company"
 "
             
@@ -1757,6 +1769,9 @@ Computer Centre"
 "
             
             .int",sponsored,"Internet Assigned Numbers Authority"
+"
+            
+            .intel",generic,"Intel Corporation"
 "
             
             .international",generic,"Wild Way, LLC"
@@ -1980,6 +1995,9 @@ Cable and Wireless"
 "
             
             .lacaixa",generic,"CAIXA D'ESTALVIS I PENSIONS DE BARCELONA"
+"
+            
+            .ladbrokes",generic,"LADBROKES INTERNATIONAL PLC"
 "
             
             .lamborghini",generic,"Automobili Lamborghini S.p.A."

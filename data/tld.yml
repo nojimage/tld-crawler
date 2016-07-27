@@ -155,6 +155,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .afamilycompany"
+  type: generic
+  organisation: 'Johnson Shareholdings, Inc.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .afl"
   type: generic
   organisation: 'Australian Football League'
@@ -536,6 +542,12 @@
   domain: "\n            \n            .baidu"
   type: generic
   organisation: 'Baidu, Inc.'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .banamex"
+  type: generic
+  organisation: 'Citigroup Inc.'
   isIDN: true
   punycode: null
 -
@@ -1388,6 +1400,12 @@
   domain: "\n            \n            .citadel"
   type: generic
   organisation: 'Citadel Domain LLC'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .citi"
+  type: generic
+  organisation: 'Citigroup Inc.'
   isIDN: true
   punycode: null
 -
@@ -3323,6 +3341,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .hyatt"
+  type: generic
+  organisation: 'Hyatt GTLD, L.L.C.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .hyundai"
   type: generic
   organisation: 'Hyundai Motor Company'
@@ -3482,6 +3506,12 @@
   domain: "\n            \n            .int"
   type: sponsored
   organisation: 'Internet Assigned Numbers Authority'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .intel"
+  type: generic
+  organisation: 'Intel Corporation'
   isIDN: true
   punycode: null
 -
@@ -3926,6 +3956,12 @@
   domain: "\n            \n            .lacaixa"
   type: generic
   organisation: 'CAIXA D''ESTALVIS I PENSIONS DE BARCELONA'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .ladbrokes"
+  type: generic
+  organisation: 'LADBROKES INTERNATIONAL PLC'
   isIDN: true
   punycode: null
 -

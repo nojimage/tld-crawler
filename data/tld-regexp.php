@@ -48,6 +48,8 @@ $gTLD_IDN = "(?:
             
             .aetna|
             
+            .afamilycompany|
+            
             .afl|
             
             .agakhan|
@@ -145,6 +147,8 @@ $gTLD_IDN = "(?:
             .baby|
             
             .baidu|
+            
+            .banamex|
             
             .band|
             
@@ -375,6 +379,8 @@ $gTLD_IDN = "(?:
             .cisco|
             
             .citadel|
+            
+            .citi|
             
             .citic|
             
@@ -906,6 +912,8 @@ $gTLD_IDN = "(?:
             
             .htc|
             
+            .hyatt|
+            
             .hyundai|
             
             .ibm|
@@ -949,6 +957,8 @@ $gTLD_IDN = "(?:
             .insure|
             
             .int|
+            
+            .intel|
             
             .international|
             
@@ -1055,6 +1065,8 @@ $gTLD_IDN = "(?:
             .kyoto|
             
             .lacaixa|
+            
+            .ladbrokes|
             
             .lamborghini|
             
