@@ -4145,6 +4145,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .lilly"
+  type: generic
+  organisation: 'Eli Lilly and Company'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .limited"
   type: generic
   organisation: 'Big Fest, LLC'
@@ -4442,6 +4448,12 @@
   domain: "\n            \n            .mc"
   type: country-code
   organisation: "Gouvernement de Monaco\nDirection des Communications Electroniques"
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .mckinsey"
+  type: generic
+  organisation: 'McKinsey Holdings, Inc.'
   isIDN: true
   punycode: null
 -

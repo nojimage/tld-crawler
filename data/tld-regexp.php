@@ -1122,6 +1122,8 @@ $gTLD_IDN = "(?:
             
             .like|
             
+            .lilly|
+            
             .limited|
             
             .limo|
@@ -1203,6 +1205,8 @@ $gTLD_IDN = "(?:
             .mattel|
             
             .mba|
+            
+            .mckinsey|
             
             .med|
             
