@@ -945,6 +945,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .blockbuster",
+        "type": "generic",
+        "organisation": "Dish DBS Corporation",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .blog",
         "type": "generic",
         "organisation": "Knock Knock WHOIS There, LLC",
@@ -2956,7 +2963,7 @@
     {
         "domain": "\n            \n            .flsmidth",
         "type": "generic",
-        "organisation": "FLSmidth A/S",
+        "organisation": "Retired",
         "isIDN": true,
         "punycode": null
     },
@@ -4690,6 +4697,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .latino",
+        "type": "generic",
+        "organisation": "Dish DBS Corporation",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .latrobe",
         "type": "generic",
         "organisation": "La Trobe University",
@@ -5231,7 +5245,7 @@
     {
         "domain": "\n            \n            .meet",
         "type": "generic",
-        "organisation": "Afilias Limited",
+        "organisation": "Charleston Road Registry Inc.",
         "isIDN": true,
         "punycode": null
     },
@@ -6688,6 +6702,13 @@
         "domain": "\n            \n            .quest",
         "type": "generic",
         "organisation": "Quest ION Limited",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .qvc",
+        "type": "generic",
+        "organisation": "QVC, Inc.",
         "isIDN": true,
         "punycode": null
     },

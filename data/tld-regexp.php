@@ -218,6 +218,8 @@ $gTLD_IDN = "(?:
             
             .blanco|
             
+            .blockbuster|
+            
             .blog|
             
             .bloomberg|
@@ -1086,6 +1088,8 @@ $gTLD_IDN = "(?:
             
             .lat|
             
+            .latino|
+            
             .latrobe|
             
             .law|
@@ -1535,6 +1539,8 @@ $gTLD_IDN = "(?:
             .quebec|
             
             .quest|
+            
+            .qvc|
             
             .racing|
             

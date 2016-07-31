@@ -409,6 +409,9 @@ Bangladesh Secretariat"
             .blanco",generic,"BLANCO GmbH + Co KG"
 "
             
+            .blockbuster",generic,"Dish DBS Corporation"
+"
+            
             .blog",generic,"Knock Knock WHOIS There, LLC"
 "
             
@@ -1278,7 +1281,7 @@ IT Services"
             .flowers",generic,"Uniregistry, Corp."
 "
             
-            .flsmidth",generic,"FLSmidth A/S"
+            .flsmidth",generic,Retired
 "
             
             .fly",generic,"Charleston Road Registry Inc."
@@ -2027,6 +2030,9 @@ Cable and Wireless"
             .lat",generic,"ECOM-LAC Federación de Latinoamérica y el Caribe para Internet y el Comercio Electrónico"
 "
             
+            .latino",generic,"Dish DBS Corporation"
+"
+            
             .latrobe",generic,"La Trobe University"
 "
             
@@ -2263,7 +2269,7 @@ Direction des Communications Electroniques"
             .media",generic,"Grand Glen, LLC"
 "
             
-            .meet",generic,"Afilias Limited"
+            .meet",generic,"Charleston Road Registry Inc."
 "
             
             .melbourne",generic,"The Crown in right of the State of Victoria, represented by its Department of State Development, Business and Innovation"
@@ -2896,6 +2902,9 @@ Government Computer Center."
 "
             
             .quest",generic,"Quest ION Limited"
+"
+            
+            .qvc",generic,"QVC, Inc."
 "
             
             .racing",generic,"Premier Registry Limited"
