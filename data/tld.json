@@ -14,6 +14,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .abarth",
+        "type": "generic",
+        "organisation": "Fiat Chrysler Automobiles N.V.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .abb",
         "type": "generic",
         "organisation": "ABB Ltd",
@@ -266,6 +273,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .alfaromeo",
+        "type": "generic",
+        "organisation": "Fiat Chrysler Automobiles N.V.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .alibaba",
         "type": "generic",
         "organisation": "Alibaba Group Holding Limited",
@@ -504,6 +518,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .athleta",
+        "type": "generic",
+        "organisation": "The Gap, Inc.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .attorney",
         "type": "generic",
         "organisation": "United TLD Holdco, Ltd",
@@ -640,6 +661,13 @@
         "domain": "\n            \n            .banamex",
         "type": "generic",
         "organisation": "Citigroup Inc.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .bananarepublic",
+        "type": "generic",
+        "organisation": "The Gap, Inc.",
         "isIDN": true,
         "punycode": null
     },
@@ -1036,6 +1064,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .bofa",
+        "type": "generic",
+        "organisation": "NMS Services, Inc.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .bom",
         "type": "generic",
         "organisation": "N\u00facleo de Informa\u00e7\u00e3o e Coordena\u00e7\u00e3o do Ponto BR - NIC.br",
@@ -1295,6 +1330,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .calvinklein",
+        "type": "generic",
+        "organisation": "PVH gTLD Holdings LLC",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .cam",
         "type": "generic",
         "organisation": "AC Webconnecting Holding B.V.",
@@ -1452,6 +1494,13 @@
         "domain": "\n            \n            .cbre",
         "type": "generic",
         "organisation": "CBRE, Inc.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .cbs",
+        "type": "generic",
+        "organisation": "CBS Domains Inc.",
         "isIDN": true,
         "punycode": null
     },
@@ -2821,6 +2870,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .ferrari",
+        "type": "generic",
+        "organisation": "Fiat Chrysler Automobiles N.V.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .ferrero",
         "type": "generic",
         "organisation": "Ferrero Trading Lux S.A.",
@@ -2831,6 +2887,20 @@
         "domain": "\n            \n            .fi",
         "type": "country-code",
         "organisation": "Finnish Communications Regulatory Authority",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .fiat",
+        "type": "generic",
+        "organisation": "Fiat Chrysler Automobiles N.V.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .fidelity",
+        "type": "generic",
+        "organisation": "Fidelity Brokerage Services LLC",
         "isIDN": true,
         "punycode": null
     },
@@ -3188,6 +3258,13 @@
         "domain": "\n            \n            .games",
         "type": "generic",
         "organisation": "United TLD Holdco Ltd.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .gap",
+        "type": "generic",
+        "organisation": "The Gap, Inc.",
         "isIDN": true,
         "punycode": null
     },
@@ -4655,6 +4732,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .lancia",
+        "type": "generic",
+        "organisation": "Fiat Chrysler Automobiles N.V.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .lancome",
         "type": "generic",
         "organisation": "L\u0027Or\u00e9al",
@@ -4952,6 +5036,13 @@
         "domain": "\n            \n            .locus",
         "type": "generic",
         "organisation": "Locus Analytics LLC",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .loft",
+        "type": "generic",
+        "organisation": "Annco, Inc.",
         "isIDN": true,
         "punycode": null
     },
@@ -5719,6 +5810,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .nba",
+        "type": "generic",
+        "organisation": "NBA REGISTRY, LLC",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .nc",
         "type": "country-code",
         "organisation": "Office des Postes et Telecommunications",
@@ -6044,6 +6142,13 @@
         "domain": "\n            \n            .olayangroup",
         "type": "generic",
         "organisation": "Crescent Holding GmbH",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .oldnavy",
+        "type": "generic",
+        "organisation": "The Gap, Inc.",
         "isIDN": true,
         "punycode": null
     },
@@ -7444,6 +7549,13 @@
         "domain": "\n            \n            .show",
         "type": "generic",
         "organisation": "Snow Beach, LLC",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .showtime",
+        "type": "generic",
+        "organisation": "CBS Domains Inc.",
         "isIDN": true,
         "punycode": null
     },

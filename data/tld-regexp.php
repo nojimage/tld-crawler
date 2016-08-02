@@ -8,6 +8,8 @@ $gTLD_IDN = "(?:
             
             .aarp|
             
+            .abarth|
+            
             .abb|
             
             .abbott|
@@ -66,6 +68,8 @@ $gTLD_IDN = "(?:
             
             .akdn|
             
+            .alfaromeo|
+            
             .alibaba|
             
             .alipay|
@@ -120,6 +124,8 @@ $gTLD_IDN = "(?:
             
             .associates|
             
+            .athleta|
+            
             .attorney|
             
             .auction|
@@ -149,6 +155,8 @@ $gTLD_IDN = "(?:
             .baidu|
             
             .banamex|
+            
+            .bananarepublic|
             
             .band|
             
@@ -238,6 +246,8 @@ $gTLD_IDN = "(?:
             
             .boehringer|
             
+            .bofa|
+            
             .bom|
             
             .bond|
@@ -294,6 +304,8 @@ $gTLD_IDN = "(?:
             
             .call|
             
+            .calvinklein|
+            
             .cam|
             
             .camera|
@@ -339,6 +351,8 @@ $gTLD_IDN = "(?:
             .cbn|
             
             .cbre|
+            
+            .cbs|
             
             .ceb|
             
@@ -666,7 +680,13 @@ $gTLD_IDN = "(?:
             
             .feedback|
             
+            .ferrari|
+            
             .ferrero|
+            
+            .fiat|
+            
+            .fidelity|
             
             .film|
             
@@ -757,6 +777,8 @@ $gTLD_IDN = "(?:
             .game|
             
             .games|
+            
+            .gap|
             
             .garden|
             
@@ -1076,6 +1098,8 @@ $gTLD_IDN = "(?:
             
             .lancaster|
             
+            .lancia|
+            
             .lancome|
             
             .land|
@@ -1153,6 +1177,8 @@ $gTLD_IDN = "(?:
             .locker|
             
             .locus|
+            
+            .loft|
             
             .lol|
             
@@ -1312,6 +1338,8 @@ $gTLD_IDN = "(?:
             
             .navy|
             
+            .nba|
+            
             .nec|
             
             .net|
@@ -1383,6 +1411,8 @@ $gTLD_IDN = "(?:
             .olayan|
             
             .olayangroup|
+            
+            .oldnavy|
             
             .ollo|
             
@@ -1727,6 +1757,8 @@ $gTLD_IDN = "(?:
             .shouji|
             
             .show|
+            
+            .showtime|
             
             .shriram|
             

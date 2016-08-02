@@ -6,6 +6,9 @@
             .aarp",generic,AARP
 "
             
+            .abarth",generic,"Fiat Chrysler Automobiles N.V."
+"
+            
             .abb",generic,"ABB Ltd"
 "
             
@@ -115,6 +118,9 @@ c/o Cable and Wireless (Ascension Island)"
             .al",country-code,"Electronic and Postal Communications Authority - AKEP"
 "
             
+            .alfaromeo",generic,"Fiat Chrysler Automobiles N.V."
+"
+            
             .alibaba",generic,"Alibaba Group Holding Limited"
 "
             
@@ -217,6 +223,9 @@ c/o Cable and Wireless (Ascension Island)"
             .at",country-code,"nic.at GmbH"
 "
             
+            .athleta",generic,"The Gap, Inc."
+"
+            
             .attorney",generic,"United TLD Holdco, Ltd"
 "
             
@@ -275,6 +284,9 @@ c/o Cable and Wireless (Ascension Island)"
 "
             
             .banamex",generic,"Citigroup Inc."
+"
+            
+            .bananarepublic",generic,"The Gap, Inc."
 "
             
             .band",generic,"United TLD Holdco, Ltd"
@@ -449,6 +461,9 @@ Ministry of Labour and Immigration"
             .boehringer",generic,"Boehringer Ingelheim International GmbH"
 "
             
+            .bofa",generic,"NMS Services, Inc."
+"
+            
             .bom",generic,"Núcleo de Informação e Coordenação do Ponto BR - NIC.br"
 "
             
@@ -560,6 +575,9 @@ Ministry of Labour and Immigration"
             .call",generic,"Amazon Registry Services, Inc."
 "
             
+            .calvinklein",generic,"PVH gTLD Holdings LLC"
+"
+            
             .cam",generic,"AC Webconnecting Holding B.V."
 "
             
@@ -627,6 +645,9 @@ Ministry of Labour and Immigration"
 "
             
             .cbre",generic,"CBRE, Inc."
+"
+            
+            .cbs",generic,"CBS Domains Inc."
 "
             
             .cc",country-code,"eNIC Cocos (Keeling) Islands Pty.
@@ -1220,10 +1241,19 @@ Supreme Council of Universities"
             .feedback",generic,"Top Level Spectrum, Inc."
 "
             
+            .ferrari",generic,"Fiat Chrysler Automobiles N.V."
+"
+            
             .ferrero",generic,"Ferrero Trading Lux S.A."
 "
             
             .fi",country-code,"Finnish Communications Regulatory Authority"
+"
+            
+            .fiat",generic,"Fiat Chrysler Automobiles N.V."
+"
+            
+            .fidelity",generic,"Fidelity Brokerage Services LLC"
 "
             
             .film",generic,"Motion Picture Domain Registry Pty Ltd"
@@ -1378,6 +1408,9 @@ IT Services"
 "
             
             .games",generic,"United TLD Holdco Ltd."
+"
+            
+            .gap",generic,"The Gap, Inc."
 "
             
             .garden",generic,"Top Level Domain Holdings Limited"
@@ -2012,6 +2045,9 @@ Cable and Wireless"
             .lancaster",generic,LANCASTER
 "
             
+            .lancia",generic,"Fiat Chrysler Automobiles N.V."
+"
+            
             .lancome",generic,L'Oréal
 "
             
@@ -2141,6 +2177,9 @@ LK Domain Registrar"
 "
             
             .locus",generic,"Locus Analytics LLC"
+"
+            
+            .loft",generic,"Annco, Inc."
 "
             
             .lol",generic,"Uniregistry, Corp."
@@ -2475,6 +2514,9 @@ ITESM - Campus Monterrey"
             .navy",generic,"United TLD Holdco Ltd."
 "
             
+            .nba",generic,"NBA REGISTRY, LLC"
+"
+            
             .nc",country-code,"Office des Postes et Telecommunications"
 "
             
@@ -2615,6 +2657,9 @@ Centro de Computo"
 "
             
             .olayangroup",generic,"Crescent Holding GmbH"
+"
+            
+            .oldnavy",generic,"The Gap, Inc."
 "
             
             .ollo",generic,"Dish DBS Corporation"
@@ -3220,6 +3265,9 @@ Government Computer Center."
 "
             
             .show",generic,"Snow Beach, LLC"
+"
+            
+            .showtime",generic,"CBS Domains Inc."
 "
             
             .shriram",generic,"Shriram Capital Ltd."
