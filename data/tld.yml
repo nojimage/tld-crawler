@@ -287,9 +287,21 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .americanexpress"
+  type: generic
+  organisation: 'American Express Travel Related Services Company, Inc.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .americanfamily"
   type: generic
   organisation: 'AmFam, Inc.'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .amex"
+  type: generic
+  organisation: 'American Express Travel Related Services Company, Inc.'
   isIDN: true
   punycode: null
 -
@@ -4523,6 +4535,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .maserati"
+  type: generic
+  organisation: 'Fiat Chrysler Automobiles N.V.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .mattel"
   type: generic
   organisation: 'Mattel Sites, Inc.'
@@ -4538,6 +4556,18 @@
   domain: "\n            \n            .mc"
   type: country-code
   organisation: "Gouvernement de Monaco\nDirection des Communications Electroniques"
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .mcd"
+  type: generic
+  organisation: 'McDonald’s Corporation'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .mcdonalds"
+  type: generic
+  organisation: 'McDonald’s Corporation'
   isIDN: true
   punycode: null
 -
@@ -5324,6 +5354,12 @@
   domain: "\n            \n            .ooo"
   type: generic
   organisation: 'INFIBEAM INCORPORATION LIMITED'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .open"
+  type: generic
+  organisation: 'American Express Travel Related Services Company, Inc.'
   isIDN: true
   punycode: null
 -
@@ -6932,6 +6968,12 @@
   domain: "\n            \n            .taobao"
   type: generic
   organisation: 'Alibaba Group Holding Limited'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .target"
+  type: generic
+  organisation: 'Target Domain Holdings, LLC'
   isIDN: true
   punycode: null
 -

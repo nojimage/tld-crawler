@@ -84,7 +84,11 @@ $gTLD_IDN = "(?:
             
             .alstom|
             
+            .americanexpress|
+            
             .americanfamily|
+            
+            .amex|
             
             .amfam|
             
@@ -1232,9 +1236,15 @@ $gTLD_IDN = "(?:
             
             .marshalls|
             
+            .maserati|
+            
             .mattel|
             
             .mba|
+            
+            .mcd|
+            
+            .mcdonalds|
             
             .mckinsey|
             
@@ -1429,6 +1439,8 @@ $gTLD_IDN = "(?:
             .onyourside|
             
             .ooo|
+            
+            .open|
             
             .oracle|
             
@@ -1881,6 +1893,8 @@ $gTLD_IDN = "(?:
             .talk|
             
             .taobao|
+            
+            .target|
             
             .tatamotors|
             

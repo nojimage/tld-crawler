@@ -145,7 +145,13 @@ c/o Cable and Wireless (Ascension Island)"
             .am",country-code,"""Internet Society"" Non-governmental Organization"
 "
             
+            .americanexpress",generic,"American Express Travel Related Services Company, Inc."
+"
+            
             .americanfamily",generic,"AmFam, Inc."
+"
+            
+            .amex",generic,"American Express Travel Related Services Company, Inc."
 "
             
             .amfam",generic,"AmFam, Inc."
@@ -2283,6 +2289,9 @@ Department of Network Solutions (DNS)"
             .marshalls",generic,"The TJX Companies, Inc."
 "
             
+            .maserati",generic,"Fiat Chrysler Automobiles N.V."
+"
+            
             .mattel",generic,"Mattel Sites, Inc."
 "
             
@@ -2291,6 +2300,12 @@ Department of Network Solutions (DNS)"
             
             .mc",country-code,"Gouvernement de Monaco
 Direction des Communications Electroniques"
+"
+            
+            .mcd",generic,"McDonald’s Corporation"
+"
+            
+            .mcdonalds",generic,"McDonald’s Corporation"
 "
             
             .mckinsey",generic,"McKinsey Holdings, Inc."
@@ -2687,6 +2702,9 @@ Centro de Computo"
 "
             
             .ooo",generic,"INFIBEAM INCORPORATION LIMITED"
+"
+            
+            .open",generic,"American Express Travel Related Services Company, Inc."
 "
             
             .oracle",generic,"Oracle Corporation"
@@ -3499,6 +3517,9 @@ Department of Computer Science"
 "
             
             .taobao",generic,"Alibaba Group Holding Limited"
+"
+            
+            .target",generic,"Target Domain Holdings, LLC"
 "
             
             .tatamotors",generic,"Tata Motors Ltd"
