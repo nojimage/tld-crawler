@@ -3371,6 +3371,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .hot"
+  type: generic
+  organisation: 'Amazon EU S.à r.l.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .hoteles"
   type: generic
   organisation: 'Travel Reservations SRL'
@@ -5489,6 +5495,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .pay"
+  type: generic
+  organisation: 'Amazon EU S.à r.l.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .pccw"
   type: generic
   organisation: 'PCCW Enterprises Limited'
@@ -6362,6 +6374,12 @@
   domain: "\n            \n            .seat"
   type: generic
   organisation: 'SEAT, S.A. (Sociedad Unipersonal)'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .secure"
+  type: generic
+  organisation: 'Amazon EU S.à r.l.'
   isIDN: true
   punycode: null
 -

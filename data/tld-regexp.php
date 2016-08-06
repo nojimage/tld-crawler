@@ -928,6 +928,8 @@ $gTLD_IDN = "(?:
             
             .hosting|
             
+            .hot|
+            
             .hoteles|
             
             .hotmail|
@@ -1482,6 +1484,8 @@ $gTLD_IDN = "(?:
             
             .passagens|
             
+            .pay|
+            
             .pccw|
             
             .pet|
@@ -1725,6 +1729,8 @@ $gTLD_IDN = "(?:
             .scot|
             
             .seat|
+            
+            .secure|
             
             .security|
             
