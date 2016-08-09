@@ -1199,6 +1199,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .capitalone"
+  type: generic
+  organisation: 'Capital One Financial Corporation'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .car"
   type: generic
   organisation: 'Cars Registry Limited'
@@ -2030,6 +2036,12 @@
   domain: "\n            \n            .discover"
   type: generic
   organisation: 'Discover Financial Services'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .dish"
+  type: generic
+  organisation: 'Dish DBS Corporation'
   isIDN: true
   punycode: null
 -
@@ -3428,6 +3440,12 @@
   domain: "\n            \n            .hu"
   type: country-code
   organisation: 'Council of Hungarian Internet Providers (CHIP)'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .hughes"
+  type: generic
+  organisation: 'Hughes Satellite Systems Corporation'
   isIDN: true
   punycode: null
 -
@@ -6608,6 +6626,12 @@
   domain: "\n            \n            .sl"
   type: country-code
   organisation: Sierratel
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .sling"
+  type: generic
+  organisation: 'Hughes Satellite Systems Corporation'
   isIDN: true
   punycode: null
 -

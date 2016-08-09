@@ -605,6 +605,9 @@ Ministry of Labour and Immigration"
             .capital",generic,"Delta Mill, LLC"
 "
             
+            .capitalone",generic,"Capital One Financial Corporation"
+"
+            
             .car",generic,"Cars Registry Limited"
 "
             
@@ -1024,6 +1027,9 @@ Capitolio Nacional"
 "
             
             .discover",generic,"Discover Financial Services"
+"
+            
+            .dish",generic,"Dish DBS Corporation"
 "
             
             .dj",country-code,"Djibouti Telecom S.A"
@@ -1728,6 +1734,9 @@ Computer Center"
 "
             
             .hu",country-code,"Council of Hungarian Internet Providers (CHIP)"
+"
+            
+            .hughes",generic,"Hughes Satellite Systems Corporation"
 "
             
             .hyatt",generic,"Hyatt GTLD, L.L.C."
@@ -3334,6 +3343,9 @@ Government Computer Center."
 "
             
             .sl",country-code,Sierratel
+"
+            
+            .sling",generic,"Hughes Satellite Systems Corporation"
 "
             
             .sm",country-code,"Telecom Italia San Marino S.p.A."

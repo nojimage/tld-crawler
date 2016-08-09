@@ -324,6 +324,8 @@ $gTLD_IDN = "(?:
             
             .capital|
             
+            .capitalone|
+            
             .car|
             
             .caravan|
@@ -563,6 +565,8 @@ $gTLD_IDN = "(?:
             .discount|
             
             .discover|
+            
+            .dish|
             
             .dnp|
             
@@ -941,6 +945,8 @@ $gTLD_IDN = "(?:
             .hsbc|
             
             .htc|
+            
+            .hughes|
             
             .hyatt|
             
@@ -1795,6 +1801,8 @@ $gTLD_IDN = "(?:
             .sky|
             
             .skype|
+            
+            .sling|
             
             .smart|
             
