@@ -511,6 +511,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .asda",
+        "type": "generic",
+        "organisation": "Wal-Mart Stores, Inc.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .asia",
         "type": "sponsored",
         "organisation": "DotAsia Organisation Ltd.",
@@ -3752,6 +3759,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .hbo",
+        "type": "generic",
+        "organisation": "HBO Registry Services, Inc.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .hdfcbank",
         "type": "generic",
         "organisation": "HDFC Bank Limited",
@@ -3950,7 +3964,7 @@
     {
         "domain": "\n            \n            .hot",
         "type": "generic",
-        "organisation": "Amazon EU S.\u00e0 r.l.",
+        "organisation": "Amazon Registry Services, Inc.",
         "isIDN": true,
         "punycode": null
     },
@@ -6435,7 +6449,7 @@
     {
         "domain": "\n            \n            .pay",
         "type": "generic",
-        "organisation": "Amazon EU S.\u00e0 r.l.",
+        "organisation": "Amazon Registry Services, Inc.",
         "isIDN": true,
         "punycode": null
     },
@@ -7464,7 +7478,7 @@
     {
         "domain": "\n            \n            .secure",
         "type": "generic",
-        "organisation": "Amazon EU S.\u00e0 r.l.",
+        "organisation": "Amazon Registry Services, Inc.",
         "isIDN": true,
         "punycode": null
     },

@@ -124,6 +124,8 @@ $gTLD_IDN = "(?:
             
             .arte|
             
+            .asda|
+            
             .asia|
             
             .associates|
@@ -881,6 +883,8 @@ $gTLD_IDN = "(?:
             .hangout|
             
             .haus|
+            
+            .hbo|
             
             .hdfcbank|
             
