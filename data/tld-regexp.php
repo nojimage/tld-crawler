@@ -60,6 +60,8 @@ $gTLD_IDN = "(?:
             
             .aig|
             
+            .aigo|
+            
             .airbus|
             
             .airforce|
@@ -885,6 +887,8 @@ $gTLD_IDN = "(?:
             .haus|
             
             .hbo|
+            
+            .hdfc|
             
             .hdfcbank|
             
@@ -2185,6 +2189,8 @@ $gTLD_IDN = "(?:
             .集团|
             
             .在线|
+            
+            .大众汽车|
             
             .点看|
             

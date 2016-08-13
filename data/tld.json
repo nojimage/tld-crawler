@@ -238,6 +238,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .aigo",
+        "type": "generic",
+        "organisation": "aigo Digital Technology Co,Ltd.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .airbus",
         "type": "generic",
         "organisation": "Airbus S.A.S.",
@@ -3762,6 +3769,13 @@
         "domain": "\n            \n            .hbo",
         "type": "generic",
         "organisation": "HBO Registry Services, Inc.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .hdfc",
+        "type": "generic",
+        "organisation": "HOUSING DEVELOPMENT FINANCE CORPORATION LIMITED",
         "isIDN": true,
         "punycode": null
     },
@@ -9404,6 +9418,13 @@
         "domain": "\n            \n            .\u0b2d\u0b3e\u0b30\u0b24",
         "type": "country-code",
         "organisation": "Not assigned",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .\u5927\u4f17\u6c7d\u8f66",
+        "type": "generic",
+        "organisation": "Volkswagen (China) Investment Co., Ltd.",
         "isIDN": true,
         "punycode": null
     },
