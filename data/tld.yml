@@ -509,6 +509,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .auspost"
+  type: generic
+  organisation: 'Australian Postal Corporation'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .author"
   type: generic
   organisation: 'Amazon Registry Services, Inc.'
@@ -5021,6 +5027,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .nab"
+  type: generic
+  organisation: 'National Australia Bank Limited'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .nadex"
   type: generic
   organisation: 'Nadex Domains, Inc'
@@ -7481,6 +7493,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .ubank"
+  type: generic
+  organisation: 'National Australia Bank Limited'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .ubs"
   type: generic
   organisation: 'UBS AG'
@@ -8429,9 +8447,21 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .भारतम्"
+  type: country-code
+  organisation: 'Not assigned'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .भारत"
   type: country-code
   organisation: 'National Internet Exchange of India'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .भारोत"
+  type: country-code
+  organisation: 'Not assigned'
   isIDN: true
   punycode: null
 -
@@ -8609,6 +8639,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            ‏.بارت‎"
+  type: country-code
+  organisation: 'Not assigned'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            ‏.بھارت‎"
   type: country-code
   organisation: 'National Internet Exchange of India'
@@ -8630,6 +8666,12 @@
   domain: "\n            \n            ‏.السعودية‎"
   type: country-code
   organisation: 'Communications and Information Technology Commission'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            ‏.ڀارت‎"
+  type: country-code
+  organisation: 'Not assigned'
   isIDN: true
   punycode: null
 -

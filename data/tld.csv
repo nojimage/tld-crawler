@@ -256,6 +256,9 @@ c/o Cable and Wireless (Ascension Island)"
             .audio",generic,"Uniregistry, Corp."
 "
             
+            .auspost",generic,"Australian Postal Corporation"
+"
+            
             .author",generic,"Amazon Registry Services, Inc."
 "
             
@@ -2535,6 +2538,9 @@ ITESM - Campus Monterrey"
             .na",country-code,"Namibian Network Information Center"
 "
             
+            .nab",generic,"National Australia Bank Limited"
+"
+            
             .nadex",generic,"Nadex Domains, Inc"
 "
             
@@ -3778,6 +3784,9 @@ Faculty of Engineering"
             .ua",country-code,"Hostmaster Ltd."
 "
             
+            .ubank",generic,"National Australia Bank Limited"
+"
+            
             .ubs",generic,"UBS AG"
 "
             
@@ -4254,7 +4263,13 @@ c/o COBEX Internet Services"
             .ભારત",country-code,"National Internet Exchange of India"
 "
             
+            .भारतम्",country-code,"Not assigned"
+"
+            
             .भारत",country-code,"National Internet Exchange of India"
+"
+            
+            .भारोत",country-code,"Not assigned"
 "
             
             ‏.آزمایشی‎",test,"Internet Assigned Numbers Authority"
@@ -4344,6 +4359,9 @@ c/o COBEX Internet Services"
             ‏.موبايلي‎",generic,"GreenTech Consultancy Company W.L.L."
 "
             
+            ‏.بارت‎",country-code,"Not assigned"
+"
+            
             ‏.بھارت‎",country-code,"National Internet Exchange of India"
 "
             
@@ -4354,6 +4372,9 @@ c/o COBEX Internet Services"
 "
             
             ‏.السعودية‎",country-code,"Communications and Information Technology Commission"
+"
+            
+            ‏.ڀارت‎",country-code,"Not assigned"
 "
             
             ‏.سودان‎",country-code,"Sudan Internet Society"

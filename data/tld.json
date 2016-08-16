@@ -595,6 +595,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .auspost",
+        "type": "generic",
+        "organisation": "Australian Postal Corporation",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .author",
         "type": "generic",
         "organisation": "Amazon Registry Services, Inc.",
@@ -5859,6 +5866,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .nab",
+        "type": "generic",
+        "organisation": "National Australia Bank Limited",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .nadex",
         "type": "generic",
         "organisation": "Nadex Domains, Inc",
@@ -8729,6 +8743,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .ubank",
+        "type": "generic",
+        "organisation": "National Australia Bank Limited",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .ubs",
         "type": "generic",
         "organisation": "UBS AG",
@@ -9835,9 +9856,23 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .\u092d\u093e\u0930\u0924\u092e\u094d",
+        "type": "country-code",
+        "organisation": "Not assigned",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .\u092d\u093e\u0930\u0924",
         "type": "country-code",
         "organisation": "National Internet Exchange of India",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .\u092d\u093e\u0930\u094b\u0924",
+        "type": "country-code",
+        "organisation": "Not assigned",
         "isIDN": true,
         "punycode": null
     },
@@ -10045,6 +10080,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            \u200f.\u0628\u0627\u0631\u062a\u200e",
+        "type": "country-code",
+        "organisation": "Not assigned",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            \u200f.\u0628\u06be\u0627\u0631\u062a\u200e",
         "type": "country-code",
         "organisation": "National Internet Exchange of India",
@@ -10069,6 +10111,13 @@
         "domain": "\n            \n            \u200f.\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629\u200e",
         "type": "country-code",
         "organisation": "Communications and Information Technology Commission",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            \u200f.\u0680\u0627\u0631\u062a\u200e",
+        "type": "country-code",
+        "organisation": "Not assigned",
         "isIDN": true,
         "punycode": null
     },
