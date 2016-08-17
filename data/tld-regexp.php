@@ -806,6 +806,8 @@ $gTLD_IDN = "(?:
             
             .genting|
             
+            .george|
+            
             .ggee|
             
             .gift|
@@ -1698,6 +1700,8 @@ $gTLD_IDN = "(?:
             
             .salon|
             
+            .samsclub|
+            
             .samsung|
             
             .sandvik|
@@ -2107,6 +2111,8 @@ $gTLD_IDN = "(?:
             .vuelos|
             
             .wales|
+            
+            .walmart|
             
             .walter|
             

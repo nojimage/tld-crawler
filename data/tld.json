@@ -3381,6 +3381,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .george",
+        "type": "generic",
+        "organisation": "Wal-Mart Stores, Inc.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .gf",
         "type": "country-code",
         "organisation": "Net Plus",
@@ -7301,6 +7308,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .samsclub",
+        "type": "generic",
+        "organisation": "Wal-Mart Stores, Inc.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .samsung",
         "type": "generic",
         "organisation": "SAMSUNG SDS CO., LTD",
@@ -9096,6 +9110,13 @@
         "domain": "\n            \n            .wales",
         "type": "generic",
         "organisation": "Nominet UK",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .walmart",
+        "type": "generic",
+        "organisation": "Wal-Mart Stores, Inc.",
         "isIDN": true,
         "punycode": null
     },
