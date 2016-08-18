@@ -1038,7 +1038,7 @@
     {
         "domain": "\n            \n            .bm",
         "type": "country-code",
-        "organisation": "Registry General\nMinistry of Labour and Immigration",
+        "organisation": "Registry General Department, Ministry of Home Affairs",
         "isIDN": true,
         "punycode": null
     },
@@ -2991,7 +2991,7 @@
     {
         "domain": "\n            \n            .firestone",
         "type": "generic",
-        "organisation": "Bridgestone Corporation",
+        "organisation": "Bridgestone Licensing Services, Inc.",
         "isIDN": true,
         "punycode": null
     },
