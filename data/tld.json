@@ -2408,6 +2408,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .diy",
+        "type": "generic",
+        "organisation": "Lifestyle Domain Holdings, Inc.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .dj",
         "type": "country-code",
         "organisation": "Djibouti Telecom S.A",

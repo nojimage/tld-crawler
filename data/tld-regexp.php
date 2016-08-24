@@ -574,6 +574,8 @@ $gTLD_IDN = "(?:
             
             .dish|
             
+            .diy|
+            
             .dnp|
             
             .docs|
