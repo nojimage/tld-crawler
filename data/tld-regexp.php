@@ -2058,6 +2058,8 @@ $gTLD_IDN = "(?:
             
             .vana|
             
+            .vanguard|
+            
             .vegas|
             
             .ventures|

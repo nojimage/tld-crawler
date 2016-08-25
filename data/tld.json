@@ -8883,6 +8883,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .vanguard",
+        "type": "generic",
+        "organisation": "The Vanguard Group, Inc.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .vc",
         "type": "country-code",
         "organisation": "Ministry of Telecommunications, Science, Technology and Industry",
