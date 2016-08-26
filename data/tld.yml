@@ -2231,6 +2231,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .eco"
+  type: generic
+  organisation: 'Big Room Inc.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .edeka"
   type: generic
   organisation: 'EDEKA Verband kaufmännischer Genossenschaften e.V.'
