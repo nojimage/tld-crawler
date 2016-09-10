@@ -4877,6 +4877,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .monster"
+  type: generic
+  organisation: 'Monster Worldwide, Inc.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .montblanc"
   type: generic
   organisation: 'Richemont DNS Inc.'

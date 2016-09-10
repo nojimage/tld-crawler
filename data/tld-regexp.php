@@ -1328,6 +1328,8 @@ $gTLD_IDN = "(?:
             
             .money|
             
+            .monster|
+            
             .montblanc|
             
             .mopar|
