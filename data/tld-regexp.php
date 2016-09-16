@@ -706,6 +706,8 @@ $gTLD_IDN = "(?:
             
             .fidelity|
             
+            .fido|
+            
             .film|
             
             .final|
@@ -1681,6 +1683,8 @@ $gTLD_IDN = "(?:
             .rocks|
             
             .rodeo|
+            
+            .rogers|
             
             .room|
             

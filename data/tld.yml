@@ -2543,6 +2543,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .fido"
+  type: generic
+  organisation: 'Rogers Communications Partnership'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .film"
   type: generic
   organisation: 'Motion Picture Domain Registry Pty Ltd'
@@ -6182,6 +6188,12 @@
   domain: "\n            \n            .rodeo"
   type: generic
   organisation: 'Top Level Domain Holdings Limited'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .rogers"
+  type: generic
+  organisation: 'Rogers Communications Partnership'
   isIDN: true
   punycode: null
 -
