@@ -2970,7 +2970,7 @@
     {
         "domain": "\n            \n            .fido",
         "type": "generic",
-        "organisation": "Rogers Communications Partnership",
+        "organisation": "Rogers Communications Canada Inc.",
         "isIDN": true,
         "punycode": null
     },
@@ -7226,7 +7226,7 @@
     {
         "domain": "\n            \n            .rogers",
         "type": "generic",
-        "organisation": "Rogers Communications Partnership",
+        "organisation": "Rogers Communications Canada Inc.",
         "isIDN": true,
         "punycode": null
     },
