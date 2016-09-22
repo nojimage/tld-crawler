@@ -8033,6 +8033,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .wow"
+  type: generic
+  organisation: 'Amazon Registry Services, Inc.'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .ws"
   type: country-code
   organisation: 'Government of Samoa Ministry of Foreign Affairs & Trade'
@@ -8498,6 +8504,12 @@
   domain: "\n            \n            .ભારત"
   type: country-code
   organisation: 'National Internet Exchange of India'
+  isIDN: true
+  punycode: null
+-
+  domain: "\n            \n            .通販"
+  type: generic
+  organisation: 'Amazon Registry Services, Inc.'
   isIDN: true
   punycode: null
 -

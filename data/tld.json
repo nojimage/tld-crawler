@@ -9373,6 +9373,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .wow",
+        "type": "generic",
+        "organisation": "Amazon Registry Services, Inc.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .ws",
         "type": "country-code",
         "organisation": "Government of Samoa Ministry of Foreign Affairs \u0026 Trade",
@@ -9915,6 +9922,13 @@
         "domain": "\n            \n            .\u0aad\u0abe\u0ab0\u0aa4",
         "type": "country-code",
         "organisation": "National Internet Exchange of India",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
+        "domain": "\n            \n            .\u901a\u8ca9",
+        "type": "generic",
+        "organisation": "Amazon Registry Services, Inc.",
         "isIDN": true,
         "punycode": null
     },
