@@ -6251,6 +6251,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .observer",
+        "type": "generic",
+        "organisation": "Top Level Spectrum, Inc.",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .off",
         "type": "generic",
         "organisation": "Johnson Shareholdings, Inc.",

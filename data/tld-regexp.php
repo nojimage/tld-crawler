@@ -1442,6 +1442,8 @@ $gTLD_IDN = "(?:
             
             .obi|
             
+            .observer|
+            
             .off|
             
             .office|
