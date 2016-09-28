@@ -2576,6 +2576,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .dvr",
+        "type": "generic",
+        "organisation": "Hughes Satellite Systems Corporation",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .dz",
         "type": "country-code",
         "organisation": "CERIST",

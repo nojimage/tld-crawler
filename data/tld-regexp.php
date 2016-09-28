@@ -614,6 +614,8 @@ $gTLD_IDN = "(?:
             
             .dvag|
             
+            .dvr|
+            
             .earth|
             
             .eat|
