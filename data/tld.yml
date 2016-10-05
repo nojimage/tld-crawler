@@ -3991,7 +3991,7 @@
 -
   domain: "\n            \n            .kim"
   type: generic
-  organisation: 'Afilias Limited'
+  organisation: 'Afilias plc'
   isIDN: true
   punycode: null
 -
@@ -8209,7 +8209,7 @@
 -
   domain: "\n            \n            .বাংলা"
   type: country-code
-  organisation: 'Not assigned'
+  organisation: 'Posts and Telecommunications Division'
   isIDN: true
   punycode: null
 -
