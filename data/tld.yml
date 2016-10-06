@@ -7705,7 +7705,7 @@
 -
   domain: "\n            \n            .vi"
   type: country-code
-  organisation: "Virgin Islands Public Telcommunications System\nc/o COBEX Internet Services"
+  organisation: 'Virgin Islands Public Telecommunications System, Inc.'
   isIDN: true
   punycode: null
 -
