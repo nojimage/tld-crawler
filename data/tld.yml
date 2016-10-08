@@ -5993,6 +5993,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .radio"
+  type: generic
+  organisation: 'European Broadcasting Union (EBU)'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .raid"
   type: generic
   organisation: 'Johnson Shareholdings, Inc.'

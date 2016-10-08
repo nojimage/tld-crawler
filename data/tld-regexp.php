@@ -1622,6 +1622,8 @@ $gTLD_IDN = "(?:
             
             .racing|
             
+            .radio|
+            
             .raid|
             
             .read|
