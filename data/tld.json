@@ -763,6 +763,13 @@
         "punycode": null
     },
     {
+        "domain": "\n            \n            .basketball",
+        "type": "generic",
+        "organisation": "F\u00e9d\u00e9ration Internationale de Basketball (FIBA)",
+        "isIDN": true,
+        "punycode": null
+    },
+    {
         "domain": "\n            \n            .bauhaus",
         "type": "generic",
         "organisation": "Werkhaus GmbH",

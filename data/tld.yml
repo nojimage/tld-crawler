@@ -653,6 +653,12 @@
   isIDN: true
   punycode: null
 -
+  domain: "\n            \n            .basketball"
+  type: generic
+  organisation: 'Fédération Internationale de Basketball (FIBA)'
+  isIDN: true
+  punycode: null
+-
   domain: "\n            \n            .bauhaus"
   type: generic
   organisation: 'Werkhaus GmbH'

@@ -184,6 +184,8 @@ $gTLD_IDN = "(?:
             
             .bargains|
             
+            .basketball|
+            
             .bauhaus|
             
             .bayern|
