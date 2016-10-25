@@ -7829,6 +7829,12 @@
   isIDN: false
   punycode: null
 -
+  domain: volvo
+  type: generic
+  organisation: 'Volvo Holding Sverige Aktiebolag'
+  isIDN: false
+  punycode: null
+-
   domain: vote
   type: generic
   organisation: 'Monolith Registry LLC'
