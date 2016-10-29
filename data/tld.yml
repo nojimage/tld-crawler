@@ -653,6 +653,12 @@
   isIDN: false
   punycode: null
 -
+  domain: baseball
+  type: generic
+  organisation: 'MLB Advanced Media DH, LLC'
+  isIDN: false
+  punycode: null
+-
   domain: basketball
   type: generic
   organisation: 'Fédération Internationale de Basketball (FIBA)'
@@ -1280,6 +1286,18 @@
   domain: casa
   type: generic
   organisation: 'Top Level Domain Holdings Limited'
+  isIDN: false
+  punycode: null
+-
+  domain: case
+  type: generic
+  organisation: 'CNH Industrial N.V.'
+  isIDN: false
+  punycode: null
+-
+  domain: caseih
+  type: generic
+  organisation: 'CNH Industrial N.V.'
   isIDN: false
   punycode: null
 -
@@ -3785,6 +3803,12 @@
   isIDN: false
   punycode: null
 -
+  domain: iveco
+  type: generic
+  organisation: 'CNH Industrial N.V.'
+  isIDN: false
+  punycode: null
+-
   domain: iwc
   type: generic
   organisation: 'Richemont DNS Inc.'
@@ -5168,6 +5192,12 @@
   domain: new
   type: generic
   organisation: 'Charleston Road Registry Inc.'
+  isIDN: false
+  punycode: null
+-
+  domain: newholland
+  type: generic
+  organisation: 'CNH Industrial N.V.'
   isIDN: false
   punycode: null
 -
