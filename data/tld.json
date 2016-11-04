@@ -427,6 +427,13 @@
         "punycode": null
     },
     {
+        "domain": "aol",
+        "type": "generic",
+        "organisation": "AOL Inc.",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "apartments",
         "type": "generic",
         "organisation": "June Maple, LLC",
