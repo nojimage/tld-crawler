@@ -9284,14 +9284,14 @@
     {
         "domain": "weather",
         "type": "generic",
-        "organisation": "The Weather Channel, LLC",
+        "organisation": "International Business Machines Corporation",
         "isIDN": false,
         "punycode": null
     },
     {
         "domain": "weatherchannel",
         "type": "generic",
-        "organisation": "The Weather Channel, LLC",
+        "organisation": "International Business Machines Corporation",
         "isIDN": false,
         "punycode": null
     },
