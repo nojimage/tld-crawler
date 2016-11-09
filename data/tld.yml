@@ -2777,6 +2777,12 @@
   isIDN: false
   punycode: null
 -
+  domain: free
+  type: generic
+  organisation: 'Amazon Registry Services, Inc.'
+  isIDN: false
+  punycode: null
+-
   domain: fresenius
   type: generic
   organisation: 'Fresenius Immobilien-Verwaltungs-GmbH'
