@@ -1197,6 +1197,13 @@
         "punycode": null
     },
     {
+        "domain": "box",
+        "type": "generic",
+        "organisation": "NS1 Limited",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "bq",
         "type": "country-code",
         "organisation": "Not assigned",
@@ -2131,6 +2138,13 @@
         "domain": "crs",
         "type": "generic",
         "organisation": "Federated Co-operatives Limited",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
+        "domain": "cruise",
+        "type": "generic",
+        "organisation": "Viking River Cruises (Bermuda) Ltd.",
         "isIDN": false,
         "punycode": null
     },
@@ -3174,6 +3188,13 @@
         "domain": "foo",
         "type": "generic",
         "organisation": "Charleston Road Registry Inc.",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
+        "domain": "food",
+        "type": "generic",
+        "organisation": "Lifestyle Domain Holdings, Inc.",
         "isIDN": false,
         "punycode": null
     },
@@ -4522,6 +4543,13 @@
         "punycode": null
     },
     {
+        "domain": "jio",
+        "type": "generic",
+        "organisation": "Affinity Names, Inc.",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "jlc",
         "type": "generic",
         "organisation": "Richemont DNS Inc.",
@@ -5792,6 +5820,13 @@
         "domain": "moscow",
         "type": "generic",
         "organisation": "Foundation for Assistance for Internet Technologies and Infrastructure Development (FAITID)",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
+        "domain": "moto",
+        "type": "generic",
+        "organisation": "Motorola Trademark Holdings, LLC",
         "isIDN": false,
         "punycode": null
     },
@@ -7154,6 +7189,13 @@
         "punycode": null
     },
     {
+        "domain": "reliance",
+        "type": "generic",
+        "organisation": "Reliance Industries Limited",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "ren",
         "type": "generic",
         "organisation": "Beijing Qianxiang Wangjing Technology Development Co., Ltd.",
@@ -7255,6 +7297,13 @@
         "domain": "rightathome",
         "type": "generic",
         "organisation": "Johnson Shareholdings, Inc.",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
+        "domain": "ril",
+        "type": "generic",
+        "organisation": "Reliance Industries Limited",
         "isIDN": false,
         "punycode": null
     },
