@@ -6275,6 +6275,12 @@
   isIDN: false
   punycode: null
 -
+  domain: rmit
+  type: generic
+  organisation: 'Royal Melbourne Institute of Technology'
+  isIDN: false
+  punycode: null
+-
   domain: ro
   type: country-code
   organisation: 'National Institute for R&D in Informatics'
@@ -7975,7 +7981,7 @@
 -
   domain: wang
   type: generic
-  organisation: 'Zodiac Registry Limited'
+  organisation: 'Zodiac Wang Limited'
   isIDN: false
   punycode: null
 -
@@ -8299,7 +8305,7 @@
 -
   domain: 八卦
   type: generic
-  organisation: 'Zodiac Scorpio Limited'
+  organisation: 'Zodiac Gemini Ltd'
   isIDN: true
   punycode: null
 -
@@ -8659,7 +8665,7 @@
 -
   domain: 网店
   type: generic
-  organisation: 'Zodiac Libra Limited'
+  organisation: 'Zodiac Taurus Ltd.'
   isIDN: true
   punycode: null
 -
