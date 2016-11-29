@@ -1183,6 +1183,13 @@
         "punycode": null
     },
     {
+        "domain": "boston",
+        "type": "generic",
+        "organisation": "Boston TLD Management, LLC",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "bot",
         "type": "generic",
         "organisation": "Amazon Registry Services, Inc.",
