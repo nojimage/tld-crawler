@@ -3864,6 +3864,13 @@
         "punycode": null
     },
     {
+        "domain": "hair",
+        "type": "generic",
+        "organisation": "L\u0027Oreal",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "hamburg",
         "type": "generic",
         "organisation": "Hamburg Top-Level-Domain GmbH",
