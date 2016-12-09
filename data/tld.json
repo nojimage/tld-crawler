@@ -4088,6 +4088,13 @@
         "punycode": null
     },
     {
+        "domain": "hospital",
+        "type": "generic",
+        "organisation": "Ruby Pike, LLC",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "host",
         "type": "generic",
         "organisation": "DotHost Inc.",
