@@ -2261,6 +2261,13 @@
         "punycode": null
     },
     {
+        "domain": "data",
+        "type": "generic",
+        "organisation": "Dish DBS Corporation",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "date",
         "type": "generic",
         "organisation": "dot Date Limited",
@@ -5761,6 +5768,13 @@
         "punycode": null
     },
     {
+        "domain": "mobile",
+        "type": "generic",
+        "organisation": "Dish DBS Corporation",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "mobily",
         "type": "generic",
         "organisation": "GreenTech Consultancy Company W.L.L.",
@@ -6709,6 +6723,13 @@
         "domain": "philips",
         "type": "generic",
         "organisation": "Koninklijke Philips N.V.",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
+        "domain": "phone",
+        "type": "generic",
+        "organisation": "Dish DBS Corporation",
         "isIDN": false,
         "punycode": null
     },
