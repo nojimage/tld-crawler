@@ -3346,6 +3346,13 @@
         "punycode": null
     },
     {
+        "domain": "fun",
+        "type": "generic",
+        "organisation": "DotSpace, Inc.",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "fund",
         "type": "generic",
         "organisation": "John Castle, LLC",
