@@ -3661,7 +3661,7 @@
 -
   domain: iinet
   type: generic
-  organisation: 'Connect West Pty. Ltd.'
+  organisation: Retired
   isIDN: false
   punycode: null
 -
@@ -5137,7 +5137,7 @@
 -
   domain: mutuelle
   type: generic
-  organisation: 'Fédération Nationale de la Mutualité Française'
+  organisation: Retired
   isIDN: false
   punycode: null
 -
