@@ -203,6 +203,13 @@
         "punycode": null
     },
     {
+        "domain": "africa",
+        "type": "generic",
+        "organisation": "ZA Central Registry NPC trading as Registry.Africa",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "ag",
         "type": "country-code",
         "organisation": "UHSA School of Medicine",
