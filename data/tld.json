@@ -4062,7 +4062,7 @@
     {
         "domain": "homedepot",
         "type": "generic",
-        "organisation": "Homer TLC, Inc.",
+        "organisation": "Home Depot Product Authority, LLC",
         "isIDN": false,
         "punycode": null
     },
@@ -8626,7 +8626,7 @@
     {
         "domain": "thd",
         "type": "generic",
-        "organisation": "Homer TLC, Inc.",
+        "organisation": "Home Depot Product Authority, LLC",
         "isIDN": false,
         "punycode": null
     },
