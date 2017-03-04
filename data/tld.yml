@@ -727,7 +727,7 @@
 -
   domain: bd
   type: country-code
-  organisation: "Ministry of Post & Telecommunications\nBangladesh Secretariat"
+  organisation: 'Posts and Telecommunications Division'
   isIDN: false
   punycode: null
 -
