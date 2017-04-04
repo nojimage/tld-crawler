@@ -4144,6 +4144,13 @@
         "punycode": null
     },
     {
+        "domain": "hotels",
+        "type": "generic",
+        "organisation": "Booking.com B.V.",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "hotmail",
         "type": "generic",
         "organisation": "Microsoft Corporation",
