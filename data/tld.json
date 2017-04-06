@@ -7462,6 +7462,13 @@
         "punycode": null
     },
     {
+        "domain": "rugby",
+        "type": "generic",
+        "organisation": "World Rugby Strategic Developments Limited",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "ruhr",
         "type": "generic",
         "organisation": "regiodot GmbH \u0026 Co. KG",
