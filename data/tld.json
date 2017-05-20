@@ -5777,7 +5777,7 @@
     {
         "domain": "mo",
         "type": "country-code",
-        "organisation": "Bureau of Telecommunications Regulation (DSRT)",
+        "organisation": "Macao Post and Telecommunications Bureau (CTT)",
         "isIDN": false,
         "punycode": null
     },
@@ -10460,7 +10460,7 @@
     {
         "domain": "\u6fb3\u9580",
         "type": "country-code",
-        "organisation": "Bureau of Telecommunications Regulation (DSRT)",
+        "organisation": "Macao Post and Telecommunications Bureau (CTT)",
         "isIDN": true,
         "punycode": null
     },

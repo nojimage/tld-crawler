@@ -4951,7 +4951,7 @@
 -
   domain: mo
   type: country-code
-  organisation: 'Bureau of Telecommunications Regulation (DSRT)'
+  organisation: 'Macao Post and Telecommunications Bureau (CTT)'
   isIDN: false
   punycode: null
 -
@@ -8965,7 +8965,7 @@
 -
   domain: 澳門
   type: country-code
-  organisation: 'Bureau of Telecommunications Regulation (DSRT)'
+  organisation: 'Macao Post and Telecommunications Bureau (CTT)'
   isIDN: true
   punycode: null
 -
