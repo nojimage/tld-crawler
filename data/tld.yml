@@ -413,6 +413,12 @@
   isIDN: false
   punycode: null
 -
+  domain: arab
+  type: generic
+  organisation: 'League of Arab States'
+  isIDN: false
+  punycode: null
+-
   domain: aramco
   type: generic
   organisation: 'Aramco Services Company'
@@ -8990,6 +8996,12 @@
   domain: ‏.بيتك‎
   type: generic
   organisation: 'Kuwait Finance House'
+  isIDN: true
+  punycode: null
+-
+  domain: ‏.عرب‎
+  type: generic
+  organisation: 'League of Arab States'
   isIDN: true
   punycode: null
 -
