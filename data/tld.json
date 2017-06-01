@@ -2863,6 +2863,13 @@
         "punycode": null
     },
     {
+        "domain": "etisalat",
+        "type": "generic",
+        "organisation": "Emirates Telecommunications Corporation (trading as Etisalat)",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "eu",
         "type": "country-code",
         "organisation": "EURid vzw/asbl",
