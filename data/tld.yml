@@ -7507,7 +7507,7 @@
 -
   domain: tl
   type: country-code
-  organisation: 'Ministry of Transport and  Communications; National Division of  Information and Technology'
+  organisation: 'Autoridade Nacional de Comunicações'
   isIDN: false
   punycode: null
 -
@@ -8876,6 +8876,12 @@
   domain: ‏.العليان‎
   type: generic
   organisation: 'Crescent Holding GmbH'
+  isIDN: true
+  punycode: null
+-
+  domain: ‏.اتصالات‎
+  type: generic
+  organisation: 'Emirates Telecommunications Corporation (trading as Etisalat)'
   isIDN: true
   punycode: null
 -
