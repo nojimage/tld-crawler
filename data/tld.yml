@@ -3289,7 +3289,7 @@
 -
   domain: gu
   type: country-code
-  organisation: "University of Guam\nComputer Center"
+  organisation: 'University of Guam'
   isIDN: false
   punycode: null
 -
