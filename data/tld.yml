@@ -4853,6 +4853,12 @@
   isIDN: false
   punycode: null
 -
+  domain: merckmsd
+  type: generic
+  organisation: 'MSD Registry Holdings, Inc.'
+  isIDN: false
+  punycode: null
+-
   domain: metlife
   type: generic
   organisation: 'MetLife Services and Solutions, LLC'
