@@ -3815,6 +3815,13 @@
         "punycode": null
     },
     {
+        "domain": "grocery",
+        "type": "generic",
+        "organisation": "Wal-Mart Stores, Inc.",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "group",
         "type": "generic",
         "organisation": "Romeo Town, LLC",
