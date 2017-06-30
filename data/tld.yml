@@ -4721,6 +4721,12 @@
   isIDN: false
   punycode: null
 -
+  domain: map
+  type: generic
+  organisation: 'Charleston Road Registry Inc.'
+  isIDN: false
+  punycode: null
+-
   domain: market
   type: generic
   organisation: 'United TLD Holdco, Ltd'
@@ -5801,6 +5807,12 @@
   isIDN: false
   punycode: null
 -
+  domain: phd
+  type: generic
+  organisation: 'Charleston Road Registry Inc.'
+  isIDN: false
+  punycode: null
+-
   domain: philips
   type: generic
   organisation: 'Koninklijke Philips N.V.'
@@ -6668,6 +6680,12 @@
   domain: se
   type: country-code
   organisation: 'The Internet Infrastructure Foundation'
+  isIDN: false
+  punycode: null
+-
+  domain: search
+  type: generic
+  organisation: 'Charleston Road Registry Inc.'
   isIDN: false
   punycode: null
 -
@@ -9127,7 +9145,7 @@
 -
   domain: ഭാരതം
   type: country-code
-  organisation: 'Not assigned'
+  organisation: 'National Internet eXchange of India'
   isIDN: true
   punycode: null
 -

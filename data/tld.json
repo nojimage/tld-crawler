@@ -5509,6 +5509,13 @@
         "punycode": null
     },
     {
+        "domain": "map",
+        "type": "generic",
+        "organisation": "Charleston Road Registry Inc.",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "market",
         "type": "generic",
         "organisation": "United TLD Holdco, Ltd",
@@ -6769,6 +6776,13 @@
         "punycode": null
     },
     {
+        "domain": "phd",
+        "type": "generic",
+        "organisation": "Charleston Road Registry Inc.",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
         "domain": "philips",
         "type": "generic",
         "organisation": "Koninklijke Philips N.V.",
@@ -7780,6 +7794,13 @@
         "domain": "se",
         "type": "country-code",
         "organisation": "The Internet Infrastructure Foundation",
+        "isIDN": false,
+        "punycode": null
+    },
+    {
+        "domain": "search",
+        "type": "generic",
+        "organisation": "Charleston Road Registry Inc.",
         "isIDN": false,
         "punycode": null
     },
@@ -10649,7 +10670,7 @@
     {
         "domain": "\u0d2d\u0d3e\u0d30\u0d24\u0d02",
         "type": "country-code",
-        "organisation": "Not assigned",
+        "organisation": "National Internet eXchange of India",
         "isIDN": true,
         "punycode": null
     },
