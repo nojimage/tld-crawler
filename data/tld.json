@@ -5818,7 +5818,7 @@
     },
     {
         "domain": "mobi",
-        "type": "sponsored",
+        "type": "generic",
         "organisation": "Afilias Technologies Limited dba dotMobi",
         "isIDN": false,
         "punycode": null
