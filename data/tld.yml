@@ -4783,13 +4783,13 @@
 -
   domain: mcd
   type: generic
-  organisation: 'McDonald’s Corporation'
+  organisation: 'Not assigned'
   isIDN: false
   punycode: null
 -
   domain: mcdonalds
   type: generic
-  organisation: 'McDonald’s Corporation'
+  organisation: 'Not assigned'
   isIDN: false
   punycode: null
 -
@@ -5047,7 +5047,7 @@
 -
   domain: montblanc
   type: generic
-  organisation: 'Richemont DNS Inc.'
+  organisation: 'Not assigned'
   isIDN: false
   punycode: null
 -
