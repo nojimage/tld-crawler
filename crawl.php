@@ -33,7 +33,7 @@ $withPunycode = function_exists('\idn_to_ascii');
 // fetch data
 $crawler->filter('#tld-table tbody > tr')->each(function (Crawler $node) use ($collection, $withPunycode) {
 	$tld = new TLD();
-	$tld->domain = trim(trim($node->children()->eq(0)->text()), '.');
+	$tld->domain = preg_replace('/\A(\x{200f}?)\.+/u', '$1', trim($node->children()->eq(0)->text()));
 	$tld->type = trim($node->children()->eq(1)->text());
 	$tld->organisation = trim($node->children()->eq(2)->text());
 	$tld->isIDN = !preg_match('/^[a-z0-9]+$/u', $tld->domain);

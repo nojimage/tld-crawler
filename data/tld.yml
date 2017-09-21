@@ -8417,7 +8417,7 @@
   isIDN: true
   punycode: xn--45q11c
 -
-  domain: ‏.موقع‎
+  domain: ‏موقع‎
   type: generic
   organisation: 'Suhub Electronic Establishment'
   isIDN: true
@@ -8525,7 +8525,7 @@
   isIDN: true
   punycode: xn--90ais
 -
-  domain: ‏.קום‎
+  domain: ‏קום‎
   type: generic
   organisation: 'VeriSign Sarl'
   isIDN: true
@@ -8621,7 +8621,7 @@
   isIDN: true
   punycode: xn--d1alf
 -
-  domain: ‏.טעסט‎
+  domain: ‏טעסט‎
   type: test
   organisation: 'Internet Assigned Numbers Authority'
   isIDN: true
@@ -8657,7 +8657,7 @@
   isIDN: true
   punycode: xn--fct429k
 -
-  domain: ‏.كوم‎
+  domain: ‏كوم‎
   type: generic
   organisation: 'VeriSign Sarl'
   isIDN: true
@@ -8765,7 +8765,7 @@
   isIDN: true
   punycode: xn--h2brj9c8c
 -
-  domain: ‏.آزمایشی‎
+  domain: ‏آزمایشی‎
   type: test
   organisation: 'Internet Assigned Numbers Authority'
   isIDN: true
@@ -8843,7 +8843,7 @@
   isIDN: true
   punycode: xn--kcrx77d1x4a
 -
-  domain: ‏.إختبار‎
+  domain: ‏إختبار‎
   type: test
   organisation: 'Internet Assigned Numbers Authority'
   isIDN: true
@@ -8879,133 +8879,133 @@
   isIDN: true
   punycode: xn--l1acc
 -
-  domain: ‏.الجزائر‎
+  domain: ‏الجزائر‎
   type: country-code
   organisation: CERIST
   isIDN: true
   punycode: false
 -
-  domain: ‏.عمان‎
+  domain: ‏عمان‎
   type: country-code
   organisation: 'Telecommunications Regulatory Authority (TRA)'
   isIDN: true
   punycode: false
 -
-  domain: ‏.ارامكو‎
+  domain: ‏ارامكو‎
   type: generic
   organisation: 'Aramco Services Company'
   isIDN: true
   punycode: false
 -
-  domain: ‏.ایران‎
+  domain: ‏ایران‎
   type: country-code
   organisation: 'Institute for Research in Fundamental Sciences (IPM)'
   isIDN: true
   punycode: false
 -
-  domain: ‏.العليان‎
+  domain: ‏العليان‎
   type: generic
   organisation: 'Crescent Holding GmbH'
   isIDN: true
   punycode: false
 -
-  domain: ‏.اتصالات‎
+  domain: ‏اتصالات‎
   type: generic
   organisation: 'Emirates Telecommunications Corporation (trading as Etisalat)'
   isIDN: true
   punycode: false
 -
-  domain: ‏.امارات‎
+  domain: ‏امارات‎
   type: country-code
   organisation: 'Telecommunications Regulatory Authority (TRA)'
   isIDN: true
   punycode: false
 -
-  domain: ‏.بازار‎
+  domain: ‏بازار‎
   type: generic
   organisation: 'CORE Association'
   isIDN: true
   punycode: false
 -
-  domain: ‏.پاکستان‎
+  domain: ‏پاکستان‎
   type: country-code
   organisation: 'National Telecommunication Corporation'
   isIDN: true
   punycode: false
 -
-  domain: ‏.الاردن‎
+  domain: ‏الاردن‎
   type: country-code
   organisation: 'National Information Technology Center (NITC)'
   isIDN: true
   punycode: false
 -
-  domain: ‏.موبايلي‎
+  domain: ‏موبايلي‎
   type: generic
   organisation: 'GreenTech Consultancy Company W.L.L.'
   isIDN: true
   punycode: false
 -
-  domain: ‏.بارت‎
+  domain: ‏بارت‎
   type: country-code
   organisation: 'National Internet eXchange of India'
   isIDN: true
   punycode: false
 -
-  domain: ‏.بھارت‎
+  domain: ‏بھارت‎
   type: country-code
   organisation: 'National Internet Exchange of India'
   isIDN: true
   punycode: false
 -
-  domain: ‏.المغرب‎
+  domain: ‏المغرب‎
   type: country-code
   organisation: 'Agence Nationale de Réglementation des Télécommunications (ANRT)'
   isIDN: true
   punycode: false
 -
-  domain: ‏.ابوظبي‎
+  domain: ‏ابوظبي‎
   type: generic
   organisation: 'Abu Dhabi Systems and Information Centre'
   isIDN: true
   punycode: false
 -
-  domain: ‏.السعودية‎
+  domain: ‏السعودية‎
   type: country-code
   organisation: 'Communications and Information Technology Commission'
   isIDN: true
   punycode: false
 -
-  domain: ‏.ڀارت‎
+  domain: ‏ڀارت‎
   type: country-code
   organisation: 'National Internet eXchange of India'
   isIDN: true
   punycode: false
 -
-  domain: ‏.كاثوليك‎
+  domain: ‏كاثوليك‎
   type: generic
   organisation: 'Pontificium Consilium de Comunicationibus Socialibus (PCCS) (Pontifical Council for Social Communication)'
   isIDN: true
   punycode: false
 -
-  domain: ‏.سودان‎
+  domain: ‏سودان‎
   type: country-code
   organisation: 'Sudan Internet Society'
   isIDN: true
   punycode: false
 -
-  domain: ‏.همراه‎
+  domain: ‏همراه‎
   type: generic
   organisation: 'Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.'
   isIDN: true
   punycode: false
 -
-  domain: ‏.عراق‎
+  domain: ‏عراق‎
   type: country-code
   organisation: 'Communications and Media Commission (CMC)'
   isIDN: true
   punycode: false
 -
-  domain: ‏.مليسيا‎
+  domain: ‏مليسيا‎
   type: country-code
   organisation: 'MYNIC Berhad'
   isIDN: true
@@ -9029,19 +9029,19 @@
   isIDN: true
   punycode: xn--mxtq1m
 -
-  domain: ‏.شبكة‎
+  domain: ‏شبكة‎
   type: generic
   organisation: 'International Domain Registry Pty. Ltd.'
   isIDN: true
   punycode: false
 -
-  domain: ‏.بيتك‎
+  domain: ‏بيتك‎
   type: generic
   organisation: 'Kuwait Finance House'
   isIDN: true
   punycode: false
 -
-  domain: ‏.عرب‎
+  domain: ‏عرب‎
   type: generic
   organisation: 'League of Arab States'
   isIDN: true
@@ -9077,7 +9077,7 @@
   isIDN: true
   punycode: xn--o3cw4h
 -
-  domain: ‏.سورية‎
+  domain: ‏سورية‎
   type: country-code
   organisation: 'National Agency for Network Services (NANS)'
   isIDN: true
@@ -9101,7 +9101,7 @@
   isIDN: true
   punycode: xn--pbt977c
 -
-  domain: ‏.تونس‎
+  domain: ‏تونس‎
   type: country-code
   organisation: 'Agence Tunisienne d''Internet'
   isIDN: true
@@ -9221,13 +9221,13 @@
   isIDN: true
   punycode: xn--w4rs40l
 -
-  domain: ‏.مصر‎
+  domain: ‏مصر‎
   type: country-code
   organisation: 'National Telecommunication Regulatory Authority - NTRA'
   isIDN: true
   punycode: false
 -
-  domain: ‏.قطر‎
+  domain: ‏قطر‎
   type: country-code
   organisation: 'Communications Regulatory Authority'
   isIDN: true
@@ -9263,7 +9263,7 @@
   isIDN: true
   punycode: xn--yfro4i67o
 -
-  domain: ‏.فلسطين‎
+  domain: ‏فلسطين‎
   type: country-code
   organisation: 'Ministry of Telecom & Information Technology (MTIT)'
   isIDN: true
