@@ -1519,7 +1519,7 @@
 -
   domain: ci
   type: country-code
-  organisation: 'INP-HB Institut National Polytechnique Felix Houphouet Boigny'
+  organisation: 'Autorité de Régulation des Télécommunications/TIC de Côte d’lvoire (ARTCI)'
   isIDN: false
   punycode: ci
 -

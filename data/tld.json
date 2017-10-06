@@ -1773,7 +1773,7 @@
     {
         "domain": "ci",
         "type": "country-code",
-        "organisation": "INP-HB Institut National Polytechnique Felix Houphouet Boigny",
+        "organisation": "Autorit\u00e9 de R\u00e9gulation des T\u00e9l\u00e9communications/TIC de C\u00f4te d\u2019lvoire (ARTCI)",
         "isIDN": false,
         "punycode": "ci"
     },
