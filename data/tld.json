@@ -8218,6 +8218,13 @@
         "punycode": "spiegel"
     },
     {
+        "domain": "sport",
+        "type": "generic",
+        "organisation": "Global Association of International Sports Federations (GAISF)",
+        "isIDN": false,
+        "punycode": "sport"
+    },
+    {
         "domain": "spot",
         "type": "generic",
         "organisation": "Amazon Registry Services, Inc.",
