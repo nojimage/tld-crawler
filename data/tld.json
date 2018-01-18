@@ -3495,7 +3495,7 @@
     {
         "domain": "ge",
         "type": "country-code",
-        "organisation": "Caucasus Online",
+        "organisation": "Caucasus Online LLC",
         "isIDN": false,
         "punycode": "ge"
     },
