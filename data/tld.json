@@ -10612,6 +10612,13 @@
         "punycode": false
     },
     {
+        "domain": "\u62db\u8058",
+        "type": "generic",
+        "organisation": "Dot Trademark TLD Holding Company Limited",
+        "isIDN": true,
+        "punycode": "xn--otu796d"
+    },
+    {
         "domain": "\u0440\u0443\u0441",
         "type": "generic",
         "organisation": "Rusnames Limited",

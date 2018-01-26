@@ -9095,6 +9095,12 @@
   isIDN: true
   punycode: false
 -
+  domain: 招聘
+  type: generic
+  organisation: 'Dot Trademark TLD Holding Company Limited'
+  isIDN: true
+  punycode: xn--otu796d
+-
   domain: рус
   type: generic
   organisation: 'Rusnames Limited'
