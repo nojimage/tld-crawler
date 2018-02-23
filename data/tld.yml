@@ -7675,7 +7675,7 @@
 -
   domain: travel
   type: sponsored
-  organisation: 'Tralliance Registry Management Company, LLC.'
+  organisation: "Dog\tBeach, LLC"
   isIDN: false
   punycode: travel
 -
