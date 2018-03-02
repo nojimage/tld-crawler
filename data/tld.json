@@ -5278,13 +5278,6 @@
         "punycode": "lk"
     },
     {
-        "domain": "llc",
-        "type": "generic",
-        "organisation": "Afilias plc",
-        "isIDN": false,
-        "punycode": "llc"
-    },
-    {
         "domain": "loan",
         "type": "generic",
         "organisation": "dot Loan Limited",
