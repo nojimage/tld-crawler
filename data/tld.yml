@@ -1681,7 +1681,7 @@
 -
   domain: cologne
   type: generic
-  organisation: 'NetCologne Gesellschaft für Telekommunikation mbH'
+  organisation: 'punkt.wien GmbH'
   isIDN: false
   punycode: cologne
 -
@@ -4165,7 +4165,7 @@
 -
   domain: koeln
   type: generic
-  organisation: 'NetCologne Gesellschaft für Telekommunikation mbH'
+  organisation: 'punkt.wien GmbH'
   isIDN: false
   punycode: koeln
 -

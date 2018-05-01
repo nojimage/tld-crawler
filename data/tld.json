@@ -1962,7 +1962,7 @@
     {
         "domain": "cologne",
         "type": "generic",
-        "organisation": "NetCologne Gesellschaft f\u00fcr Telekommunikation mbH",
+        "organisation": "punkt.wien GmbH",
         "isIDN": false,
         "punycode": "cologne"
     },
@@ -4860,7 +4860,7 @@
     {
         "domain": "koeln",
         "type": "generic",
-        "organisation": "NetCologne Gesellschaft f\u00fcr Telekommunikation mbH",
+        "organisation": "punkt.wien GmbH",
         "isIDN": false,
         "punycode": "koeln"
     },
