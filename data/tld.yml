@@ -1463,6 +1463,12 @@
   isIDN: false
   punycode: channel
 -
+  domain: charity
+  type: generic
+  organisation: 'Corn Lake, LLC'
+  isIDN: false
+  punycode: charity
+-
   domain: chase
   type: generic
   organisation: 'JPMorgan Chase Bank, National Association'
