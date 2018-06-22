@@ -1969,7 +1969,7 @@
     {
         "domain": "cologne",
         "type": "generic",
-        "organisation": "punkt.wien GmbH",
+        "organisation": "dotKoeln GmbH",
         "isIDN": false,
         "punycode": "cologne"
     },
@@ -4867,7 +4867,7 @@
     {
         "domain": "koeln",
         "type": "generic",
-        "organisation": "punkt.wien GmbH",
+        "organisation": "dotKoeln GmbH",
         "isIDN": false,
         "punycode": "koeln"
     },
