@@ -4375,6 +4375,13 @@
         "punycode": "in"
     },
     {
+        "domain": "inc",
+        "type": "generic",
+        "organisation": "Intercap Holdings Inc.",
+        "isIDN": false,
+        "punycode": "inc"
+    },
+    {
         "domain": "industries",
         "type": "generic",
         "organisation": "Binky Moon, LLC",
