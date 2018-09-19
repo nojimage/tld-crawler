@@ -4643,7 +4643,7 @@
     {
         "domain": "jlc",
         "type": "generic",
-        "organisation": "Richemont DNS Inc.",
+        "organisation": "Not assigned",
         "isIDN": false,
         "punycode": "jlc"
     },
@@ -6687,7 +6687,7 @@
     {
         "domain": "panerai",
         "type": "generic",
-        "organisation": "Richemont DNS Inc.",
+        "organisation": "Not assigned",
         "isIDN": false,
         "punycode": "panerai"
     },
