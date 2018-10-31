@@ -3835,7 +3835,7 @@
 -
   domain: io
   type: country-code
-  organisation: "IO Top Level Domain Registry\nCable and Wireless"
+  organisation: 'IO Top Level Domain Registry'
   isIDN: false
   punycode: io
 -
