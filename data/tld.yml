@@ -5059,7 +5059,7 @@
 -
   domain: monster
   type: generic
-  organisation: 'Monster Worldwide, Inc.'
+  organisation: 'XYZ.COM LLC'
   isIDN: false
   punycode: monster
 -
@@ -7099,7 +7099,7 @@
 -
   domain: ss
   type: country-code
-  organisation: 'Not assigned'
+  organisation: 'National Communication Authority (NCA)'
   isIDN: false
   punycode: ss
 -
