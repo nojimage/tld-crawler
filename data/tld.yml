@@ -2395,7 +2395,7 @@
 -
   domain: epost
   type: generic
-  organisation: 'Deutsche Post AG'
+  organisation: 'Not assigned'
   isIDN: false
   punycode: epost
 -
@@ -9439,7 +9439,7 @@
 -
   domain: zippo
   type: generic
-  organisation: 'Zadco Company'
+  organisation: 'Not assigned'
   isIDN: false
   punycode: zippo
 -
