@@ -1682,7 +1682,7 @@
     {
         "domain": "cg",
         "type": "country-code",
-        "organisation": "ONPT Congo and Interpoint Switzerland",
+        "organisation": "Interpoint Switzerland",
         "isIDN": false,
         "punycode": "cg"
     },
