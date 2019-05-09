@@ -427,7 +427,7 @@
 -
   domain: archi
   type: generic
-  organisation: 'STARTING DOT LIMITED'
+  organisation: 'Afilias Limited'
   isIDN: false
   punycode: archi
 -
@@ -787,7 +787,7 @@
 -
   domain: bet
   type: generic
-  organisation: 'Afilias plc'
+  organisation: 'Afilias Limited'
   isIDN: false
   punycode: bet
 -
@@ -853,7 +853,7 @@
 -
   domain: bio
   type: generic
-  organisation: 'STARTING DOT LIMITED'
+  organisation: 'Afilias Limited'
   isIDN: false
   punycode: bio
 -
@@ -877,7 +877,7 @@
 -
   domain: black
   type: generic
-  organisation: 'Afilias plc'
+  organisation: 'Afilias Limited'
   isIDN: false
   punycode: black
 -
@@ -913,7 +913,7 @@
 -
   domain: blue
   type: generic
-  organisation: 'Afilias plc'
+  organisation: 'Afilias Limited'
   isIDN: false
   punycode: blue
 -
@@ -1759,7 +1759,7 @@
 -
   domain: contact
   type: generic
-  organisation: 'Top Level Spectrum, Inc.'
+  organisation: 'Donuts Inc.'
   isIDN: false
   punycode: contact
 -
@@ -3265,7 +3265,7 @@
 -
   domain: green
   type: generic
-  organisation: 'DotGreen Registry Limited'
+  organisation: 'Afilias Limited'
   isIDN: false
   punycode: green
 -
@@ -4135,7 +4135,7 @@
 -
   domain: kim
   type: generic
-  organisation: 'Afilias plc'
+  organisation: 'Afilias Limited'
   isIDN: false
   punycode: kim
 -
@@ -4417,7 +4417,7 @@
 -
   domain: lgbt
   type: generic
-  organisation: 'Afilias plc'
+  organisation: 'Afilias Limited'
   isIDN: false
   punycode: lgbt
 -
@@ -4537,7 +4537,7 @@
 -
   domain: llc
   type: generic
-  organisation: 'Afilias plc'
+  organisation: 'Afilias Limited'
   isIDN: false
   punycode: llc
 -
@@ -4591,7 +4591,7 @@
 -
   domain: lotto
   type: generic
-  organisation: 'Afilias plc'
+  organisation: 'Afilias Limited'
   isIDN: false
   punycode: lotto
 -
@@ -5665,7 +5665,7 @@
 -
   domain: organic
   type: generic
-  organisation: 'Afilias plc'
+  organisation: 'Afilias Limited'
   isIDN: false
   punycode: organic
 -
@@ -5791,7 +5791,7 @@
 -
   domain: pet
   type: generic
-  organisation: 'Afilias plc'
+  organisation: 'Afilias Limited'
   isIDN: false
   punycode: pet
 -
@@ -5911,7 +5911,7 @@
 -
   domain: pink
   type: generic
-  organisation: 'Afilias plc'
+  organisation: 'Afilias Limited'
   isIDN: false
   punycode: pink
 -
@@ -5995,7 +5995,7 @@
 -
   domain: poker
   type: generic
-  organisation: 'Afilias plc'
+  organisation: 'Afilias Limited'
   isIDN: false
   punycode: poker
 -
@@ -6079,7 +6079,7 @@
 -
   domain: promo
   type: generic
-  organisation: 'Afilias plc'
+  organisation: 'Afilias Limited'
   isIDN: false
   punycode: promo
 -
@@ -6235,7 +6235,7 @@
 -
   domain: red
   type: generic
-  organisation: 'Afilias plc'
+  organisation: 'Afilias Limited'
   isIDN: false
   punycode: red
 -
@@ -6829,7 +6829,7 @@
 -
   domain: shiksha
   type: generic
-  organisation: 'Afilias plc'
+  organisation: 'Afilias Limited'
   isIDN: false
   punycode: shiksha
 -
@@ -6919,7 +6919,7 @@
 -
   domain: ski
   type: generic
-  organisation: 'STARTING DOT LIMITED'
+  organisation: 'Afilias Limited'
   isIDN: false
   punycode: ski
 -
@@ -7663,7 +7663,7 @@
 -
   domain: tr
   type: country-code
-  organisation: "Middle East Technical University\nDepartment of Computer Engineering"
+  organisation: 'Bilgi Teknolojileri ve İletişim Kurumu (BTK)'
   isIDN: false
   punycode: tr
 -
@@ -8479,7 +8479,7 @@
 -
   domain: 移动
   type: generic
-  organisation: 'Afilias plc'
+  organisation: 'Afilias Limited'
   isIDN: true
   punycode: xn--6frz82g
 -
