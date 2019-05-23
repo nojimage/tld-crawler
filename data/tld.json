@@ -7058,7 +7058,7 @@
     {
         "domain": "pro",
         "type": "generic-restricted",
-        "organisation": "Registry Services Corporation\ndba RegistryPro",
+        "organisation": "Afilias Limited",
         "isIDN": false,
         "punycode": "pro"
     },
