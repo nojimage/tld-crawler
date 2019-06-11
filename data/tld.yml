@@ -9149,6 +9149,12 @@
   isIDN: true
   punycode: xn--pssy2u
 -
+  domain: ລາວ
+  type: country-code
+  organisation: 'Not assigned'
+  isIDN: true
+  punycode: xn--q7ce6a
+-
   domain: みんな
   type: generic
   organisation: 'Charleston Road Registry Inc.'

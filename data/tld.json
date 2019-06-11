@@ -10675,6 +10675,13 @@
         "punycode": "xn--pssy2u"
     },
     {
+        "domain": "\u0ea5\u0eb2\u0ea7",
+        "type": "country-code",
+        "organisation": "Not assigned",
+        "isIDN": true,
+        "punycode": "xn--q7ce6a"
+    },
+    {
         "domain": "\u307f\u3093\u306a",
         "type": "generic",
         "organisation": "Charleston Road Registry Inc.",
