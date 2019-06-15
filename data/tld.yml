@@ -8999,6 +8999,12 @@
   isIDN: true
   punycode: false
 -
+  domain: ‏البحرين‎
+  type: country-code
+  organisation: 'Not assigned'
+  isIDN: true
+  punycode: false
+-
   domain: ‏السعودية‎
   type: country-code
   organisation: 'Communications and Information Technology Commission'
