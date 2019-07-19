@@ -9173,6 +9173,12 @@
   isIDN: true
   punycode: xn--qcka1pmc
 -
+  domain: ευ
+  type: country-code
+  organisation: 'Not assigned'
+  isIDN: true
+  punycode: xn--qxa6a
+-
   domain: ελ
   type: country-code
   organisation: 'ICS-FORTH GR'
