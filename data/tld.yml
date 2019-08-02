@@ -1153,7 +1153,7 @@
 -
   domain: bv
   type: country-code
-  organisation: 'UNINETT Norid A/S'
+  organisation: 'Norid A/S'
   isIDN: false
   punycode: bv
 -
@@ -5449,7 +5449,7 @@
 -
   domain: no
   type: country-code
-  organisation: 'UNINETT Norid A/S'
+  organisation: 'Norid A/S'
   isIDN: false
   punycode: no
 -
@@ -6907,7 +6907,7 @@
 -
   domain: sj
   type: country-code
-  organisation: 'UNINETT Norid A/S'
+  organisation: 'Norid A/S'
   isIDN: false
   punycode: sj
 -
