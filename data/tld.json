@@ -2011,7 +2011,7 @@
     {
         "domain": "compare",
         "type": "generic",
-        "organisation": "iSelect Ltd",
+        "organisation": "Registry Services, LLC",
         "isIDN": false,
         "punycode": "compare"
     },
@@ -7856,7 +7856,7 @@
     {
         "domain": "select",
         "type": "generic",
-        "organisation": "iSelect Ltd",
+        "organisation": "Registry Services, LLC",
         "isIDN": false,
         "punycode": "select"
     },
