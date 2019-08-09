@@ -2975,6 +2975,12 @@
   isIDN: false
   punycode: garden
 -
+  domain: gay
+  type: generic
+  organisation: 'Top Level Design, LLC'
+  isIDN: false
+  punycode: gay
+-
   domain: gb
   type: country-code
   organisation: 'Reserved Domain - IANA'
