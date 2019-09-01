@@ -2641,7 +2641,7 @@
     {
         "domain": "duns",
         "type": "generic",
-        "organisation": "The Dun \u0026 Bradstreet Corporation",
+        "organisation": "Not assigned",
         "isIDN": false,
         "punycode": "duns"
     },

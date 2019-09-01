@@ -2263,7 +2263,7 @@
 -
   domain: duns
   type: generic
-  organisation: 'The Dun & Bradstreet Corporation'
+  organisation: 'Not assigned'
   isIDN: false
   punycode: duns
 -
