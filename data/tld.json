@@ -5861,7 +5861,7 @@
     {
         "domain": "mobily",
         "type": "generic",
-        "organisation": "GreenTech Consultancy Company W.L.L.",
+        "organisation": "Not assigned",
         "isIDN": false,
         "punycode": "mobily"
     },
@@ -10474,7 +10474,7 @@
     {
         "domain": "\u200f\u0645\u0648\u0628\u0627\u064a\u0644\u064a\u200e",
         "type": "generic",
-        "organisation": "GreenTech Consultancy Company W.L.L.",
+        "organisation": "Not assigned",
         "isIDN": true,
         "punycode": false
     },
