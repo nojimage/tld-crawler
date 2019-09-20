@@ -2128,6 +2128,13 @@
         "punycode": "courses"
     },
     {
+        "domain": "cpa",
+        "type": "generic",
+        "organisation": "American Institute of Certified Public Accountants",
+        "isIDN": false,
+        "punycode": "cpa"
+    },
+    {
         "domain": "cr",
         "type": "country-code",
         "organisation": "National Academy of Sciences\nAcademia Nacional de Ciencias",
