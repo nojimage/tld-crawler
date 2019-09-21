@@ -985,7 +985,7 @@
 -
   domain: bond
   type: generic
-  organisation: 'Bond University Limited'
+  organisation: 'Shortdot SA'
   isIDN: false
   punycode: bond
 -
@@ -6295,7 +6295,7 @@
 -
   domain: ren
   type: generic
-  organisation: 'Beijing Qianxiang Wangjing Technology Development Co., Ltd.'
+  organisation: 'ZDNS International Limited'
   isIDN: false
   punycode: ren
 -
