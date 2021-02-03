@@ -2,6 +2,8 @@
 
 namespace Nojimage\TLDCrawler\Writer;
 
+use Nojimage\TLDCrawler\TLD;
+
 class JsonWriter extends FileWriter
 {
 
@@ -15,9 +17,10 @@ class JsonWriter extends FileWriter
 		parent::__construct($path);
 	}
 
-	public function write(\Nojimage\TLDCrawler\TLD $tld)
+	public function write(TLD $tld)
 	{
 		$this->tmp[] = $tld;
+
 		return $this;
 	}
 

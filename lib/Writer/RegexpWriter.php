@@ -2,6 +2,8 @@
 
 namespace Nojimage\TLDCrawler\Writer;
 
+use Nojimage\TLDCrawler\TLD;
+
 class RegexpWriter extends FileWriter
 {
 
@@ -20,7 +22,7 @@ class RegexpWriter extends FileWriter
 		parent::__construct($path);
 	}
 
-	public function write(\Nojimage\TLDCrawler\TLD $tld)
+	public function write(TLD $tld)
 	{
 		$code = $tld->isIDN ? 'utf8' : 'ascii';
 
@@ -35,6 +37,7 @@ class RegexpWriter extends FileWriter
 				$this->gTLD['punycode'][] = $tld->punycode;
 			}
 		}
+
 		return $this;
 	}
 
@@ -42,15 +45,18 @@ class RegexpWriter extends FileWriter
 	{
 		$gTLD = $this->gTLD;
 		$ccTLD = $this->ccTLD;
+		if (!isset($gTLD) || !isset($ccTLD)) {
+		    return;
+        }
 
 		$this->file->fwrite("<?php" . PHP_EOL . PHP_EOL);
-		$this->file->fwrite(sprintf('$gTLD = "(?:%s)";', join('|', $gTLD['ascii'])) . PHP_EOL);
-		$this->file->fwrite(sprintf('$ccTLD = "(?:%s)";', join('|', $ccTLD['ascii'])) . PHP_EOL);
-		$this->file->fwrite(sprintf('$gTLD_IDN = "(?:%s)";', join('|', $gTLD['utf8'])) . PHP_EOL);
-		$this->file->fwrite(sprintf('$ccTLD_IDN = "(?:%s)";', join('|', $ccTLD['utf8'])) . PHP_EOL);
+		$this->file->fwrite(sprintf('$gTLD = "(?:%s)";', implode('|', $gTLD['ascii'])) . PHP_EOL);
+		$this->file->fwrite(sprintf('$ccTLD = "(?:%s)";', implode('|', $ccTLD['ascii'])) . PHP_EOL);
+		$this->file->fwrite(sprintf('$gTLD_IDN = "(?:%s)";', implode('|', $gTLD['utf8'])) . PHP_EOL);
+		$this->file->fwrite(sprintf('$ccTLD_IDN = "(?:%s)";', implode('|', $ccTLD['utf8'])) . PHP_EOL);
 		if (function_exists('\idn_to_ascii')) {
-			$this->file->fwrite(sprintf('$gTLD_punycode = "(?:%s)";', join('|', $gTLD['punycode'])) . PHP_EOL);
-			$this->file->fwrite(sprintf('$ccTLD_punycode = "(?:%s)";', join('|', $ccTLD['punycode'])) . PHP_EOL);
+			$this->file->fwrite(sprintf('$gTLD_punycode = "(?:%s)";', implode('|', $gTLD['punycode'])) . PHP_EOL);
+			$this->file->fwrite(sprintf('$ccTLD_punycode = "(?:%s)";', implode('|', $ccTLD['punycode'])) . PHP_EOL);
 		}
 	}
 
