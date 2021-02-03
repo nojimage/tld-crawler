@@ -2,6 +2,7 @@
 
 namespace Nojimage\TLDCrawler\Writer;
 
+use Nojimage\TLDCrawler\TLD;
 use Symfony\Component\Yaml\Yaml;
 
 class YamlWriter extends FileWriter
@@ -12,9 +13,10 @@ class YamlWriter extends FileWriter
 	 */
 	protected $tmp;
 
-	public function write(\Nojimage\TLDCrawler\TLD $tld)
+	public function write(TLD $tld)
 	{
 		$this->tmp[] = $tld->toArray();
+
 		return $this;
 	}
 
