@@ -4819,7 +4819,7 @@
 -
   domain: mc
   type: country-code
-  organisation: "Gouvernement de Monaco\nDirection des Communications Electroniques"
+  organisation: 'Direction des Plateformes et des Ressources Numériques'
   isIDN: false
   punycode: mc
 -

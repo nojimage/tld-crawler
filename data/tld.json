@@ -5623,7 +5623,7 @@
     {
         "domain": "mc",
         "type": "country-code",
-        "organisation": "Gouvernement de Monaco\nDirection des Communications Electroniques",
+        "organisation": "Direction des Plateformes et des Ressources Num\u00e9riques",
         "isIDN": false,
         "punycode": "mc"
     },
