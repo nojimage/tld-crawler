@@ -646,7 +646,7 @@
     {
         "domain": "autos",
         "type": "generic",
-        "organisation": "DERAutos, LLC",
+        "organisation": "XYZ.COM LLC",
         "isIDN": false,
         "punycode": "autos"
     },
@@ -1129,7 +1129,7 @@
     {
         "domain": "boats",
         "type": "generic",
-        "organisation": "DERBoats, LLC",
+        "organisation": "XYZ.COM LLC",
         "isIDN": false,
         "punycode": "boats"
     },
@@ -4125,7 +4125,7 @@
     {
         "domain": "homes",
         "type": "generic",
-        "organisation": "DERHomes, LLC",
+        "organisation": "XYZ.COM LLC",
         "isIDN": false,
         "punycode": "homes"
     },
@@ -5980,7 +5980,7 @@
     {
         "domain": "motorcycles",
         "type": "generic",
-        "organisation": "DERMotorcycles, LLC",
+        "organisation": "XYZ.COM LLC",
         "isIDN": false,
         "punycode": "motorcycles"
     },
@@ -10971,7 +10971,7 @@
     {
         "domain": "yachts",
         "type": "generic",
-        "organisation": "DERYachts, LLC",
+        "organisation": "XYZ.COM LLC",
         "isIDN": false,
         "punycode": "yachts"
     },
