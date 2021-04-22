@@ -4587,7 +4587,7 @@
     {
         "domain": "iveco",
         "type": "generic",
-        "organisation": "CNH Industrial N.V.",
+        "organisation": "Not assigned",
         "isIDN": false,
         "punycode": "iveco"
     },
@@ -8290,7 +8290,7 @@
     {
         "domain": "spreadbetting",
         "type": "generic",
-        "organisation": "DOTSPREADBETTING REGISTRY LTD",
+        "organisation": "Not assigned",
         "isIDN": false,
         "punycode": "spreadbetting"
     },
