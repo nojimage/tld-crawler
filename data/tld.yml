@@ -103,7 +103,7 @@
 -
   domain: actor
   type: generic
-  organisation: 'United TLD Holdco Ltd.'
+  organisation: 'Dog Beach, LLC'
   isIDN: false
   punycode: actor
 -
@@ -223,7 +223,7 @@
 -
   domain: airforce
   type: generic
-  organisation: 'United TLD Holdco Ltd.'
+  organisation: 'Dog Beach, LLC'
   isIDN: false
   punycode: airforce
 -
@@ -439,7 +439,7 @@
 -
   domain: army
   type: generic
-  organisation: 'United TLD Holdco Ltd.'
+  organisation: 'Dog Beach, LLC'
   isIDN: false
   punycode: army
 -
@@ -499,7 +499,7 @@
 -
   domain: attorney
   type: generic
-  organisation: 'United TLD Holdco, Ltd'
+  organisation: 'Dog Beach, LLC'
   isIDN: false
   punycode: attorney
 -
@@ -511,7 +511,7 @@
 -
   domain: auction
   type: generic
-  organisation: 'United TLD HoldCo, Ltd.'
+  organisation: 'Dog Beach, LLC'
   isIDN: false
   punycode: auction
 -
@@ -631,7 +631,7 @@
 -
   domain: band
   type: generic
-  organisation: 'United TLD Holdco, Ltd'
+  organisation: 'Dog Beach, LLC'
   isIDN: false
   punycode: band
 -
@@ -1759,7 +1759,7 @@
 -
   domain: consulting
   type: generic
-  organisation: 'United TLD Holdco, LTD.'
+  organisation: 'Dog Beach, LLC'
   isIDN: false
   punycode: consulting
 -
@@ -1963,7 +1963,7 @@
 -
   domain: dance
   type: generic
-  organisation: 'United TLD Holdco Ltd.'
+  organisation: 'Dog Beach, LLC'
   isIDN: false
   punycode: dance
 -
@@ -2035,7 +2035,7 @@
 -
   domain: degree
   type: generic
-  organisation: 'United TLD Holdco, Ltd'
+  organisation: 'Dog Beach, LLC'
   isIDN: false
   punycode: degree
 -
