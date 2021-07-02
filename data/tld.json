@@ -1269,7 +1269,7 @@
     {
         "domain": "broker",
         "type": "generic",
-        "organisation": "DOTBROKER REGISTRY LTD",
+        "organisation": "Dog Beach, LLC",
         "isIDN": false,
         "punycode": "broker"
     },
@@ -3285,7 +3285,7 @@
     {
         "domain": "forex",
         "type": "generic",
-        "organisation": "DOTFOREX REGISTRY LTD",
+        "organisation": "Dog Beach, LLC",
         "isIDN": false,
         "punycode": "forex"
     },
@@ -5581,7 +5581,7 @@
     {
         "domain": "markets",
         "type": "generic",
-        "organisation": "DOTMARKETS REGISTRY LTD",
+        "organisation": "Dog Beach, LLC",
         "isIDN": false,
         "punycode": "markets"
     },
@@ -8990,7 +8990,7 @@
     {
         "domain": "trading",
         "type": "generic",
-        "organisation": "DOTTRADING REGISTRY LTD",
+        "organisation": "Dog Beach, LLC",
         "isIDN": false,
         "punycode": "trading"
     },
