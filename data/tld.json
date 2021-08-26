@@ -3390,7 +3390,7 @@
     {
         "domain": "fun",
         "type": "generic",
-        "organisation": "DotSpace, Inc.",
+        "organisation": "Radix FZC",
         "isIDN": false,
         "punycode": "fun"
     },
@@ -4167,7 +4167,7 @@
     {
         "domain": "host",
         "type": "generic",
-        "organisation": "DotHost Inc.",
+        "organisation": "Radix FZC",
         "isIDN": false,
         "punycode": "host"
     },
@@ -7072,7 +7072,7 @@
     {
         "domain": "press",
         "type": "generic",
-        "organisation": "DotPress Inc.",
+        "organisation": "Radix FZC",
         "isIDN": false,
         "punycode": "press"
     },
