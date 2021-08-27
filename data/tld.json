@@ -8262,7 +8262,7 @@
     {
         "domain": "space",
         "type": "generic",
-        "organisation": "DotSpace Inc.",
+        "organisation": "Radix FZC",
         "isIDN": false,
         "punycode": "space"
     },
@@ -8409,7 +8409,7 @@
     {
         "domain": "store",
         "type": "generic",
-        "organisation": "DotStore Inc.",
+        "organisation": "Radix FZC",
         "isIDN": false,
         "punycode": "store"
     },
@@ -8675,7 +8675,7 @@
     {
         "domain": "tech",
         "type": "generic",
-        "organisation": "Personals TLD Inc.",
+        "organisation": "Radix FZC",
         "isIDN": false,
         "punycode": "tech"
     },
@@ -9172,7 +9172,7 @@
     {
         "domain": "uno",
         "type": "generic",
-        "organisation": "DotSite Inc.",
+        "organisation": "Radix FZC",
         "isIDN": false,
         "punycode": "uno"
     },
@@ -9564,7 +9564,7 @@
     {
         "domain": "website",
         "type": "generic",
-        "organisation": "DotWebsite Inc.",
+        "organisation": "Radix FZC",
         "isIDN": false,
         "punycode": "website"
     },
