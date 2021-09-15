@@ -49,7 +49,7 @@
 -
   domain: abogado
   type: generic
-  organisation: 'Minds + Machines Group Limited'
+  organisation: 'Registry Services, LLC'
   isIDN: false
   punycode: abogado
 -
@@ -763,7 +763,7 @@
 -
   domain: beer
   type: generic
-  organisation: 'Minds + Machines Group Limited'
+  organisation: 'Registry Services, LLC'
   isIDN: false
   punycode: beer
 -
@@ -1321,7 +1321,7 @@
 -
   domain: casa
   type: generic
-  organisation: 'Minds + Machines Group Limited'
+  organisation: 'Registry Services, LLC'
   isIDN: false
   punycode: casa
 -
@@ -1777,7 +1777,7 @@
 -
   domain: cooking
   type: generic
-  organisation: 'Minds + Machines Group Limited'
+  organisation: 'Registry Services, LLC'
   isIDN: false
   punycode: cooking
 -
@@ -2005,7 +2005,7 @@
 -
   domain: dds
   type: generic
-  organisation: 'Minds + Machines Group Limited'
+  organisation: 'Registry Services, LLC'
   isIDN: false
   punycode: dds
 -
@@ -2593,7 +2593,7 @@
 -
   domain: fashion
   type: generic
-  organisation: 'Minds + Machines Group Limited'
+  organisation: 'Registry Services, LLC'
   isIDN: false
   punycode: fashion
 -
@@ -2701,13 +2701,13 @@
 -
   domain: fishing
   type: generic
-  organisation: 'Minds + Machines Group Limited'
+  organisation: 'Registry Services, LLC'
   isIDN: false
   punycode: fishing
 -
   domain: fit
   type: generic
-  organisation: 'Minds + Machines Group Limited'
+  organisation: 'Registry Services, LLC'
   isIDN: false
   punycode: fit
 -
@@ -2983,7 +2983,7 @@
 -
   domain: garden
   type: generic
-  organisation: 'Minds + Machines Group Limited'
+  organisation: 'Registry Services, LLC'
   isIDN: false
   punycode: garden
 -
@@ -3559,7 +3559,7 @@
 -
   domain: horse
   type: generic
-  organisation: 'Minds + Machines Group Limited'
+  organisation: 'Registry Services, LLC'
   isIDN: false
   punycode: horse
 -
@@ -4369,7 +4369,7 @@
 -
   domain: law
   type: generic
-  organisation: 'LW TLD Limited'
+  organisation: 'Registry Services, LLC'
   isIDN: false
   punycode: law
 -
@@ -4687,7 +4687,7 @@
 -
   domain: luxe
   type: generic
-  organisation: 'Minds + Machines Group Limited'
+  organisation: 'Registry Services, LLC'
   isIDN: false
   punycode: luxe
 -
@@ -6439,7 +6439,7 @@
 -
   domain: rodeo
   type: generic
-  organisation: 'Minds + Machines Group Limited'
+  organisation: 'Registry Services, LLC'
   isIDN: false
   punycode: rodeo
 -
@@ -7267,7 +7267,7 @@
 -
   domain: surf
   type: generic
-  organisation: 'Minds + Machines Group Limited'
+  organisation: 'Registry Services, LLC'
   isIDN: false
   punycode: surf
 -
@@ -8011,7 +8011,7 @@
 -
   domain: vip
   type: generic
-  organisation: 'Minds + Machines Group Limited'
+  organisation: 'Registry Services, LLC'
   isIDN: false
   punycode: vip
 -
@@ -8071,7 +8071,7 @@
 -
   domain: vodka
   type: generic
-  organisation: 'Minds + Machines Group Limited'
+  organisation: 'Registry Services, LLC'
   isIDN: false
   punycode: vodka
 -
@@ -8209,7 +8209,7 @@
 -
   domain: wedding
   type: generic
-  organisation: 'Minds + Machines Group Limited'
+  organisation: 'Registry Services, LLC'
   isIDN: false
   punycode: wedding
 -
@@ -8299,7 +8299,7 @@
 -
   domain: work
   type: generic
-  organisation: 'Minds + Machines Group Limited'
+  organisation: 'Registry Services, LLC'
   isIDN: false
   punycode: work
 -
@@ -9439,7 +9439,7 @@
 -
   domain: yoga
   type: generic
-  organisation: 'Minds + Machines Group Limited'
+  organisation: 'Registry Services, LLC'
   isIDN: false
   punycode: yoga
 -
