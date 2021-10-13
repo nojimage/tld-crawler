@@ -156,7 +156,7 @@
     {
         "domain": "ae",
         "type": "country-code",
-        "organisation": "Telecommunication Regulatory Authority (TRA)",
+        "organisation": "Telecommunications and Digital Government Regulatory Authority (TDRA)",
         "isIDN": false,
         "punycode": "ae"
     },
@@ -10488,7 +10488,7 @@
     {
         "domain": "\u200f\u0627\u0645\u0627\u0631\u0627\u062a\u200e",
         "type": "country-code",
-        "organisation": "Telecommunications Regulatory Authority (TRA)",
+        "organisation": "Telecommunications and Digital Government Regulatory Authority (TDRA)",
         "isIDN": true,
         "punycode": false
     },

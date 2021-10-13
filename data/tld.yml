@@ -133,7 +133,7 @@
 -
   domain: ae
   type: country-code
-  organisation: 'Telecommunication Regulatory Authority (TRA)'
+  organisation: 'Telecommunications and Digital Government Regulatory Authority (TDRA)'
   isIDN: false
   punycode: ae
 -
@@ -8989,7 +8989,7 @@
 -
   domain: ‏امارات‎
   type: country-code
-  organisation: 'Telecommunications Regulatory Authority (TRA)'
+  organisation: 'Telecommunications and Digital Government Regulatory Authority (TDRA)'
   isIDN: true
   punycode: false
 -
