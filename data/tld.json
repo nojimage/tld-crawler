@@ -6083,6 +6083,13 @@
         "punycode": "museum"
     },
     {
+        "domain": "music",
+        "type": "generic",
+        "organisation": "DotMusic Limited",
+        "isIDN": false,
+        "punycode": "music"
+    },
+    {
         "domain": "mutual",
         "type": "generic",
         "organisation": "Northwestern Mutual MU TLD Registry, LLC",
