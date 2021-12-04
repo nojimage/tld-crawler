@@ -191,7 +191,7 @@
     {
         "domain": "afamilycompany",
         "type": "generic",
-        "organisation": "Johnson Shareholdings, Inc.",
+        "organisation": "Not assigned",
         "isIDN": false,
         "punycode": "afamilycompany"
     },
@@ -2641,7 +2641,7 @@
     {
         "domain": "duck",
         "type": "generic",
-        "organisation": "Johnson Shareholdings, Inc.",
+        "organisation": "Not assigned",
         "isIDN": false,
         "punycode": "duck"
     },
@@ -3628,7 +3628,7 @@
     {
         "domain": "glade",
         "type": "generic",
-        "organisation": "Johnson Shareholdings, Inc.",
+        "organisation": "Not assigned",
         "isIDN": false,
         "punycode": "glade"
     },
@@ -6512,7 +6512,7 @@
     {
         "domain": "off",
         "type": "generic",
-        "organisation": "Johnson Shareholdings, Inc.",
+        "organisation": "Not assigned",
         "isIDN": false,
         "punycode": "off"
     },
@@ -7261,7 +7261,7 @@
     {
         "domain": "raid",
         "type": "generic",
-        "organisation": "Johnson Shareholdings, Inc.",
+        "organisation": "Not assigned",
         "isIDN": false,
         "punycode": "raid"
     },
@@ -7821,7 +7821,7 @@
     {
         "domain": "scjohnson",
         "type": "generic",
-        "organisation": "Johnson Shareholdings, Inc.",
+        "organisation": "Not assigned",
         "isIDN": false,
         "punycode": "scjohnson"
     },
