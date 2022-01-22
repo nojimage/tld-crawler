@@ -1033,7 +1033,7 @@
 -
   domain: boston
   type: generic
-  organisation: 'Boston TLD Management, LLC'
+  organisation: 'Registry Services, LLC'
   isIDN: false
   punycode: boston
 -
@@ -4939,7 +4939,7 @@
 -
   domain: miami
   type: generic
-  organisation: 'Minds + Machines Group Limited'
+  organisation: 'Registry Services, LLC'
   isIDN: false
   punycode: miami
 -
