@@ -529,7 +529,7 @@
 -
   domain: audio
   type: generic
-  organisation: 'UNR Corp.'
+  organisation: 'XYZ.COM LLC'
   isIDN: false
   punycode: audio
 -
@@ -1507,7 +1507,7 @@
 -
   domain: christmas
   type: generic
-  organisation: 'UNR Corp.'
+  organisation: 'XYZ.COM LLC'
   isIDN: false
   punycode: christmas
 -
@@ -2113,7 +2113,7 @@
 -
   domain: diet
   type: generic
-  organisation: 'UNR Corp.'
+  organisation: 'XYZ.COM LLC'
   isIDN: false
   punycode: diet
 -
@@ -2755,7 +2755,7 @@
 -
   domain: flowers
   type: generic
-  organisation: 'UNR Corp.'
+  organisation: 'XYZ.COM LLC'
   isIDN: false
   punycode: flowers
 -
@@ -2965,7 +2965,7 @@
 -
   domain: game
   type: generic
-  organisation: 'UNR Corp.'
+  organisation: 'XYZ.COM LLC'
   isIDN: false
   punycode: game
 -
@@ -3349,7 +3349,7 @@
 -
   domain: guitars
   type: generic
-  organisation: 'UNR Corp.'
+  organisation: 'XYZ.COM LLC'
   isIDN: false
   punycode: guitars
 -
@@ -3577,7 +3577,7 @@
 -
   domain: hosting
   type: generic
-  organisation: 'UNR Corp.'
+  organisation: 'XYZ.COM LLC'
   isIDN: false
   punycode: hosting
 -
@@ -4597,7 +4597,7 @@
 -
   domain: lol
   type: generic
-  organisation: 'UNR Corp.'
+  organisation: 'XYZ.COM LLC'
   isIDN: false
   punycode: lol
 -
@@ -5065,7 +5065,7 @@
 -
   domain: mom
   type: generic
-  organisation: 'UNR Corp.'
+  organisation: 'XYZ.COM LLC'
   isIDN: false
   punycode: mom
 -
@@ -5905,7 +5905,7 @@
 -
   domain: pics
   type: generic
-  organisation: 'UNR Corp.'
+  organisation: 'XYZ.COM LLC'
   isIDN: false
   punycode: pics
 -
