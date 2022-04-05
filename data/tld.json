@@ -4844,6 +4844,13 @@
         "punycode": "kia"
     },
     {
+        "domain": "kids",
+        "type": "generic",
+        "organisation": "DotKids Foundation Limited",
+        "isIDN": false,
+        "punycode": "kids"
+    },
+    {
         "domain": "kim",
         "type": "generic",
         "organisation": "Afilias Limited",
