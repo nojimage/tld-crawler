@@ -8178,7 +8178,7 @@
     {
         "domain": "sn",
         "type": "country-code",
-        "organisation": "Universite Cheikh Anta Diop\nNIC Senegal",
+        "organisation": "Universite Cheikh Anta Diop",
         "isIDN": false,
         "punycode": "sn"
     },
