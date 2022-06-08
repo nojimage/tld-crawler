@@ -889,7 +889,7 @@
 -
   domain: blackfriday
   type: generic
-  organisation: 'UNR Corp.'
+  organisation: 'Registry Services, LLC'
   isIDN: false
   punycode: blackfriday
 -
@@ -5881,7 +5881,7 @@
 -
   domain: photo
   type: generic
-  organisation: 'UNR Corp.'
+  organisation: 'Registry Services, LLC'
   isIDN: false
   punycode: photo
 -
