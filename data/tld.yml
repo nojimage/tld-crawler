@@ -1171,7 +1171,7 @@
 -
   domain: by
   type: country-code
-  organisation: 'Reliable Software, Ltd.'
+  organisation: 'Belarusian Cloud Technologies LLC'
   isIDN: false
   punycode: by
 -
@@ -8593,7 +8593,7 @@
 -
   domain: бел
   type: country-code
-  organisation: 'Reliable Software, Ltd.'
+  organisation: 'Belarusian Cloud Technologies LLC'
   isIDN: true
   punycode: xn--90ais
 -

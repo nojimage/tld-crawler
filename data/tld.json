@@ -1367,7 +1367,7 @@
     {
         "domain": "by",
         "type": "country-code",
-        "organisation": "Reliable Software, Ltd.",
+        "organisation": "Belarusian Cloud Technologies LLC",
         "isIDN": false,
         "punycode": "by"
     },
@@ -10026,7 +10026,7 @@
     {
         "domain": "\u0431\u0435\u043b",
         "type": "country-code",
-        "organisation": "Reliable Software, Ltd.",
+        "organisation": "Belarusian Cloud Technologies LLC",
         "isIDN": true,
         "punycode": "xn--90ais"
     },
