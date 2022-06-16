@@ -2130,7 +2130,7 @@
     {
         "domain": "courses",
         "type": "generic",
-        "organisation": "OPEN UNIVERSITIES AUSTRALIA PTY LTD",
+        "organisation": "Registry Services, LLC",
         "isIDN": false,
         "punycode": "courses"
     },
@@ -8444,7 +8444,7 @@
     {
         "domain": "study",
         "type": "generic",
-        "organisation": "OPEN UNIVERSITIES AUSTRALIA PTY LTD",
+        "organisation": "Registry Services, LLC",
         "isIDN": false,
         "punycode": "study"
     },
