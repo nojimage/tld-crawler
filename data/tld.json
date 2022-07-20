@@ -2697,7 +2697,7 @@
     {
         "domain": "earth",
         "type": "generic",
-        "organisation": "Interlink Co., Ltd.",
+        "organisation": "Interlink Systems Innovation Institute K.K.",
         "isIDN": false,
         "punycode": "earth"
     },
@@ -5903,7 +5903,7 @@
     {
         "domain": "moe",
         "type": "generic",
-        "organisation": "Interlink Co., Ltd.",
+        "organisation": "Interlink Systems Innovation Institute K.K.",
         "isIDN": false,
         "punycode": "moe"
     },
