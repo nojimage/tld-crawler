@@ -8707,7 +8707,7 @@
 -
   domain: ею
   type: country-code
-  organisation: 'EURid vzw/asbl'
+  organisation: 'EURid vzw'
   isIDN: true
   punycode: xn--e1a4c
 -
@@ -9235,7 +9235,7 @@
 -
   domain: ευ
   type: country-code
-  organisation: 'EURid vzw/asbl'
+  organisation: 'EURid vzw'
   isIDN: true
   punycode: xn--qxa6a
 -

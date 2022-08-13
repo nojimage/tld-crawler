@@ -10159,7 +10159,7 @@
     {
         "domain": "\u0435\u044e",
         "type": "country-code",
-        "organisation": "EURid vzw/asbl",
+        "organisation": "EURid vzw",
         "isIDN": true,
         "punycode": "xn--e1a4c"
     },
@@ -10775,7 +10775,7 @@
     {
         "domain": "\u03b5\u03c5",
         "type": "country-code",
-        "organisation": "EURid vzw/asbl",
+        "organisation": "EURid vzw",
         "isIDN": true,
         "punycode": "xn--qxa6a"
     },
