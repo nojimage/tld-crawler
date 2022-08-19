@@ -7639,7 +7639,7 @@
     {
         "domain": "sakura",
         "type": "generic",
-        "organisation": "SAKURA Internet Inc.",
+        "organisation": "SAKURA internet Inc.",
         "isIDN": false,
         "punycode": "sakura"
     },
