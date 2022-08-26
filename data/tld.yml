@@ -1471,7 +1471,7 @@
 -
   domain: charity
   type: generic
-  organisation: 'Binky Moon, LLC'
+  organisation: 'Public Interest Registry (PIR)'
   isIDN: false
   punycode: charity
 -
@@ -2833,7 +2833,7 @@
 -
   domain: foundation
   type: generic
-  organisation: 'Binky Moon, LLC'
+  organisation: 'Public Interest Registry (PIR)'
   isIDN: false
   punycode: foundation
 -
@@ -3091,7 +3091,7 @@
 -
   domain: gives
   type: generic
-  organisation: 'Dog Beach, LLC'
+  organisation: 'Public Interest Registry (PIR)'
   isIDN: false
   punycode: gives
 -
