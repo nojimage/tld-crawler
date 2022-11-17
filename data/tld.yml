@@ -1609,7 +1609,7 @@
 -
   domain: click
   type: generic
-  organisation: 'UNR Corp.'
+  organisation: 'Internet Naming Co.'
   isIDN: false
   punycode: click
 -
@@ -1807,7 +1807,7 @@
 -
   domain: country
   type: generic
-  organisation: 'Top Level Domain Holdings Limited'
+  organisation: 'Internet Naming Co.'
   isIDN: false
   punycode: country
 -
@@ -3475,7 +3475,7 @@
 -
   domain: hiv
   type: generic
-  organisation: 'UNR Corp.'
+  organisation: 'Internet Naming Co.'
   isIDN: false
   punycode: hiv
 -
@@ -6127,7 +6127,7 @@
 -
   domain: property
   type: generic
-  organisation: 'UNR Corp.'
+  organisation: 'Internet Naming Co.'
   isIDN: false
   punycode: property
 -
@@ -6811,7 +6811,7 @@
 -
   domain: sexy
   type: generic
-  organisation: 'UNR Corp.'
+  organisation: 'Internet Naming Co.'
   isIDN: false
   punycode: sexy
 -
@@ -7753,7 +7753,7 @@
 -
   domain: trust
   type: generic
-  organisation: 'UNR Corp.'
+  organisation: 'Internet Naming Co.'
   isIDN: false
   punycode: trust
 -
@@ -7795,7 +7795,7 @@
 -
   domain: tv
   type: country-code
-  organisation: 'Ministry of Finance and Tourism'
+  organisation: 'Ministry of Justice, Communications and Foreign Affairs'
   isIDN: false
   punycode: tv
 -
