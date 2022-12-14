@@ -343,7 +343,7 @@
 -
   domain: an
   type: country-code
-  organisation: Retired
+  organisation: 'Not assigned'
   isIDN: false
   punycode: an
 -
@@ -2227,7 +2227,7 @@
 -
   domain: doosan
   type: generic
-  organisation: Retired
+  organisation: 'Not assigned'
   isIDN: false
   punycode: doosan
 -
@@ -2761,7 +2761,7 @@
 -
   domain: flsmidth
   type: generic
-  organisation: Retired
+  organisation: 'Not assigned'
   isIDN: false
   punycode: flsmidth
 -
@@ -3715,7 +3715,7 @@
 -
   domain: iinet
   type: generic
-  organisation: Retired
+  organisation: 'Not assigned'
   isIDN: false
   punycode: iinet
 -
@@ -5197,7 +5197,7 @@
 -
   domain: mtpc
   type: generic
-  organisation: Retired
+  organisation: 'Not assigned'
   isIDN: false
   punycode: mtpc
 -
@@ -5233,7 +5233,7 @@
 -
   domain: mutuelle
   type: generic
-  organisation: Retired
+  organisation: 'Not assigned'
   isIDN: false
   punycode: mutuelle
 -
@@ -5707,7 +5707,7 @@
 -
   domain: orientexpress
   type: generic
-  organisation: Retired
+  organisation: 'Not assigned'
   isIDN: false
   punycode: orientexpress
 -
@@ -7699,7 +7699,7 @@
 -
   domain: tp
   type: country-code
-  organisation: Retired
+  organisation: 'Not assigned'
   isIDN: false
   punycode: tp
 -
@@ -8383,7 +8383,7 @@
 -
   domain: 测试
   type: test
-  organisation: 'Internet Assigned Numbers Authority'
+  organisation: 'Not assigned'
   isIDN: true
   punycode: xn--0zwm56d
 -
@@ -8395,7 +8395,7 @@
 -
   domain: परीक्षा
   type: test
-  organisation: 'Internet Assigned Numbers Authority'
+  organisation: 'Not assigned'
   isIDN: true
   punycode: xn--11b5bs3a9aj6g
 -
@@ -8545,7 +8545,7 @@
 -
   domain: испытание
   type: test
-  organisation: 'Internet Assigned Numbers Authority'
+  organisation: 'Not assigned'
   isIDN: true
   punycode: xn--80akhbyknj4f
 -
@@ -8617,7 +8617,7 @@
 -
   domain: 테스트
   type: test
-  organisation: 'Internet Assigned Numbers Authority'
+  organisation: 'Not assigned'
   isIDN: true
   punycode: xn--9t4b11yi5a
 -
@@ -8701,7 +8701,7 @@
 -
   domain: ‏טעסט‎
   type: test
-  organisation: 'Internet Assigned Numbers Authority'
+  organisation: 'Not assigned'
   isIDN: true
   punycode: false
 -
@@ -8803,7 +8803,7 @@
 -
   domain: 測試
   type: test
-  organisation: 'Internet Assigned Numbers Authority'
+  organisation: 'Not assigned'
   isIDN: true
   punycode: xn--g6w251d
 -
@@ -8845,13 +8845,13 @@
 -
   domain: ‏آزمایشی‎
   type: test
-  organisation: 'Internet Assigned Numbers Authority'
+  organisation: 'Not assigned'
   isIDN: true
   punycode: false
 -
   domain: பரிட்சை
   type: test
-  organisation: 'Internet Assigned Numbers Authority'
+  organisation: 'Not assigned'
   isIDN: true
   punycode: xn--hlcj6aya9esc7a
 -
@@ -8917,7 +8917,7 @@
 -
   domain: δοκιμή
   type: test
-  organisation: 'Internet Assigned Numbers Authority'
+  organisation: 'Not assigned'
   isIDN: true
   punycode: xn--jxalpdlp
 -
@@ -8929,7 +8929,7 @@
 -
   domain: ‏إختبار‎
   type: test
-  organisation: 'Internet Assigned Numbers Authority'
+  organisation: 'Not assigned'
   isIDN: true
   punycode: false
 -
@@ -9385,7 +9385,7 @@
 -
   domain: テスト
   type: test
-  organisation: 'Internet Assigned Numbers Authority'
+  organisation: 'Not assigned'
   isIDN: true
   punycode: xn--zckzah
 -

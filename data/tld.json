@@ -401,7 +401,7 @@
     {
         "domain": "an",
         "type": "country-code",
-        "organisation": "Retired",
+        "organisation": "Not assigned",
         "isIDN": false,
         "punycode": "an"
     },
@@ -2599,7 +2599,7 @@
     {
         "domain": "doosan",
         "type": "generic",
-        "organisation": "Retired",
+        "organisation": "Not assigned",
         "isIDN": false,
         "punycode": "doosan"
     },
@@ -3222,7 +3222,7 @@
     {
         "domain": "flsmidth",
         "type": "generic",
-        "organisation": "Retired",
+        "organisation": "Not assigned",
         "isIDN": false,
         "punycode": "flsmidth"
     },
@@ -4335,7 +4335,7 @@
     {
         "domain": "iinet",
         "type": "generic",
-        "organisation": "Retired",
+        "organisation": "Not assigned",
         "isIDN": false,
         "punycode": "iinet"
     },
@@ -6064,7 +6064,7 @@
     {
         "domain": "mtpc",
         "type": "generic",
-        "organisation": "Retired",
+        "organisation": "Not assigned",
         "isIDN": false,
         "punycode": "mtpc"
     },
@@ -6106,7 +6106,7 @@
     {
         "domain": "mutuelle",
         "type": "generic",
-        "organisation": "Retired",
+        "organisation": "Not assigned",
         "isIDN": false,
         "punycode": "mutuelle"
     },
@@ -6659,7 +6659,7 @@
     {
         "domain": "orientexpress",
         "type": "generic",
-        "organisation": "Retired",
+        "organisation": "Not assigned",
         "isIDN": false,
         "punycode": "orientexpress"
     },
@@ -8983,7 +8983,7 @@
     {
         "domain": "tp",
         "type": "country-code",
-        "organisation": "Retired",
+        "organisation": "Not assigned",
         "isIDN": false,
         "punycode": "tp"
     },
@@ -9781,7 +9781,7 @@
     {
         "domain": "\u6d4b\u8bd5",
         "type": "test",
-        "organisation": "Internet Assigned Numbers Authority",
+        "organisation": "Not assigned",
         "isIDN": true,
         "punycode": "xn--0zwm56d"
     },
@@ -9795,7 +9795,7 @@
     {
         "domain": "\u092a\u0930\u0940\u0915\u094d\u0937\u093e",
         "type": "test",
-        "organisation": "Internet Assigned Numbers Authority",
+        "organisation": "Not assigned",
         "isIDN": true,
         "punycode": "xn--11b5bs3a9aj6g"
     },
@@ -9970,7 +9970,7 @@
     {
         "domain": "\u0438\u0441\u043f\u044b\u0442\u0430\u043d\u0438\u0435",
         "type": "test",
-        "organisation": "Internet Assigned Numbers Authority",
+        "organisation": "Not assigned",
         "isIDN": true,
         "punycode": "xn--80akhbyknj4f"
     },
@@ -10054,7 +10054,7 @@
     {
         "domain": "\ud14c\uc2a4\ud2b8",
         "type": "test",
-        "organisation": "Internet Assigned Numbers Authority",
+        "organisation": "Not assigned",
         "isIDN": true,
         "punycode": "xn--9t4b11yi5a"
     },
@@ -10152,7 +10152,7 @@
     {
         "domain": "\u200f\u05d8\u05e2\u05e1\u05d8\u200e",
         "type": "test",
-        "organisation": "Internet Assigned Numbers Authority",
+        "organisation": "Not assigned",
         "isIDN": true,
         "punycode": false
     },
@@ -10271,7 +10271,7 @@
     {
         "domain": "\u6e2c\u8a66",
         "type": "test",
-        "organisation": "Internet Assigned Numbers Authority",
+        "organisation": "Not assigned",
         "isIDN": true,
         "punycode": "xn--g6w251d"
     },
@@ -10320,14 +10320,14 @@
     {
         "domain": "\u200f\u0622\u0632\u0645\u0627\u06cc\u0634\u06cc\u200e",
         "type": "test",
-        "organisation": "Internet Assigned Numbers Authority",
+        "organisation": "Not assigned",
         "isIDN": true,
         "punycode": false
     },
     {
         "domain": "\u0baa\u0bb0\u0bbf\u0b9f\u0bcd\u0b9a\u0bc8",
         "type": "test",
-        "organisation": "Internet Assigned Numbers Authority",
+        "organisation": "Not assigned",
         "isIDN": true,
         "punycode": "xn--hlcj6aya9esc7a"
     },
@@ -10404,7 +10404,7 @@
     {
         "domain": "\u03b4\u03bf\u03ba\u03b9\u03bc\u03ae",
         "type": "test",
-        "organisation": "Internet Assigned Numbers Authority",
+        "organisation": "Not assigned",
         "isIDN": true,
         "punycode": "xn--jxalpdlp"
     },
@@ -10418,7 +10418,7 @@
     {
         "domain": "\u200f\u0625\u062e\u062a\u0628\u0627\u0631\u200e",
         "type": "test",
-        "organisation": "Internet Assigned Numbers Authority",
+        "organisation": "Not assigned",
         "isIDN": true,
         "punycode": false
     },
@@ -10950,7 +10950,7 @@
     {
         "domain": "\u30c6\u30b9\u30c8",
         "type": "test",
-        "organisation": "Internet Assigned Numbers Authority",
+        "organisation": "Not assigned",
         "isIDN": true,
         "punycode": "xn--zckzah"
     },
