@@ -7919,7 +7919,7 @@
     {
         "domain": "ses",
         "type": "generic",
-        "organisation": "SES",
+        "organisation": "Not assigned",
         "isIDN": false,
         "punycode": "ses"
     },
