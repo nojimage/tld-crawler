@@ -5000,7 +5000,7 @@
     {
         "domain": "la",
         "type": "country-code",
-        "organisation": "Lao National Internet Committee (LANIC), Ministry of Posts and Telecommunications",
+        "organisation": "Lao National Internet Center (LANIC),\nMinistry of Technology and Communications",
         "isIDN": false,
         "punycode": "la"
     },
@@ -5273,7 +5273,7 @@
     {
         "domain": "linde",
         "type": "generic",
-        "organisation": "Linde Aktiengesellschaft",
+        "organisation": "Not assigned",
         "isIDN": false,
         "punycode": "linde"
     },
@@ -10754,7 +10754,7 @@
     {
         "domain": "\u0ea5\u0eb2\u0ea7",
         "type": "country-code",
-        "organisation": "Lao National Internet Center (LANIC)",
+        "organisation": "Lao National Internet Center (LANIC), Ministry of Technology and Communications",
         "isIDN": true,
         "punycode": "xn--q7ce6a"
     },
