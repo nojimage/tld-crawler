@@ -4755,7 +4755,7 @@
     {
         "domain": "juegos",
         "type": "generic",
-        "organisation": "UNR Corp.",
+        "organisation": "Internet Naming Company LLC",
         "isIDN": false,
         "punycode": "juegos"
     },
@@ -9928,7 +9928,7 @@
     {
         "domain": "\u516c\u53f8",
         "type": "generic",
-        "organisation": "Computer Network Information Center of Chinese Academy of Sciences \uff08China Internet Network Information Center\uff09",
+        "organisation": "China Internet Network Information Center(CNNIC)",
         "isIDN": true,
         "punycode": "xn--55qx5d"
     },
@@ -10355,7 +10355,7 @@
     {
         "domain": "\u7f51\u7edc",
         "type": "generic",
-        "organisation": "Computer Network Information Center of Chinese Academy of Sciences \uff08China Internet Network Information Center\uff09",
+        "organisation": "China Internet Network Information Center(CNNIC)",
         "isIDN": true,
         "punycode": "xn--io0a7i"
     },

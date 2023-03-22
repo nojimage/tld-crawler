@@ -4075,7 +4075,7 @@
 -
   domain: juegos
   type: generic
-  organisation: 'UNR Corp.'
+  organisation: 'Internet Naming Company LLC'
   isIDN: false
   punycode: juegos
 -
@@ -8509,7 +8509,7 @@
 -
   domain: 公司
   type: generic
-  organisation: 'Computer Network Information Center of Chinese Academy of Sciences （China Internet Network Information Center）'
+  organisation: 'China Internet Network Information Center(CNNIC)'
   isIDN: true
   punycode: xn--55qx5d
 -
@@ -8875,7 +8875,7 @@
 -
   domain: 网络
   type: generic
-  organisation: 'Computer Network Information Center of Chinese Academy of Sciences （China Internet Network Information Center）'
+  organisation: 'China Internet Network Information Center(CNNIC)'
   isIDN: true
   punycode: xn--io0a7i
 -
